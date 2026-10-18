@@ -1,0 +1,1785 @@
+{
+ "grade": 12,
+ "unit": 7,
+ "name": "The World of Mass Media",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Types of mass media",
+  "News and reliability",
+  "Fake news and social media"
+ ],
+ "pron": "Linking /r/ between two vowels",
+ "grammar": [
+  "Adverbial clauses of manner",
+  "Adverbial clauses of result"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề trạng ngữ chỉ cách thức (as, as if, as though)",
+   "page": 91,
+   "body": "Mệnh đề trạng ngữ chỉ cách thức trả lời câu hỏi 'How?' (làm việc gì đó NHƯ THẾ NÀO).\n1) as (= theo cách mà, như): diễn tả cách thức có thật.\nCấu trúc: S + V + as + S + V.\nVí dụ: Write the report as I showed you. / Everything happened exactly as the reporter had predicted.\n2) as if / as though (= như thể là):\n- Tình huống có thể có thật → dùng thì bình thường: She looks as if she is tired. (có vẻ mệt thật)\n- Tình huống không có thật ở hiện tại → lùi về quá khứ đơn, 'to be' dùng 'were' cho mọi ngôi: He talks as if he knew everything. / He behaves as if he were a famous journalist.\n- Tình huống không có thật ở quá khứ → quá khứ hoàn thành: She described the event as if she had seen it herself.\nLỗi hay gặp: nhầm as if với so that (chỉ mục đích); dùng 'is/am' khi tình huống rõ ràng không có thật (He acts as if he is the boss, but he's only 15 → nên dùng 'were'); nhầm 'as' (cách thức) với 'like' trong văn viết trang trọng."
+  },
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề trạng ngữ chỉ kết quả (so … that, such … that)",
+   "page": 91,
+   "body": "Diễn tả kết quả: quá … đến nỗi mà …\n1) S + be/V + so + adj/adv + that + mệnh đề.\nVí dụ: The news was so shocking that many people refused to believe it. / The reporter spoke so clearly that everyone understood her.\n2) so + many/few + N đếm được số nhiều + that; so + much/little + N không đếm được + that.\nVí dụ: There was so much fake news online that people didn't know what to believe.\n3) such + (a/an) + (adj) + N + that.\nVí dụ: It was such an interesting documentary that we watched it twice. / It was such bad weather that the broadcast was cancelled. (weather không đếm được → không có 'a')\n4) so + adj + a/an + N + that (văn trang trọng): It was so useful a podcast that I recommended it to everyone.\n5) Đảo ngữ: So + adj + be + S + that…: So popular was the programme that it was broadcast again.\nLỗi hay gặp: 'such popular' (thiếu danh từ) ✗ → 'so popular' ✓; 'so a useful podcast' ✗ → 'such a useful podcast' ✓; 'very … that' / 'too … that' ✗; 'such much' ✗ → 'so much' hoặc 'such a lot of' ✓; sau động từ thường phải dùng trạng từ: spoke so clear ✗ → spoke so clearly ✓."
+  },
+  {
+   "kind": "pron",
+   "title": "Nối âm /r/ giữa hai nguyên âm (linking /r/)",
+   "page": 90,
+   "body": "Trong giọng Anh-Anh, chữ 'r' ở cuối từ thường KHÔNG được phát âm (paper /ˈpeɪpə/, four /fɔː/).\nNhưng khi từ kết thúc bằng chữ r/re (âm cuối là nguyên âm /ə, ɑː, ɔː, ɜː, ɪə, eə/) và từ đứng sau bắt đầu bằng NGUYÊN ÂM, ta phát âm /r/ để nối hai từ.\nVí dụ: newspaper article /ˈnjuːzpeɪpər ˈɑːtɪkl/, for example /fər ɪɡˈzɑːmpl/, after all /ˌɑːftər ˈɔːl/, here and there /ˌhɪər ən ˈðeə/, your opinion, the reporter interviewed, there are, more and more.\nKHÔNG nối /r/ khi từ sau bắt đầu bằng phụ âm: four channels /fɔː ˈtʃænlz/, more people, better news, newspaper headline.\nLưu ý: tính theo ÂM chứ không theo chữ — 'four hours': hours bắt đầu bằng âm /aʊ/ (h câm) → có nối /r/."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ về truyền thông",
+   "page": 90,
+   "body": "- mass media / print media / broadcast media / digital media / social media / traditional media\n- stay informed, keep up with the news, follow the news\n- make the headlines (lên trang nhất), go viral (lan truyền chóng mặt), post / share / comment on an article\n- subscribe to a newspaper/channel, pay a subscription, a weekly circulation of … copies\n- live coverage of an event, in-depth analysis, up-to-date information, a reliable source, a news outlet\n- fake news, misinformation, misleading/deceptive headlines, verify/fact-check information, mislead readers, spread rumours\n- lose trust in sth (mất lòng tin vào), have an influence on sb/sth\nWord family: inform – information – informative – informed – misinformation; rely – reliable – reliability – reliably; interact – interaction – interactive; access – accessible; subscribe – subscriber – subscription; advertise – advertisement – advertiser."
+  },
+  {
+   "kind": "vocab",
+   "title": "Mô tả biểu đồ tròn (Writing – pie chart)",
+   "page": 95,
+   "body": "- The pie chart shows/illustrates the percentage of respondents who …\n- The largest proportion / The majority of … (60%) …; A quarter (25%) / a third / a half / a small minority …\n- … accounts for / makes up / represents 30% of …\n- Twice as many … as …; … is followed by … with 15%.\n- Overall, it is clear that social media is the most popular source of news.\nCấu trúc bài: câu mở đầu (paraphrase đề) → câu tổng quan (overall) → 1–2 đoạn chi tiết so sánh số liệu, không nêu ý kiến cá nhân."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "- so/such: nhìn ngay sau chỗ trống — tính từ/trạng từ đứng một mình hoặc many/much/few/little → 'so'; có danh từ (a/an + adj + N, adj + N số nhiều/không đếm được) → 'such'. 'too' đi với 'to V', không đi với 'that'.\n- as if/as though: nếu câu có ý 'nhưng thực tế không phải vậy' → lùi thì (were/V2, had V3).\n- Phân biệt so that (mục đích: để mà, thường có can/could/will/would) với so … that (kết quả).\n- Nối âm /r/: chỉ xét từ kết thúc bằng chữ r/re + từ sau bắt đầu bằng NGUYÊN ÂM (theo âm).\n- Đọc hiểu về truyền thông: chú ý từ chỉ quan điểm của tác giả (however, in my view, admittedly) để trả lời câu hỏi 'the writer's view'.\n- Từ vựng: phân biệt audience (khán/thính giả, độc giả), viewer (người xem TV), reader, respondent (người trả lời khảo sát); coverage (việc đưa tin) ≠ circulation (lượng phát hành)."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "mass media",
+   "pos": "n phr",
+   "ipa": "/ˌmæs ˈmiːdiə/",
+   "vi": "phương tiện truyền thông đại chúng",
+   "ex": "The mass media have a strong influence on public opinion.",
+   "page": 88
+  },
+  {
+   "w": "print media",
+   "pos": "n phr",
+   "ipa": "/ˌprɪnt ˈmiːdiə/",
+   "vi": "báo in (báo, tạp chí in trên giấy)",
+   "ex": "Newspapers and magazines are examples of print media.",
+   "page": 88
+  },
+  {
+   "w": "broadcast",
+   "pos": "v",
+   "ipa": "/ˈbrɔːdkɑːst/",
+   "vi": "phát sóng (truyền hình, phát thanh)",
+   "ex": "The final match will be broadcast live on TV.",
+   "page": 88
+  },
+  {
+   "w": "social media",
+   "pos": "n phr",
+   "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+   "vi": "mạng xã hội",
+   "ex": "Most teenagers get their news from social media.",
+   "page": 88
+  },
+  {
+   "w": "podcast",
+   "pos": "n",
+   "ipa": "/ˈpɒdkɑːst/",
+   "vi": "chương trình âm thanh phát qua mạng",
+   "ex": "I listen to a news podcast on my way to school.",
+   "page": 88
+  },
+  {
+   "w": "online newspaper",
+   "pos": "n phr",
+   "ipa": "/ˌɒnlaɪn ˈnjuːzpeɪpə(r)/",
+   "vi": "báo điện tử",
+   "ex": "Online newspapers are updated every few minutes.",
+   "page": 88
+  },
+  {
+   "w": "stay informed",
+   "pos": "phr",
+   "ipa": "/ˌsteɪ ɪnˈfɔːmd/",
+   "vi": "luôn nắm được thông tin",
+   "ex": "Reading the news every day helps me stay informed.",
+   "page": 88
+  },
+  {
+   "w": "keep up with",
+   "pos": "phr v",
+   "ipa": "/ˌkiːp ˈʌp wɪð/",
+   "vi": "theo kịp, cập nhật",
+   "ex": "It's hard to keep up with all the news on social media.",
+   "page": 88
+  },
+  {
+   "w": "post",
+   "pos": "v",
+   "ipa": "/pəʊst/",
+   "vi": "đăng (bài, ảnh) lên mạng",
+   "ex": "She posted a video of the concert on her page.",
+   "page": 88
+  },
+  {
+   "w": "audience",
+   "pos": "n",
+   "ipa": "/ˈɔːdiəns/",
+   "vi": "khán giả, thính giả, độc giả",
+   "ex": "The programme attracts a large audience every week.",
+   "page": 90
+  },
+  {
+   "w": "journalist",
+   "pos": "n",
+   "ipa": "/ˈdʒɜːnəlɪst/",
+   "vi": "nhà báo",
+   "ex": "Journalists must check their facts before publishing a story.",
+   "page": 90
+  },
+  {
+   "w": "headline",
+   "pos": "n",
+   "ipa": "/ˈhedlaɪn/",
+   "vi": "tiêu đề (bài báo)",
+   "ex": "The story made the headlines all over the world.",
+   "page": 90
+  },
+  {
+   "w": "the press",
+   "pos": "n",
+   "ipa": "/ðə ˈpres/",
+   "vi": "báo chí, giới báo chí",
+   "ex": "The press reported the news the next morning.",
+   "page": 90
+  },
+  {
+   "w": "coverage",
+   "pos": "n",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "vi": "việc đưa tin, tường thuật",
+   "ex": "The channel provided live coverage of the election.",
+   "page": 90
+  },
+  {
+   "w": "circulation",
+   "pos": "n",
+   "ipa": "/ˌsɜːkjəˈleɪʃn/",
+   "vi": "lượng phát hành (báo, tạp chí)",
+   "ex": "The magazine has a weekly circulation of 200,000 copies.",
+   "page": 90
+  },
+  {
+   "w": "subscribe (to)",
+   "pos": "v",
+   "ipa": "/səbˈskraɪb/",
+   "vi": "đăng ký, đặt mua (báo, kênh)",
+   "ex": "I subscribe to an online newspaper.",
+   "page": 90
+  },
+  {
+   "w": "subscription",
+   "pos": "n",
+   "ipa": "/səbˈskrɪpʃn/",
+   "vi": "phí đặt mua, sự đăng ký dài hạn",
+   "ex": "Readers pay a monthly subscription to read all the articles.",
+   "page": 90
+  },
+  {
+   "w": "advertisement",
+   "pos": "n",
+   "ipa": "/ədˈvɜːtɪsmənt/",
+   "vi": "quảng cáo",
+   "ex": "Newspapers earn money from advertisements.",
+   "page": 90
+  },
+  {
+   "w": "influence",
+   "pos": "n",
+   "ipa": "/ˈɪnfluəns/",
+   "vi": "sự ảnh hưởng",
+   "ex": "Social media has a great influence on young people.",
+   "page": 90
+  },
+  {
+   "w": "digital media",
+   "pos": "n phr",
+   "ipa": "/ˌdɪdʒɪtl ˈmiːdiə/",
+   "vi": "truyền thông kỹ thuật số",
+   "ex": "Digital media allow readers to comment on and share the news.",
+   "page": 92
+  },
+  {
+   "w": "traditional media",
+   "pos": "n phr",
+   "ipa": "/trəˌdɪʃənl ˈmiːdiə/",
+   "vi": "truyền thông truyền thống (báo in, TV, radio)",
+   "ex": "Traditional media are still trusted by many older people.",
+   "page": 92
+  },
+  {
+   "w": "news outlet",
+   "pos": "n phr",
+   "ipa": "/ˈnjuːz aʊtlet/",
+   "vi": "cơ quan báo chí, kênh tin tức",
+   "ex": "Several news outlets reported the same story.",
+   "page": 92
+  },
+  {
+   "w": "platform",
+   "pos": "n",
+   "ipa": "/ˈplætfɔːm/",
+   "vi": "nền tảng (trực tuyến)",
+   "ex": "Video-sharing platforms are very popular among teenagers.",
+   "page": 92
+  },
+  {
+   "w": "interactive",
+   "pos": "adj",
+   "ipa": "/ˌɪntərˈæktɪv/",
+   "vi": "có tính tương tác",
+   "ex": "Digital media are more interactive than traditional media.",
+   "page": 92
+  },
+  {
+   "w": "accessible",
+   "pos": "adj",
+   "ipa": "/əkˈsesəbl/",
+   "vi": "dễ tiếp cận, có thể truy cập",
+   "ex": "Online news is accessible to anyone with an internet connection.",
+   "page": 92
+  },
+  {
+   "w": "up-to-date",
+   "pos": "adj",
+   "ipa": "/ˌʌp tə ˈdeɪt/",
+   "vi": "cập nhật, mới nhất",
+   "ex": "Online newspapers provide up-to-date information.",
+   "page": 92
+  },
+  {
+   "w": "in-depth",
+   "pos": "adj",
+   "ipa": "/ˌɪn ˈdepθ/",
+   "vi": "chuyên sâu",
+   "ex": "The newspaper published an in-depth analysis of the problem.",
+   "page": 92
+  },
+  {
+   "w": "reliable",
+   "pos": "adj",
+   "ipa": "/rɪˈlaɪəbl/",
+   "vi": "đáng tin cậy",
+   "ex": "Quality newspapers are usually more reliable than social media.",
+   "page": 92
+  },
+  {
+   "w": "accurate",
+   "pos": "adj",
+   "ipa": "/ˈækjərət/",
+   "vi": "chính xác",
+   "ex": "Journalists should give accurate information.",
+   "page": 92
+  },
+  {
+   "w": "attention span",
+   "pos": "n phr",
+   "ipa": "/əˈtenʃn spæn/",
+   "vi": "khả năng duy trì sự tập trung",
+   "ex": "Short videos may reduce young people's attention span.",
+   "page": 92
+  },
+  {
+   "w": "fake news",
+   "pos": "n",
+   "ipa": "/ˌfeɪk ˈnjuːz/",
+   "vi": "tin giả",
+   "ex": "Fake news spreads faster than true stories.",
+   "page": 95
+  },
+  {
+   "w": "misinformation",
+   "pos": "n",
+   "ipa": "/ˌmɪsɪnfəˈmeɪʃn/",
+   "vi": "thông tin sai lệch",
+   "ex": "There is a lot of misinformation on the internet.",
+   "page": 95
+  },
+  {
+   "w": "source",
+   "pos": "n",
+   "ipa": "/sɔːs/",
+   "vi": "nguồn (tin)",
+   "ex": "Always check the source of a story before sharing it.",
+   "page": 95
+  },
+  {
+   "w": "verify",
+   "pos": "v",
+   "ipa": "/ˈverɪfaɪ/",
+   "vi": "xác minh, kiểm chứng",
+   "ex": "You should verify the information with reliable websites.",
+   "page": 95
+  },
+  {
+   "w": "fact-check",
+   "pos": "v",
+   "ipa": "/ˈfækt tʃek/",
+   "vi": "kiểm tra tính xác thực",
+   "ex": "Good journalists fact-check every detail.",
+   "page": 95
+  },
+  {
+   "w": "mislead",
+   "pos": "v",
+   "ipa": "/ˌmɪsˈliːd/",
+   "vi": "làm cho hiểu sai, đánh lừa",
+   "ex": "Some headlines are written to mislead readers.",
+   "page": 95
+  },
+  {
+   "w": "deceptive",
+   "pos": "adj",
+   "ipa": "/dɪˈseptɪv/",
+   "vi": "lừa dối, dễ gây hiểu lầm",
+   "ex": "Be careful with deceptive advertisements online.",
+   "page": 95
+  },
+  {
+   "w": "go viral",
+   "pos": "phr",
+   "ipa": "/ˌɡəʊ ˈvaɪrəl/",
+   "vi": "lan truyền nhanh trên mạng",
+   "ex": "The funny video went viral overnight.",
+   "page": 95
+  },
+  {
+   "w": "spread",
+   "pos": "v",
+   "ipa": "/spred/",
+   "vi": "lan truyền, phát tán",
+   "ex": "Rumours spread quickly on social media.",
+   "page": 95
+  },
+  {
+   "w": "pie chart",
+   "pos": "n",
+   "ipa": "/ˈpaɪ tʃɑːt/",
+   "vi": "biểu đồ tròn",
+   "ex": "The pie chart shows where teenagers get their news.",
+   "page": 95
+  },
+  {
+   "w": "respondent",
+   "pos": "n",
+   "ipa": "/rɪˈspɒndənt/",
+   "vi": "người trả lời khảo sát",
+   "ex": "Sixty per cent of the respondents use social media daily.",
+   "page": 95
+  },
+  {
+   "w": "tabloid",
+   "pos": "n",
+   "ipa": "/ˈtæblɔɪd/",
+   "vi": "báo lá cải (báo khổ nhỏ, nhiều tin giật gân)",
+   "ex": "Tabloids often focus on celebrities' private lives.",
+   "page": 98
+  }
+ ],
+ "passages": [
+  {
+   "id": "G12U7-P1",
+   "title": "Digital media or traditional media?",
+   "text": "Over the past twenty years, the way people get the news has changed dramatically. In the past, most families relied on newspapers, radio and television to (1) _____ informed. Today, however, many young people prefer digital media (2) _____ they are fast, free and available on any smartphone. Online newspapers are updated every few minutes, and readers can comment on articles and share them with friends instantly. In this way, digital media are much more (3) _____ than traditional media. Nevertheless, traditional media still have some clear advantages. Quality newspapers employ experienced (4) _____ who check every fact carefully before a story is published, so their articles are usually more in-depth and reliable. In fact, some readers find online news so short and shallow (5) _____ they still buy a printed newspaper at the weekend. In the end, a wise reader uses both types of media to get a balanced view of the world."
+  },
+  {
+   "id": "G12U7-P2",
+   "title": "How to deal with fake news",
+   "text": "Fake news is false information that is presented (6) _____ it were real news. It often comes with an exciting headline designed to attract as many clicks as possible. Such stories can (7) _____ viral within hours because people share them without reading them carefully. Some fake stories are (8) _____ convincing that even experienced readers believe them. So how can we protect ourselves? First, always check the (9) _____ of a story. Does it come from a well-known news organisation or from an unknown website? Second, look for the same story on other reliable websites. If no other news outlet reports it, it is probably not true. Finally, think twice before you click 'share'. Spreading fake news can (10) _____ thousands of people and may even cause panic in society. By becoming careful and critical readers, we can all help stop the spread of misinformation online."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G12U7-V01",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 1,
+   "q": "Newspapers and magazines printed on paper are examples of _____ media.",
+   "options": [
+    "digital",
+    "social",
+    "broadcast",
+    "print"
+   ],
+   "answer": 3,
+   "explain": "'print media' = báo in (báo, tạp chí in trên giấy). broadcast media là TV, radio; digital/social media là truyền thông trên mạng — không phải 'printed on paper'.",
+   "review": "Lớp 12 · Unit 7 – Getting Started"
+  },
+  {
+   "id": "G12U7-V02",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 1,
+   "q": "Television and radio programmes are _____ to millions of viewers and listeners every day.",
+   "options": [
+    "broadcast",
+    "published",
+    "printed",
+    "subscribed"
+   ],
+   "answer": 0,
+   "explain": "broadcast = phát sóng (TV, radio). published/printed dùng cho sách báo in; subscribe là 'đăng ký', không dùng ở dạng bị động với nghĩa này.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-V03",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Fake news and social media",
+   "level": 2,
+   "q": "Before sharing a story online, you should _____ the information with reliable sources.",
+   "options": [
+    "mislead",
+    "verify",
+    "post",
+    "spread"
+   ],
+   "answer": 1,
+   "explain": "verify sth (with sources) = xác minh, kiểm chứng thông tin. spread (lan truyền), mislead (đánh lừa), post (đăng) không hợp nghĩa 'trước khi chia sẻ thì nên…'.",
+   "review": "Lớp 12 · Unit 7 – Listening"
+  },
+  {
+   "id": "G12U7-V04",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Fake news and social media",
+   "level": 1,
+   "q": "The video _____ on social media and was shared by thousands of people within hours.",
+   "options": [
+    "went down",
+    "came up",
+    "took over",
+    "went viral"
+   ],
+   "answer": 3,
+   "explain": "go viral = lan truyền rất nhanh trên mạng, phù hợp với 'được hàng nghìn người chia sẻ trong vài giờ'. took over (tiếp quản), came up (xuất hiện, được nhắc đến), went down (giảm/sập) không hợp.",
+   "review": "Lớp 12 · Unit 7 – Listening"
+  },
+  {
+   "id": "G12U7-V05",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "News and reliability",
+   "level": 1,
+   "q": "The _____ of a newspaper article tells readers what the main story is about in just a few words.",
+   "options": [
+    "headline",
+    "coverage",
+    "subscription",
+    "circulation"
+   ],
+   "answer": 0,
+   "explain": "headline = tiêu đề bài báo. coverage = việc đưa tin; circulation = lượng phát hành; subscription = phí đặt mua.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-V06",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "News and reliability",
+   "level": 1,
+   "q": "Many people think that news on social media is less _____ than news in quality newspapers.",
+   "options": [
+    "reliable",
+    "reliably",
+    "rely",
+    "reliability"
+   ],
+   "answer": 0,
+   "explain": "Sau 'less' (so sánh) và trước 'than', bổ nghĩa cho 'news' sau 'is' → cần tính từ: reliable (đáng tin cậy). rely là động từ, reliably là trạng từ, reliability là danh từ.",
+   "review": "Lớp 12 · Unit 7 – Reading"
+  },
+  {
+   "id": "G12U7-V07",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Fake news and social media",
+   "level": 2,
+   "q": "The spread of _____ online makes it hard for readers to know what is true.",
+   "options": [
+    "informative",
+    "informed",
+    "misinformation",
+    "inform"
+   ],
+   "answer": 2,
+   "explain": "Sau giới từ 'of' cần danh từ → misinformation (thông tin sai lệch). inform là động từ; informative, informed là tính từ.",
+   "review": "Lớp 12 · Unit 7 – Listening"
+  },
+  {
+   "id": "G12U7-V08",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 1,
+   "q": "I read the news every morning to keep _____ with what is happening in the world.",
+   "options": [
+    "out",
+    "on",
+    "up",
+    "off"
+   ],
+   "answer": 2,
+   "explain": "keep up with sth = theo kịp, cập nhật. keep on (tiếp tục), keep out (tránh xa), keep off (tránh) không đi với nghĩa 'cập nhật tin tức'.",
+   "review": "Lớp 12 · Unit 7 – Getting Started"
+  },
+  {
+   "id": "G12U7-V09",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Fake news and social media",
+   "level": 2,
+   "q": "Fake news can easily _____ readers into believing things that are not true.",
+   "options": [
+    "update",
+    "broadcast",
+    "mislead",
+    "inform"
+   ],
+   "answer": 2,
+   "explain": "mislead sb (into doing sth) = đánh lừa ai, khiến ai hiểu sai. inform/update = cung cấp/cập nhật thông tin (nghĩa tích cực); broadcast = phát sóng, không có cấu trúc 'into believing'.",
+   "review": "Lớp 12 · Unit 7 – Listening"
+  },
+  {
+   "id": "G12U7-V10",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nOnline newspapers are <u>accessible</u> to anyone with an internet connection.",
+   "options": [
+    "expensive",
+    "available",
+    "useful",
+    "attractive"
+   ],
+   "answer": 1,
+   "explain": "accessible = có thể tiếp cận/truy cập được ≈ available (sẵn có, có thể dùng được). expensive (đắt), attractive (hấp dẫn), useful (hữu ích) khác nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Reading"
+  },
+  {
+   "id": "G12U7-V11",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "News and reliability",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nThe information in this report is <u>accurate</u> and up to date.",
+   "options": [
+    "detailed",
+    "correct",
+    "exact",
+    "incorrect"
+   ],
+   "answer": 3,
+   "explain": "accurate = chính xác; trái nghĩa là incorrect (không chính xác). correct, exact là đồng nghĩa; detailed (chi tiết) không phải trái nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Reading"
+  },
+  {
+   "id": "G12U7-V12",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 2,
+   "q": "Many readers pay a monthly _____ to read all the articles on the newspaper's website.",
+   "options": [
+    "advertisement",
+    "coverage",
+    "subscription",
+    "circulation"
+   ],
+   "answer": 2,
+   "explain": "pay a (monthly) subscription = trả phí đặt mua (hằng tháng). advertisement (quảng cáo), circulation (lượng phát hành), coverage (việc đưa tin) không đi với 'pay … to read'.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-V13",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 1,
+   "q": "A _____ is a digital audio programme that you can download and listen to whenever you like.",
+   "options": [
+    "podcast",
+    "headline",
+    "pie chart",
+    "tabloid"
+   ],
+   "answer": 0,
+   "explain": "podcast = chương trình âm thanh phát qua mạng, có thể tải về nghe bất cứ lúc nào. tabloid (báo lá cải), headline (tiêu đề), pie chart (biểu đồ tròn) không phải chương trình âm thanh.",
+   "review": "Lớp 12 · Unit 7 – Getting Started"
+  },
+  {
+   "id": "G12U7-V14",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 2,
+   "q": "Unlike traditional media, digital media are _____: readers can comment on, share and react to news instantly.",
+   "options": [
+    "permanent",
+    "interactive",
+    "expensive",
+    "traditional"
+   ],
+   "answer": 1,
+   "explain": "interactive = có tính tương tác — đúng với phần giải thích sau dấu hai chấm (bình luận, chia sẻ, phản hồi ngay). Các tính từ còn lại không khớp với phần giải thích.",
+   "review": "Lớp 12 · Unit 7 – Reading"
+  },
+  {
+   "id": "G12U7-V15",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Fake news and social media",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nSome websites publish <u>deceptive</u> stories to attract more clicks.",
+   "options": [
+    "exciting",
+    "popular",
+    "accurate",
+    "misleading"
+   ],
+   "answer": 3,
+   "explain": "deceptive = lừa dối, dễ gây hiểu lầm ≈ misleading. exciting (thú vị), popular (phổ biến) khác nghĩa; accurate (chính xác) gần như trái nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Listening"
+  },
+  {
+   "id": "G12U7-V16",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "News and reliability",
+   "level": 2,
+   "q": "The TV channel provided live _____ of the football match.",
+   "options": [
+    "audience",
+    "circulation",
+    "coverage",
+    "headline"
+   ],
+   "answer": 2,
+   "explain": "live coverage of an event = tường thuật/đưa tin trực tiếp một sự kiện. circulation (lượng phát hành), headline (tiêu đề), audience (khán giả) không tạo collocation 'provide live … of'.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-V17",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 1,
+   "q": "Thanks to smartphones, people can _____ informed wherever they are.",
+   "options": [
+    "make",
+    "take",
+    "do",
+    "stay"
+   ],
+   "answer": 3,
+   "explain": "stay informed = luôn nắm được thông tin. make/take/do không kết hợp với 'informed'.",
+   "review": "Lớp 12 · Unit 7 – Getting Started"
+  },
+  {
+   "id": "G12U7-V18",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 3,
+   "q": "The magazine has a weekly _____ of over 200,000 copies.",
+   "options": [
+    "broadcast",
+    "circulation",
+    "audience",
+    "subscriber"
+   ],
+   "answer": 1,
+   "explain": "circulation = lượng phát hành (tính bằng số bản – copies). audience không đo bằng 'copies'; subscriber là danh từ đếm được chỉ người (cần 'subscribers' và không dùng 'of … copies'); broadcast là việc phát sóng.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-V19",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "News and reliability",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nThe newspaper published an <u>in-depth</u> analysis of the election results.",
+   "options": [
+    "careful",
+    "superficial",
+    "detailed",
+    "thorough"
+   ],
+   "answer": 1,
+   "explain": "in-depth = chuyên sâu, kỹ lưỡng; trái nghĩa là superficial (hời hợt, nông). detailed, thorough là đồng nghĩa; careful (cẩn thận) gần nghĩa, không trái nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Reading"
+  },
+  {
+   "id": "G12U7-V20",
+   "unit": 7,
+   "type": "vocab",
+   "topic": "Types of mass media",
+   "level": 2,
+   "q": "Most _____ in the survey said they got their news mainly from social media.",
+   "options": [
+    "respondents",
+    "editors",
+    "audiences",
+    "journalists"
+   ],
+   "answer": 0,
+   "explain": "respondent = người trả lời khảo sát ('in the survey … said'). journalists/editors là người làm báo; audiences (khán giả) không phải người trả lời khảo sát.",
+   "review": "Lớp 12 · Unit 7 – Writing"
+  },
+  {
+   "id": "G12U7-G01",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 1,
+   "q": "She speaks English _____ she were a native speaker.",
+   "options": [
+    "such that",
+    "in case",
+    "as if",
+    "so that"
+   ],
+   "answer": 2,
+   "explain": "as if + S + were: như thể là (không có thật ở hiện tại). so that (để mà – mục đích), in case (phòng khi) không hợp; 'such that' không dùng như liên từ ở đây. Dịch: Cô ấy nói tiếng Anh như thể là người bản xứ.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G02",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 1,
+   "q": "Please write the report _____ I showed you yesterday.",
+   "options": [
+    "such",
+    "as if",
+    "as",
+    "so"
+   ],
+   "answer": 2,
+   "explain": "as = theo cách mà (cách thức có thật): viết báo cáo theo cách tôi đã chỉ hôm qua. as if mang nghĩa 'như thể' (giả định) không hợp; so, such không đứng một mình nối mệnh đề chỉ cách thức.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G03",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 1,
+   "q": "The news was _____ shocking that many people refused to believe it.",
+   "options": [
+    "such",
+    "very",
+    "so",
+    "too"
+   ],
+   "answer": 2,
+   "explain": "so + adj + that: quá … đến nỗi. such phải đi với danh từ; too đi với 'to V'; very không kết hợp với 'that' chỉ kết quả.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G04",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 1,
+   "q": "It was _____ an interesting documentary that we watched it twice.",
+   "options": [
+    "too",
+    "such",
+    "so",
+    "enough"
+   ],
+   "answer": 1,
+   "explain": "such + a/an + adj + N + that. Có cụm danh từ 'an interesting documentary' → dùng such. 'so an interesting' sai trật tự; too/enough không dùng với 'that'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G05",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "There were _____ many fake stories online that the government launched a fact-checking campaign.",
+   "options": [
+    "too",
+    "such",
+    "so",
+    "very"
+   ],
+   "answer": 2,
+   "explain": "so + many + N số nhiều + that. Không dùng 'such many'; too/very không kết hợp với mệnh đề 'that' chỉ kết quả.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G06",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "He talks about the election _____ he knew the result already, but in fact he doesn't.",
+   "options": [
+    "so",
+    "that",
+    "such",
+    "as if"
+   ],
+   "answer": 3,
+   "explain": "as if + quá khứ đơn (knew) diễn tả điều không có thật ở hiện tại ('but in fact he doesn't'). so/such/that không tạo nghĩa 'như thể'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G07",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "The news anchor looked at the camera _____ she was about to cry.",
+   "options": [
+    "therefore",
+    "so that",
+    "such that",
+    "as though"
+   ],
+   "answer": 3,
+   "explain": "as though = as if (như thể). Ở đây là tình huống có thể có thật nên giữ 'was'. so that chỉ mục đích; therefore là trạng từ nối, không nối mệnh đề như vậy.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G08",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "The online newspaper has _____ few readers that it may have to close down.",
+   "options": [
+    "such",
+    "so",
+    "very",
+    "too"
+   ],
+   "answer": 1,
+   "explain": "so + few + N số nhiều + that: ít … đến nỗi. 'such few' sai; too/very không đi với 'that'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G09",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 1,
+   "q": "The journalist wrote _____ quickly that she made several spelling mistakes.",
+   "options": [
+    "so",
+    "such",
+    "enough",
+    "too"
+   ],
+   "answer": 0,
+   "explain": "Sau động từ thường (wrote) là trạng từ 'quickly' → so + adv + that. such cần danh từ; too/enough không đi với 'that'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G10",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "It was _____ bad weather that the outdoor broadcast was cancelled.",
+   "options": [
+    "so a",
+    "such",
+    "such a",
+    "so"
+   ],
+   "answer": 1,
+   "explain": "weather là danh từ không đếm được → such + adj + N không đếm được (không có 'a'): such bad weather. 'such a bad weather' sai vì có mạo từ a; 'so bad weather' thiếu cấu trúc đúng.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G11",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "My brother acts as if he _____ the boss of the family, but he's only 15.",
+   "options": [
+    "were",
+    "would be",
+    "be",
+    "will be"
+   ],
+   "answer": 0,
+   "explain": "Điều không có thật ở hiện tại sau as if → lùi về quá khứ, 'to be' dùng 'were'. will be/would be/be không dùng trong mệnh đề as if giả định.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G12",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 1,
+   "q": "She looked _____ she hadn't slept for days.",
+   "options": [
+    "so",
+    "such that",
+    "so that",
+    "as if"
+   ],
+   "answer": 3,
+   "explain": "look as if + mệnh đề = trông như thể là. so that (để mà), so (vì vậy) không hợp nghĩa; such that không dùng ở đây.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G13",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "_____ popular was the programme that it was broadcast again the next week.",
+   "options": [
+    "So",
+    "Too",
+    "Very",
+    "Such"
+   ],
+   "answer": 0,
+   "explain": "Đảo ngữ với so: So + adj + be + S + that … (So popular was the programme that…). Such đảo ngữ thì đi với 'be + N' (Such was its popularity that…), không đi với tính từ.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G14",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "The article contained _____ much false information that it was removed from the website.",
+   "options": [
+    "such",
+    "so",
+    "too",
+    "very"
+   ],
+   "answer": 1,
+   "explain": "information là danh từ không đếm được → so + much + N + that. 'such much' sai; too/very không đi với mệnh đề 'that' chỉ kết quả.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G15",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "Everything happened exactly _____ the reporter had predicted.",
+   "options": [
+    "as if",
+    "as",
+    "such as",
+    "so that"
+   ],
+   "answer": 1,
+   "explain": "as = đúng như (cách thức có thật): mọi việc xảy ra đúng như phóng viên đã dự đoán. as if (như thể – giả định) không hợp với 'exactly'; such as (ví dụ như) và so that (để mà) sai nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G16",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "The video was _____ that millions of people watched it within a day.",
+   "options": [
+    "such funny",
+    "very funny",
+    "too funny",
+    "so funny"
+   ],
+   "answer": 3,
+   "explain": "be + so + adj + that. 'such funny' thiếu danh từ; very/too không đi với mệnh đề 'that' chỉ kết quả.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G17",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Social media has become _____ part of our lives that many people check their phones every few minutes.",
+   "options": [
+    "such an important",
+    "so an important",
+    "so important",
+    "such important"
+   ],
+   "answer": 0,
+   "explain": "part ở đây là danh từ đếm được số ít → such + an + adj + N + that. 'so important part' thiếu mạo từ, 'so an important' sai trật tự (đúng phải là 'so important a part'); 'such important part' thiếu 'an'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G18",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "The host spoke so _____ that the audience could hear every word.",
+   "options": [
+    "clear",
+    "clarity",
+    "clearly",
+    "clearness"
+   ],
+   "answer": 2,
+   "explain": "Bổ nghĩa cho động từ thường 'spoke' → cần trạng từ: so clearly that. clear là tính từ; clarity, clearness là danh từ.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-G19",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of manner",
+   "level": 1,
+   "q": "Don't treat me _____ I were a child! I can decide what to watch.",
+   "options": [
+    "so that",
+    "such that",
+    "unless",
+    "as if"
+   ],
+   "answer": 3,
+   "explain": "as if + I were: như thể tôi là đứa trẻ (thực tế không phải). so that (để mà), unless (trừ khi) không hợp nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Looking Back"
+  },
+  {
+   "id": "G12U7-G20",
+   "unit": 7,
+   "type": "grammar",
+   "topic": "Adverbial clauses of result",
+   "level": 1,
+   "q": "The podcast was so boring _____ I fell asleep halfway through it.",
+   "options": [
+    "that",
+    "which",
+    "what",
+    "as"
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc so + adj + that + mệnh đề kết quả. which/what/as không dùng sau 'so … ' để chỉ kết quả.",
+   "review": "Lớp 12 · Unit 7 – Looking Back"
+  },
+  {
+   "id": "G12U7-P01",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Linking /r/ between two vowels",
+   "level": 1,
+   "q": "Choose the phrase in which a linking /r/ is pronounced (British English).",
+   "options": [
+    "newspaper headline",
+    "newspaper article",
+    "four channels",
+    "better news"
+   ],
+   "answer": 1,
+   "explain": "newspaper /ˈnjuːzpeɪpə/ kết thúc bằng chữ r, từ sau 'article' bắt đầu bằng nguyên âm /ɑː/ → nối /r/: /ˈnjuːzpeɪpər ˈɑːtɪkl/. Các cụm còn lại từ sau bắt đầu bằng phụ âm /h/, /tʃ/, /n/ nên không nối /r/.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P02",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Linking /r/ between two vowels",
+   "level": 2,
+   "q": "Choose the phrase in which a linking /r/ is NOT pronounced (British English).",
+   "options": [
+    "more people",
+    "after all",
+    "here and there",
+    "for example"
+   ],
+   "answer": 0,
+   "explain": "more people: từ sau bắt đầu bằng phụ âm /p/ → không nối /r/ (/mɔː ˈpiːpl/). after all /ˌɑːftər ˈɔːl/, here and /ˈhɪər ənd/, for example /fər ɪɡˈzɑːmpl/ đều có nối /r/ vì từ sau bắt đầu bằng nguyên âm.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P03",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Linking /r/ between two vowels",
+   "level": 2,
+   "q": "In the sentence \"The reporter interviewed four students after the show.\", which pair of words is joined by a linking /r/?",
+   "options": [
+    "reporter interviewed",
+    "the show",
+    "four students",
+    "after the"
+   ],
+   "answer": 0,
+   "explain": "reporter /rɪˈpɔːtə/ + interviewed /ˈɪntəvjuːd/ (bắt đầu bằng nguyên âm /ɪ/) → nối /r/. four students, after the: từ sau bắt đầu bằng phụ âm /s/, /ð/ nên không nối; 'the show' không có chữ r.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P04",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Pronunciation of 'ea'",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "h<u>ea</u>lth",
+    "h<u>ea</u>dline",
+    "spr<u>ea</u>d",
+    "r<u>ea</u>der"
+   ],
+   "answer": 3,
+   "explain": "reader /ˈriːdə(r)/ – 'ea' đọc /iː/. headline /ˈhedlaɪn/, spread /spred/, health /helθ/ – 'ea' đọc /e/.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P05",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "updat<u>ed</u>",
+    "view<u>ed</u>",
+    "print<u>ed</u>",
+    "post<u>ed</u>"
+   ],
+   "answer": 1,
+   "explain": "viewed /vjuːd/ – đuôi -ed đọc /d/. posted /ˈpəʊstɪd/, updated /ˌʌpˈdeɪtɪd/, printed /ˈprɪntɪd/ – sau /t/ đuôi -ed đọc /ɪd/.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P06",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Pronunciation of 'ch'",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>aracter",
+    "<u>ch</u>annel",
+    "<u>ch</u>eck",
+    "<u>ch</u>at"
+   ],
+   "answer": 0,
+   "explain": "character /ˈkærəktə(r)/ – 'ch' đọc /k/. channel /ˈtʃænl/, check /tʃek/, chat /tʃæt/ – 'ch' đọc /tʃ/.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P07",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Pronunciation of 'a'",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "r<u>a</u>dio",
+    "inform<u>a</u>tion",
+    "m<u>a</u>ss",
+    "n<u>a</u>tion"
+   ],
+   "answer": 2,
+   "explain": "mass /mæs/ – 'a' đọc /æ/. radio /ˈreɪdiəʊ/, nation /ˈneɪʃn/, information /ˌɪnfəˈmeɪʃn/ – 'a' đọc /eɪ/.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P08",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Pronunciation of -s endings",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "article<u>s</u>",
+    "viewer<u>s</u>",
+    "magazine<u>s</u>",
+    "podcast<u>s</u>"
+   ],
+   "answer": 3,
+   "explain": "podcasts /ˈpɒdkɑːsts/ – sau âm vô thanh /t/, 's' đọc /s/. magazines /ˌmæɡəˈziːnz/, articles /ˈɑːtɪklz/, viewers /ˈvjuːəz/ – 's' đọc /z/.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P09",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "influence",
+    "deceptive",
+    "audience",
+    "internet"
+   ],
+   "answer": 1,
+   "explain": "deceptive /dɪˈseptɪv/ nhấn âm 2. audience /ˈɔːdiəns/, internet /ˈɪntənet/, influence /ˈɪnfluəns/ nhấn âm 1.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P10",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "headline",
+    "channel",
+    "report",
+    "podcast"
+   ],
+   "answer": 2,
+   "explain": "report /rɪˈpɔːt/ nhấn âm 2. channel /ˈtʃænl/, podcast /ˈpɒdkɑːst/, headline /ˈhedlaɪn/ nhấn âm 1.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P11",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "electronic",
+    "entertainment",
+    "photography",
+    "information"
+   ],
+   "answer": 2,
+   "explain": "photography /fəˈtɒɡrəfi/ nhấn âm 2. entertainment /ˌentəˈteɪnmənt/, information /ˌɪnfəˈmeɪʃn/, electronic /ɪˌlekˈtrɒnɪk/ nhấn âm 3.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-P12",
+   "unit": 7,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "accurate",
+    "publisher",
+    "journalist",
+    "reliable"
+   ],
+   "answer": 3,
+   "explain": "reliable /rɪˈlaɪəbl/ nhấn âm 2. journalist /ˈdʒɜːnəlɪst/, accurate /ˈækjərət/, publisher /ˈpʌblɪʃə(r)/ nhấn âm 1.",
+   "review": "Lớp 12 · Unit 7 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U7-E01",
+   "unit": 7,
+   "type": "error",
+   "topic": "Subject–verb agreement",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe news <u>were</u> (A) so surprising <u>that</u> (B) many people <u>shared</u> (C) it <u>immediately</u> (D).",
+   "options": [
+    "A. were",
+    "B. that",
+    "C. shared",
+    "D. immediately"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: 'news' là danh từ không đếm được, động từ chia số ít → sửa 'were' thành 'was'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-E02",
+   "unit": 7,
+   "type": "error",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>It</u> (A) was <u>so</u> (B) a useful podcast <u>that</u> (C) I recommended it <u>to</u> (D) all my friends.",
+   "options": [
+    "A. It",
+    "B. so",
+    "C. that",
+    "D. to"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: trước 'a + adj + N' dùng such → 'It was such a useful podcast that…' (hoặc trang trọng: so useful a podcast).",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-E03",
+   "unit": 7,
+   "type": "error",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe reporter <u>explained</u> (A) the story <u>so</u> (B) <u>clear</u> (C) that everyone <u>understood</u> (D) it.",
+   "options": [
+    "A. explained",
+    "B. so",
+    "C. clear",
+    "D. understood"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: bổ nghĩa cho động từ thường 'explained' phải dùng trạng từ → sửa 'clear' thành 'clearly'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-E04",
+   "unit": 7,
+   "type": "error",
+   "topic": "Fake news and social media",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThere <u>was</u> (A) <u>so</u> (B) much fake news online <u>that</u> (C) many readers <u>lost trust on</u> (D) social media.",
+   "options": [
+    "A. was",
+    "B. so",
+    "C. that",
+    "D. lost trust on"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: cụm đúng là 'lose trust in sth' (mất lòng tin vào) → sửa 'lost trust on' thành 'lost trust in'.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-E05",
+   "unit": 7,
+   "type": "error",
+   "topic": "Subject–verb agreement",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nOnline newspapers are <u>more</u> (A) <u>accessible</u> (B) than printed ones, <u>so</u> (C) many young people <u>subscribes</u> (D) to them.",
+   "options": [
+    "A. more",
+    "B. accessible",
+    "C. so",
+    "D. subscribes"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: chủ ngữ 'many young people' số nhiều → động từ không thêm -s: sửa 'subscribes' thành 'subscribe'.",
+   "review": "Lớp 12 · Unit 7 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U7-E06",
+   "unit": 7,
+   "type": "error",
+   "topic": "Adverbial clauses of manner",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nShe looked at me <u>as</u> (A) <u>though</u> (B) I <u>am</u> (C) telling a lie, but I <u>was</u> (D) telling the truth.",
+   "options": [
+    "A. as",
+    "B. though",
+    "C. am",
+    "D. was"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: câu kể ở quá khứ và điều 'tôi nói dối' không có thật → sau as though phải lùi thì: 'I were/was telling a lie', không dùng 'am'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-E07",
+   "unit": 7,
+   "type": "error",
+   "topic": "Adverbial clauses of result",
+   "level": 1,
+   "q": "Find the underlined part that needs correction.\nThe programme <u>was</u> (A) <u>such</u> (B) popular <u>that</u> (C) it <u>was broadcast</u> (D) again.",
+   "options": [
+    "A. was",
+    "B. such",
+    "C. that",
+    "D. was broadcast"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: sau đó chỉ có tính từ 'popular' (không có danh từ) → dùng so: 'so popular that'.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-E08",
+   "unit": 7,
+   "type": "error",
+   "topic": "Adverbial clauses of result",
+   "level": 1,
+   "q": "Find the underlined part that needs correction.\nThe story was <u>very</u> (A) shocking <u>that</u> (B) it <u>made</u> (C) the <u>headlines</u> (D) around the world.",
+   "options": [
+    "A. very",
+    "B. that",
+    "C. made",
+    "D. headlines"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: mệnh đề kết quả 'that …' đi với so + adj, không đi với very → sửa 'very' thành 'so'. 'make the headlines' là collocation đúng.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R01",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe documentary was so interesting that we watched it twice.",
+   "options": [
+    "It was such interesting documentary that we watched it twice.",
+    "The documentary was too interesting for us to watch it twice.",
+    "The documentary was interesting enough for us not to watch it twice.",
+    "It was such an interesting documentary that we watched it twice."
+   ],
+   "answer": 3,
+   "explain": "so + adj + that ↔ such + a/an + adj + N + that: 'such an interesting documentary'. Phương án thiếu 'an' sai ngữ pháp; 'too … to' và 'enough … not to' làm sai nghĩa (không xem lần hai).",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R02",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nHe isn't a journalist, but he behaves like one.",
+   "options": [
+    "He behaves as if he is not a journalist.",
+    "He behaves so that he were a journalist.",
+    "He behaves as if he were a journalist.",
+    "He is a journalist, so he behaves like one."
+   ],
+   "answer": 2,
+   "explain": "Thực tế không phải nhà báo nhưng cư xử như nhà báo → as if + were (giả định trái hiện tại). Các câu còn lại sai nghĩa (đổi thành 'là nhà báo' / 'như thể không phải nhà báo') hoặc sai cấu trúc (so that + were).",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R03",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe headline was so misleading that many readers misunderstood the story.",
+   "options": [
+    "So misleading was the headline that many readers misunderstood the story.",
+    "So was the headline misleading that many readers misunderstood the story.",
+    "The headline was too misleading for many readers to misunderstand the story.",
+    "Such misleading was the headline that many readers misunderstood the story."
+   ],
+   "answer": 0,
+   "explain": "Đảo ngữ: So + adj + be + S + that … Such không đi trực tiếp với tính từ; 'So was the headline misleading' sai trật tự; 'too … to misunderstand' sai nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R04",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThere was so much misinformation online that people didn't know what to believe.",
+   "options": [
+    "There was such a lot of misinformation online that people didn't know what to believe.",
+    "There was such much misinformation online that people didn't know what to believe.",
+    "There was so many misinformation online that people didn't know what to believe.",
+    "There was too little misinformation online for people to know what to believe."
+   ],
+   "answer": 0,
+   "explain": "so much + N không đếm được ↔ such a lot of + N. 'such much' sai; 'so many' không dùng với danh từ không đếm được 'misinformation'; câu 'too little' sai nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R05",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe presenter spoke very fast, so the audience couldn't follow her.",
+   "options": [
+    "Although the presenter spoke fast, the audience couldn't follow her.",
+    "The presenter spoke such fast that the audience couldn't follow her.",
+    "The presenter spoke so fast that the audience couldn't follow her.",
+    "The presenter spoke fast enough for the audience to follow her."
+   ],
+   "answer": 2,
+   "explain": "Nguyên nhân – kết quả → so + adv + that. 'such fast' sai (such cần danh từ); 'fast enough … to follow' ngược nghĩa; 'Although' (mặc dù) sai quan hệ nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R06",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nTom finished the report in the way his editor had told him.",
+   "options": [
+    "Tom finished the report so that his editor had told him.",
+    "Tom finished the report as his editor had told him.",
+    "Tom's editor finished the report as Tom had told him.",
+    "Tom finished the report as if his editor had told him."
+   ],
+   "answer": 1,
+   "explain": "in the way (that) = as (theo cách mà). 'as if' mang nghĩa giả định (thực ra không được dặn) → sai nghĩa; câu đảo vai Tom và biên tập viên sai nghĩa; 'so that' (để mà) sai.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R07",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe podcast is very popular. Millions of people download it every week.",
+   "options": [
+    "The podcast is so popular that millions of people download it every week.",
+    "Millions of people download the podcast every week, so it is such popular.",
+    "The podcast is too popular for millions of people to download it every week.",
+    "The podcast is such popular that millions of people download it every week."
+   ],
+   "answer": 0,
+   "explain": "Nối nguyên nhân – kết quả bằng so + adj + that. 'such popular' sai vì thiếu danh từ; 'too … to' làm sai nghĩa (quá nổi tiếng nên không tải được).",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R08",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nIt was a very convincing fake video. Many people believed it was real.",
+   "options": [
+    "The fake video was convincing enough for many people not to believe it was real.",
+    "It was so convincing fake video that many people believed it was real.",
+    "Many people believed it was real although it was such a convincing fake video.",
+    "It was such a convincing fake video that many people believed it was real."
+   ],
+   "answer": 3,
+   "explain": "a + adj + N → such a convincing fake video that … 'so convincing fake video' sai cấu trúc; 'enough … not to believe' ngược nghĩa; 'although' (mặc dù) sai quan hệ nguyên nhân – kết quả.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R09",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of manner",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nHe described the event in great detail. In fact, he hadn't witnessed it himself.",
+   "options": [
+    "He described the event in great detail so that he had witnessed it himself.",
+    "He described the event in great detail as if he had witnessed it himself.",
+    "He witnessed the event himself, so he described it in great detail.",
+    "He described the event in great detail as if he has witnessed it himself."
+   ],
+   "answer": 1,
+   "explain": "Điều không có thật trong quá khứ (thực ra không chứng kiến) → as if + quá khứ hoàn thành (had witnessed). 'has witnessed' sai thì; câu 'He witnessed…' ngược nghĩa; 'so that' (để mà) sai nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-R10",
+   "unit": 7,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of result",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe newspaper's website is very easy to use. Even elderly readers can find articles quickly.",
+   "options": [
+    "The newspaper's website is too easy to use for even elderly readers to find articles quickly.",
+    "The newspaper's website is so easy to use that even elderly readers can find articles quickly.",
+    "The newspaper's website is such easy to use that even elderly readers can find articles quickly.",
+    "Even elderly readers can find articles quickly, so the website is such easy to use."
+   ],
+   "answer": 1,
+   "explain": "so + adj + (to V) + that: dễ dùng đến nỗi người lớn tuổi cũng tìm được bài nhanh. 'such easy' sai vì thiếu danh từ; 'too … to' sai nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Language, Grammar"
+  },
+  {
+   "id": "G12U7-C01",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Types of mass media",
+   "level": 1,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "do",
+    "make",
+    "take",
+    "stay"
+   ],
+   "answer": 3,
+   "explain": "stay informed = luôn nắm được thông tin. make/take/do không kết hợp với 'informed'.",
+   "review": "Lớp 12 · Unit 7 – Reading",
+   "pid": "G12U7-P1",
+   "blank": 1
+  },
+  {
+   "id": "G12U7-C02",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Types of mass media",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "unless",
+    "because",
+    "so",
+    "although"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề sau nêu lý do (nhanh, miễn phí, có trên điện thoại) → because. although (mặc dù) và unless (trừ khi) sai quan hệ nghĩa; 'so' chỉ kết quả, không chỉ lý do.",
+   "review": "Lớp 12 · Unit 7 – Reading",
+   "pid": "G12U7-P1",
+   "blank": 2
+  },
+  {
+   "id": "G12U7-C03",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Types of mass media",
+   "level": 3,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "interactively",
+    "interact",
+    "interaction",
+    "interactive"
+   ],
+   "answer": 3,
+   "explain": "Sau 'much more' và động từ 'are' cần tính từ → interactive (có tính tương tác), khớp với ý bình luận và chia sẻ ở câu trước. interaction (n), interact (v), interactively (adv) sai từ loại.",
+   "review": "Lớp 12 · Unit 7 – Reading",
+   "pid": "G12U7-P1",
+   "blank": 3
+  },
+  {
+   "id": "G12U7-C04",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "News and reliability",
+   "level": 3,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "headlines",
+    "viewers",
+    "journalists",
+    "audiences"
+   ],
+   "answer": 2,
+   "explain": "Người 'kiểm tra kỹ mọi dữ kiện trước khi đăng bài' là nhà báo → journalists. audiences/viewers là người xem; headlines là tiêu đề, không phải người.",
+   "review": "Lớp 12 · Unit 7 – Reading",
+   "pid": "G12U7-P1",
+   "blank": 4
+  },
+  {
+   "id": "G12U7-C05",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "that",
+    "such",
+    "which",
+    "as"
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc so + adj + that + mệnh đề kết quả: 'so short and shallow that they still buy…'. as/which/such không dùng trong cấu trúc này.",
+   "review": "Lớp 12 · Unit 7 – Reading",
+   "pid": "G12U7-P1",
+   "blank": 5
+  },
+  {
+   "id": "G12U7-C06",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Adverbial clauses of manner",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "as if",
+    "such that",
+    "so that",
+    "as a result"
+   ],
+   "answer": 0,
+   "explain": "presented as if it were real news = được trình bày như thể là tin thật (giả định, dùng 'were'). so that (để mà), as a result (kết quả là) sai nghĩa; such that không hợp.",
+   "review": "Lớp 12 · Unit 7 – Listening",
+   "pid": "G12U7-P2",
+   "blank": 6
+  },
+  {
+   "id": "G12U7-C07",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Fake news and social media",
+   "level": 1,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "take",
+    "make",
+    "go",
+    "turn"
+   ],
+   "answer": 2,
+   "explain": "go viral = lan truyền chóng mặt trên mạng. make/take/turn không kết hợp với 'viral' theo nghĩa này.",
+   "review": "Lớp 12 · Unit 7 – Listening",
+   "pid": "G12U7-P2",
+   "blank": 7
+  },
+  {
+   "id": "G12U7-C08",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Adverbial clauses of result",
+   "level": 2,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "too",
+    "so",
+    "very",
+    "such"
+   ],
+   "answer": 1,
+   "explain": "so + adj (convincing) + that. such cần danh từ; too/very không dùng với mệnh đề 'that' chỉ kết quả.",
+   "review": "Lớp 12 · Unit 7 – Listening",
+   "pid": "G12U7-P2",
+   "blank": 8
+  },
+  {
+   "id": "G12U7-C09",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "News and reliability",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "source",
+    "subscription",
+    "circulation",
+    "coverage"
+   ],
+   "answer": 0,
+   "explain": "check the source of a story = kiểm tra nguồn tin, khớp với câu hỏi tiếp theo (tổ chức tin tức nổi tiếng hay trang web lạ). coverage, circulation, subscription không hợp nghĩa.",
+   "review": "Lớp 12 · Unit 7 – Listening",
+   "pid": "G12U7-P2",
+   "blank": 9
+  },
+  {
+   "id": "G12U7-C10",
+   "unit": 7,
+   "type": "cloze",
+   "topic": "Fake news and social media",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "verify",
+    "mislead",
+    "broadcast",
+    "inform"
+   ],
+   "answer": 1,
+   "explain": "Phát tán tin giả có thể đánh lừa hàng nghìn người → mislead. inform (cung cấp thông tin), verify (xác minh) mang nghĩa tích cực, trái ý; broadcast (phát sóng) không hợp.",
+   "review": "Lớp 12 · Unit 7 – Listening",
+   "pid": "G12U7-P2",
+   "blank": 10
+  }
+ ]
+}

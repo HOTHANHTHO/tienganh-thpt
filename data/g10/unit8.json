@@ -1,0 +1,1769 @@
+{
+ "grade": 10,
+ "unit": 8,
+ "name": "New Ways to Learn",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Different ways of learning",
+  "Online learning and technology"
+ ],
+ "pron": "Sentence stress",
+ "grammar": [
+  "Relative clauses: defining and non-defining (who, that, which, whose)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề quan hệ xác định (Defining relative clauses)",
+   "page": 89,
+   "body": "Cách dùng: xác định rõ danh từ đứng trước là người/vật nào; bỏ đi thì câu không rõ nghĩa. KHÔNG dùng dấu phẩy.\n• who: thay cho người (chủ ngữ hoặc tân ngữ).\n• which: thay cho vật, sự việc.\n• that: thay cho người hoặc vật; BẮT BUỘC dùng that khi tiền ngữ gồm cả người và vật.\n• whose + danh từ: chỉ sở hữu (thay cho his/her/their/its + N).\nCấu trúc: N (người) + who/that + V… ; N (vật) + which/that + (S) + V… ; N + whose + N + V…\nVí dụ:\n- The teacher who teaches us English online is very kind.\n- The app that helps me learn new words is free.\n- She is the student whose project won the first prize.\n- The video (that) we watched yesterday was useful. → lược bỏ được đại từ khi nó làm TÂN NGỮ.\nLỗi hay gặp: dùng which cho người; lặp đại từ (the app which I use it ✗); viết whose his/her ✗; chia động từ sai theo tiền ngữ."
+  },
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề quan hệ không xác định (Non-defining relative clauses)",
+   "page": 89,
+   "body": "Cách dùng: bổ sung thông tin cho danh từ ĐÃ xác định (danh từ riêng; my/his/this + N; vật duy nhất). Bỏ đi câu vẫn đủ nghĩa. Mệnh đề đặt giữa hai dấu phẩy (hoặc sau dấu phẩy nếu ở cuối câu).\n• Dùng who, which, whose; KHÔNG dùng that; KHÔNG lược bỏ đại từ quan hệ.\n• \", which\" có thể thay cho cả mệnh đề phía trước, động từ chia số ít: We studied online for two months, which was difficult.\nVí dụ:\n- Mr Nam, who is our maths teacher, uses videos in every lesson.\n- Online learning, which is popular among teenagers, has some disadvantages.\n- Ms Hoa, whose online lessons are interesting, has many followers.\nPhân biệt nghĩa: My sister, who lives in Hue, … (chỉ có 1 chị/em gái) ≠ My sister who lives in Hue … (có nhiều chị/em gái).\nLỗi hay gặp: dùng that sau dấu phẩy; thiếu một dấu phẩy."
+  },
+  {
+   "kind": "pron",
+   "title": "Trọng âm câu (Sentence stress)",
+   "page": 88,
+   "body": "Trong câu, TỪ NỘI DUNG thường được nhấn: danh từ, động từ chính, tính từ, trạng từ, từ để hỏi (what, how…), từ phủ định (not, can't, don't).\nTỪ CHỨC NĂNG thường đọc nhẹ, lướt: mạo từ (a, an, the), giới từ (in, at, by, for), đại từ (I, we, it, us), trợ động từ/to be khẳng định (can, is, are, have), liên từ (and, but), đại từ quan hệ (who, which, that).\nVí dụ (IN HOA = nhấn): We can DISCUSS the LESSON ONLINE. / I SENT the TEACHER my HOMEWORK by EMAIL.\nNgoại lệ: trợ động từ ở cuối câu trả lời ngắn được nhấn: Yes, I CAN. / No, I CAN'T."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 88,
+   "body": "• blended / online / face-to-face / traditional learning\n• access lessons / a platform: truy cập bài học / nền tảng\n• Internet connection; electronic device; online platform; recorded lectures\n• take notes; look up a word; log in to a platform; submit an assignment\n• give / get feedback on sth: nhận xét / nhận phản hồi về\n• learn at your own pace: học theo tốc độ của mình\n• rely on / depend on: dựa vào; concentrate on: tập trung vào; interact with: tương tác với\n• develop critical thinking / communication skills\n• Họ từ: interact – interaction – interactive; depend – dependent – independent – independence; distract – distraction – distracted; motivate – motivation – motivated – motivating"
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Mệnh đề quan hệ: nhìn tiền ngữ (người → who; vật → which; cả người + vật → that); sau chỗ trống là danh từ → whose. Có dấu phẩy → loại ngay that.\n• Câu tìm lỗi: kiểm tra đại từ quan hệ có hợp tiền ngữ không, có thừa đại từ (it/them/he) không, động từ trong mệnh đề có chia theo tiền ngữ không.\n• Nối câu: tìm từ lặp (she/it/her + N) → thay bằng who/which/whose; danh từ riêng → mệnh đề có dấu phẩy; \"This\" thay cả câu → \", which\".\n• Word form: sau a/an/the/little → danh từ; trước danh từ, sau become/be/more → tính từ.\n• Trọng âm câu: từ nội dung được nhấn, từ chức năng đọc nhẹ; trợ động từ cuối câu trả lời ngắn được nhấn."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "blended learning",
+   "pos": "n phr",
+   "ipa": "/ˌblendɪd ˈlɜːnɪŋ/",
+   "vi": "học kết hợp (trực tiếp + trực tuyến)",
+   "ex": "Our school has started a blended learning programme.",
+   "page": 86
+  },
+  {
+   "w": "face-to-face",
+   "pos": "adj",
+   "ipa": "/ˌfeɪs tə ˈfeɪs/",
+   "vi": "trực tiếp, mặt đối mặt",
+   "ex": "I prefer face-to-face lessons because I can ask the teacher questions directly.",
+   "page": 86
+  },
+  {
+   "w": "online learning",
+   "pos": "n phr",
+   "ipa": "/ˌɒnlaɪn ˈlɜːnɪŋ/",
+   "vi": "học trực tuyến",
+   "ex": "Online learning allows students to study anywhere.",
+   "page": 86
+  },
+  {
+   "w": "traditional",
+   "pos": "adj",
+   "ipa": "/trəˈdɪʃənl/",
+   "vi": "truyền thống",
+   "ex": "In a traditional classroom, the teacher and students meet in person.",
+   "page": 86
+  },
+  {
+   "w": "platform",
+   "pos": "n",
+   "ipa": "/ˈplætfɔːm/",
+   "vi": "nền tảng (trực tuyến)",
+   "ex": "All the lessons are uploaded to the school's online platform.",
+   "page": 87
+  },
+  {
+   "w": "access",
+   "pos": "v",
+   "ipa": "/ˈækses/",
+   "vi": "truy cập",
+   "ex": "Students can access the lessons anytime they want.",
+   "page": 87
+  },
+  {
+   "w": "device",
+   "pos": "n",
+   "ipa": "/dɪˈvaɪs/",
+   "vi": "thiết bị",
+   "ex": "You need an electronic device such as a laptop or a tablet.",
+   "page": 87
+  },
+  {
+   "w": "electronic",
+   "pos": "adj",
+   "ipa": "/ɪˌlekˈtrɒnɪk/",
+   "vi": "(thuộc) điện tử",
+   "ex": "Many students use electronic devices to learn English.",
+   "page": 87
+  },
+  {
+   "w": "Internet connection",
+   "pos": "n phr",
+   "ipa": "/ˈɪntənet kəˌnekʃn/",
+   "vi": "kết nối mạng Internet",
+   "ex": "A good Internet connection is necessary for online classes.",
+   "page": 87
+  },
+  {
+   "w": "digital",
+   "pos": "adj",
+   "ipa": "/ˈdɪdʒɪtl/",
+   "vi": "(thuộc) kỹ thuật số",
+   "ex": "Our teacher uses digital textbooks in class.",
+   "page": 88
+  },
+  {
+   "w": "concentrate (on)",
+   "pos": "v",
+   "ipa": "/ˈkɒnsntreɪt/",
+   "vi": "tập trung (vào)",
+   "ex": "It is hard to concentrate on lessons in a noisy room.",
+   "page": 88
+  },
+  {
+   "w": "discussion",
+   "pos": "n",
+   "ipa": "/dɪˈskʌʃn/",
+   "vi": "cuộc thảo luận",
+   "ex": "We had a group discussion about the benefits of online learning.",
+   "page": 88
+  },
+  {
+   "w": "instruction",
+   "pos": "n",
+   "ipa": "/ɪnˈstrʌkʃn/",
+   "vi": "lời hướng dẫn",
+   "ex": "Listen carefully to the teacher's instructions.",
+   "page": 88
+  },
+  {
+   "w": "interact (with)",
+   "pos": "v",
+   "ipa": "/ˌɪntərˈækt/",
+   "vi": "tương tác (với)",
+   "ex": "In face-to-face classes, students can interact with their classmates.",
+   "page": 88
+  },
+  {
+   "w": "interaction",
+   "pos": "n",
+   "ipa": "/ˌɪntərˈækʃn/",
+   "vi": "sự tương tác",
+   "ex": "There is less interaction between students in online classes.",
+   "page": 88
+  },
+  {
+   "w": "interactive",
+   "pos": "adj",
+   "ipa": "/ˌɪntərˈæktɪv/",
+   "vi": "có tính tương tác",
+   "ex": "Interactive apps make learning more fun.",
+   "page": 88
+  },
+  {
+   "w": "lecture",
+   "pos": "n",
+   "ipa": "/ˈlektʃə(r)/",
+   "vi": "bài giảng",
+   "ex": "The teacher records her lectures for students to watch later.",
+   "page": 88
+  },
+  {
+   "w": "record",
+   "pos": "v",
+   "ipa": "/rɪˈkɔːd/",
+   "vi": "ghi lại (âm thanh, hình ảnh)",
+   "ex": "Many teachers record their lessons and upload them online.",
+   "page": 88
+  },
+  {
+   "w": "self-study",
+   "pos": "n",
+   "ipa": "/ˌself ˈstʌdi/",
+   "vi": "sự tự học",
+   "ex": "Self-study is an important skill for university students.",
+   "page": 88
+  },
+  {
+   "w": "motivated",
+   "pos": "adj",
+   "ipa": "/ˈməʊtɪveɪtɪd/",
+   "vi": "có động lực",
+   "ex": "Students who are not motivated may skip online lessons.",
+   "page": 90
+  },
+  {
+   "w": "independent",
+   "pos": "adj",
+   "ipa": "/ˌɪndɪˈpendənt/",
+   "vi": "độc lập",
+   "ex": "Online learning helps students become more independent.",
+   "page": 90
+  },
+  {
+   "w": "flexible",
+   "pos": "adj",
+   "ipa": "/ˈfleksəbl/",
+   "vi": "linh hoạt",
+   "ex": "Online courses are flexible, so you can study whenever you want.",
+   "page": 90
+  },
+  {
+   "w": "convenient",
+   "pos": "adj",
+   "ipa": "/kənˈviːniənt/",
+   "vi": "thuận tiện",
+   "ex": "It is convenient to study at home.",
+   "page": 90
+  },
+  {
+   "w": "at your own pace",
+   "pos": "phr",
+   "ipa": "/ət jɔːr əʊn ˈpeɪs/",
+   "vi": "theo tốc độ của riêng mình",
+   "ex": "Recorded lessons let students learn at their own pace.",
+   "page": 90
+  },
+  {
+   "w": "critical thinking",
+   "pos": "n phr",
+   "ipa": "/ˌkrɪtɪkl ˈθɪŋkɪŋ/",
+   "vi": "tư duy phản biện",
+   "ex": "Group work helps students develop critical thinking.",
+   "page": 90
+  },
+  {
+   "w": "communication skills",
+   "pos": "n phr",
+   "ipa": "/kəˌmjuːnɪˈkeɪʃn skɪlz/",
+   "vi": "kỹ năng giao tiếp",
+   "ex": "Face-to-face learning helps us improve our communication skills.",
+   "page": 90
+  },
+  {
+   "w": "distraction",
+   "pos": "n",
+   "ipa": "/dɪˈstrækʃn/",
+   "vi": "điều gây xao nhãng",
+   "ex": "Social media can be a big distraction for students.",
+   "page": 90
+  },
+  {
+   "w": "distract",
+   "pos": "v",
+   "ipa": "/dɪˈstrækt/",
+   "vi": "làm xao nhãng",
+   "ex": "Don't let your phone distract you from your studies.",
+   "page": 90
+  },
+  {
+   "w": "advantage",
+   "pos": "n",
+   "ipa": "/ədˈvɑːntɪdʒ/",
+   "vi": "lợi thế, ưu điểm",
+   "ex": "One advantage of online learning is flexibility.",
+   "page": 91
+  },
+  {
+   "w": "disadvantage",
+   "pos": "n",
+   "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+   "vi": "bất lợi, nhược điểm",
+   "ex": "A disadvantage of online learning is the lack of interaction.",
+   "page": 91
+  },
+  {
+   "w": "rely on",
+   "pos": "phr v",
+   "ipa": "/rɪˈlaɪ ɒn/",
+   "vi": "phụ thuộc vào, dựa vào",
+   "ex": "Students shouldn't rely on the Internet for all their information.",
+   "page": 91
+  },
+  {
+   "w": "take notes",
+   "pos": "phr",
+   "ipa": "/ˌteɪk ˈnəʊts/",
+   "vi": "ghi chép",
+   "ex": "Remember to take notes during the lecture.",
+   "page": 92
+  },
+  {
+   "w": "log in",
+   "pos": "phr v",
+   "ipa": "/ˌlɒɡ ˈɪn/",
+   "vi": "đăng nhập",
+   "ex": "Log in to the platform with your student ID.",
+   "page": 92
+  },
+  {
+   "w": "submit",
+   "pos": "v",
+   "ipa": "/səbˈmɪt/",
+   "vi": "nộp (bài)",
+   "ex": "Please submit your assignment before Friday.",
+   "page": 92
+  },
+  {
+   "w": "assignment",
+   "pos": "n",
+   "ipa": "/əˈsaɪnmənt/",
+   "vi": "bài tập được giao",
+   "ex": "We have to finish the assignment by next week.",
+   "page": 92
+  },
+  {
+   "w": "look up",
+   "pos": "phr v",
+   "ipa": "/ˌlʊk ˈʌp/",
+   "vi": "tra cứu (từ, thông tin)",
+   "ex": "You can look up new words in an online dictionary.",
+   "page": 92
+  },
+  {
+   "w": "feedback",
+   "pos": "n",
+   "ipa": "/ˈfiːdbæk/",
+   "vi": "nhận xét, phản hồi",
+   "ex": "Our teacher gives us feedback on our essays.",
+   "page": 93
+  },
+  {
+   "w": "benefit",
+   "pos": "n",
+   "ipa": "/ˈbenɪfɪt/",
+   "vi": "lợi ích",
+   "ex": "Blended learning has many benefits for students.",
+   "page": 93
+  },
+  {
+   "w": "effective",
+   "pos": "adj",
+   "ipa": "/ɪˈfektɪv/",
+   "vi": "hiệu quả",
+   "ex": "Group discussion is an effective way to learn.",
+   "page": 93
+  },
+  {
+   "w": "equipped with",
+   "pos": "adj",
+   "ipa": "/ɪˈkwɪpt wɪð/",
+   "vi": "được trang bị",
+   "ex": "Modern schools are equipped with smart boards and computers.",
+   "page": 94
+  },
+  {
+   "w": "smart board",
+   "pos": "n",
+   "ipa": "/ˈsmɑːt bɔːd/",
+   "vi": "bảng thông minh (bảng tương tác)",
+   "ex": "The teacher showed us a video on the smart board.",
+   "page": 94
+  }
+ ],
+ "passages": [
+  {
+   "id": "G10U8-P1",
+   "title": "Blended learning at our school",
+   "text": "Last year, our school started a blended learning programme, (1) _____ combines face-to-face lessons with online learning. Two days a week, we study at home and (2) _____ our lessons on the school's online platform. Our teachers upload recorded lectures, so we can watch them again at our own (3) _____. At first, many of us found it hard to concentrate (4) _____ our studies because of social media and games. However, we soon learnt to manage our time and became more (5) _____. Now we can find information, take notes and complete assignments without waiting for the teacher's help. On the days we are at school, we take part in group discussions and practical activities, which help us develop communication skills. Most students in my class think that blended learning gives them the best of both worlds: the flexibility of online lessons and the real interaction of a traditional classroom."
+  },
+  {
+   "id": "G10U8-P2",
+   "title": "Studying online: pros and cons",
+   "text": "Online learning has become popular among teenagers in recent years. One of its biggest advantages is that students can learn anywhere, as long as they have an electronic (6) _____ and a good Internet connection. They can also choose courses (7) _____ suit their interests and needs. However, online learning has some disadvantages. Students who are not well (8) _____ may skip lessons or stop doing their homework. In addition, sitting in front of a screen for many hours is bad for their eyes and health. (9) _____, there is less interaction between students and teachers, so students may not get immediate (10) _____ on their work. Experts suggest that students should make a clear study plan, take regular breaks and join online group activities. In this way, they can enjoy the benefits of online learning while avoiding its problems."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G10U8-V01",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 1,
+   "q": "<b>Blended learning</b> is a way of learning that _____.",
+   "options": [
+    "combines face-to-face lessons with online learning",
+    "takes place only in a traditional classroom",
+    "uses textbooks without any teachers",
+    "happens only through the Internet"
+   ],
+   "answer": 0,
+   "explain": "Blended learning = học kết hợp: kết hợp học trực tiếp trên lớp với học trực tuyến. Các phương án còn lại chỉ mô tả một hình thức học (chỉ trên lớp / chỉ qua mạng) hoặc sai nghĩa (không có giáo viên).",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V02",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 1,
+   "q": "Make sure you have a good Internet _____ before the online lesson starts.",
+   "options": [
+    "communication",
+    "connection",
+    "interaction",
+    "instruction"
+   ],
+   "answer": 1,
+   "explain": "Internet connection = kết nối mạng. communication (giao tiếp), interaction (sự tương tác), instruction (lời hướng dẫn) không đi với \"Internet\" theo nghĩa này. Dịch: Hãy chắc chắn bạn có kết nối mạng tốt trước khi buổi học trực tuyến bắt đầu.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V03",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 1,
+   "q": "Students can _____ the lessons on the school's online platform at any time.",
+   "options": [
+    "assess",
+    "accept",
+    "access",
+    "approach"
+   ],
+   "answer": 2,
+   "explain": "access (v) = truy cập (vào tài liệu, bài học, nền tảng). assess = đánh giá; accept = chấp nhận; approach = tiến lại gần/tiếp cận (một vấn đề) – không dùng cho việc mở bài học trên mạng.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V04",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 1,
+   "q": "It's hard to _____ on your studies when your phone keeps ringing.",
+   "options": [
+    "pay",
+    "distract",
+    "interest",
+    "concentrate"
+   ],
+   "answer": 3,
+   "explain": "concentrate on = tập trung vào. pay phải đi với attention (pay attention to); distract (làm xao nhãng) không đi với \"on\" và trái nghĩa; interest không dùng với \"on\".",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V05",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "In face-to-face classes, students can _____ with their teachers and classmates directly.",
+   "options": [
+    "interrupt",
+    "interact",
+    "integrate",
+    "interview"
+   ],
+   "answer": 1,
+   "explain": "interact with = tương tác với. interrupt = ngắt lời; integrate = hòa nhập/tích hợp; interview = phỏng vấn – không hợp nghĩa câu \"trong lớp học trực tiếp, học sinh có thể tương tác trực tiếp với thầy cô và bạn bè\".",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V06",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 1,
+   "q": "Many teachers _____ their lectures so that students can watch them again later.",
+   "options": [
+    "record",
+    "report",
+    "recall",
+    "remind"
+   ],
+   "answer": 0,
+   "explain": "record (v) = ghi hình/ghi âm. Ghi lại bài giảng thì học sinh mới xem lại được. report = báo cáo; recall = nhớ lại; remind = nhắc nhở.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V07",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 1,
+   "q": "Please _____ your assignment through the online platform before Friday.",
+   "options": [
+    "admit",
+    "commit",
+    "permit",
+    "submit"
+   ],
+   "answer": 3,
+   "explain": "submit an assignment = nộp bài tập. admit = thừa nhận; commit = phạm (lỗi), cam kết; permit = cho phép.",
+   "review": "Lớp 10 · Unit 8 – Listening"
+  },
+  {
+   "id": "G10U8-V08",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 1,
+   "q": "A _____ is a long talk on a subject, given to a group of students, especially at university.",
+   "options": [
+    "lecturer",
+    "letter",
+    "lecture",
+    "leisure"
+   ],
+   "answer": 2,
+   "explain": "lecture (n) = bài giảng. lecturer là người giảng (giảng viên), không phải \"bài nói\"; letter = lá thư; leisure = thời gian rảnh.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V09",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "Online learning helps students become more _____ because they have to manage their own time.",
+   "options": [
+    "independence",
+    "dependent",
+    "independent",
+    "depend"
+   ],
+   "answer": 2,
+   "explain": "Sau become more cần TÍNH TỪ → independent (độc lập). independence là danh từ, depend là động từ; dependent là tính từ nhưng nghĩa \"phụ thuộc\" – trái với ý \"tự quản lý thời gian\".",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V10",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 2,
+   "q": "There was very little _____ between students in the online class.",
+   "options": [
+    "interact",
+    "interactive",
+    "interactively",
+    "interaction"
+   ],
+   "answer": 3,
+   "explain": "Sau little cần DANH TỪ (không đếm được) → interaction (sự tương tác). interact là động từ, interactive là tính từ, interactively là trạng từ.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V11",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 2,
+   "q": "Our school has just bought some _____ whiteboards for the new classrooms.",
+   "options": [
+    "interactive",
+    "interaction",
+    "interact",
+    "interactively"
+   ],
+   "answer": 0,
+   "explain": "Trước danh từ whiteboards cần TÍNH TỪ → interactive whiteboards (bảng tương tác). Các phương án còn lại là danh từ, động từ, trạng từ.",
+   "review": "Lớp 10 · Unit 8 – Communication and Culture"
+  },
+  {
+   "id": "G10U8-V12",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 2,
+   "q": "Social media can be a big _____ for students when they study at home.",
+   "options": [
+    "distract",
+    "distraction",
+    "distracted",
+    "distracting"
+   ],
+   "answer": 1,
+   "explain": "Sau a big cần DANH TỪ → distraction (điều gây xao nhãng). distract là động từ; distracted/distracting là tính từ, không đứng sau \"a big\" mà thiếu danh từ.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V13",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 1,
+   "q": "During the lecture, you should _____ notes of the main points.",
+   "options": [
+    "do",
+    "get",
+    "bring",
+    "take"
+   ],
+   "answer": 3,
+   "explain": "Collocation: take notes = ghi chép. Không nói do/get/bring notes với nghĩa này.",
+   "review": "Lớp 10 · Unit 8 – Listening"
+  },
+  {
+   "id": "G10U8-V14",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 1,
+   "q": "If you don't know a word, you can _____ it _____ in an online dictionary.",
+   "options": [
+    "look / after",
+    "give / up",
+    "look / up",
+    "turn / down"
+   ],
+   "answer": 2,
+   "explain": "look sth up = tra cứu (từ, thông tin). look after = chăm sóc; give up = từ bỏ; turn down = từ chối/vặn nhỏ.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-V15",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Online learning and technology",
+   "level": 3,
+   "q": "Students shouldn't _____ too much on the Internet for information; they should also read books.",
+   "options": [
+    "take",
+    "rely",
+    "look",
+    "insist"
+   ],
+   "answer": 1,
+   "explain": "rely on sb/sth (for sth) = dựa vào, phụ thuộc vào. take on = đảm nhận; look on = đứng xem; insist on = khăng khăng đòi – đều không hợp nghĩa \"dựa quá nhiều vào Internet để lấy thông tin\".",
+   "review": "Lớp 10 · Unit 8 – Speaking"
+  },
+  {
+   "id": "G10U8-V16",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "Online courses are <u>flexible</u>, so students can study whenever they want.\n(Choose the word/phrase CLOSEST in meaning to the underlined word.)",
+   "options": [
+    "able to change easily to suit different needs",
+    "difficult to understand",
+    "costing a lot of money",
+    "lasting for a long time"
+   ],
+   "answer": 0,
+   "explain": "flexible = linh hoạt, dễ thay đổi để phù hợp nhu cầu. Vế sau \"học bất cứ khi nào muốn\" là gợi ý. Các phương án khác: khó hiểu, đắt tiền, kéo dài – không liên quan.",
+   "review": "Lớp 10 · Unit 8 – Reading"
+  },
+  {
+   "id": "G10U8-V17",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 3,
+   "q": "Many students feel highly <u>motivated</u> when they learn with interactive apps.\n(Choose the word OPPOSITE in meaning to the underlined word.)",
+   "options": [
+    "uninterested",
+    "excited",
+    "encouraged",
+    "enthusiastic"
+   ],
+   "answer": 0,
+   "explain": "motivated = có động lực, hứng thú học. Trái nghĩa: uninterested (không hứng thú). excited, encouraged, enthusiastic đều gần nghĩa với motivated.",
+   "review": "Lớp 10 · Unit 8 – Reading"
+  },
+  {
+   "id": "G10U8-V18",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "With recorded lessons, students can learn at their own <u>pace</u>.\n(Choose the word CLOSEST in meaning to the underlined word.)",
+   "options": [
+    "place",
+    "price",
+    "speed",
+    "plan"
+   ],
+   "answer": 2,
+   "explain": "pace = nhịp độ, tốc độ → speed. at your own pace = theo tốc độ của riêng mình. place (nơi chốn), price (giá), plan (kế hoạch) dễ gây nhầm vì cách viết gần giống.",
+   "review": "Lớp 10 · Unit 8 – Reading"
+  },
+  {
+   "id": "G10U8-V19",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 3,
+   "q": "Blended learning gives students the <u>advantages</u> of both online and face-to-face classes.\n(Choose the word OPPOSITE in meaning to the underlined word.)",
+   "options": [
+    "benefits",
+    "drawbacks",
+    "strengths",
+    "profits"
+   ],
+   "answer": 1,
+   "explain": "advantages = ưu điểm, lợi thế. Trái nghĩa: drawbacks (nhược điểm, = disadvantages). benefits, strengths, profits đều mang nghĩa tích cực, gần với advantages.",
+   "review": "Lớp 10 · Unit 8 – Speaking"
+  },
+  {
+   "id": "G10U8-V20",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Different ways of learning",
+   "level": 3,
+   "q": "Group discussions help students develop their _____ thinking because they have to analyse and judge different ideas.",
+   "options": [
+    "critic",
+    "criticise",
+    "criticism",
+    "critical"
+   ],
+   "answer": 3,
+   "explain": "critical thinking = tư duy phản biện; trước danh từ thinking cần tính từ critical. critic (nhà phê bình), criticism (sự chỉ trích) là danh từ, criticise là động từ.",
+   "review": "Lớp 10 · Unit 8 – Reading"
+  },
+  {
+   "id": "G10U8-G01",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "The student _____ sits next to me is very good at using computers.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "what"
+   ],
+   "answer": 1,
+   "explain": "Danh từ chỉ NGƯỜI (the student) làm chủ ngữ cho mệnh đề quan hệ → who. which dùng cho vật; whose chỉ sở hữu (phải có danh từ theo sau); what không dùng làm đại từ quan hệ sau danh từ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G02",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "The laptop _____ my parents bought me is very light.",
+   "options": [
+    "who",
+    "whose",
+    "which",
+    "what"
+   ],
+   "answer": 2,
+   "explain": "Danh từ chỉ VẬT (the laptop) làm tân ngữ của bought → which (hoặc that, hoặc lược bỏ). who dùng cho người; whose cần danh từ theo sau; what không đứng sau danh từ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G03",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "Nam is the boy _____ tablet was broken yesterday.",
+   "options": [
+    "whose",
+    "who",
+    "which",
+    "that"
+   ],
+   "answer": 0,
+   "explain": "Sau chỗ trống là danh từ tablet, chỉ quan hệ sở hữu (máy tính bảng CỦA cậu bé) → whose + N. who/which/that không đứng trước danh từ để chỉ sở hữu.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G04",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "This is the app _____ helps me learn new words every day.",
+   "options": [
+    "who",
+    "whose",
+    "what",
+    "that"
+   ],
+   "answer": 3,
+   "explain": "the app là vật, làm chủ ngữ của helps → that (hoặc which) trong mệnh đề quan hệ xác định. who chỉ người; whose cần danh từ theo sau; what không dùng sau danh từ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G05",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Mr Long, _____ teaches us English, often uses videos in his lessons.",
+   "options": [
+    "that",
+    "who",
+    "which",
+    "whose"
+   ],
+   "answer": 1,
+   "explain": "Mr Long là danh từ riêng, mệnh đề nằm giữa hai dấu phẩy → mệnh đề không xác định; chỉ người → who. KHÔNG dùng that sau dấu phẩy; which chỉ vật; whose cần danh từ theo sau.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G06",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Online learning, _____ is popular among students, has some disadvantages.",
+   "options": [
+    "which",
+    "that",
+    "who",
+    "what"
+   ],
+   "answer": 0,
+   "explain": "Mệnh đề không xác định (có dấu phẩy) bổ nghĩa cho sự vật online learning → which. that không dùng trong mệnh đề không xác định; who chỉ người; what không dùng làm đại từ quan hệ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G07",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Ms Hoa, _____ online lessons are very interesting, has thousands of followers.",
+   "options": [
+    "who",
+    "which",
+    "that",
+    "whose"
+   ],
+   "answer": 3,
+   "explain": "Sau chỗ trống là cụm danh từ online lessons – các bài học CỦA cô Hoa → whose. Dịch: Cô Hoa, người có các bài học trực tuyến rất thú vị, có hàng nghìn người theo dõi.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G08",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "We had to study online for two months, _____ was quite difficult for us.",
+   "options": [
+    "that",
+    "what",
+    "which",
+    "who"
+   ],
+   "answer": 2,
+   "explain": "which sau dấu phẩy có thể thay cho CẢ MỆNH ĐỀ phía trước (việc phải học trực tuyến hai tháng). that không đứng sau dấu phẩy; what và who không dùng được ở đây.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G09",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Which sentence is correct?",
+   "options": [
+    "My school, that is in the city centre, has modern classrooms.",
+    "My school, which is in the city centre, has modern classrooms.",
+    "My school which is in the city centre, has modern classrooms.",
+    "My school, which it is in the city centre, has modern classrooms."
+   ],
+   "answer": 1,
+   "explain": "\"My school\" đã xác định → mệnh đề không xác định: dùng which và đặt giữa HAI dấu phẩy. Câu dùng that sau dấu phẩy sai; câu chỉ có một dấu phẩy sai dấu câu; câu thêm \"it\" lặp chủ ngữ là sai.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G10",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "In which sentence can the relative pronoun be left out?",
+   "options": [
+    "The teacher who taught us maths has retired.",
+    "The website which has many free lessons is popular.",
+    "The book that I borrowed from the library is useful.",
+    "Lan, whom I met in the online class, is very friendly."
+   ],
+   "answer": 2,
+   "explain": "Chỉ lược bỏ được đại từ quan hệ khi nó làm TÂN NGỮ trong mệnh đề XÁC ĐỊNH: The book (that) I borrowed… Trong hai câu đầu, who/which làm chủ ngữ nên không bỏ được; câu về Lan là mệnh đề không xác định nên không được lược bỏ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G11",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "The online course _____ last month was very useful.",
+   "options": [
+    "I took it",
+    "which I took it",
+    "I took",
+    "who I took"
+   ],
+   "answer": 2,
+   "explain": "Đại từ quan hệ làm tân ngữ trong mệnh đề xác định có thể lược bỏ: The online course (which/that) I took… \"which I took it\" và \"I took it\" thừa \"it\"; who dùng cho người.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G12",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "The teachers _____ work at this school are well trained in using technology.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "what"
+   ],
+   "answer": 1,
+   "explain": "the teachers là người, làm chủ ngữ của work → who. which chỉ vật; whose cần danh từ theo sau; what không dùng sau danh từ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G13",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Students _____ homework is late will lose marks.",
+   "options": [
+    "whose",
+    "who's",
+    "who",
+    "that"
+   ],
+   "answer": 0,
+   "explain": "Bài tập CỦA học sinh → whose + homework. who's = who is (sai ngữ pháp vì đã có \"is\"); who/that đứng trước danh từ homework thì câu thiếu nghĩa sở hữu, sai cấu trúc.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G14",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "I don't like apps _____ show too many advertisements.",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "what"
+   ],
+   "answer": 0,
+   "explain": "apps là vật, làm chủ ngữ của show → which (hoặc that). who chỉ người; whose cần danh từ theo sau; what không dùng sau danh từ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G15",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 3,
+   "q": "Ha Noi, _____ I visited last summer, has many famous universities.",
+   "options": [
+    "that",
+    "who",
+    "whose",
+    "which"
+   ],
+   "answer": 3,
+   "explain": "Ha Noi là danh từ riêng chỉ nơi chốn, mệnh đề có dấu phẩy và Ha Noi làm TÂN NGỮ của visited → which. that không dùng sau dấu phẩy; who chỉ người; whose cần danh từ.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G16",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 3,
+   "q": "\"My sister, who studies in Hue, often takes online courses.\" What does this sentence suggest?",
+   "options": [
+    "The speaker has more than one sister.",
+    "The speaker has only one sister.",
+    "The speaker's sister doesn't study.",
+    "The speaker studies in Hue."
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề KHÔNG xác định (có dấu phẩy) chỉ thêm thông tin; danh từ \"my sister\" đã rõ → người nói chỉ có MỘT chị/em gái. Nếu không có dấu phẩy (My sister who studies in Hue…) mới gợi ý có nhiều chị/em gái.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G17",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "The platform _____ we use for our online lessons is easy to access.",
+   "options": [
+    "who",
+    "whose",
+    "it",
+    "which"
+   ],
+   "answer": 3,
+   "explain": "the platform là vật, làm tân ngữ của use → which (hoặc that, hoặc lược bỏ). who chỉ người; whose cần danh từ; it không phải đại từ quan hệ, không nối được hai mệnh đề.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G18",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 1,
+   "q": "A person _____ teaches at a university is called a lecturer.",
+   "options": [
+    "who",
+    "whose",
+    "which",
+    "where"
+   ],
+   "answer": 0,
+   "explain": "a person là người, làm chủ ngữ của teaches → who. whose cần danh từ theo sau; which chỉ vật; where chỉ nơi chốn.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G19",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 3,
+   "q": "I'll never forget the teacher and the lessons _____ inspired me to study English.",
+   "options": [
+    "which",
+    "who",
+    "that",
+    "whose"
+   ],
+   "answer": 2,
+   "explain": "Tiền ngữ gồm cả NGƯỜI và VẬT (the teacher and the lessons) → bắt buộc dùng that. who chỉ hợp với người, which chỉ hợp với vật; whose cần danh từ theo sau.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-G20",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 3,
+   "q": "Smartphones, _____ are very convenient, can also distract students in class.",
+   "options": [
+    "that",
+    "who",
+    "they",
+    "which"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề không xác định (có dấu phẩy) bổ nghĩa cho vật (smartphones) → which. that không dùng sau dấu phẩy; who chỉ người; they là đại từ nhân xưng, không nối được mệnh đề.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-P01",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "access<u>ed</u>",
+    "record<u>ed</u>",
+    "discuss<u>ed</u>",
+    "watch<u>ed</u>"
+   ],
+   "answer": 1,
+   "explain": "recorded /rɪˈkɔːdɪd/: -ed đọc /ɪd/ vì động từ tận cùng bằng /d/. accessed /ˈæksest/, discussed /dɪˈskʌst/, watched /wɒtʃt/: -ed đọc /t/ sau âm vô thanh /s/, /tʃ/.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P02",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "l<u>ea</u>rn",
+    "t<u>ea</u>cher",
+    "sp<u>ea</u>k",
+    "l<u>ea</u>ve"
+   ],
+   "answer": 0,
+   "explain": "learn /lɜːn/: \"ea\" đọc /ɜː/. teacher /ˈtiːtʃə(r)/, speak /spiːk/, leave /liːv/: \"ea\" đọc /iː/.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P03",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>o</u>nline",
+    "pr<u>o</u>blem",
+    "m<u>o</u>tivated",
+    "kn<u>o</u>wledge"
+   ],
+   "answer": 2,
+   "explain": "motivated /ˈməʊtɪveɪtɪd/: \"o\" đọc /əʊ/. online /ˌɒnˈlaɪn/, problem /ˈprɒbləm/, knowledge /ˈnɒlɪdʒ/: \"o\" đọc /ɒ/.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P04",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "dev<u>i</u>ce",
+    "onl<u>i</u>ne",
+    "prov<u>i</u>de",
+    "d<u>i</u>gital"
+   ],
+   "answer": 3,
+   "explain": "digital /ˈdɪdʒɪtl/: \"i\" đọc /ɪ/. device /dɪˈvaɪs/, online /ˌɒnˈlaɪn/, provide /prəˈvaɪd/: \"i\" đọc /aɪ/.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P05",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "concentrate",
+    "discussion",
+    "instruction",
+    "connection"
+   ],
+   "answer": 0,
+   "explain": "concentrate /ˈkɒnsntreɪt/ nhấn âm 1. discussion /dɪˈskʌʃn/, instruction /ɪnˈstrʌkʃn/, connection /kəˈnekʃn/ nhấn âm 2 (từ tận cùng -tion/-sion nhấn ngay trước đuôi).",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P06",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "access",
+    "device",
+    "lecture",
+    "laptop"
+   ],
+   "answer": 1,
+   "explain": "device /dɪˈvaɪs/ nhấn âm 2. access /ˈækses/, lecture /ˈlektʃə(r)/, laptop /ˈlæptɒp/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P07",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "flexible",
+    "digital",
+    "convenient",
+    "physical"
+   ],
+   "answer": 2,
+   "explain": "convenient /kənˈviːniənt/ nhấn âm 2. flexible /ˈfleksəbl/, digital /ˈdɪdʒɪtl/, physical /ˈfɪzɪkl/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P08",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "independent",
+    "motivation",
+    "information",
+    "communicate"
+   ],
+   "answer": 3,
+   "explain": "communicate /kəˈmjuːnɪkeɪt/ nhấn âm 2. independent /ˌɪndɪˈpendənt/, motivation /ˌməʊtɪˈveɪʃn/, information /ˌɪnfəˈmeɪʃn/ nhấn âm 3.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P09",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 2,
+   "q": "Which word is normally NOT stressed in this sentence?\n\"We can discuss the lesson online.\"",
+   "options": [
+    "can",
+    "discuss",
+    "lesson",
+    "online"
+   ],
+   "answer": 0,
+   "explain": "Trọng âm câu rơi vào TỪ NỘI DUNG (động từ chính, danh từ, tính từ, trạng từ): discuss, lesson, online. can là trợ động từ khẳng định (từ chức năng) nên thường đọc nhẹ /kən/.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P10",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 2,
+   "q": "Which word is normally stressed in this sentence?\n\"I sent the teacher my homework by email.\"",
+   "options": [
+    "I",
+    "teacher",
+    "the",
+    "by"
+   ],
+   "answer": 1,
+   "explain": "teacher là danh từ – từ nội dung nên được nhấn (cùng với sent, homework, email). I (đại từ), the (mạo từ), by (giới từ) là từ chức năng, thường không nhấn.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P11",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 2,
+   "q": "Which group contains only words that are normally stressed in a sentence?",
+   "options": [
+    "a, the, in",
+    "is, are, can",
+    "learn, quickly, useful",
+    "and, but, or"
+   ],
+   "answer": 2,
+   "explain": "learn (động từ chính), quickly (trạng từ), useful (tính từ) đều là từ nội dung → được nhấn. Các nhóm khác là mạo từ/giới từ, trợ động từ/to be, liên từ – từ chức năng, thường không nhấn.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-P12",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Sentence stress",
+   "level": 3,
+   "q": "In which sentence is the auxiliary verb normally stressed?",
+   "options": [
+    "She can use the app.",
+    "They are studying online.",
+    "I have finished my project.",
+    "\"Can you join the class?\" – \"Yes, I can.\""
+   ],
+   "answer": 3,
+   "explain": "Trợ động từ đứng CUỐI câu trả lời ngắn được nhấn và đọc đầy đủ: \"Yes, I CAN /kæn/.\" Trong ba câu còn lại, can/are/have là trợ động từ khẳng định ở giữa câu nên đọc nhẹ.",
+   "review": "Lớp 10 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U8-E01",
+   "unit": 8,
+   "type": "error",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe teacher <u>which</u> (A) <u>teaches</u> (B) us maths <u>often uses</u> (C) videos <u>in</u> (D) her lessons.",
+   "options": [
+    "A. which",
+    "B. teaches",
+    "C. often uses",
+    "D. in"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: tiền ngữ the teacher chỉ người → sửa which thành who (hoặc that).",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-E02",
+   "unit": 8,
+   "type": "error",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMs Lan, <u>who</u> (A) <u>teach</u> (B) English at our school, <u>is</u> (C) very good <u>at</u> (D) using technology.",
+   "options": [
+    "A. who",
+    "B. teach",
+    "C. is",
+    "D. at"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: động từ trong mệnh đề quan hệ chia theo tiền ngữ Ms Lan (số ít) → sửa teach thành teaches.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-E03",
+   "unit": 8,
+   "type": "error",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nOnline learning, <u>which</u> (A) <u>has become</u> (B) popular, <u>help</u> (C) students study <u>at their own pace</u> (D).",
+   "options": [
+    "A. which",
+    "B. has become",
+    "C. help",
+    "D. at their own pace"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: chủ ngữ chính là Online learning (số ít) → sửa help thành helps. Mệnh đề which… chỉ là phần chèn thêm.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-E04",
+   "unit": 8,
+   "type": "error",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe students <u>who</u> (A) laptops <u>were</u> (B) broken <u>had to</u> (C) share <u>with</u> (D) their friends.",
+   "options": [
+    "A. who",
+    "B. were",
+    "C. had to",
+    "D. with"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: sau chỗ này là danh từ laptops (máy tính CỦA học sinh) → sửa who thành whose.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-E05",
+   "unit": 8,
+   "type": "error",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe app <u>which</u> (A) I downloaded <u>it</u> (B) yesterday <u>is</u> (C) very <u>useful</u> (D).",
+   "options": [
+    "A. which",
+    "B. it",
+    "C. is",
+    "D. useful"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: which đã thay cho the app (tân ngữ của downloaded) → bỏ it. Câu đúng: The app which I downloaded yesterday is very useful.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-E06",
+   "unit": 8,
+   "type": "error",
+   "topic": "Online learning and technology",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nOur school has <u>a lot of</u> (A) smart boards, <u>which</u> (B) <u>make</u> (C) lessons more <u>interact</u> (D).",
+   "options": [
+    "A. a lot of",
+    "B. which",
+    "C. make",
+    "D. interact"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: sau make + O + more cần TÍNH TỪ → sửa interact thành interactive. (which thay cho smart boards số nhiều nên make là đúng.)",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-E07",
+   "unit": 8,
+   "type": "error",
+   "topic": "Different ways of learning",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThis is the girl <u>whose</u> (A) presentation <u>about</u> (B) blended learning <u>won</u> (C) the <u>firstly</u> (D) prize.",
+   "options": [
+    "A. whose",
+    "B. about",
+    "C. won",
+    "D. firstly"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: trước danh từ prize cần số thứ tự first (giải nhất); firstly là trạng từ (thứ nhất là…) → sửa thành first.",
+   "review": "Lớp 10 · Unit 8 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-E08",
+   "unit": 8,
+   "type": "error",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nLast week we <u>visited</u> (A) <u>a</u> (B) modern school in Ha Noi, <u>that</u> (C) is equipped <u>with</u> (D) smart boards.",
+   "options": [
+    "A. visited",
+    "B. a",
+    "C. that",
+    "D. with"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: sau dấu phẩy là mệnh đề không xác định, không dùng that → sửa thành which.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-R01",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nOnline learning is not as interactive as face-to-face learning.",
+   "options": [
+    "Face-to-face learning is more interactive than online learning.",
+    "Online learning is more interactive than face-to-face learning.",
+    "Face-to-face learning is less interactive than online learning.",
+    "Online learning is as interactive as face-to-face learning."
+   ],
+   "answer": 0,
+   "explain": "not as + adj + as (không… bằng) = vế kia \"more + adj + than\". Câu gốc: học trực tuyến KHÔNG tương tác bằng học trực tiếp → học trực tiếp tương tác hơn. Ba câu còn lại đảo ngược hoặc sai nghĩa.",
+   "review": "Lớp 10 · Unit 8 – Reading"
+  },
+  {
+   "id": "G10U8-R02",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's a good idea for you to take notes during the lecture.",
+   "options": [
+    "You mustn't take notes during the lecture.",
+    "You should take notes during the lecture.",
+    "You needn't take notes during the lecture.",
+    "You can't take notes during the lecture."
+   ],
+   "answer": 1,
+   "explain": "It's a good idea for you to… = lời khuyên → should. mustn't (cấm), needn't (không cần), can't (không thể) đều sai nghĩa.",
+   "review": "Lớp 10 · Unit 8 – Listening"
+  },
+  {
+   "id": "G10U8-R03",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Online learning and technology",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nStudents can watch the lectures again because the teacher records them.",
+   "options": [
+    "The lectures record the teacher, so students can watch them again.",
+    "Because students watch the lectures again, the teacher records them.",
+    "The lectures are recorded by the teacher, so students can watch them again.",
+    "Students are recorded by the teacher, so they can watch the lectures again."
+   ],
+   "answer": 2,
+   "explain": "Chuyển sang bị động: the teacher records the lectures → the lectures are recorded by the teacher; quan hệ nguyên nhân – kết quả giữ nguyên (so). Các câu khác sai chủ thể hành động hoặc đảo ngược nguyên nhân – kết quả.",
+   "review": "Lớp 10 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U8-R04",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Online learning and technology",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nI started learning English online two years ago.",
+   "options": [
+    "I learnt English online for two years.",
+    "I haven't learnt English online for two years.",
+    "I have started learning English online since two years.",
+    "I have learnt English online for two years."
+   ],
+   "answer": 3,
+   "explain": "started… ago → hiện tại hoàn thành + for (việc vẫn đang tiếp diễn). \"I learnt… for two years\" (quá khứ đơn) nghĩa là đã kết thúc; \"haven't learnt\" trái nghĩa; \"since two years\" sai (since + mốc thời gian).",
+   "review": "Lớp 10 · Unit 8 – Getting Started"
+  },
+  {
+   "id": "G10U8-R05",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Online learning and technology",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf you don't have a good Internet connection, you can't join the online class.",
+   "options": [
+    "Unless you don't have a good Internet connection, you can't join the online class.",
+    "If you have a good Internet connection, you can't join the online class.",
+    "Unless you have a good Internet connection, you can't join the online class.",
+    "You can join the online class unless you have a good Internet connection."
+   ],
+   "answer": 2,
+   "explain": "Unless = If… not. If you don't have… = Unless you have… \"Unless you don't have\" là phủ định kép, sai nghĩa; hai câu còn lại đảo ngược ý.",
+   "review": "Lớp 10 · Unit 8 – Listening"
+  },
+  {
+   "id": "G10U8-R06",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nMy brother, who is a university student, often studies online.",
+   "options": [
+    "My brother is a university student, but he never studies online.",
+    "My brother often studies online so that he can become a university student.",
+    "My brothers, who are university students, often study online.",
+    "My brother is a university student, and he often studies online."
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề không xác định chỉ bổ sung thông tin: anh trai là sinh viên đại học VÀ thường học trực tuyến. Câu dùng never trái nghĩa; câu so that thay đổi mục đích; câu My brothers đổi thành nhiều người anh.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-R07",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe teacher is very kind. She teaches us English online.",
+   "options": [
+    "The teacher which teaches us English online is very kind.",
+    "The teacher who teaches us English online is very kind.",
+    "The teacher who she teaches us English online is very kind.",
+    "The teacher whose teaches us English online is very kind."
+   ],
+   "answer": 1,
+   "explain": "She thay cho the teacher (người, chủ ngữ) → who teaches… which dùng cho vật; \"who she\" thừa chủ ngữ; whose phải có danh từ theo sau.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-R08",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nLan is my best friend. Her laptop was stolen last week.",
+   "options": [
+    "Lan, whose laptop was stolen last week, is my best friend.",
+    "Lan, who laptop was stolen last week, is my best friend.",
+    "Lan, that her laptop was stolen last week, is my best friend.",
+    "Lan, whose her laptop was stolen last week, is my best friend."
+   ],
+   "answer": 0,
+   "explain": "Her laptop (sở hữu) → whose laptop; Lan là danh từ riêng nên dùng mệnh đề không xác định có dấu phẩy. who không chỉ sở hữu; that không dùng sau dấu phẩy; \"whose her\" thừa tính từ sở hữu.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-R09",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nWe use an app to learn vocabulary. It is free.",
+   "options": [
+    "The app which we use it to learn vocabulary is free.",
+    "The app who we use to learn vocabulary is free.",
+    "The app, that we use to learn vocabulary, is free.",
+    "The app which we use to learn vocabulary is free."
+   ],
+   "answer": 3,
+   "explain": "an app = It (vật, tân ngữ của use) → The app which we use… Câu có \"use it\" thừa tân ngữ; who chỉ người; that không đặt giữa hai dấu phẩy.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-R10",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nOur school has installed smart boards in all classrooms. This makes lessons more interesting.",
+   "options": [
+    "Our school has installed smart boards in all classrooms, that makes lessons more interesting.",
+    "Our school has installed smart boards in all classrooms, which makes lessons more interesting.",
+    "Our school has installed smart boards in all classrooms, what makes lessons more interesting.",
+    "Our school has installed smart boards in all classrooms, who makes lessons more interesting."
+   ],
+   "answer": 1,
+   "explain": "This thay cho cả mệnh đề trước → \", which\" (which thay cả mệnh đề, động từ chia số ít makes). that không đứng sau dấu phẩy; what, who không dùng được.",
+   "review": "Lớp 10 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G10U8-C01",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "which",
+    "that",
+    "who",
+    "whose"
+   ],
+   "answer": 0,
+   "explain": "Sau dấu phẩy, bổ nghĩa cho vật (a blended learning programme) → which. that không dùng sau dấu phẩy; who chỉ người; whose cần danh từ theo sau.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P1",
+   "blank": 1
+  },
+  {
+   "id": "G10U8-C02",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Online learning and technology",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "connect",
+    "contact",
+    "access",
+    "consist"
+   ],
+   "answer": 2,
+   "explain": "access our lessons = truy cập bài học trên nền tảng. connect cần to/with; contact = liên lạc (với người); consist of = bao gồm.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P1",
+   "blank": 2
+  },
+  {
+   "id": "G10U8-C03",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "place",
+    "pace",
+    "price",
+    "race"
+   ],
+   "answer": 1,
+   "explain": "at our own pace = theo tốc độ của riêng mình (cụm cố định). place, price, race chỉ gần giống về hình thức.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P1",
+   "blank": 3
+  },
+  {
+   "id": "G10U8-C04",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Different ways of learning",
+   "level": 1,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "in",
+    "at",
+    "with",
+    "on"
+   ],
+   "answer": 3,
+   "explain": "concentrate on sth = tập trung vào việc gì.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P1",
+   "blank": 4
+  },
+  {
+   "id": "G10U8-C05",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Different ways of learning",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "independence",
+    "dependent",
+    "independent",
+    "independently"
+   ],
+   "answer": 2,
+   "explain": "Sau became more cần TÍNH TỪ; ý câu: học cách tự quản lý thời gian → trở nên độc lập hơn (independent). dependent (phụ thuộc) trái nghĩa; independence là danh từ, independently là trạng từ.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P1",
+   "blank": 5
+  },
+  {
+   "id": "G10U8-C06",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Online learning and technology",
+   "level": 1,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "devise",
+    "advice",
+    "design",
+    "device"
+   ],
+   "answer": 3,
+   "explain": "an electronic device = thiết bị điện tử. devise là động từ (nghĩ ra); advice = lời khuyên (không đếm được, không dùng với an); design = thiết kế.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P2",
+   "blank": 6
+  },
+  {
+   "id": "G10U8-C07",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Relative clauses: defining and non-defining (who, that, which, whose)",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "that",
+    "who",
+    "whose",
+    "what"
+   ],
+   "answer": 0,
+   "explain": "courses là vật, làm chủ ngữ của suit → that (hoặc which). who chỉ người; whose cần danh từ theo sau; what không đứng sau danh từ.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P2",
+   "blank": 7
+  },
+  {
+   "id": "G10U8-C08",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Different ways of learning",
+   "level": 2,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "motivating",
+    "motivated",
+    "motivation",
+    "motivate"
+   ],
+   "answer": 1,
+   "explain": "Sau are well cần tính từ chỉ cảm nhận của người → motivated (có động lực). motivating = tạo động lực (tính chất của sự vật); motivation là danh từ, motivate là động từ.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P2",
+   "blank": 8
+  },
+  {
+   "id": "G10U8-C09",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Different ways of learning",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "However",
+    "Therefore",
+    "Moreover",
+    "Instead"
+   ],
+   "answer": 2,
+   "explain": "Câu này nêu thêm một nhược điểm nữa → Moreover (hơn nữa). However chỉ sự tương phản; Therefore chỉ kết quả; Instead (thay vào đó) không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P2",
+   "blank": 9
+  },
+  {
+   "id": "G10U8-C10",
+   "unit": 8,
+   "type": "cloze",
+   "topic": "Online learning and technology",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "feedback",
+    "result",
+    "reply",
+    "answer"
+   ],
+   "answer": 0,
+   "explain": "get feedback on sth = nhận phản hồi/nhận xét về (bài làm). result, reply, answer không kết hợp tự nhiên với \"on their work\" theo nghĩa này.",
+   "review": "Lớp 10 · Unit 8 – Reading; Writing",
+   "pid": "G10U8-P2",
+   "blank": 10
+  }
+ ]
+}

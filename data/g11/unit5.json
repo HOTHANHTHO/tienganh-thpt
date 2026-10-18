@@ -1,0 +1,1787 @@
+{
+ "grade": 11,
+ "unit": 5,
+ "name": "Global Warming",
+ "src": "book",
+ "vocabTopics": [
+  "Global warming: causes and effects",
+  "Energy, fuels and emissions",
+  "Human activities and the environment"
+ ],
+ "pron": "Sentence stress and rhythm",
+ "grammar": [
+  "Present participle clauses",
+  "Past participle clauses"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề phân từ hiện tại (Present participle clauses: V-ing)",
+   "page": 54,
+   "body": "Dùng V-ing để rút gọn một mệnh đề khi hai hành động có CÙNG CHỦ NGỮ và chủ ngữ CHỦ ĐỘNG thực hiện hành động.\n• Cấu trúc: V-ing + (tân ngữ/bổ ngữ), S + V … (hoặc S + V …, V-ing …)\n• Công dụng trong sách: (1) giải thích lý do: <i>Trapping too much of the sun's heat, greenhouse gases stop it from escaping back into space.</i> (= Because they trap…); (2) hai hành động xảy ra cùng lúc: <i>Walking on the beach, they picked up litter.</i>\n• Thêm: diễn tả hành động nối tiếp/kết quả: <i>The farmers cut down the local forest, destroying all the wildlife there.</i>; phủ định: <i>Not knowing what to do, he burnt the rubbish.</i>\n• Rút gọn mệnh đề quan hệ chủ động: <i>People living near the coast</i> (= who live …).\n• Lỗi hay gặp: giữ trợ động từ (Was waiting (sai) → Waiting for the train, I read…); dùng sai chủ ngữ (mệnh đề lơ lửng): <i>Walking along the river, <u>we</u> saw a lot of rubbish</i> (đúng) chứ không phải <i>…, a lot of rubbish was seen</i>; nối hai động từ bằng dấu phẩy mà không dùng V-ing: …, were planting (sai) → …, planting more than 100 trees."
+  },
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề phân từ quá khứ (Past participle clauses: V3/-ed)",
+   "page": 54,
+   "body": "Dùng V3/-ed khi chủ ngữ của câu BỊ TÁC ĐỘNG (nghĩa bị động); hai vế vẫn cùng chủ ngữ.\n• Cấu trúc: V3 + (by …/bổ ngữ), S + V …\n• Công dụng trong sách: (1) nêu lý do: <i>Worried about climate change, many young people joined the environmental protests.</i> (= They were worried…, so they joined…); (2) nêu điều kiện: <i>Burnt for energy, fossil fuels release carbon dioxide into the atmosphere.</i> (= If fossil fuels are burnt…).\n• Cách làm: bỏ liên từ (because/so/if) + chủ ngữ + to be, giữ V3: <i>We were given enough information…, so we started our report → Given enough information…, we started our report.</i>\n• Rút gọn mệnh đề quan hệ bị động: <i>the gases produced by cars</i> (= which are produced by cars).\n• Phân biệt nhanh: chủ ngữ tự làm → V-ing (<i>Knowing the danger, …</i>); chủ ngữ bị làm → V3 (<i>Encouraged by our teacher, …</i>). Lỗi hay gặp: Encouraging by our teacher (sai), Producing in huge amounts, CO2… (sai)."
+  },
+  {
+   "kind": "pron",
+   "title": "Trọng âm câu và nhịp điệu (Sentence stress and rhythm)",
+   "page": 53,
+   "body": "• Từ nội dung (content words) thường được nhấn: động từ chính, danh từ, tính từ, trạng từ (kể cả từ để hỏi như <i>why</i>, từ phủ định).\n• Từ chức năng (grammatical words) thường KHÔNG nhấn: mạo từ (a, an, the), giới từ (of, for, into…), đại từ (it, they, our…), liên từ (and, but…), trợ động từ (is, are, was, has, can…).\n• Sự xen kẽ âm nhấn – không nhấn tạo nên nhịp của tiếng Anh; nói đúng trọng âm câu giúp nói tự nhiên, trôi chảy.\n• Ví dụ trong sách: The <b>planet</b> is <b>getting hotter</b> and <b>hotter</b>. / We <b>talked</b> about the <b>causes</b> of <b>flooding</b>. / <b>Burning coal</b> is <b>bad</b> for our <b>health</b>. / <b>Why</b> is <b>farming</b> a <b>big source</b> of <b>greenhouse gases</b>?\n• Lưu ý trọng âm từ của từ vựng Unit: reˈnewable, eˈmission, poˈllutant, ˈmethane, ˈatmosphere, ˌdeforeˈstation."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 52,
+   "body": "• global warming, greenhouse gases / effect, heat-trapping pollutants, human activities, sea levels rise / rising sea levels, polar ice caps melt\n• release CO2/greenhouse gases <b>into</b> the atmosphere; trap the sun's heat; stop sth <b>from</b> escaping\n• burn fossil fuels / coal / crop waste / organic waste; solid fuels; renewable energy / renewable sources of energy; switch <b>to</b> clean energy\n• reduce / cut / limit emissions; CO2 emissions; reduce your carbon footprint\n• have an impact <b>on</b> sth; be linked <b>to</b>; lead <b>to</b> floods; be responsible <b>for</b>; contribute <b>to</b> global warming\n• cut down / burn forests; end deforestation; raise farm animals; speed up ice melting\n• Everyday English – cảnh báo: Watch out (for …)! / I must warn you … / I wouldn't … if I were you. / Mind your …! – đáp lại: Thanks for the warning. / I'll be more careful. / Oh, really? I didn't know that. Thanks so much."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Câu hỏi mệnh đề phân từ: tìm chủ ngữ của mệnh đề chính, tự hỏi \"chủ ngữ này TỰ làm hay BỊ làm?\" → tự làm: V-ing; bị làm (thường có <i>by</i>): V3. Loại ngay phương án còn trợ động từ (was/were + V-ing) hoặc chia động từ có thì (joined, planted) đứng sau dấu phẩy mà không có liên từ.\n• Câu viết lại/kết hợp câu: hai vế phải cùng chủ ngữ; nếu chủ ngữ sau dấu phẩy không phải người/vật làm hành động ở đầu câu → sai (mệnh đề lơ lửng). Kiểm tra cả quan hệ nghĩa (lý do, điều kiện, kết quả) có giữ nguyên không.\n• Tìm lỗi sai: hay rơi vào V-ing/V3 đầu câu, sự hòa hợp chủ – vị (The gases … are), danh từ không đếm được (amounts of CO2), từ loại (renewable sources), stop/avoid + V-ing.\n• Từ vựng: nhớ cặp nghĩa release ↔ remove/absorb; renewable ↔ fossil; speed up ↔ slow down; cut down (trees) khác cut (emissions).\n• Trọng âm câu: chọn từ nội dung (danh từ, động từ chính, tính từ, trạng từ); loại mạo từ, giới từ, đại từ, trợ động từ."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "global warming",
+   "pos": "n phr",
+   "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+   "vi": "sự nóng lên toàn cầu",
+   "ex": "Global warming refers to the increase in the earth's temperature because of certain gases in the atmosphere.",
+   "page": 52
+  },
+  {
+   "w": "greenhouse gas",
+   "pos": "n phr",
+   "ipa": "/ˈɡriːnhaʊs ɡæs/",
+   "vi": "khí nhà kính",
+   "ex": "Heat-trapping pollutants are known as greenhouse gases.",
+   "page": 52
+  },
+  {
+   "w": "greenhouse effect",
+   "pos": "n phr",
+   "ipa": "/ˈɡriːnhaʊs ɪfekt/",
+   "vi": "hiệu ứng nhà kính",
+   "ex": "The impact of greenhouse gases is called the greenhouse effect.",
+   "page": 52
+  },
+  {
+   "w": "atmosphere",
+   "pos": "n",
+   "ipa": "/ˈætməsfɪə(r)/",
+   "vi": "bầu khí quyển",
+   "ex": "Fossil fuels release large amounts of carbon dioxide into the atmosphere.",
+   "page": 52
+  },
+  {
+   "w": "carbon dioxide (CO2)",
+   "pos": "n",
+   "ipa": "/ˌkɑːbən daɪˈɒksaɪd/",
+   "vi": "khí các-bon đi-ô-xít",
+   "ex": "Burnt for energy, fossil fuels release large amounts of carbon dioxide.",
+   "page": 52
+  },
+  {
+   "w": "heat-trapping",
+   "pos": "adj",
+   "ipa": "/ˈhiːt træpɪŋ/",
+   "vi": "giữ nhiệt, bẫy nhiệt",
+   "ex": "These heat-trapping pollutants are known as greenhouse gases.",
+   "page": 52
+  },
+  {
+   "w": "pollutant",
+   "pos": "n",
+   "ipa": "/pəˈluːtənt/",
+   "vi": "chất gây ô nhiễm",
+   "ex": "Black carbon is a pollutant that warms the planet.",
+   "page": 52
+  },
+  {
+   "w": "trap",
+   "pos": "v",
+   "ipa": "/træp/",
+   "vi": "giữ lại, bẫy (nhiệt)",
+   "ex": "Greenhouse gases trap too much of the sun's heat.",
+   "page": 52
+  },
+  {
+   "w": "polar ice cap",
+   "pos": "n phr",
+   "ipa": "/ˌpəʊlər ˈaɪs kæp/",
+   "vi": "chỏm băng ở vùng cực",
+   "ex": "As temperatures rise, polar ice caps melt faster.",
+   "page": 52
+  },
+  {
+   "w": "sea level",
+   "pos": "n",
+   "ipa": "/ˈsiː levl/",
+   "vi": "mực nước biển",
+   "ex": "Global warming is also linked to rising sea levels.",
+   "page": 52
+  },
+  {
+   "w": "consequence",
+   "pos": "n",
+   "ipa": "/ˈkɒnsɪkwəns/",
+   "vi": "hậu quả",
+   "ex": "Each year, the consequences of global warming become more serious.",
+   "page": 52
+  },
+  {
+   "w": "impact",
+   "pos": "n",
+   "ipa": "/ˈɪmpækt/",
+   "vi": "tác động, ảnh hưởng",
+   "ex": "Its negative impact on the environment and people gets stronger.",
+   "page": 52
+  },
+  {
+   "w": "human activities",
+   "pos": "n phr",
+   "ipa": "/ˌhjuːmən ækˈtɪvətiz/",
+   "vi": "các hoạt động của con người",
+   "ex": "These gases are mainly produced through human activities.",
+   "page": 52
+  },
+  {
+   "w": "flood",
+   "pos": "n",
+   "ipa": "/flʌd/",
+   "vi": "lũ lụt",
+   "ex": "Higher sea levels can also lead to floods.",
+   "page": 52
+  },
+  {
+   "w": "coal",
+   "pos": "n",
+   "ipa": "/kəʊl/",
+   "vi": "than đá",
+   "ex": "Burning coal is bad for our health.",
+   "page": 54
+  },
+  {
+   "w": "fossil fuel",
+   "pos": "n",
+   "ipa": "/ˈfɒsl fjuːəl/",
+   "vi": "nhiên liệu hóa thạch",
+   "ex": "The burning of fossil fuels like coal and gas has led to an increase in CO2.",
+   "page": 54
+  },
+  {
+   "w": "release",
+   "pos": "v",
+   "ipa": "/rɪˈliːs/",
+   "vi": "thải ra, giải phóng",
+   "ex": "Governments need to limit the amount of greenhouse gases that is released into the air.",
+   "page": 54
+  },
+  {
+   "w": "renewable",
+   "pos": "adj",
+   "ipa": "/rɪˈnjuːəbl/",
+   "vi": "có thể tái tạo",
+   "ex": "Wind and sunlight are examples of renewable sources of energy.",
+   "page": 54
+  },
+  {
+   "w": "waste",
+   "pos": "n",
+   "ipa": "/weɪst/",
+   "vi": "chất thải, rác thải",
+   "ex": "The world produces more than two billion tonnes of solid waste every year.",
+   "page": 54
+  },
+  {
+   "w": "emission",
+   "pos": "n",
+   "ipa": "/iˈmɪʃn/",
+   "vi": "sự phát thải; khí thải",
+   "ex": "This will require reducing global CO2 emissions by 50 per cent by 2030.",
+   "page": 55
+  },
+  {
+   "w": "balance",
+   "pos": "n",
+   "ipa": "/ˈbæləns/",
+   "vi": "sự cân bằng",
+   "ex": "By 2050 we need a balance between the greenhouse gases released and those removed.",
+   "page": 55
+  },
+  {
+   "w": "carbon",
+   "pos": "n",
+   "ipa": "/ˈkɑːbən/",
+   "vi": "các-bon",
+   "ex": "Burnt trees release the carbon stored in them into the atmosphere.",
+   "page": 55
+  },
+  {
+   "w": "methane",
+   "pos": "n",
+   "ipa": "/ˈmiːθeɪn/",
+   "vi": "khí mê-tan",
+   "ex": "Methane is a greenhouse gas that is more powerful than CO2.",
+   "page": 55
+  },
+  {
+   "w": "deforestation",
+   "pos": "n",
+   "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+   "vi": "nạn phá rừng",
+   "ex": "The third goal is to end deforestation.",
+   "page": 55
+  },
+  {
+   "w": "landfill",
+   "pos": "n",
+   "ipa": "/ˈlændfɪl/",
+   "vi": "bãi chôn lấp rác",
+   "ex": "Methane comes from farming activities and landfill waste.",
+   "page": 55
+  },
+  {
+   "w": "climate change",
+   "pos": "n phr",
+   "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+   "vi": "biến đổi khí hậu",
+   "ex": "Stopping deforestation is an effective solution to climate change.",
+   "page": 55
+  },
+  {
+   "w": "cut down",
+   "pos": "phr v",
+   "ipa": "/kʌt daʊn/",
+   "vi": "chặt hạ (cây)",
+   "ex": "Forests are cut down to make space for farm animals.",
+   "page": 56
+  },
+  {
+   "w": "raise (farm animals)",
+   "pos": "v",
+   "ipa": "/reɪz/",
+   "vi": "chăn nuôi (gia súc)",
+   "ex": "Raising farm animals like goats, sheep and cows releases methane.",
+   "page": 56
+  },
+  {
+   "w": "soot",
+   "pos": "n",
+   "ipa": "/sʊt/",
+   "vi": "bồ hóng, muội than",
+   "ex": "Soot is tiny pieces of black dust produced when wood or coal is burnt.",
+   "page": 57
+  },
+  {
+   "w": "black carbon",
+   "pos": "n phr",
+   "ipa": "/ˌblæk ˈkɑːbən/",
+   "vi": "các-bon đen (muội than)",
+   "ex": "Black carbon emissions come from several sources.",
+   "page": 57
+  },
+  {
+   "w": "melt",
+   "pos": "v",
+   "ipa": "/melt/",
+   "vi": "tan chảy",
+   "ex": "Black carbon speeds up ice melting.",
+   "page": 57
+  },
+  {
+   "w": "crop",
+   "pos": "n",
+   "ipa": "/krɒp/",
+   "vi": "cây trồng; vụ mùa",
+   "ex": "Farmers often burn crop waste after the harvest.",
+   "page": 57
+  },
+  {
+   "w": "soil",
+   "pos": "n",
+   "ipa": "/sɔɪl/",
+   "vi": "đất trồng",
+   "ex": "Forests store carbon in the trees and soil.",
+   "page": 57
+  },
+  {
+   "w": "wildfire",
+   "pos": "n",
+   "ipa": "/ˈwaɪldfaɪə(r)/",
+   "vi": "cháy rừng",
+   "ex": "Black carbon is produced by burning crop waste and wildfires.",
+   "page": 57
+  },
+  {
+   "w": "leaflet",
+   "pos": "n",
+   "ipa": "/ˈliːflət/",
+   "vi": "tờ rơi",
+   "ex": "Write a leaflet to persuade people to reduce black carbon emissions.",
+   "page": 58
+  },
+  {
+   "w": "solid fuel",
+   "pos": "n phr",
+   "ipa": "/ˌsɒlɪd ˈfjuːəl/",
+   "vi": "nhiên liệu rắn",
+   "ex": "Used for cooking or heating, solid fuels like coal and wood release black carbon.",
+   "page": 58
+  },
+  {
+   "w": "organic waste",
+   "pos": "n phr",
+   "ipa": "/ɔːˌɡænɪk ˈweɪst/",
+   "vi": "rác thải hữu cơ",
+   "ex": "The burning of organic waste produces nearly one-third of global black carbon emissions.",
+   "page": 58
+  },
+  {
+   "w": "slogan",
+   "pos": "n",
+   "ipa": "/ˈsləʊɡən/",
+   "vi": "khẩu hiệu",
+   "ex": "Use easy-to-remember slogans to attract the readers' attention.",
+   "page": 59
+  },
+  {
+   "w": "run out",
+   "pos": "phr v",
+   "ipa": "/rʌn ˈaʊt/",
+   "vi": "cạn kiệt, hết",
+   "ex": "Renewable energy will never run out because it comes from natural sources.",
+   "page": 58
+  },
+  {
+   "w": "warn",
+   "pos": "v",
+   "ipa": "/wɔːn/",
+   "vi": "cảnh báo",
+   "ex": "I must warn you that burning coal produces soot.",
+   "page": 59
+  },
+  {
+   "w": "watch out",
+   "pos": "phr v",
+   "ipa": "/wɒtʃ ˈaʊt/",
+   "vi": "coi chừng, cẩn thận",
+   "ex": "Watch out! You're too close and will burn yourself!",
+   "page": 59
+  },
+  {
+   "w": "bacteria",
+   "pos": "n",
+   "ipa": "/bækˈtɪəriə/",
+   "vi": "vi khuẩn",
+   "ex": "Flooded rice fields make it easier for soil bacteria to produce greenhouse gases.",
+   "page": 60
+  },
+  {
+   "w": "carbon footprint",
+   "pos": "n phr",
+   "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+   "vi": "dấu chân các-bon (lượng khí CO2 một người/hoạt động thải ra)",
+   "ex": "Cycling to work helps reduce your carbon footprint.",
+   "page": 61
+  }
+ ],
+ "passages": [
+  {
+   "id": "G11U5-P1",
+   "title": "Small actions against global warming",
+   "text": "Global warming is one of the most serious problems (1) _____ the world today. It is mainly caused by greenhouse gases such as carbon dioxide and methane, which trap the sun's heat in the atmosphere. Most of these gases come from human activities, especially the burning of (2) _____ fuels like coal, oil and gas. (3) _____ for transport and electricity, these fuels release huge amounts of CO2 every day. However, each of us can help. We can walk or cycle to school instead of going by motorbike, which reduces our carbon (4) _____. At home, we should turn off lights and electrical devices when we are not using them. We can also plant more trees, (5) _____ remove CO2 from the air and keep our neighbourhood cool. If everyone takes these small steps, together we can make a big difference to the planet."
+  },
+  {
+   "id": "G11U5-P2",
+   "title": "Farming and the climate",
+   "text": "Farming gives us the food we eat every day, but it also has a strong (6) _____ on the global temperature. Cows, goats and sheep release methane, a greenhouse gas that is much more powerful (7) _____ carbon dioxide. To deal with this problem, scientists are developing special face masks for cows. (8) _____ properly, these masks can cut methane emissions by up to 50 per cent per cow. Rice fields are another problem. Flooded fields make it easier for soil bacteria to produce greenhouse gases. Thanks to new methods, farmers can now grow rice in drier fields, (9) _____ less water and producing better crops. Finally, many countries have agreed to stop (10) _____ down forests to create new farmland. Although there is still much to do, these are positive signs for our planet."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G11U5-V01",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 1,
+   "q": "The burning of _____ such as coal, oil and gas releases large amounts of CO2 into the atmosphere.",
+   "options": [
+    "fossil fuels",
+    "renewable energy",
+    "organic waste",
+    "soil"
+   ],
+   "answer": 0,
+   "explain": "fossil fuels = nhiên liệu hóa thạch; coal, oil, gas (than, dầu, khí đốt) chính là nhiên liệu hóa thạch. renewable energy (năng lượng tái tạo) là gió, mặt trời; organic waste là rác hữu cơ; soil là đất – đều không phải là than, dầu, khí.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G11U5-V02",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 1,
+   "q": "Wind and sunlight are examples of _____ sources of energy because they can be replaced naturally.",
+   "options": [
+    "fossil",
+    "renewable",
+    "harmful",
+    "solid"
+   ],
+   "answer": 1,
+   "explain": "renewable (có thể tái tạo) = có thể được thay thế một cách tự nhiên mà không bị dùng hết. fossil (hóa thạch) chỉ than, dầu; harmful (có hại) và solid (rắn) không hợp nghĩa với gió và ánh nắng.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G11U5-V03",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 1,
+   "q": "Greenhouse gases act like the glass in a greenhouse, _____ the sun's heat and stopping it from escaping back into space.",
+   "options": [
+    "releasing",
+    "melting",
+    "trapping",
+    "escaping"
+   ],
+   "answer": 2,
+   "explain": "trap the sun's heat = giữ lại nhiệt của mặt trời – đúng nội dung bài Getting Started. releasing (thải ra) trái nghĩa với 'stopping it from escaping'; melting (làm tan chảy) và escaping (thoát ra) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Getting Started (tr. 52–53)"
+  },
+  {
+   "id": "G11U5-V04",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 1,
+   "q": "Governments need to limit the amount of greenhouse gases that factories _____ into the air.",
+   "options": [
+    "remove",
+    "release",
+    "melt",
+    "store"
+   ],
+   "answer": 1,
+   "explain": "release sth into the air = thải cái gì vào không khí. remove (loại bỏ) và store (tích trữ) ngược nghĩa với việc nhà máy gây ô nhiễm và không đi với 'into the air'; melt (tan chảy) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G11U5-V05",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 1,
+   "q": "As temperatures rise, polar ice caps _____ faster, adding more water to the oceans.",
+   "options": [
+    "freeze",
+    "burn",
+    "grow",
+    "melt"
+   ],
+   "answer": 3,
+   "explain": "Nhiệt độ tăng thì băng tan: melt = tan chảy. freeze (đóng băng) và grow (lớn lên) trái nghĩa; burn (cháy) không dùng cho băng.",
+   "review": "Lớp 11 · Unit 5 – Getting Started (tr. 52–53)"
+  },
+  {
+   "id": "G11U5-V06",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 1,
+   "q": "To limit global warming, countries must cut their CO2 _____ by 50 per cent by 2030.",
+   "options": [
+    "balances",
+    "emissions",
+    "soils",
+    "crops"
+   ],
+   "answer": 1,
+   "explain": "CO2 emissions = lượng khí thải CO2 – cụm từ trong bài đọc về COP. balances (sự cân bằng), soils (đất), crops (cây trồng) không đi với CO2 và động từ cut.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-V07",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 2,
+   "q": "_____ is a greenhouse gas that is more powerful than CO2 at warming the earth. It comes from farming activities and landfill waste.",
+   "options": [
+    "Oxygen",
+    "Soot",
+    "Coal",
+    "Methane"
+   ],
+   "answer": 3,
+   "explain": "Methane (khí mê-tan) mạnh hơn CO2 trong việc làm nóng trái đất, sinh ra từ chăn nuôi và bãi rác. Oxygen không phải khí nhà kính; soot (bồ hóng) và coal (than) không phải là khí.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-V08",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 1,
+   "q": "When wood or coal is burnt, it produces _____, tiny pieces of black dust that warm the planet.",
+   "options": [
+    "soil",
+    "soot",
+    "crop",
+    "methane"
+   ],
+   "answer": 1,
+   "explain": "soot = bồ hóng, muội than – những hạt bụi đen nhỏ sinh ra khi đốt gỗ, than. soil (đất), crop (cây trồng) sai nghĩa; methane là khí, không phải bụi đen.",
+   "review": "Lớp 11 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G11U5-V09",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Human activities and the environment",
+   "level": 2,
+   "q": "After the harvest, many farmers burn crop _____ in their fields, which releases a lot of black carbon.",
+   "options": [
+    "soil",
+    "fuel",
+    "waste",
+    "balance"
+   ],
+   "answer": 2,
+   "explain": "crop waste = phụ phẩm/rơm rạ sau thu hoạch (bài nghe về black carbon). crop soil, crop fuel, crop balance không phải là cụm từ có nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G11U5-V10",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Human activities and the environment",
+   "level": 2,
+   "q": "Cutting down or burning forests to create farmland is called _____.",
+   "options": [
+    "reforestation",
+    "deforestation",
+    "afforestation",
+    "desertification"
+   ],
+   "answer": 1,
+   "explain": "deforestation = nạn phá rừng. reforestation (tái trồng rừng) và afforestation (trồng rừng mới) trái nghĩa; desertification là sa mạc hóa, không phải hành động chặt/đốt rừng.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-V11",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 1,
+   "q": "Global warming has a negative _____ on the environment and people.",
+   "options": [
+    "impact",
+    "impactful",
+    "impacted",
+    "impacting"
+   ],
+   "answer": 0,
+   "explain": "Sau tính từ 'negative' cần danh từ: have an impact on sth = có tác động lên. impactful (adj), impacted (V3), impacting (V-ing) sai từ loại.",
+   "review": "Lớp 11 · Unit 5 – Getting Started (tr. 52–53)"
+  },
+  {
+   "id": "G11U5-V12",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Human activities and the environment",
+   "level": 1,
+   "q": "The burning of fossil fuels is one of the main causes of air _____.",
+   "options": [
+    "pollute",
+    "polluted",
+    "polluting",
+    "pollution"
+   ],
+   "answer": 3,
+   "explain": "air pollution = ô nhiễm không khí; sau 'causes of air' cần danh từ không đếm được. pollute (v), polluted (adj/V3), polluting (V-ing/adj) sai từ loại.",
+   "review": "Lớp 11 · Unit 5 – Speaking (tr. 56–57)"
+  },
+  {
+   "id": "G11U5-V13",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 2,
+   "q": "A sudden _____ of methane into the atmosphere can speed up global warming.",
+   "options": [
+    "released",
+    "releasable",
+    "release",
+    "releasing"
+   ],
+   "answer": 2,
+   "explain": "Sau 'A sudden' (mạo từ + tính từ) và trước 'of' cần danh từ: a sudden release of methane = sự thải khí mê-tan đột ngột. released (V3), releasable (adj) sai từ loại; releasing (V-ing) không đứng sau 'a + tính từ' như một danh từ đếm được.",
+   "review": "Lớp 11 · Unit 5 – CLIL (tr. 60)"
+  },
+  {
+   "id": "G11U5-V14",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 2,
+   "q": "Fossil fuels will _____ in this century, while renewable energy will never be used up.",
+   "options": [
+    "run into",
+    "give off",
+    "run out",
+    "take up"
+   ],
+   "answer": 2,
+   "explain": "run out = cạn kiệt, hết (nội động từ, không cần tân ngữ), tương ứng với 'be used up'. run into (tình cờ gặp), give off (tỏa ra) và take up (chiếm, bắt đầu) đều cần tân ngữ và sai nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Writing (tr. 58–59)"
+  },
+  {
+   "id": "G11U5-V15",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Human activities and the environment",
+   "level": 1,
+   "q": "Trees use CO2 to grow, so when they are _____ or burnt, the CO2 in the air increases.",
+   "options": [
+    "put off",
+    "turned up",
+    "given up",
+    "cut down"
+   ],
+   "answer": 3,
+   "explain": "cut down (trees/forests) = chặt hạ cây. put off (trì hoãn), turn up (vặn to, xuất hiện), give up (từ bỏ) không dùng cho cây.",
+   "review": "Lớp 11 · Unit 5 – Speaking (tr. 56–57)"
+  },
+  {
+   "id": "G11U5-V16",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Human activities and the environment",
+   "level": 1,
+   "q": "Jane: \"_____! You're too close to the stove and will burn yourself!\"",
+   "options": [
+    "Look after",
+    "Hold up",
+    "Calm down",
+    "Watch out"
+   ],
+   "answer": 3,
+   "explain": "Watch out! = Coi chừng! – lời cảnh báo nguy hiểm (Everyday English). Look after (chăm sóc), Hold up (trì hoãn/giơ lên) và Calm down (bình tĩnh) không phải lời cảnh báo phù hợp.",
+   "review": "Lớp 11 · Unit 5 – Communication and Culture, Everyday English (tr. 59)"
+  },
+  {
+   "id": "G11U5-V17",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Human activities and the environment",
+   "level": 2,
+   "q": "Cycling to school instead of going by motorbike can help you reduce your carbon _____.",
+   "options": [
+    "footprint",
+    "step",
+    "track",
+    "print"
+   ],
+   "answer": 0,
+   "explain": "carbon footprint = dấu chân các-bon (tổng lượng khí thải CO2 do một người tạo ra) – cụm từ cố định trong phần Project. carbon step/track/print không phải là cụm từ.",
+   "review": "Lớp 11 · Unit 5 – Project (tr. 61)"
+  },
+  {
+   "id": "G11U5-V18",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nHuman activities have a strong <u>impact</u> on the global temperature.",
+   "options": [
+    "effect",
+    "reason",
+    "balance",
+    "source"
+   ],
+   "answer": 0,
+   "explain": "impact = effect (tác động, ảnh hưởng). reason (lý do), balance (sự cân bằng), source (nguồn) khác nghĩa. Câu: Hoạt động của con người có tác động mạnh đến nhiệt độ toàn cầu.",
+   "review": "Lớp 11 · Unit 5 – Getting Started (tr. 52–53)"
+  },
+  {
+   "id": "G11U5-V19",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Energy, fuels and emissions",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nRenewable energy is <u>clean</u>, so it doesn't pollute the environment.",
+   "options": [
+    "fresh",
+    "pure",
+    "dirty",
+    "safe"
+   ],
+   "answer": 2,
+   "explain": "clean (sạch) ↔ dirty (bẩn, gây ô nhiễm) – bài đọc gọi than là 'the dirtiest fuel'. fresh, pure, safe đều gần nghĩa với clean.",
+   "review": "Lớp 11 · Unit 5 – Writing (tr. 58–59)"
+  },
+  {
+   "id": "G11U5-V20",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Global warming: causes and effects",
+   "level": 3,
+   "q": "Choose the word(s) CLOSEST in meaning to the underlined phrase.\nBlack carbon <u>speeds up</u> ice melting in the Arctic.",
+   "options": [
+    "accelerates",
+    "delays",
+    "prevents",
+    "reduces"
+   ],
+   "answer": 0,
+   "explain": "speed up = accelerate (đẩy nhanh, làm tăng tốc). delay (trì hoãn), prevent (ngăn chặn), reduce (giảm bớt) đều mang nghĩa ngược lại. Câu: Các-bon đen đẩy nhanh quá trình băng tan ở Bắc Cực.",
+   "review": "Lớp 11 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G11U5-G01",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 1,
+   "q": "_____ too much of the sun's heat, greenhouse gases stop it from escaping back into space.",
+   "options": [
+    "Trapped",
+    "Trapping",
+    "Trap",
+    "Traps"
+   ],
+   "answer": 1,
+   "explain": "Chủ ngữ 'greenhouse gases' TỰ giữ nhiệt (chủ động) → dùng mệnh đề phân từ hiện tại V-ing để nêu lý do: Trapping … (= Because they trap …). Trapped mang nghĩa bị động; Trap/Traps là động từ chia, không đứng đầu mệnh đề rút gọn.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G02",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 1,
+   "q": "_____ by humans for energy, fossil fuels release carbon dioxide into the atmosphere.",
+   "options": [
+    "Burning",
+    "Burn",
+    "To burn",
+    "Burnt"
+   ],
+   "answer": 3,
+   "explain": "Nhiên liệu BỊ con người đốt (có 'by humans') → nghĩa bị động → dùng phân từ quá khứ Burnt, diễn tả điều kiện (= If fossil fuels are burnt …). Burning mang nghĩa chủ động; Burn và To burn không phù hợp cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G03",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 1,
+   "q": "_____ by a documentary about melting ice caps, Lan decided to save more energy.",
+   "options": [
+    "Shocking",
+    "Shock",
+    "To shock",
+    "Shocked"
+   ],
+   "answer": 3,
+   "explain": "Lan BỊ bộ phim làm cho sốc (có 'by') → bị động → Shocked (nêu lý do). Shocking là chủ động (gây sốc) nên không đi với 'by'; Shock và To shock sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G04",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 1,
+   "q": "_____ along the beach, the volunteers picked up plastic bottles and bags.",
+   "options": [
+    "Walked",
+    "Walking",
+    "Walk",
+    "Being walked"
+   ],
+   "answer": 1,
+   "explain": "Hai hành động xảy ra cùng lúc, cùng chủ ngữ 'the volunteers' và chủ động → Walking. Walked/Being walked mang nghĩa bị động; Walk là động từ nguyên mẫu, không tạo mệnh đề rút gọn.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G05",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 1,
+   "q": "_____ the dangers of black carbon, my father stopped using the coal-burning stove.",
+   "options": [
+    "Known",
+    "Knew",
+    "Knowing",
+    "To be known"
+   ],
+   "answer": 2,
+   "explain": "Bố tôi TỰ biết (chủ động) về tác hại của các-bon đen → Knowing (= Because he knew …). Known/To be known là bị động (được biết đến); Knew là động từ chia thì, không đứng đầu mệnh đề phân từ.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G06",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "_____ properly, solar panels can provide enough electricity for the whole school.",
+   "options": [
+    "Installing",
+    "Install",
+    "Installed",
+    "To install"
+   ],
+   "answer": 2,
+   "explain": "Tấm pin mặt trời BỊ/ĐƯỢC lắp đặt → bị động → Installed, diễn tả điều kiện (= If they are installed properly …). Installing là chủ động (tấm pin không tự lắp); Install, To install sai cấu trúc/nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G07",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "_____ by strong winds, the wildfire spread quickly through the forest.",
+   "options": [
+    "Driven",
+    "Driving",
+    "Drove",
+    "To drive"
+   ],
+   "answer": 0,
+   "explain": "Đám cháy BỊ gió mạnh đẩy đi (có 'by') → phân từ quá khứ Driven (= Because it was driven by strong winds …). Driving là chủ động; Drove là quá khứ đơn; To drive chỉ mục đích, sai nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G08",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "The students took part in green activities, _____ more than 100 trees.",
+   "options": [
+    "planting",
+    "planted",
+    "were planting",
+    "plant"
+   ],
+   "answer": 0,
+   "explain": "Sau dấu phẩy, không có liên từ, cùng chủ ngữ 'the students' (chủ động) → dùng V-ing: planting (= and they planted …). planted và were planting là động từ chia thì → câu thiếu liên từ; plant sai dạng.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G09",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "_____ in huge amounts, carbon dioxide causes air pollution and climate change.",
+   "options": [
+    "Producing",
+    "Produce",
+    "Being producing",
+    "Produced"
+   ],
+   "answer": 3,
+   "explain": "CO2 BỊ sản sinh ra → bị động → Produced, diễn tả điều kiện (= If carbon dioxide is produced in huge amounts …). Producing là chủ động (CO2 không tự sản xuất); Produce và Being producing sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G10",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "The farmers cut down the local forest to create new farmland, _____ all the wildlife there.",
+   "options": [
+    "destroyed",
+    "being destroyed",
+    "destroying",
+    "destroy"
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề V-ing sau dấu phẩy diễn tả kết quả của hành động trước, chủ ngữ 'the farmers' chủ động → destroying (= and destroyed …). destroyed thiếu liên từ 'and'; being destroyed là bị động, sai nghĩa; destroy sai dạng.",
+   "review": "Lớp 11 · Unit 5 – Looking Back, Grammar (tr. 61)"
+  },
+  {
+   "id": "G11U5-G11",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "The gases _____ by cars and factories trap heat in the atmosphere.",
+   "options": [
+    "producing",
+    "produced",
+    "produce",
+    "are produced"
+   ],
+   "answer": 1,
+   "explain": "Rút gọn mệnh đề quan hệ bị động: The gases (which are) produced by cars … → produced. producing là chủ động, không đi với 'by'; produce và are produced làm câu có hai động từ chính.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G12",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 1,
+   "q": "People _____ near the coast are at greater risk from rising sea levels.",
+   "options": [
+    "lived",
+    "live",
+    "living",
+    "are living"
+   ],
+   "answer": 2,
+   "explain": "Rút gọn mệnh đề quan hệ chủ động: People (who live) near the coast → living. lived mang nghĩa bị động; live và are living làm câu có hai động từ chính (động từ chính là 'are').",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G13",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "_____ for cooking or heating, solid fuels like coal and wood release black carbon and other pollutants.",
+   "options": [
+    "Using",
+    "Use",
+    "To use",
+    "Used"
+   ],
+   "answer": 3,
+   "explain": "Nhiên liệu rắn ĐƯỢC dùng để nấu ăn, sưởi → bị động → Used (= When they are used for cooking …) – câu trong phần Writing. Using là chủ động (nhiên liệu không tự dùng); Use, To use sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Writing (tr. 58–59)"
+  },
+  {
+   "id": "G11U5-G14",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "_____ the article about the COP, Nam understood the key goals of the conference.",
+   "options": [
+    "Having read",
+    "Having been read",
+    "Being read",
+    "Has read"
+   ],
+   "answer": 0,
+   "explain": "Nam đọc xong bài rồi mới hiểu → hành động xảy ra trước, chủ động → phân từ hoàn thành Having read (= After he had read …). Having been read và Being read là bị động (bài báo được đọc), sai chủ ngữ; Has read là động từ chia thì.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G15",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Choose the correct sentence.",
+   "options": [
+    "Walking along the river, a lot of plastic waste was seen.",
+    "Walked along the river, we saw a lot of plastic waste.",
+    "Walking along the river, we saw a lot of plastic waste.",
+    "Being walked along the river, we saw a lot of plastic waste."
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề V-ing phải cùng chủ ngữ với mệnh đề chính: 'we' là người đi bộ → câu 'Walking along the river, we saw …' đúng. Câu có 'a lot of plastic waste was seen' sai vì rác không thể 'đi bộ' (mệnh đề lơ lửng); Walked và Being walked mang nghĩa bị động, sai.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G16",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "_____ by the success of the clean-up campaign, the club organised another one the following month.",
+   "options": [
+    "Encouraging",
+    "Encouraged",
+    "Encourage",
+    "Having encouraged"
+   ],
+   "answer": 1,
+   "explain": "Câu lạc bộ ĐƯỢC khích lệ bởi thành công (có 'by') → bị động → Encouraged (nêu lý do). Encouraging và Having encouraged là chủ động; Encourage sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-G17",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Not _____ what to do with the rubbish, he burnt it in the garden.",
+   "options": [
+    "knowing",
+    "known",
+    "knew",
+    "to know"
+   ],
+   "answer": 0,
+   "explain": "Phủ định của mệnh đề phân từ hiện tại: Not + V-ing → Not knowing (= Because he didn't know …). known là bị động; knew là động từ chia thì; to know sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G18",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "_____ to reduce emissions, the government invested more money in solar and wind energy.",
+   "options": [
+    "Wanted",
+    "Want",
+    "Being wanted",
+    "Wanting"
+   ],
+   "answer": 3,
+   "explain": "Chính phủ TỰ muốn giảm khí thải (chủ động) → Wanting (= Because it wanted …). Wanted và Being wanted là bị động (bị truy nã/được cần đến), sai nghĩa; Want sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-G19",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "_____ much of the food we eat every day, farming also has a strong warming impact on the planet.",
+   "options": [
+    "Providing",
+    "Provided",
+    "Provides",
+    "To provided"
+   ],
+   "answer": 0,
+   "explain": "Nông nghiệp TỰ cung cấp thực phẩm (chủ động) → Providing (= Farming provides much of the food …, but it also has …). Provided mang nghĩa bị động (nông nghiệp được cung cấp) – sai nghĩa; Provides là động từ chia thì, không nối hai mệnh đề bằng dấu phẩy; To provided sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 5 – CLIL (tr. 60)"
+  },
+  {
+   "id": "G11U5-G20",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Choose the best option to complete the sentence so that it means: \"If the waste is burnt in open fires, it produces a lot of soot.\"\n_____, the waste produces a lot of soot.",
+   "options": [
+    "Having burnt in open fires",
+    "Burnt in open fires",
+    "It is burnt in open fires",
+    "To burn in open fires"
+   ],
+   "answer": 1,
+   "explain": "Rác BỊ đốt → bị động + điều kiện → Burnt in open fires. Having burnt là chủ động (rác đã đốt cái gì đó); 'It is burnt …,' tạo hai mệnh đề nối bằng dấu phẩy, sai; To burn chỉ mục đích, sai nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-P01",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Sentence stress and rhythm",
+   "level": 1,
+   "q": "Which word is normally NOT stressed in this sentence?\n\"The planet is getting hotter and hotter.\"",
+   "options": [
+    "planet",
+    "getting",
+    "hotter",
+    "is"
+   ],
+   "answer": 3,
+   "explain": "'is' là trợ động từ (từ chức năng) nên thường không được nhấn. planet (danh từ), getting (động từ chính), hotter (tính từ) là từ nội dung, được nhấn: The <b>planet</b> is <b>getting hotter</b> and <b>hotter</b>.",
+   "review": "Lớp 11 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G11U5-P02",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Sentence stress and rhythm",
+   "level": 1,
+   "q": "Which group of words is usually STRESSED in English sentences?",
+   "options": [
+    "articles, prepositions, pronouns",
+    "auxiliaries, conjunctions, articles",
+    "main verbs, nouns, adjectives, adverbs",
+    "pronouns, prepositions, conjunctions"
+   ],
+   "answer": 2,
+   "explain": "Theo phần Remember!, từ nội dung (động từ chính, danh từ, tính từ, trạng từ) thường được nhấn; từ chức năng (liên từ, đại từ, giới từ, trợ động từ, mạo từ) thường không được nhấn.",
+   "review": "Lớp 11 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G11U5-P03",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Sentence stress and rhythm",
+   "level": 1,
+   "q": "Which word should be stressed in this sentence?\n\"Some gases are released into the air through human activities.\"",
+   "options": [
+    "are",
+    "into",
+    "the",
+    "released"
+   ],
+   "answer": 3,
+   "explain": "released là động từ chính → được nhấn. are (trợ động từ), into (giới từ), the (mạo từ) là từ chức năng, thường đọc nhẹ. Các từ nhấn: <b>gases</b>, <b>released</b>, <b>air</b>, <b>human activities</b>.",
+   "review": "Lớp 11 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G11U5-P04",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Sentence stress and rhythm",
+   "level": 2,
+   "q": "Choose the sentence in which the stressed words are correctly marked in bold.",
+   "options": [
+    "<b>Burning coal</b> is <b>bad</b> for our <b>health</b>.",
+    "Burning <b>coal is</b> bad <b>for</b> our health.",
+    "<b>Burning</b> coal <b>is</b> bad <b>for our</b> health.",
+    "Burning coal is <b>bad for our</b> health."
+   ],
+   "answer": 0,
+   "explain": "Các từ nội dung Burning, coal, bad, health được nhấn; is (động từ to be), for (giới từ), our (tính từ sở hữu/từ chức năng) đọc nhẹ. Các câu còn lại nhấn vào từ chức năng is, for, our – không đúng nhịp tự nhiên.",
+   "review": "Lớp 11 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G11U5-P05",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Pronunciation: c /k/ vs /ʃ/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>c</u>oal",
+    "o<u>c</u>ean",
+    "<u>c</u>arbon",
+    "<u>c</u>rop"
+   ],
+   "answer": 1,
+   "explain": "ocean /ˈəʊʃn/: c đọc /ʃ/. coal /kəʊl/, carbon /ˈkɑːbən/, crop /krɒp/: c đọc /k/.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G11U5-P06",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Pronunciation: ea /iː/ vs /ɜː/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "h<u>ea</u>t",
+    "l<u>ea</u>flet",
+    "<u>ea</u>rth",
+    "rel<u>ea</u>se"
+   ],
+   "answer": 2,
+   "explain": "earth /ɜːθ/: ea đọc /ɜː/. heat /hiːt/, leaflet /ˈliːflət/, release /rɪˈliːs/: ea đọc /iː/.",
+   "review": "Lớp 11 · Unit 5 – Getting Started (tr. 52–53)"
+  },
+  {
+   "id": "G11U5-P07",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Pronunciation: oo /ʊ/ vs /uː/",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "s<u>oo</u>t",
+    "f<u>oo</u>tprint",
+    "f<u>oo</u>d",
+    "w<u>oo</u>d"
+   ],
+   "answer": 2,
+   "explain": "food /fuːd/: oo đọc /uː/. soot /sʊt/, footprint /ˈfʊtprɪnt/, wood /wʊd/: oo đọc /ʊ/ (chú ý soot đọc /sʊt/).",
+   "review": "Lớp 11 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G11U5-P08",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "flood<u>ed</u>",
+    "releas<u>ed</u>",
+    "melt<u>ed</u>",
+    "protect<u>ed</u>"
+   ],
+   "answer": 1,
+   "explain": "released /rɪˈliːst/: -ed đọc /t/ (sau âm /s/). flooded, melted, protected: -ed đọc /ɪd/ vì động từ tận cùng bằng /d/ hoặc /t/.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G11U5-P09",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "atmosphere",
+    "consequence",
+    "temperature",
+    "renewable"
+   ],
+   "answer": 3,
+   "explain": "renewable /rɪˈnjuːəbl/ nhấn âm 2. atmosphere /ˈætməsfɪə(r)/, consequence /ˈkɒnsɪkwəns/, temperature /ˈtemprətʃə(r)/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G11U5-P10",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "methane",
+    "pollutant",
+    "emission",
+    "release"
+   ],
+   "answer": 0,
+   "explain": "methane /ˈmiːθeɪn/ nhấn âm 1. pollutant /pəˈluːtənt/, emission /iˈmɪʃn/, release /rɪˈliːs/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-P11",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "escape",
+    "carbon",
+    "balance",
+    "landfill"
+   ],
+   "answer": 0,
+   "explain": "escape /ɪˈskeɪp/ nhấn âm 2. carbon /ˈkɑːbən/, balance /ˈbæləns/, landfill /ˈlændfɪl/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-P12",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "agriculture",
+    "activity",
+    "dangerous",
+    "atmosphere"
+   ],
+   "answer": 1,
+   "explain": "activity /ækˈtɪvəti/ nhấn âm 2. agriculture /ˈæɡrɪkʌltʃə(r)/, dangerous /ˈdeɪndʒərəs/, atmosphere /ˈætməsfɪə(r)/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 5 – Speaking (tr. 56–57)"
+  },
+  {
+   "id": "G11U5-E01",
+   "unit": 5,
+   "type": "error",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Was walking</u> (A) along the beach, we <u>picked up</u> (B) a lot of <u>plastic</u> (C) waste <u>left</u> (D) by tourists.",
+   "options": [
+    "A. Was walking",
+    "B. picked up",
+    "C. plastic",
+    "D. left"
+   ],
+   "answer": 0,
+   "explain": "Lỗi A: mệnh đề phân từ không giữ trợ động từ → sửa 'Was walking' thành 'Walking' (cùng chủ ngữ 'we', chủ động). 'left by tourists' là phân từ quá khứ rút gọn mệnh đề quan hệ, đúng.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-E02",
+   "unit": 5,
+   "type": "error",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nMany young people, <u>worried</u> (A) about climate change, <u>joining</u> (B) the protests <u>held</u> (C) in the city <u>last</u> (D) week.",
+   "options": [
+    "A. worried",
+    "B. joining",
+    "C. held",
+    "D. last"
+   ],
+   "answer": 1,
+   "explain": "Lỗi B: câu thiếu động từ chính cho chủ ngữ 'Many young people' → sửa 'joining' thành 'joined'. 'worried about climate change' là mệnh đề phân từ quá khứ chen giữa; 'held' rút gọn của 'which were held'.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-E03",
+   "unit": 5,
+   "type": "error",
+   "topic": "Energy, fuels and emissions",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Burnt</u> (A) for energy, fossil fuels <u>release</u> (B) large <u>numbers</u> (C) of carbon dioxide <u>into</u> (D) the atmosphere.",
+   "options": [
+    "A. Burnt",
+    "B. release",
+    "C. numbers",
+    "D. into"
+   ],
+   "answer": 2,
+   "explain": "Lỗi C: carbon dioxide là danh từ không đếm được → dùng 'large amounts of', không dùng 'large numbers of'. Sửa 'numbers' thành 'amounts'.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-E04",
+   "unit": 5,
+   "type": "error",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Trapping</u> (A) too much of the sun's heat, greenhouse gases <u>stop</u> (B) it <u>from</u> (C) <u>escape</u> (D) back into space.",
+   "options": [
+    "A. Trapping",
+    "B. stop",
+    "C. from",
+    "D. escape"
+   ],
+   "answer": 3,
+   "explain": "Lỗi D: cấu trúc stop sb/sth from + V-ing → sửa 'escape' thành 'escaping'.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-E05",
+   "unit": 5,
+   "type": "error",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Encouraging</u> (A) by our teacher, we <u>started</u> (B) an <u>environmental</u> (C) project <u>at</u> (D) school.",
+   "options": [
+    "A. Encouraging",
+    "B. started",
+    "C. environmental",
+    "D. at"
+   ],
+   "answer": 0,
+   "explain": "Lỗi A: chúng tôi ĐƯỢC giáo viên khích lệ (có 'by') → nghĩa bị động → sửa 'Encouraging' thành 'Encouraged'.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-E06",
+   "unit": 5,
+   "type": "error",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe gases <u>produced</u> (A) by human activities <u>is</u> (B) <u>mainly</u> (C) responsible <u>for</u> (D) global warming.",
+   "options": [
+    "A. produced",
+    "B. is",
+    "C. mainly",
+    "D. for"
+   ],
+   "answer": 1,
+   "explain": "Lỗi B: chủ ngữ chính là 'The gases' (số nhiều); 'produced by human activities' chỉ là cụm phân từ bổ nghĩa → sửa 'is' thành 'are'.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-E07",
+   "unit": 5,
+   "type": "error",
+   "topic": "Energy, fuels and emissions",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nCountries will have to stop <u>building</u> (A) new coal plants and switch <u>to</u> (B) <u>renew</u> (C) sources <u>of</u> (D) energy.",
+   "options": [
+    "A. building",
+    "B. to",
+    "C. renew",
+    "D. of"
+   ],
+   "answer": 2,
+   "explain": "Lỗi C: trước danh từ 'sources' cần tính từ → sửa 'renew' (động từ) thành 'renewable' (có thể tái tạo).",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-E08",
+   "unit": 5,
+   "type": "error",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>Knowing</u> (A) that burning coal <u>produces</u> (B) soot, Nga's father decided <u>to stop</u> (C) <u>to use</u> (D) the stove.",
+   "options": [
+    "A. Knowing",
+    "B. produces",
+    "C. to stop",
+    "D. to use"
+   ],
+   "answer": 3,
+   "explain": "Lỗi D: muốn nói 'ngừng sử dụng' thì dùng stop + V-ing → sửa 'to use' thành 'using'. (stop to do = dừng lại để làm việc khác.) 'Knowing …' đúng vì người bố tự biết (chủ động).",
+   "review": "Lớp 11 · Unit 5 – Communication and Culture, Everyday English (tr. 59)"
+  },
+  {
+   "id": "G11U5-R01",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nLan was worried about rising sea levels, so she wrote an article about them.",
+   "options": [
+    "Worrying about rising sea levels, the article was written by Lan.",
+    "Being worried rising sea levels, Lan wrote an article about them.",
+    "Worried about rising sea levels, Lan wrote an article about them.",
+    "Lan worried about rising sea levels after she wrote an article about them."
+   ],
+   "answer": 2,
+   "explain": "Lan BỊ lo lắng (be worried) → mệnh đề phân từ quá khứ 'Worried about …' nêu lý do, chủ ngữ Lan giữ nguyên. Câu 'the article was written by Lan' sai chủ ngữ (bài báo không lo lắng); 'Being worried rising sea levels' thiếu giới từ about; câu 'after she wrote' đổi quan hệ nguyên nhân thành thời gian.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-R02",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Past participle clauses",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf solar panels are used widely, they can reduce our dependence on fossil fuels.",
+   "options": [
+    "Used widely, solar panels can reduce our dependence on fossil fuels.",
+    "Using widely, solar panels can reduce our dependence on fossil fuels.",
+    "Although they are used widely, solar panels cannot reduce our dependence on fossil fuels.",
+    "Having used widely, solar panels can reduce our dependence on fossil fuels."
+   ],
+   "answer": 0,
+   "explain": "Câu điều kiện bị động 'If solar panels are used …' → rút gọn bằng phân từ quá khứ: Used widely, … Using và Having used mang nghĩa chủ động (tấm pin tự dùng) – sai; câu với 'Although … cannot' sai nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)"
+  },
+  {
+   "id": "G11U5-R03",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nMai opened the window and saw thick smoke coming from the factory.",
+   "options": [
+    "Opened the window, Mai saw thick smoke coming from the factory.",
+    "Opening the window, thick smoke from the factory was seen.",
+    "Mai saw thick smoke coming from the factory before she opened the window.",
+    "Opening the window, Mai saw thick smoke coming from the factory."
+   ],
+   "answer": 3,
+   "explain": "Mai TỰ mở cửa sổ (chủ động) và cùng chủ ngữ với 'saw' → Opening the window, Mai saw … Opened là bị động – sai; câu 'thick smoke … was seen' sai chủ ngữ (khói không mở cửa sổ); câu 'before she opened' đảo thứ tự hành động.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-R04",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present participle clauses",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nBecause he lives near a coal plant, Tom often suffers from breathing problems.",
+   "options": [
+    "Lived near a coal plant, Tom often suffers from breathing problems.",
+    "Living near a coal plant, Tom often suffers from breathing problems.",
+    "Living near a coal plant, breathing problems often affect Tom.",
+    "Tom lives near a coal plant although he often suffers from breathing problems."
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề lý do chủ động, cùng chủ ngữ Tom → Living near a coal plant, Tom … Lived là bị động – sai; câu 'breathing problems often affect Tom' sai chủ ngữ (vấn đề hô hấp không 'sống gần nhà máy'); câu với 'although' sai quan hệ nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-R05",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Energy, fuels and emissions",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nCoal is the biggest source of planet-warming CO2 emissions.",
+   "options": [
+    "Coal produces less planet-warming CO2 than other sources.",
+    "No other source produces as much planet-warming CO2 as coal.",
+    "Coal is one of the smallest sources of planet-warming CO2 emissions.",
+    "Other sources produce more planet-warming CO2 than coal does."
+   ],
+   "answer": 1,
+   "explain": "Câu gốc: Than là nguồn phát thải CO2 lớn nhất = Không nguồn nào thải ra nhiều CO2 bằng than (No other … as much … as). Ba câu còn lại đều nói than thải ít hơn – trái nghĩa.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)"
+  },
+  {
+   "id": "G11U5-R06",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Human activities and the environment",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nPeople started using more renewable energy, so CO2 emissions fell.",
+   "options": [
+    "Although people started using more renewable energy, CO2 emissions fell.",
+    "CO2 emissions fell, so people started using more renewable energy.",
+    "People started using more renewable energy because CO2 emissions fell.",
+    "CO2 emissions fell because people started using more renewable energy."
+   ],
+   "answer": 3,
+   "explain": "Nguyên nhân: dùng nhiều năng lượng tái tạo; kết quả: khí thải giảm → 'CO2 emissions fell because people started …'. Câu với 'Although' sai quan hệ (nhượng bộ); hai câu còn lại đảo ngược nguyên nhân – kết quả.",
+   "review": "Lớp 11 · Unit 5 – Speaking (tr. 56–57)"
+  },
+  {
+   "id": "G11U5-R07",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe village was hit by a big storm. It lost electricity for three days.",
+   "options": [
+    "Hitting by a big storm, the village lost electricity for three days.",
+    "Having hit by a big storm, the village lost electricity for three days.",
+    "Hit by a big storm, the village lost electricity for three days.",
+    "The village hit a big storm and lost electricity for three days."
+   ],
+   "answer": 2,
+   "explain": "Ngôi làng BỊ bão tấn công → bị động → Hit by a big storm, … (hit có V3 là hit). Hitting và Having hit là chủ động, không đi với 'by'; 'The village hit a big storm' sai nghĩa (làng đâm vào bão).",
+   "review": "Lớp 11 · Unit 5 – Looking Back, Grammar (tr. 61)"
+  },
+  {
+   "id": "G11U5-R08",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe students cleaned the beach. They collected over 50 bags of rubbish.",
+   "options": [
+    "Cleaning the beach, the students collected over 50 bags of rubbish.",
+    "Cleaned the beach, the students collected over 50 bags of rubbish.",
+    "Cleaning the beach, over 50 bags of rubbish were collected.",
+    "The students cleaned the beach, collected over 50 bags of rubbish."
+   ],
+   "answer": 0,
+   "explain": "Hai hành động cùng chủ ngữ 'the students', chủ động, xảy ra cùng lúc → Cleaning the beach, the students collected … Cleaned là bị động; câu '… were collected' sai chủ ngữ (rác không dọn bãi biển); câu cuối nối hai động từ chia thì bằng dấu phẩy, thiếu 'and'.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)"
+  },
+  {
+   "id": "G11U5-R09",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nBlack carbon lands on snow and ice. It speeds up melting.",
+   "options": [
+    "Landed on snow and ice, black carbon speeds up melting.",
+    "Landing on snow and ice, black carbon speeds up melting.",
+    "Black carbon landing on snow and ice, it speeds up melting.",
+    "Black carbon speeds up melting, so it lands on snow and ice."
+   ],
+   "answer": 1,
+   "explain": "Các-bon đen TỰ rơi xuống băng tuyết (land là nội động từ, chủ động) → Landing on snow and ice, black carbon … Landed mang nghĩa bị động – sai; câu thứ ba thừa chủ ngữ 'it'; câu cuối đảo quan hệ nhân quả.",
+   "review": "Lớp 11 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G11U5-R10",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMethane is released by cows. It is much more powerful than CO2 at warming the earth.",
+   "options": [
+    "The methane released by cows is much more powerful than CO2 at warming the earth.",
+    "The methane releasing by cows is much more powerful than CO2 at warming the earth.",
+    "The methane is released by cows is much more powerful than CO2 at warming the earth.",
+    "The cows releasing methane is much more powerful than CO2 at warming the earth."
+   ],
+   "answer": 0,
+   "explain": "Rút gọn mệnh đề quan hệ bị động: The methane (which is) released by cows → 'released by cows'. 'releasing by' sai dạng; câu có 'is released … is' thừa động từ; câu cuối đổi chủ ngữ thành 'the cows' – sai nghĩa và sai hòa hợp.",
+   "review": "Lớp 11 · Unit 5 – CLIL (tr. 60)"
+  },
+  {
+   "id": "G11U5-C01",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "faced",
+    "facing",
+    "to face",
+    "faces"
+   ],
+   "answer": 1,
+   "explain": "problems facing the world = problems which face the world (rút gọn mệnh đề quan hệ chủ động bằng V-ing). 'faced' cần 'by' (faced by the world); 'to face' và 'faces' sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)",
+   "pid": "G11U5-P1",
+   "blank": 1
+  },
+  {
+   "id": "G11U5-C02",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Energy, fuels and emissions",
+   "level": 1,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "renewable",
+    "solid",
+    "fossil",
+    "organic"
+   ],
+   "answer": 2,
+   "explain": "fossil fuels like coal, oil and gas = nhiên liệu hóa thạch. renewable (tái tạo) sai nghĩa; solid (rắn) không đúng với dầu và khí; organic (hữu cơ) đi với waste, không phải loại nhiên liệu này.",
+   "review": "Lớp 11 · Unit 5 – Language, Vocabulary (tr. 54)",
+   "pid": "G11U5-P1",
+   "blank": 2
+  },
+  {
+   "id": "G11U5-C03",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "Using",
+    "Use",
+    "Used",
+    "To use"
+   ],
+   "answer": 2,
+   "explain": "Nhiên liệu ĐƯỢC dùng cho giao thông và điện → bị động → Used for transport and electricity, these fuels … (= When they are used …). Using là chủ động – sai; Use và To use sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)",
+   "pid": "G11U5-P1",
+   "blank": 3
+  },
+  {
+   "id": "G11U5-C04",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Human activities and the environment",
+   "level": 1,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "footprint",
+    "balance",
+    "level",
+    "dioxide"
+   ],
+   "answer": 0,
+   "explain": "reduce our carbon footprint = giảm dấu chân các-bon. carbon balance/level/dioxide không hợp với 'our' và nghĩa câu (đi xe đạp làm giảm lượng khí thải cá nhân).",
+   "review": "Lớp 11 · Unit 5 – Project (tr. 61)",
+   "pid": "G11U5-P1",
+   "blank": 4
+  },
+  {
+   "id": "G11U5-C05",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Global warming: causes and effects",
+   "level": 2,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "that",
+    "which",
+    "who",
+    "what"
+   ],
+   "answer": 1,
+   "explain": "Sau dấu phẩy, thay cho 'trees' (vật) trong mệnh đề quan hệ không xác định → which. 'that' không dùng sau dấu phẩy; 'who' chỉ người; 'what' không làm đại từ quan hệ có tiền ngữ.",
+   "review": "Lớp 11 · Unit 5 – Speaking (tr. 56–57)",
+   "pid": "G11U5-P1",
+   "blank": 5
+  },
+  {
+   "id": "G11U5-C06",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Global warming: causes and effects",
+   "level": 1,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "impact",
+    "result",
+    "reason",
+    "cause"
+   ],
+   "answer": 0,
+   "explain": "have a strong impact on sth = có tác động mạnh lên. result, reason, cause không đi với giới từ 'on' theo cách này.",
+   "review": "Lớp 11 · Unit 5 – CLIL (tr. 60)",
+   "pid": "G11U5-P2",
+   "blank": 6
+  },
+  {
+   "id": "G11U5-C07",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Global warming: causes and effects",
+   "level": 1,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "as",
+    "to",
+    "from",
+    "than"
+   ],
+   "answer": 3,
+   "explain": "So sánh hơn: more powerful than (mạnh hơn). 'as' dùng cho so sánh bằng (as powerful as); 'to', 'from' sai.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)",
+   "pid": "G11U5-P2",
+   "blank": 7
+  },
+  {
+   "id": "G11U5-C08",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Past participle clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "Worn",
+    "Wearing",
+    "Wear",
+    "To wear"
+   ],
+   "answer": 0,
+   "explain": "Khẩu trang ĐƯỢC đeo (bị động) → Worn properly, these masks … (= If they are worn properly …). Wearing là chủ động (khẩu trang không tự đeo); Wear, To wear sai cấu trúc.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Past participle clauses (tr. 54–55)",
+   "pid": "G11U5-P2",
+   "blank": 8
+  },
+  {
+   "id": "G11U5-C09",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Present participle clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "used",
+    "using",
+    "to use",
+    "uses"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề V-ing chỉ kết quả, chủ ngữ 'farmers' chủ động, song song với 'producing' → using less water. used là bị động; 'to use' phá cấu trúc song song với 'producing'; uses sai dạng.",
+   "review": "Lớp 11 · Unit 5 – Language, Grammar – Present participle clauses (tr. 54)",
+   "pid": "G11U5-P2",
+   "blank": 9
+  },
+  {
+   "id": "G11U5-C10",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Human activities and the environment",
+   "level": 2,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "to cut",
+    "cut",
+    "being cut",
+    "cutting"
+   ],
+   "answer": 3,
+   "explain": "stop + V-ing = ngừng làm việc gì: stop cutting down forests (ngừng chặt phá rừng). 'stop to cut' nghĩa là dừng lại để chặt – sai nghĩa; 'being cut' là bị động, không có tân ngữ 'forests'; cut sai dạng.",
+   "review": "Lớp 11 · Unit 5 – Reading (tr. 55–56)",
+   "pid": "G11U5-P2",
+   "blank": 10
+  }
+ ]
+}

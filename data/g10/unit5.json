@@ -1,0 +1,1816 @@
+{
+ "grade": 10,
+ "unit": 5,
+ "name": "Inventions",
+ "src": "book",
+ "vocabTopics": [
+  "Inventions",
+  "Artificial intelligence",
+  "Computer hardware",
+  "Uses and benefits of inventions"
+ ],
+ "pron": "Stress in three-syllable nouns",
+ "grammar": [
+  "Present perfect",
+  "Gerunds and to-infinitives"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Thì hiện tại hoàn thành (Present perfect)",
+   "page": 54,
+   "body": "Cấu trúc: S + have/has + V3/V-ed. Phủ định: haven't/hasn't + V3. Nghi vấn: Have/Has + S + V3?\nCách dùng (theo sách):\n1) Việc xảy ra trong quá khứ nhưng kết quả còn quan trọng/đúng ở hiện tại: I have lost my key. Now I can't open the door.\n2) Việc bắt đầu trong quá khứ và vẫn tiếp diễn đến nay, thường đi với since (+ mốc thời gian) / for (+ khoảng thời gian): They have lived here for a year. Phong has wanted a laptop for a long time.\n3) Việc vừa mới hoàn tất, thường đi với just / recently: He has just finished his homework.\nDấu hiệu: since, for, just, recently, already, yet, ever, never, so far, up to now, in the last/past + khoảng thời gian (in the last 20 years).\nMẫu câu với since: Since + mệnh đề quá khứ đơn, mệnh đề hiện tại hoàn thành. Ví dụ: Since laptops were invented, they have allowed us to study better and work faster.\nLỗi hay gặp: dùng hiện tại hoàn thành với mốc thời gian xác định trong quá khứ (yesterday, last year, in 2019, ... ago) – phải dùng quá khứ đơn; nhầm since/for (since 2020, for three years); quên chia has cho chủ ngữ số ít."
+  },
+  {
+   "kind": "grammar",
+   "title": "Danh động từ (V-ing) và động từ nguyên mẫu có to (to V)",
+   "page": 54,
+   "body": "Dùng V-ing:\n- sau một số động từ: avoid, enjoy, finish (mở rộng: mind, practise, suggest, keep...). Ví dụ: I enjoy cooking.\n- làm chủ ngữ: Learning English is fun.\n- sau giới từ: instead of spending, interested in learning, useful for communicating.\nDùng to V:\n- sau một số động từ: want, decide, allow (allow sb to do sth) (mở rộng: plan, hope, need, learn...). Ví dụ: My parents don't allow me to use a smartphone.\n- sau tính từ trong cấu trúc It's + adj (+ for sb) + to V: It's fun to learn English.\n- làm chủ ngữ (trang trọng hơn): To learn English is fun.\nLưu ý: like, love, hate đi được với cả V-ing và to V, nghĩa gần như không đổi: I like playing / to play computer games.\nhelp sb (to) do sth: có thể bỏ to – Smartphones help us (to) communicate.\nLỗi hay gặp: enjoy to do, avoid to use, allow sb doing, want buying; dùng động từ nguyên mẫu không to làm chủ ngữ (Learn English is fun – sai)."
+  },
+  {
+   "kind": "pron",
+   "title": "Trọng âm danh từ ba âm tiết",
+   "page": 53,
+   "body": "Phần lớn danh từ ba âm tiết nhấn âm tiết thứ nhất (●○○): holiday, century, family, Internet, chocolate, telephone, memory, benefit, processor.\nDanh từ có tiền tố hoặc tận cùng -tion, -sion, -ment, -er (sau gốc động từ 2 âm tiết) thường nhấn âm tiết thứ hai (○●○): invention, tradition, computer, advantage, equipment, experiment (4 âm tiết, nhấn âm 2).\nNgoại lệ cần nhớ: afternoon nhấn âm thứ ba (○○●). Danh từ ghép như grandfather vẫn theo mẫu chung, nhấn âm thứ nhất (●○○).\nCách học: đọc to từng từ kèm ký hiệu ●○○ / ○●○, nhóm từ theo cùng một mẫu trọng âm."
+  },
+  {
+   "kind": "vocab",
+   "title": "Từ vựng chủ đề phát minh và máy tính",
+   "page": 54,
+   "body": "experiment (thí nghiệm), device (thiết bị), laboratory (phòng thí nghiệm), hardware (phần cứng), software (phần mềm, không đếm được), equipment (trang thiết bị, không đếm được).\nCLIL – Computer hardware (tr. 59): processor (bộ xử lý), RAM = Random Access Memory (bộ nhớ truy cập ngẫu nhiên), storage space (dung lượng lưu trữ), store (lưu trữ), display (hiển thị), gigabyte (GB), gigahertz (GHz).\nHọ từ: invent (v) – invention (n) – inventor (n); convenient (adj) – convenience (n); effective (adj) – effectively (adv); use (v/n) – useful (adj) – useless (adj)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Cấu trúc nói về công dụng, lợi ích của phát minh",
+   "page": 56,
+   "body": "- sth help(s) / allow(s) / enable(s) sb to do sth: The Internet helps us to communicate over long distances.\n- We / People (can) use sth to do / for sth: People can use the Internet to communicate over long distances.\n- sth is / are used for sth / for doing sth / to do sth / in sth: The Internet is used for communicating over long distances.\n- sth is / are useful for sth / for doing sth / for sb to do sth / in doing sth: Telephones are useful in communicating over long distances.\n- Sth / Doing sth is one of the (many) benefits of ...: Helping drivers find the best routes is one of the benefits of AI in transport.\nChú ý: be used for + V-ing (được dùng để) khác be used to + V-ing (quen với) và used to + V (đã từng)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Yêu cầu và đáp lại yêu cầu (Everyday English)",
+   "page": 59,
+   "body": "Đưa ra yêu cầu: Can you tell me (more) about ...? / Please let me know (more) about ... / I want / would like to know about ... / Can you please recommend ...?\nĐáp lại: Sure. / Certainly. / No problem. / What can I do for you? / How can I help you? / Feel free to ask me if you need further information."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "- Chia thì: thấy since/for/just/recently/ever/never/in the last ... → hiện tại hoàn thành; thấy ago/yesterday/last .../in + năm → quá khứ đơn. Mẫu \"Since + quá khứ đơn, hiện tại hoàn thành\".\n- V-ing hay to V: xét từ đứng trước – động từ (enjoy/avoid/finish → V-ing; want/decide/allow sb → to V), giới từ → V-ing, It's + adj → to V; đầu câu làm chủ ngữ → V-ing (hoặc To V).\n- Tìm lỗi sai: kiểm tra since/for, has/have với chủ ngữ, V3 sau have, dạng động từ sau enjoy/avoid/allow/useful in, danh từ không đếm được (furniture, equipment, software).\n- Viết lại câu: allow/help/enable sb to do ≈ be useful for doing ≈ be used for doing ≈ Doing sth is one of the benefits of ...; This is the first time + HTHT ≈ S + have never + V3 + before; started doing ... ago ≈ have done ... for ...\n- Trọng âm: danh từ 3 âm tiết đa số nhấn âm 1; từ đuôi -tion/-ment và danh từ tạo từ động từ 2 âm tiết nhấn âm 2 + -er (compute → computer) và từ bắt đầu bằng tiền tố (ad-, in-, e-) thường nhấn âm 2."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "invention",
+   "pos": "n",
+   "ipa": "/ɪnˈvenʃn/",
+   "vi": "sự phát minh; vật được phát minh",
+   "ex": "There have been so many valuable inventions.",
+   "page": 52
+  },
+  {
+   "w": "invent",
+   "pos": "v",
+   "ipa": "/ɪnˈvent/",
+   "vi": "phát minh, sáng chế",
+   "ex": "Since laptops were invented, they've allowed us to study better and work faster.",
+   "page": 52
+  },
+  {
+   "w": "inventor",
+   "pos": "n",
+   "ipa": "/ɪnˈventə(r)/",
+   "vi": "nhà phát minh",
+   "ex": "Thomas Edison was a famous American inventor.",
+   "page": 52
+  },
+  {
+   "w": "smartphone",
+   "pos": "n",
+   "ipa": "/ˈsmɑːtfəʊn/",
+   "vi": "điện thoại thông minh",
+   "ex": "It's hard to choose between a smartphone and a laptop.",
+   "page": 52
+  },
+  {
+   "w": "laptop",
+   "pos": "n",
+   "ipa": "/ˈlæptɒp/",
+   "vi": "máy tính xách tay",
+   "ex": "Perhaps a laptop is a better choice.",
+   "page": 52
+  },
+  {
+   "w": "suitable (for)",
+   "pos": "adj",
+   "ipa": "/ˈsuːtəbl/",
+   "vi": "phù hợp (với)",
+   "ex": "I didn't know smartphones were suitable for learning.",
+   "page": 52
+  },
+  {
+   "w": "convenient",
+   "pos": "adj",
+   "ipa": "/kənˈviːniənt/",
+   "vi": "thuận tiện",
+   "ex": "It's also very convenient for learners to use them.",
+   "page": 52
+  },
+  {
+   "w": "valuable",
+   "pos": "adj",
+   "ipa": "/ˈvæljuəbl/",
+   "vi": "quý giá, có giá trị",
+   "ex": "There have been so many valuable inventions.",
+   "page": 52
+  },
+  {
+   "w": "educational app",
+   "pos": "n phr",
+   "ipa": "/ˌedʒuˈkeɪʃənl æp/",
+   "vi": "ứng dụng học tập",
+   "ex": "It's actually a lot of fun to learn with educational apps.",
+   "page": 52
+  },
+  {
+   "w": "improve",
+   "pos": "v",
+   "ipa": "/ɪmˈpruːv/",
+   "vi": "cải thiện, cải tiến",
+   "ex": "Smartphones have also improved the way we work and study.",
+   "page": 52
+  },
+  {
+   "w": "advantage",
+   "pos": "n",
+   "ipa": "/ədˈvɑːntɪdʒ/",
+   "vi": "lợi thế, ưu điểm",
+   "ex": "One advantage of e-readers is that they are very light.",
+   "page": 53
+  },
+  {
+   "w": "experiment",
+   "pos": "n",
+   "ipa": "/ɪkˈsperɪmənt/",
+   "vi": "thí nghiệm",
+   "ex": "The students are doing an experiment in the lab.",
+   "page": 54
+  },
+  {
+   "w": "device",
+   "pos": "n",
+   "ipa": "/dɪˈvaɪs/",
+   "vi": "thiết bị",
+   "ex": "Many children enjoy using modern devices nowadays.",
+   "page": 54
+  },
+  {
+   "w": "laboratory",
+   "pos": "n",
+   "ipa": "/ləˈbɒrətri/",
+   "vi": "phòng thí nghiệm",
+   "ex": "Scientists test new inventions in a laboratory.",
+   "page": 54
+  },
+  {
+   "w": "hardware",
+   "pos": "n",
+   "ipa": "/ˈhɑːdweə(r)/",
+   "vi": "phần cứng (máy tính)",
+   "ex": "Decisions about the hardware must be made before you buy a computer.",
+   "page": 54
+  },
+  {
+   "w": "software",
+   "pos": "n",
+   "ipa": "/ˈsɒftweə(r)/",
+   "vi": "phần mềm",
+   "ex": "They have just installed some interesting software on the school computers.",
+   "page": 54
+  },
+  {
+   "w": "equipment",
+   "pos": "n",
+   "ipa": "/ɪˈkwɪpmənt/",
+   "vi": "trang thiết bị",
+   "ex": "Our school has bought some new equipment for the computer room.",
+   "page": 54
+  },
+  {
+   "w": "artificial intelligence (AI)",
+   "pos": "n phr",
+   "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+   "vi": "trí tuệ nhân tạo",
+   "ex": "AI is one of the most important inventions of the 21st century.",
+   "page": 55
+  },
+  {
+   "w": "robot",
+   "pos": "n",
+   "ipa": "/ˈrəʊbɒt/",
+   "vi": "rô-bốt, người máy",
+   "ex": "In 2000, Asimo, a robot created by Honda, amazed everyone by just walking down the stairs.",
+   "page": 55
+  },
+  {
+   "w": "intelligence",
+   "pos": "n",
+   "ipa": "/ɪnˈtelɪdʒəns/",
+   "vi": "trí thông minh",
+   "ex": "AI is the study and development of machines that can copy human intelligence.",
+   "page": 55
+  },
+  {
+   "w": "apply (to)",
+   "pos": "v",
+   "ipa": "/əˈplaɪ/",
+   "vi": "ứng dụng (vào)",
+   "ex": "Nowadays, AI has been applied to various areas of life.",
+   "page": 55
+  },
+  {
+   "w": "vacuum cleaner",
+   "pos": "n",
+   "ipa": "/ˈvækjuːm kliːnə(r)/",
+   "vi": "máy hút bụi",
+   "ex": "Vacuum cleaners can now use AI to measure the room size.",
+   "page": 55
+  },
+  {
+   "w": "measure",
+   "pos": "v",
+   "ipa": "/ˈmeʒə(r)/",
+   "vi": "đo, đo lường",
+   "ex": "The robot can measure the room size and recognise any furniture.",
+   "page": 55
+  },
+  {
+   "w": "recognise",
+   "pos": "v",
+   "ipa": "/ˈrekəɡnaɪz/",
+   "vi": "nhận ra, nhận diện",
+   "ex": "Vacuum cleaners can now use AI to recognise any furniture.",
+   "page": 55
+  },
+  {
+   "w": "effective",
+   "pos": "adj",
+   "ipa": "/ɪˈfektɪv/",
+   "vi": "hiệu quả",
+   "ex": "They can then decide on the most effective way to clean the house.",
+   "page": 55
+  },
+  {
+   "w": "route",
+   "pos": "n",
+   "ipa": "/ruːt/",
+   "vi": "tuyến đường, lộ trình",
+   "ex": "This can then help drivers find the most suitable route.",
+   "page": 55
+  },
+  {
+   "w": "chatbot",
+   "pos": "n",
+   "ipa": "/ˈtʃætbɒt/",
+   "vi": "chatbot (chương trình trò chuyện tự động)",
+   "ex": "Chatbots can help customers plan their holidays and answer questions.",
+   "page": 55
+  },
+  {
+   "w": "communicate",
+   "pos": "v",
+   "ipa": "/kəˈmjuːnɪkeɪt/",
+   "vi": "giao tiếp, liên lạc",
+   "ex": "The Internet helps us to communicate over long distances.",
+   "page": 56
+  },
+  {
+   "w": "e-reader",
+   "pos": "n",
+   "ipa": "/ˈiː riːdə(r)/",
+   "vi": "máy đọc sách điện tử",
+   "ex": "People use e-readers to store and read texts from the Internet.",
+   "page": 56
+  },
+  {
+   "w": "3D printing",
+   "pos": "n phr",
+   "ipa": "/ˌθriː ˈdiː ˈprɪntɪŋ/",
+   "vi": "in 3D",
+   "ex": "3D printing is used to make three-dimensional objects.",
+   "page": 56
+  },
+  {
+   "w": "three-dimensional",
+   "pos": "adj",
+   "ipa": "/ˌθriː daɪˈmenʃənl/",
+   "vi": "ba chiều",
+   "ex": "A 3D printer can make three-dimensional objects.",
+   "page": 56
+  },
+  {
+   "w": "driverless car",
+   "pos": "n phr",
+   "ipa": "/ˌdraɪvələs ˈkɑː(r)/",
+   "vi": "xe ô tô không người lái",
+   "ex": "Driverless cars can travel around without a person in control.",
+   "page": 56
+  },
+  {
+   "w": "button",
+   "pos": "n",
+   "ipa": "/ˈbʌtn/",
+   "vi": "nút bấm",
+   "ex": "Press the button to start the device.",
+   "page": 57
+  },
+  {
+   "w": "stain",
+   "pos": "n",
+   "ipa": "/steɪn/",
+   "vi": "vết bẩn, vết ố",
+   "ex": "There is a dirty stain on your smartphone. Wipe it away.",
+   "page": 57
+  },
+  {
+   "w": "charge",
+   "pos": "v",
+   "ipa": "/tʃɑːdʒ/",
+   "vi": "sạc (pin)",
+   "ex": "You need to charge your mobile phone. The battery is very low.",
+   "page": 57
+  },
+  {
+   "w": "benefit",
+   "pos": "n",
+   "ipa": "/ˈbenɪfɪt/",
+   "vi": "lợi ích",
+   "ex": "Helping drivers find the best routes is one of the benefits of AI in transport.",
+   "page": 58
+  },
+  {
+   "w": "enable",
+   "pos": "v",
+   "ipa": "/ɪˈneɪbl/",
+   "vi": "cho phép, giúp cho (ai làm gì)",
+   "ex": "The Internet enables us to find information quickly.",
+   "page": 58
+  },
+  {
+   "w": "recommend",
+   "pos": "v",
+   "ipa": "/ˌrekəˈmend/",
+   "vi": "giới thiệu, đề xuất",
+   "ex": "Can you please recommend a good one to me?",
+   "page": 58
+  },
+  {
+   "w": "processor",
+   "pos": "n",
+   "ipa": "/ˈprəʊsesə(r)/",
+   "vi": "bộ xử lý",
+   "ex": "The processor controls all of the activities of a computer.",
+   "page": 59
+  },
+  {
+   "w": "RAM (Random Access Memory)",
+   "pos": "n",
+   "ipa": "/ræm/",
+   "vi": "bộ nhớ truy cập ngẫu nhiên (RAM)",
+   "ex": "The more RAM in a computer, the more tasks your computer can do at the same time.",
+   "page": 59
+  },
+  {
+   "w": "display",
+   "pos": "v",
+   "ipa": "/dɪˈspleɪ/",
+   "vi": "hiển thị",
+   "ex": "RAM is displayed in gigabytes (GB).",
+   "page": 59
+  },
+  {
+   "w": "storage space",
+   "pos": "n phr",
+   "ipa": "/ˈstɔːrɪdʒ speɪs/",
+   "vi": "dung lượng lưu trữ",
+   "ex": "Storage space shows how much information a computer can store.",
+   "page": 59
+  },
+  {
+   "w": "store",
+   "pos": "v",
+   "ipa": "/stɔː(r)/",
+   "vi": "lưu trữ",
+   "ex": "I want to store a lot of photos and videos on my laptop.",
+   "page": 59
+  },
+  {
+   "w": "memory",
+   "pos": "n",
+   "ipa": "/ˈmeməri/",
+   "vi": "bộ nhớ; trí nhớ",
+   "ex": "RAM is a type of computer memory.",
+   "page": 60
+  },
+  {
+   "w": "telephone",
+   "pos": "n",
+   "ipa": "/ˈtelɪfəʊn/",
+   "vi": "điện thoại",
+   "ex": "Telephones are useful in communicating over long distances.",
+   "page": 60
+  }
+ ],
+ "passages": [
+  {
+   "id": "G10U5-P1",
+   "title": "Learning with modern devices",
+   "text": "Over the last few decades, many inventions (1) _____ the way students learn. Laptops, tablets and smartphones are now common in classrooms all over the world. Thanks to these devices, students can look up information on the Internet in seconds instead of (2) _____ hours in the library. Many schools have also started using educational apps. These apps allow learners (3) _____ new words, practise grammar and play language games at the same time. Some apps can even check students' pronunciation and give them feedback. In addition, e-readers help students (4) _____ hundreds of books in one small device, so their schoolbags are much lighter. (5) _____, teachers should remind students not to use these devices for too long, because spending too much time in front of a screen can be bad for their eyes. When they are used wisely, modern inventions can make learning more effective and enjoyable."
+  },
+  {
+   "id": "G10U5-P2",
+   "title": "Artificial intelligence at home",
+   "text": "Ten years ago, few people had robots at home. Today, however, AI devices (6) _____ more and more popular. A robot vacuum cleaner is a good example. It can measure the size of a room, recognise furniture and decide on the most (7) _____ way to clean the floor. You only need to press a (8) _____ to start it, and it will do the job while you are at school or at work. When its battery is low, it goes back to its dock to (9) _____. Smart speakers are another useful invention. They can answer questions, play music and remind you of important dates. Many families say that (10) _____ these devices saves them a lot of time and energy. However, people should remember that AI is only a tool, and it cannot do everything for us."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G10U5-V01",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 1,
+   "q": "A _____ is a room or building where scientists do experiments and research.",
+   "options": [
+    "laboratory",
+    "library",
+    "factory",
+    "classroom"
+   ],
+   "answer": 0,
+   "explain": "laboratory = phòng thí nghiệm, nơi làm thí nghiệm và nghiên cứu. library: thư viện; factory: nhà máy; classroom: lớp học – không phải nơi chuyên làm thí nghiệm.",
+   "review": "Lớp 10 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G10U5-V02",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 2,
+   "q": "Phong has saved some money to buy a new electronic _____ for his studies, such as a laptop or a tablet.",
+   "options": [
+    "machinery",
+    "device",
+    "equipment",
+    "software"
+   ],
+   "answer": 1,
+   "explain": "Trước chỗ trống có mạo từ \"a\" nên cần danh từ đếm được: device (thiết bị). machinery, equipment, software đều là danh từ không đếm được, không đi với \"a\".",
+   "review": "Lớp 10 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G10U5-V03",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Computer hardware",
+   "level": 1,
+   "q": "The programs that run on a computer, such as games or word processors, are called _____.",
+   "options": [
+    "hardware",
+    "storage",
+    "software",
+    "processor"
+   ],
+   "answer": 2,
+   "explain": "software = phần mềm (các chương trình chạy trên máy tính). hardware: phần cứng (các bộ phận vật lý); storage: lưu trữ; processor: bộ xử lý.",
+   "review": "Lớp 10 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G10U5-V04",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Computer hardware",
+   "level": 1,
+   "q": "The _____ is the part of a computer that controls all of its activities.",
+   "options": [
+    "screen",
+    "battery",
+    "keyboard",
+    "processor"
+   ],
+   "answer": 3,
+   "explain": "Theo bài CLIL: \"The processor controls all of the activities of a computer.\" screen: màn hình; battery: pin; keyboard: bàn phím.",
+   "review": "Lớp 10 · Unit 5 – Communication & Culture / CLIL (tr. 59)"
+  },
+  {
+   "id": "G10U5-V05",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 2,
+   "q": "Laptops are one of the most useful _____ of the 20th century.",
+   "options": [
+    "invent",
+    "inventions",
+    "inventive",
+    "inventors"
+   ],
+   "answer": 1,
+   "explain": "Sau \"one of the most useful\" cần danh từ số nhiều chỉ vật: inventions (các phát minh). invent là động từ, inventive là tính từ; inventors là \"các nhà phát minh\" (chỉ người) – sai nghĩa vì laptop là đồ vật.",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-V06",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Uses and benefits of inventions",
+   "level": 2,
+   "q": "It's very _____ for learners to use educational apps on their smartphones.",
+   "options": [
+    "convenience",
+    "conveniently",
+    "convenient",
+    "inconvenience"
+   ],
+   "answer": 2,
+   "explain": "Cấu trúc It's + tính từ + for sb + to V, nên cần tính từ: convenient (thuận tiện). convenience/inconvenience là danh từ, conveniently là trạng từ.",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-V07",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 1,
+   "q": "Your phone's battery is very low. You need to _____ it now.",
+   "options": [
+    "charge",
+    "change",
+    "press",
+    "store"
+   ],
+   "answer": 0,
+   "explain": "charge (v) = sạc pin, phù hợp với \"battery is very low\". change: thay đổi; press: ấn; store: lưu trữ.",
+   "review": "Lớp 10 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G10U5-V08",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 1,
+   "q": "Press the Start _____ to turn on the robot vacuum cleaner.",
+   "options": [
+    "stain",
+    "button",
+    "screen",
+    "charge"
+   ],
+   "answer": 1,
+   "explain": "button = nút bấm; press the Start button: ấn nút Khởi động. stain: vết bẩn; screen: màn hình (không \"Start screen\" để bật máy hút bụi); charge: sự sạc.",
+   "review": "Lớp 10 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G10U5-V09",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 2,
+   "q": "Scientists are _____ an experiment to test the new robot.",
+   "options": [
+    "making",
+    "taking",
+    "carrying out",
+    "getting"
+   ],
+   "answer": 2,
+   "explain": "Collocation: carry out / do an experiment = tiến hành thí nghiệm. Không dùng make, take, get với experiment theo nghĩa này.",
+   "review": "Lớp 10 · Unit 5 – Language, Vocabulary (tr. 54)"
+  },
+  {
+   "id": "G10U5-V10",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Uses and benefits of inventions",
+   "level": 3,
+   "q": "Smartphones _____ us to communicate and learn at the same time.",
+   "options": [
+    "make",
+    "let",
+    "allow",
+    "have"
+   ],
+   "answer": 2,
+   "explain": "allow sb to do sth = cho phép ai làm gì. make sb do, let sb do, have sb do đều đi với động từ nguyên mẫu KHÔNG to, nên không đứng trước \"to communicate\".",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)"
+  },
+  {
+   "id": "G10U5-V11",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Uses and benefits of inventions",
+   "level": 2,
+   "q": "Computers are used _____ storing and processing information.",
+   "options": [
+    "to",
+    "for",
+    "with",
+    "on"
+   ],
+   "answer": 1,
+   "explain": "be used for + V-ing / danh từ = được dùng để. \"be used to + V-ing\" nghĩa là \"quen với\", sai nghĩa ở đây; with, on không đi với used theo nghĩa này.",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)"
+  },
+  {
+   "id": "G10U5-V12",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Artificial intelligence",
+   "level": 1,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nSophia can <u>communicate</u> with people by using human language.",
+   "options": [
+    "talk",
+    "compete",
+    "compare",
+    "connect"
+   ],
+   "answer": 0,
+   "explain": "communicate with sb = giao tiếp với ai ≈ talk with sb (nói chuyện). compete: cạnh tranh; compare: so sánh; connect: kết nối.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)"
+  },
+  {
+   "id": "G10U5-V13",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Artificial intelligence",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nNowadays, AI has been <u>applied</u> to various areas of life.",
+   "options": [
+    "refused",
+    "used",
+    "invented",
+    "added"
+   ],
+   "answer": 1,
+   "explain": "apply sth to = ứng dụng vào ≈ use (sử dụng). refused: bị từ chối; invented: được phát minh; added: được thêm vào – không đồng nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)"
+  },
+  {
+   "id": "G10U5-V14",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Computer hardware",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nI'd like a cheap and <u>light</u> laptop because I have to bring it to school every day.",
+   "options": [
+    "dark",
+    "small",
+    "expensive",
+    "heavy"
+   ],
+   "answer": 3,
+   "explain": "light ở đây là \"nhẹ\" (cân nặng), trái nghĩa là heavy (nặng). dark trái nghĩa với light theo nghĩa \"sáng\", không hợp ngữ cảnh; expensive trái nghĩa với cheap; small trái nghĩa với big.",
+   "review": "Lớp 10 · Unit 5 – Communication & Culture / CLIL (tr. 59)"
+  },
+  {
+   "id": "G10U5-V15",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Uses and benefits of inventions",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nLaptops have allowed us to study better and work <u>faster</u>.",
+   "options": [
+    "more quickly",
+    "harder",
+    "better",
+    "more slowly"
+   ],
+   "answer": 3,
+   "explain": "faster = nhanh hơn, trái nghĩa là more slowly (chậm hơn). more quickly đồng nghĩa; harder, better không trái nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-V16",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Artificial intelligence",
+   "level": 1,
+   "q": "The robot vacuum cleaner can _____ the size of the room and recognise any furniture.",
+   "options": [
+    "measure",
+    "weigh",
+    "count",
+    "explore"
+   ],
+   "answer": 0,
+   "explain": "measure the size = đo kích thước (câu trong bài đọc tr. 55). weigh: cân (trọng lượng); count: đếm; explore: khám phá – không đi với \"the size\".",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)"
+  },
+  {
+   "id": "G10U5-V17",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Computer hardware",
+   "level": 2,
+   "q": "_____ is a type of computer memory. The more of it a computer has, the more tasks it can do at the same time.",
+   "options": [
+    "Storage space",
+    "Processor",
+    "RAM",
+    "Hardware"
+   ],
+   "answer": 2,
+   "explain": "RAM (Random Access Memory) là một loại bộ nhớ; càng nhiều RAM máy càng làm được nhiều việc cùng lúc. Storage space: dung lượng lưu trữ; Processor: bộ xử lý; Hardware: phần cứng nói chung.",
+   "review": "Lớp 10 · Unit 5 – Communication & Culture / CLIL (tr. 59)"
+  },
+  {
+   "id": "G10U5-V18",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Artificial intelligence",
+   "level": 3,
+   "q": "Travelling has become much more convenient _____ AI.",
+   "options": [
+    "because",
+    "in spite of",
+    "instead of",
+    "thanks to"
+   ],
+   "answer": 3,
+   "explain": "thanks to + danh từ = nhờ có. because phải đi với mệnh đề (because of mới đi với danh từ); in spite of: mặc dù; instead of: thay vì – sai nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)"
+  },
+  {
+   "id": "G10U5-V19",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 1,
+   "q": "Can you help me _____ how to use this new app?",
+   "options": [
+    "find out",
+    "look after",
+    "give up",
+    "turn down"
+   ],
+   "answer": 0,
+   "explain": "find out = tìm hiểu, khám phá ra. look after: chăm sóc; give up: từ bỏ; turn down: từ chối/vặn nhỏ – không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-V20",
+   "unit": 5,
+   "type": "vocab",
+   "topic": "Inventions",
+   "level": 2,
+   "q": "A _____ car can travel around without a person in control.",
+   "options": [
+    "careless",
+    "homeless",
+    "powerless",
+    "driverless"
+   ],
+   "answer": 3,
+   "explain": "driverless car = xe không người lái (driver + -less: không có tài xế). careless: bất cẩn; homeless: vô gia cư; powerless: bất lực – không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)"
+  },
+  {
+   "id": "G10U5-G01",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 1,
+   "q": "Scientists _____ many useful inventions since the 19th century.",
+   "options": [
+    "have made",
+    "made",
+    "make",
+    "are making"
+   ],
+   "answer": 0,
+   "explain": "Có \"since the 19th century\" → thì hiện tại hoàn thành: have made. made (quá khứ đơn), make, are making không dùng với since.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G02",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 1,
+   "q": "My dad _____ his laptop in 2019.",
+   "options": [
+    "has bought",
+    "buys",
+    "have bought",
+    "bought"
+   ],
+   "answer": 3,
+   "explain": "\"in 2019\" là mốc thời gian xác định trong quá khứ → dùng quá khứ đơn bought. Hiện tại hoàn thành (has bought) không đi với mốc thời gian cụ thể; have bought sai cả chủ-vị.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G03",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 1,
+   "q": "I _____ wanted a new smartphone for a long time.",
+   "options": [
+    "have",
+    "has",
+    "had been",
+    "am"
+   ],
+   "answer": 0,
+   "explain": "for a long time → hiện tại hoàn thành: I have wanted (tôi đã muốn từ lâu và vẫn muốn). has dùng cho ngôi 3 số ít; had been wanted là bị động, sai; am wanted sai cấu trúc.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G04",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 1,
+   "q": "They have used this robot _____ 2020.",
+   "options": [
+    "for",
+    "ago",
+    "in",
+    "since"
+   ],
+   "answer": 3,
+   "explain": "since + mốc thời gian (2020) trong câu hiện tại hoàn thành. for đi với khoảng thời gian; ago và in + năm dùng với quá khứ đơn.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G05",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 1,
+   "q": "We have had this 3D printer _____ three years.",
+   "options": [
+    "since",
+    "ago",
+    "for",
+    "in"
+   ],
+   "answer": 2,
+   "explain": "for + khoảng thời gian (three years). since đi với mốc thời gian; ago dùng với quá khứ đơn; in three years thường mang nghĩa \"trong ba năm nữa\".",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G06",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 2,
+   "q": "Look! The robot _____ just _____ the floor. It's very clean now.",
+   "options": [
+    "has / cleaned",
+    "did / clean",
+    "is / cleaning",
+    "was / cleaning"
+   ],
+   "answer": 0,
+   "explain": "\"just\" + kết quả hiện tại (It's very clean now) → hiện tại hoàn thành: has just cleaned (vừa mới lau xong). Các phương án còn lại sai thì hoặc không đi với just theo nghĩa \"vừa mới xong\".",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G07",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Since laptops _____, they _____ us to study better and work faster.",
+   "options": [
+    "have been invented / allowed",
+    "were invented / have allowed",
+    "were invented / allowed",
+    "are invented / allow"
+   ],
+   "answer": 1,
+   "explain": "Mẫu: Since + quá khứ đơn, hiện tại hoàn thành. Since laptops were invented, they have allowed us ... (câu trong Getting Started). Các phương án khác đảo thì hoặc dùng sai thì.",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-G08",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 1,
+   "q": "_____ you ever _____ an e-reader?",
+   "options": [
+    "Did / use",
+    "Do / use",
+    "Have / used",
+    "Has / used"
+   ],
+   "answer": 2,
+   "explain": "\"ever\" (đã từng bao giờ) → câu hỏi hiện tại hoàn thành: Have you ever used ...? Has dùng cho ngôi 3 số ít; Did/Do + used sai dạng động từ, và \"ever\" thường đi với hiện tại hoàn thành.",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)"
+  },
+  {
+   "id": "G10U5-G09",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 2,
+   "q": "Mai can't send any messages now because she _____ her phone.",
+   "options": [
+    "loses",
+    "has lost",
+    "is losing",
+    "lose"
+   ],
+   "answer": 1,
+   "explain": "Việc mất điện thoại xảy ra trong quá khứ nhưng kết quả còn ở hiện tại (bây giờ không nhắn tin được) → has lost. loses, is losing không diễn tả kết quả; lose sai chủ-vị.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-G10",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Present perfect",
+   "level": 2,
+   "q": "There _____ so many valuable inventions in the last 50 years.",
+   "options": [
+    "are",
+    "were",
+    "have been",
+    "has been"
+   ],
+   "answer": 2,
+   "explain": "\"in the last 50 years\" (trong 50 năm qua) → hiện tại hoàn thành; chủ ngữ thật \"inventions\" số nhiều → have been. has been sai số; are, were sai thì.",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-G11",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 1,
+   "q": "I enjoy _____ language games on my smartphone.",
+   "options": [
+    "play",
+    "playing",
+    "to play",
+    "played"
+   ],
+   "answer": 1,
+   "explain": "enjoy + V-ing → enjoy playing. Không dùng enjoy to play hay enjoy play.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G12",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 1,
+   "q": "My parents don't allow me _____ my phone at night.",
+   "options": [
+    "use",
+    "using",
+    "used",
+    "to use"
+   ],
+   "answer": 3,
+   "explain": "allow sb to do sth → allow me to use. Không dùng allow sb doing/do.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G13",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 1,
+   "q": "It's fun _____ English with educational apps.",
+   "options": [
+    "learn",
+    "learning",
+    "learned",
+    "to learn"
+   ],
+   "answer": 3,
+   "explain": "Mẫu It's + tính từ + to V để nêu ý kiến: It's fun to learn English (theo phần Remember tr. 54).",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G14",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 1,
+   "q": "I have decided _____ computer science at university.",
+   "options": [
+    "to study",
+    "studying",
+    "study",
+    "studied"
+   ],
+   "answer": 0,
+   "explain": "decide + to V → decided to study. decide không đi với V-ing hay động từ nguyên mẫu không to.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G15",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "You should avoid _____ your phone while it is charging.",
+   "options": [
+    "using",
+    "to use",
+    "use",
+    "used"
+   ],
+   "answer": 0,
+   "explain": "avoid + V-ing → avoid using (tránh sử dụng). avoid to use là lỗi thường gặp.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G16",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "_____ a robot is not easy at all.",
+   "options": [
+    "Build",
+    "Building",
+    "Built",
+    "Builds"
+   ],
+   "answer": 1,
+   "explain": "Chủ ngữ là một hành động → dùng danh động từ Building. Build/Builds là động từ chia, Built là quá khứ phân từ – không làm chủ ngữ.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G17",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "Have you finished _____ your paragraph about the benefits of AI?",
+   "options": [
+    "to write",
+    "write",
+    "writing",
+    "written"
+   ],
+   "answer": 2,
+   "explain": "finish + V-ing → finished writing. Không dùng finish to write.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G18",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "Smartphones help us _____ with friends who live far away.",
+   "options": [
+    "communicating",
+    "communicate",
+    "communicated",
+    "communicates"
+   ],
+   "answer": 1,
+   "explain": "help sb (to) do sth → help us communicate (có thể bỏ to). Các dạng V-ing, V-ed, V-s đều sai sau help sb.",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)"
+  },
+  {
+   "id": "G10U5-G19",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "Phong wants _____ a new laptop, but he hasn't saved enough money yet.",
+   "options": [
+    "buying",
+    "buy",
+    "bought",
+    "to buy"
+   ],
+   "answer": 3,
+   "explain": "want + to V → wants to buy. want không đi với V-ing hay động từ nguyên mẫu không to.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-G20",
+   "unit": 5,
+   "type": "grammar",
+   "topic": "Gerunds and to-infinitives",
+   "level": 3,
+   "q": "Choose the INCORRECT sentence.",
+   "options": [
+    "I like playing computer games.",
+    "I like to play computer games.",
+    "I enjoy to play computer games.",
+    "I enjoy playing computer games."
+   ],
+   "answer": 2,
+   "explain": "like đi được với cả V-ing và to V nên hai câu với like đều đúng; enjoy chỉ đi với V-ing, vì vậy \"I enjoy to play computer games\" là câu sai.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-P01",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>atbot",
+    "<u>ch</u>arge",
+    "te<u>ch</u>nology",
+    "<u>ch</u>oose"
+   ],
+   "answer": 2,
+   "explain": "technology /tekˈnɒlədʒi/: ch đọc /k/. chatbot /ˈtʃætbɒt/, charge /tʃɑːdʒ/, choose /tʃuːz/: ch đọc /tʃ/.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P02",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "d<u>i</u>splay",
+    "dev<u>i</u>ce",
+    "dr<u>i</u>verless",
+    "l<u>i</u>ght"
+   ],
+   "answer": 0,
+   "explain": "display /dɪˈspleɪ/: i đọc /ɪ/. device /dɪˈvaɪs/, driverless /ˈdraɪvələs/, light /laɪt/: i đọc /aɪ/.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P03",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "m<u>ea</u>sure",
+    "r<u>ea</u>der",
+    "h<u>ea</u>vy",
+    "h<u>ea</u>lth"
+   ],
+   "answer": 1,
+   "explain": "reader /ˈriːdə(r)/: ea đọc /iː/. measure /ˈmeʒə(r)/, heavy /ˈhevi/, health /helθ/: ea đọc /e/.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P04",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "improv<u>ed</u>",
+    "chang<u>ed</u>",
+    "allow<u>ed</u>",
+    "invent<u>ed</u>"
+   ],
+   "answer": 3,
+   "explain": "invented /ɪnˈventɪd/: -ed đọc /ɪd/ vì động từ tận cùng bằng /t/. improved /ɪmˈpruːvd/, changed /tʃeɪndʒd/, allowed /əˈlaʊd/: -ed đọc /d/.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P05",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "r<u>o</u>bot",
+    "s<u>o</u>ftware",
+    "ph<u>o</u>ne",
+    "pr<u>o</u>cessor"
+   ],
+   "answer": 1,
+   "explain": "software /ˈsɒftweə(r)/: o đọc /ɒ/. robot /ˈrəʊbɒt/, phone /fəʊn/, processor /ˈprəʊsesə(r)/: o đọc /əʊ/.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P06",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "comp<u>u</u>ter",
+    "<u>u</u>seful",
+    "m<u>u</u>sic",
+    "b<u>u</u>tton"
+   ],
+   "answer": 3,
+   "explain": "button /ˈbʌtn/: u đọc /ʌ/. computer /kəmˈpjuːtə(r)/, useful /ˈjuːsfl/, music /ˈmjuːzɪk/: u đọc /juː/.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P07",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "Internet",
+    "invention",
+    "computer",
+    "advantage"
+   ],
+   "answer": 0,
+   "explain": "Internet /ˈɪntənet/ nhấn âm 1 (●○○). invention /ɪnˈvenʃn/, computer /kəmˈpjuːtə(r)/, advantage /ədˈvɑːntɪdʒ/ nhấn âm 2 (○●○).",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P08",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "holiday",
+    "century",
+    "tradition",
+    "family"
+   ],
+   "answer": 2,
+   "explain": "tradition /trəˈdɪʃn/ nhấn âm 2. holiday /ˈhɒlədeɪ/, century /ˈsentʃəri/, family /ˈfæməli/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P09",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "memory",
+    "telephone",
+    "processor",
+    "equipment"
+   ],
+   "answer": 3,
+   "explain": "equipment /ɪˈkwɪpmənt/ nhấn âm 2. memory /ˈmeməri/, telephone /ˈtelɪfəʊn/, processor /ˈprəʊsesə(r)/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 5 – Looking Back (tr. 60)"
+  },
+  {
+   "id": "G10U5-P10",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "afternoon",
+    "benefit",
+    "chocolate",
+    "grandfather"
+   ],
+   "answer": 0,
+   "explain": "afternoon /ˌɑːftəˈnuːn/ nhấn âm 3. benefit /ˈbenɪfɪt/, chocolate /ˈtʃɒklət/, grandfather /ˈɡrænfɑːðə(r)/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 5 – Language, Pronunciation (tr. 53)"
+  },
+  {
+   "id": "G10U5-P11",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "suitable",
+    "effective",
+    "valuable",
+    "difficult"
+   ],
+   "answer": 1,
+   "explain": "effective /ɪˈfektɪv/ nhấn âm 2. suitable /ˈsuːtəbl/, valuable /ˈvæljuəbl/, difficult /ˈdɪfɪkəlt/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)"
+  },
+  {
+   "id": "G10U5-P12",
+   "unit": 5,
+   "type": "pron",
+   "topic": "Stress in three-syllable nouns",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "display",
+    "improve",
+    "button",
+    "invent"
+   ],
+   "answer": 2,
+   "explain": "button /ˈbʌtn/ nhấn âm 1. display /dɪˈspleɪ/, improve /ɪmˈpruːv/, invent /ɪnˈvent/ nhấn âm 2.",
+   "review": "Lớp 10 · Unit 5 – Listening (tr. 57)"
+  },
+  {
+   "id": "G10U5-E01",
+   "unit": 5,
+   "type": "error",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nSince laptops <u>were invented</u> (A), they <u>changed</u> (B) the way we <u>study</u> (C) and <u>work</u> (D).",
+   "options": [
+    "A. were invented",
+    "B. changed",
+    "C. study",
+    "D. work"
+   ],
+   "answer": 1,
+   "explain": "Đáp án B. Mẫu Since + quá khứ đơn, mệnh đề chính dùng hiện tại hoàn thành: changed → have changed.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-E02",
+   "unit": 5,
+   "type": "error",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nMy brother <u>has worked</u> (A) <u>as</u> (B) a robot engineer <u>since five years</u> (C), and he <u>loves</u> (D) his job.",
+   "options": [
+    "A. has worked",
+    "B. as",
+    "C. since five years",
+    "D. loves"
+   ],
+   "answer": 2,
+   "explain": "Đáp án C. five years là khoảng thời gian nên dùng for: since five years → for five years.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-E03",
+   "unit": 5,
+   "type": "error",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMany teenagers <u>enjoy</u> (A) <u>to learn</u> (B) English <u>with</u> (C) educational <u>apps</u> (D).",
+   "options": [
+    "A. enjoy",
+    "B. to learn",
+    "C. with",
+    "D. apps"
+   ],
+   "answer": 1,
+   "explain": "Đáp án B. enjoy + V-ing: to learn → learning.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-E04",
+   "unit": 5,
+   "type": "error",
+   "topic": "Gerunds and to-infinitives",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nMy parents <u>avoid to buy</u> (A) cheap devices <u>because</u> (B) they <u>usually</u> (C) <u>break</u> (D) quickly.",
+   "options": [
+    "A. avoid to buy",
+    "B. because",
+    "C. usually",
+    "D. break"
+   ],
+   "answer": 0,
+   "explain": "Đáp án A. avoid + V-ing: avoid to buy → avoid buying.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-E05",
+   "unit": 5,
+   "type": "error",
+   "topic": "Artificial intelligence",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe robot vacuum cleaner can <u>measure</u> (A) the room size and <u>recognise</u> (B) <u>any</u> (C) <u>furnitures</u> (D).",
+   "options": [
+    "A. measure",
+    "B. recognise",
+    "C. any",
+    "D. furnitures"
+   ],
+   "answer": 3,
+   "explain": "Đáp án D. furniture là danh từ không đếm được, không có dạng số nhiều: furnitures → furniture.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)"
+  },
+  {
+   "id": "G10U5-E06",
+   "unit": 5,
+   "type": "error",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nSmartphones <u>have</u> (A) <u>completely</u> (B) <u>change</u> (C) our lives <u>in</u> (D) the last 20 years.",
+   "options": [
+    "A. have",
+    "B. completely",
+    "C. change",
+    "D. in"
+   ],
+   "answer": 2,
+   "explain": "Đáp án C. Hiện tại hoàn thành: have + quá khứ phân từ: change → changed.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-E07",
+   "unit": 5,
+   "type": "error",
+   "topic": "Gerunds and to-infinitives",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>Learn</u> (A) English <u>with</u> (B) a smartphone <u>is</u> (C) fun <u>as well</u> (D).",
+   "options": [
+    "A. Learn",
+    "B. with",
+    "C. is",
+    "D. as well"
+   ],
+   "answer": 0,
+   "explain": "Đáp án A. Chủ ngữ là hành động phải dùng V-ing (hoặc To V): Learn → Learning (hoặc To learn).",
+   "review": "Lớp 10 · Unit 5 – Looking Back (tr. 60)"
+  },
+  {
+   "id": "G10U5-E08",
+   "unit": 5,
+   "type": "error",
+   "topic": "Uses and benefits of inventions",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nTelephones <u>are</u> (A) <u>useful</u> (B) <u>in</u> (C) <u>communicate</u> (D) over long distances.",
+   "options": [
+    "A. are",
+    "B. useful",
+    "C. in",
+    "D. communicate"
+   ],
+   "answer": 3,
+   "explain": "Đáp án D. Sau giới từ in phải dùng V-ing (be useful in doing sth): communicate → communicating.",
+   "review": "Lớp 10 · Unit 5 – Writing (tr. 58)"
+  },
+  {
+   "id": "G10U5-R01",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Uses and benefits of inventions",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nVacuum cleaners allow us to clean the house quickly.",
+   "options": [
+    "Vacuum cleaners are useful for cleaning the house quickly.",
+    "Vacuum cleaners are used to cleaning the house slowly.",
+    "We don't allow vacuum cleaners to clean the house quickly.",
+    "Cleaning the house quickly is not one of the benefits of vacuum cleaners."
+   ],
+   "answer": 0,
+   "explain": "allow us to do sth ≈ be useful for doing sth (hữu ích cho việc...). Các câu còn lại đổi nghĩa (slowly, don't allow, is not one of the benefits).",
+   "review": "Lớp 10 · Unit 5 – Writing (tr. 58)"
+  },
+  {
+   "id": "G10U5-R02",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Artificial intelligence",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nAI helps drivers to find the best routes in transport.",
+   "options": [
+    "Drivers help AI to find the best routes in transport.",
+    "Helping drivers find the best routes is one of the benefits of AI in transport.",
+    "AI doesn't help drivers find the best routes in transport.",
+    "Helping drivers find the best routes is one of the problems of AI in transport."
+   ],
+   "answer": 1,
+   "explain": "Cấu trúc Doing sth is one of the benefits of ... (Writing tr. 58): giúp tài xế tìm đường tốt nhất là một lợi ích của AI. Các câu khác đảo chủ thể, phủ định hoặc đổi thành \"problems\".",
+   "review": "Lớp 10 · Unit 5 – Writing (tr. 58)"
+  },
+  {
+   "id": "G10U5-R03",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Uses and benefits of inventions",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nSmartphones are used for learning languages.",
+   "options": [
+    "We used to learn languages with smartphones.",
+    "Learning languages helps smartphones.",
+    "Smartphones help us learn languages.",
+    "Smartphones stop us from learning languages."
+   ],
+   "answer": 2,
+   "explain": "be used for doing sth ≈ help us (to) do sth. \"used to learn\" là \"đã từng học\" (nay không còn), sai nghĩa; hai câu còn lại sai nghĩa rõ.",
+   "review": "Lớp 10 · Unit 5 – Writing (tr. 58)"
+  },
+  {
+   "id": "G10U5-R04",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present perfect",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nI started using this laptop three years ago.",
+   "options": [
+    "I have used this laptop since three years.",
+    "I used this laptop for three years.",
+    "I haven't used this laptop for three years.",
+    "I have used this laptop for three years."
+   ],
+   "answer": 3,
+   "explain": "started doing ... ago ≈ have done ... for + khoảng thời gian (và vẫn còn dùng). since three years sai ngữ pháp; used ... for three years ngụ ý đã ngừng dùng; haven't used trái nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-R05",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThis is the first time I have used a 3D printer.",
+   "options": [
+    "I have never used a 3D printer before.",
+    "I have used a 3D printer many times before.",
+    "I used a 3D printer for the first time last year.",
+    "I have never wanted to use a 3D printer."
+   ],
+   "answer": 0,
+   "explain": "This is the first time + HTHT ≈ S + have never + V3 + before (trước đây chưa từng). Các câu còn lại trái nghĩa hoặc thêm thông tin sai.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-R06",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Gerunds and to-infinitives",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's fun to learn English with educational apps.",
+   "options": [
+    "Learn English with educational apps is fun.",
+    "Learning English with educational apps is fun.",
+    "Educational apps are fun to learn English.",
+    "Learning English with educational apps is boring."
+   ],
+   "answer": 1,
+   "explain": "It's + adj + to V ≈ V-ing + is + adj (Learning English is fun). Learn làm chủ ngữ sai ngữ pháp; câu 3 sai cấu trúc; boring trái nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)"
+  },
+  {
+   "id": "G10U5-R07",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nLaptops were invented. Since then, they have changed our lives a lot.",
+   "options": [
+    "Laptops changed our lives a lot since they have been invented.",
+    "Since laptops have changed our lives, they were invented.",
+    "Laptops have changed our lives a lot since they were invented.",
+    "Laptops have changed our lives a lot before they were invented."
+   ],
+   "answer": 2,
+   "explain": "Mẫu: mệnh đề HTHT + since + mệnh đề quá khứ đơn. Câu 1 đảo thì; câu 2 đảo quan hệ nguyên nhân; câu 4 dùng before sai nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)"
+  },
+  {
+   "id": "G10U5-R08",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nPhong wants to buy a laptop. He has saved money for it since Tet.",
+   "options": [
+    "Phong saved money since Tet although he wants to buy a laptop.",
+    "Phong has saved money since Tet, so he doesn't want to buy a laptop.",
+    "Phong wants to save money since Tet to buy a laptop.",
+    "Phong has saved money since Tet because he wants to buy a laptop."
+   ],
+   "answer": 3,
+   "explain": "Hai câu có quan hệ nguyên nhân – kết quả: tiết kiệm tiền vì muốn mua laptop → because. Câu 1 dùng although sai nghĩa và sai thì (saved ... since); câu 2 sai nghĩa; câu 3 sai ngữ pháp (wants ... since).",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-R09",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Uses and benefits of inventions",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nSmartphones are very useful. They allow us to communicate and learn at the same time.",
+   "options": [
+    "Smartphones are very useful because they allow us to communicate and learn at the same time.",
+    "Smartphones are very useful although they allow us to communicate and learn at the same time.",
+    "Smartphones are very useful, but they don't allow us to communicate and learn at the same time.",
+    "Smartphones are very useful because they allow us communicating and learning at the same time."
+   ],
+   "answer": 0,
+   "explain": "Câu 2 nêu lý do cho câu 1 → because. although/but sai quan hệ ý; allow us communicating sai cấu trúc (allow sb to do).",
+   "review": "Lớp 10 · Unit 5 – Getting Started (tr. 52)"
+  },
+  {
+   "id": "G10U5-R10",
+   "unit": 5,
+   "type": "rewrite",
+   "topic": "Uses and benefits of inventions",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nRobots can do difficult or dangerous tasks. This is one of their benefits.",
+   "options": [
+    "Do difficult or dangerous tasks is one of the benefits of robots.",
+    "Doing difficult or dangerous tasks is one of the benefits of robots.",
+    "Doing difficult or dangerous tasks is one of the problems of robots.",
+    "Robots can't do difficult or dangerous tasks, which is one of their benefits."
+   ],
+   "answer": 1,
+   "explain": "Cấu trúc Doing sth is one of the benefits of ... Câu 1 dùng Do làm chủ ngữ là sai; câu 3 đổi benefits thành problems; câu 4 phủ định sai nghĩa.",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)"
+  },
+  {
+   "id": "G10U5-C01",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "changed",
+    "have changed",
+    "are changing",
+    "change"
+   ],
+   "answer": 1,
+   "explain": "\"Over the last few decades\" (trong vài thập kỷ qua) → hiện tại hoàn thành: have changed.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)",
+   "pid": "G10U5-P1",
+   "blank": 1
+  },
+  {
+   "id": "G10U5-C02",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "spend",
+    "to spend",
+    "spending",
+    "spent"
+   ],
+   "answer": 2,
+   "explain": "Sau giới từ instead of dùng V-ing: instead of spending hours (thay vì mất hàng giờ).",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)",
+   "pid": "G10U5-P1",
+   "blank": 2
+  },
+  {
+   "id": "G10U5-C03",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Gerunds and to-infinitives",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "to learn",
+    "learning",
+    "learn",
+    "learned"
+   ],
+   "answer": 0,
+   "explain": "allow sb to do sth → allow learners to learn new words.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)",
+   "pid": "G10U5-P1",
+   "blank": 3
+  },
+  {
+   "id": "G10U5-C04",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Uses and benefits of inventions",
+   "level": 2,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "storing",
+    "stored",
+    "stores",
+    "store"
+   ],
+   "answer": 3,
+   "explain": "help sb (to) do sth → help students store (lưu trữ) hàng trăm cuốn sách. Các dạng V-ing, V-ed, V-s sai sau help sb.",
+   "review": "Lớp 10 · Unit 5 – Speaking (tr. 56)",
+   "pid": "G10U5-P1",
+   "blank": 4
+  },
+  {
+   "id": "G10U5-C05",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Learning with modern devices",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "However",
+    "Because",
+    "Therefore",
+    "Moreover"
+   ],
+   "answer": 0,
+   "explain": "Câu trước nói lợi ích, câu này đưa ra lời cảnh báo (không nên dùng quá lâu) → ý tương phản: However. Therefore (vì vậy), Moreover (hơn nữa) không thể hiện tương phản; Because không đứng đầu câu kèm dấu phẩy như vậy.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)",
+   "pid": "G10U5-P1",
+   "blank": 5
+  },
+  {
+   "id": "G10U5-C06",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Present perfect",
+   "level": 3,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "became",
+    "become",
+    "have become",
+    "becoming"
+   ],
+   "answer": 2,
+   "explain": "Đối lập \"Ten years ago\" với \"Today\" và diễn tả thay đổi kéo dài đến nay → have become (đã trở nên ngày càng phổ biến). became là quá khứ, không hợp với Today; become thiếu trợ động từ; becoming không làm vị ngữ.",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Present perfect (tr. 54)",
+   "pid": "G10U5-P2",
+   "blank": 6
+  },
+  {
+   "id": "G10U5-C07",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Artificial intelligence",
+   "level": 1,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "effect",
+    "effective",
+    "effectively",
+    "effectiveness"
+   ],
+   "answer": 1,
+   "explain": "Giữa \"the most\" và danh từ \"way\" cần tính từ: the most effective way (cách hiệu quả nhất) – cụm có trong bài đọc tr. 55.",
+   "review": "Lớp 10 · Unit 5 – Reading (tr. 55)",
+   "pid": "G10U5-P2",
+   "blank": 7
+  },
+  {
+   "id": "G10U5-C08",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Inventions",
+   "level": 1,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "stain",
+    "screen",
+    "charge",
+    "button"
+   ],
+   "answer": 3,
+   "explain": "press a button = ấn một nút để khởi động máy. stain: vết bẩn; screen: màn hình; charge: sự sạc.",
+   "review": "Lớp 10 · Unit 5 – Listening (tr. 57)",
+   "pid": "G10U5-P2",
+   "blank": 8
+  },
+  {
+   "id": "G10U5-C09",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Inventions",
+   "level": 1,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "charge",
+    "store",
+    "display",
+    "measure"
+   ],
+   "answer": 0,
+   "explain": "Pin yếu (battery is low) thì quay về đế để sạc: to charge. store: lưu trữ; display: hiển thị; measure: đo.",
+   "review": "Lớp 10 · Unit 5 – Listening (tr. 57)",
+   "pid": "G10U5-P2",
+   "blank": 9
+  },
+  {
+   "id": "G10U5-C10",
+   "unit": 5,
+   "type": "cloze",
+   "topic": "Gerunds and to-infinitives",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "use",
+    "using",
+    "used",
+    "uses"
+   ],
+   "answer": 1,
+   "explain": "Chỗ trống là chủ ngữ của mệnh đề sau that (… saves them a lot of time) → dùng danh động từ using (việc sử dụng các thiết bị này).",
+   "review": "Lớp 10 · Unit 5 – Language, Grammar – Gerunds and to-infinitives (tr. 54)",
+   "pid": "G10U5-P2",
+   "blank": 10
+  }
+ ]
+}

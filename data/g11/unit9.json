@@ -1,0 +1,1772 @@
+{
+ "grade": 11,
+ "unit": 9,
+ "name": "Social Issues",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Social issues",
+  "Peer pressure",
+  "Bullying and cyberbullying"
+ ],
+ "pron": "Intonation in choice questions",
+ "grammar": [
+  "Linking words and phrases"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Linking words and phrases (từ nối)",
+   "page": 102,
+   "body": "Từ nối giúp liên kết ý giữa các mệnh đề/câu. Chia theo chức năng:\n1) Bổ sung: and, also, in addition, moreover, furthermore, besides, not only … but also.\n2) Tương phản/nhượng bộ: but, however, nevertheless; although/though/even though + mệnh đề; despite/in spite of + danh từ/V-ing (hoặc despite the fact that + mệnh đề).\n3) Nguyên nhân: because/as/since + mệnh đề; because of/due to + danh từ/V-ing.\n4) Kết quả: so (+ mệnh đề), therefore, as a result, consequently (đầu câu, sau dấu chấm hoặc chấm phẩy, có dấu phẩy theo sau).\n5) Mục đích: to/in order to/so as to + V nguyên mẫu; so that/in order that + mệnh đề (thường có can/could/will/would).\n6) Điều kiện/lựa chọn: otherwise (nếu không thì), or, instead.\nVí dụ: Although he was bullied, he never told anyone. / Despite the warnings, many teens still smoke. / Cyberbullying is hard to detect; therefore, students should report it. / The school set up a hotline so that victims could report bullying.\nLỗi hay gặp: dùng 'despite/because of' + mệnh đề; dùng 'although … but' trong cùng một câu; 'however' đứng giữa hai mệnh đề mà chỉ có dấu phẩy (phải dùng dấu chấm phẩy: …; however, …); 'in order to' + V-ing."
+  },
+  {
+   "kind": "pron",
+   "title": "Intonation in choice questions (ngữ điệu câu hỏi lựa chọn)",
+   "page": 101,
+   "body": "Câu hỏi lựa chọn (có 'or', đưa ra các phương án cố định): giọng LÊN ở phương án đầu (và các phương án giữa), XUỐNG ở phương án cuối.\nVí dụ: Do you prefer texting ↗ or calling ↘? / Is bullying more common among boys ↗ or girls ↘? / Would you like tea ↗, coffee ↗ or juice ↘?\nPhân biệt: câu hỏi Yes/No thường lên giọng ở cuối (Have you ever felt peer pressure ↗?); câu hỏi Wh- thường xuống giọng (What's the biggest social issue ↘?).\nMẹo: trọng âm và thay đổi cao độ rơi vào từ chứa thông tin lựa chọn, không rơi vào 'or'."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 102,
+   "body": "raise awareness of (nâng cao nhận thức về) · give in to peer pressure (khuất phục áp lực bạn bè) · resist/deal with peer pressure · fit in (with) (hoà nhập) · stand up to bullies (đứng lên chống kẻ bắt nạt) · spread rumours (tung tin đồn) · suffer from depression/anxiety (bị trầm cảm/lo âu) · be addicted to (nghiện) · live in poverty (sống trong nghèo đói) · tackle/solve a problem (giải quyết vấn đề) · launch a campaign (phát động chiến dịch) · physical / verbal / cyber bullying · low self-esteem (thiếu tự tôn) · seek help from a counsellor.\nHọ từ: confident – confidence – confidently; aware – awareness; violent – violence; addict – addicted – addiction – addictive; depress – depressed – depressing – depression; discriminate – discrimination; employ – unemployed – unemployment."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Điền từ nối: xác định quan hệ hai vế (bổ sung, tương phản, nguyên nhân, kết quả, mục đích) trước, rồi xem phía sau là mệnh đề hay danh từ/V-ing để chọn although/despite, because/because of.\n• However, therefore, moreover… là trạng từ nối: đứng đầu câu hoặc sau dấu chấm phẩy, có dấu phẩy theo sau.\n• Viết lại câu: Although + S + V = Despite/In spite of + V-ing/N = Despite the fact that + S + V; If … not = otherwise / unless.\n• Tìm lỗi sai: chú ý cặp 'although … but', 'because of + mệnh đề', 'in order to + V-ing', và sai từ loại (sympathy/sympathetic).\n• Ngữ điệu: câu hỏi lựa chọn → lên ở phương án đầu, xuống ở phương án cuối."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "social issue",
+   "pos": "n phr",
+   "ipa": "/ˈsəʊʃl ˈɪʃuː/",
+   "vi": "vấn đề xã hội",
+   "ex": "Bullying is a serious social issue in many schools.",
+   "page": 100
+  },
+  {
+   "w": "peer pressure",
+   "pos": "n",
+   "ipa": "/ˈpɪə preʃə(r)/",
+   "vi": "áp lực đồng trang lứa",
+   "ex": "Many teenagers smoke because of peer pressure.",
+   "page": 100
+  },
+  {
+   "w": "peer",
+   "pos": "n",
+   "ipa": "/pɪə(r)/",
+   "vi": "bạn cùng trang lứa",
+   "ex": "Teenagers often care a lot about what their peers think.",
+   "page": 100
+  },
+  {
+   "w": "bully",
+   "pos": "v, n",
+   "ipa": "/ˈbʊli/",
+   "vi": "bắt nạt; kẻ bắt nạt",
+   "ex": "He was bullied by older students when he was in grade 10.",
+   "page": 100
+  },
+  {
+   "w": "bullying",
+   "pos": "n",
+   "ipa": "/ˈbʊliɪŋ/",
+   "vi": "hành vi bắt nạt",
+   "ex": "Our school takes bullying very seriously.",
+   "page": 100
+  },
+  {
+   "w": "victim",
+   "pos": "n",
+   "ipa": "/ˈvɪktɪm/",
+   "vi": "nạn nhân",
+   "ex": "Victims of bullying often feel afraid and lonely.",
+   "page": 100
+  },
+  {
+   "w": "cyberbullying",
+   "pos": "n",
+   "ipa": "/ˈsaɪbəbʊliɪŋ/",
+   "vi": "bắt nạt trên mạng",
+   "ex": "Cyberbullying can happen at any time of the day.",
+   "page": 100
+  },
+  {
+   "w": "body shaming",
+   "pos": "n",
+   "ipa": "/ˈbɒdi ʃeɪmɪŋ/",
+   "vi": "chê bai, miệt thị ngoại hình",
+   "ex": "Body shaming can seriously hurt teenagers' self-esteem.",
+   "page": 100
+  },
+  {
+   "w": "self-confidence",
+   "pos": "n",
+   "ipa": "/ˌself ˈkɒnfɪdəns/",
+   "vi": "sự tự tin",
+   "ex": "Joining the drama club helped her build self-confidence.",
+   "page": 100
+  },
+  {
+   "w": "raise awareness (of)",
+   "pos": "phr",
+   "ipa": "/reɪz əˈweənəs/",
+   "vi": "nâng cao nhận thức (về)",
+   "ex": "The campaign aims to raise awareness of online safety.",
+   "page": 100
+  },
+  {
+   "w": "poverty",
+   "pos": "n",
+   "ipa": "/ˈpɒvəti/",
+   "vi": "sự nghèo đói",
+   "ex": "Many families in the area still live in poverty.",
+   "page": 102
+  },
+  {
+   "w": "unemployment",
+   "pos": "n",
+   "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+   "vi": "tình trạng thất nghiệp",
+   "ex": "Unemployment among young people has increased.",
+   "page": 102
+  },
+  {
+   "w": "homeless",
+   "pos": "adj",
+   "ipa": "/ˈhəʊmləs/",
+   "vi": "vô gia cư",
+   "ex": "The charity provides food for homeless people.",
+   "page": 102
+  },
+  {
+   "w": "homelessness",
+   "pos": "n",
+   "ipa": "/ˈhəʊmləsnəs/",
+   "vi": "tình trạng vô gia cư",
+   "ex": "Homelessness is a big problem in large cities.",
+   "page": 102
+  },
+  {
+   "w": "domestic violence",
+   "pos": "n phr",
+   "ipa": "/dəˌmestɪk ˈvaɪələns/",
+   "vi": "bạo lực gia đình",
+   "ex": "Domestic violence affects both women and children.",
+   "page": 102
+  },
+  {
+   "w": "drug abuse",
+   "pos": "n phr",
+   "ipa": "/ˈdrʌɡ əbjuːs/",
+   "vi": "lạm dụng ma tuý",
+   "ex": "Drug abuse can destroy young people's health.",
+   "page": 102
+  },
+  {
+   "w": "addiction",
+   "pos": "n",
+   "ipa": "/əˈdɪkʃn/",
+   "vi": "sự nghiện",
+   "ex": "Social media addiction is common among teenagers.",
+   "page": 102
+  },
+  {
+   "w": "addicted (to)",
+   "pos": "adj",
+   "ipa": "/əˈdɪktɪd/",
+   "vi": "nghiện",
+   "ex": "Some students are addicted to online games.",
+   "page": 102
+  },
+  {
+   "w": "crime",
+   "pos": "n",
+   "ipa": "/kraɪm/",
+   "vi": "tội phạm, tội ác",
+   "ex": "Poverty and unemployment can lead to crime.",
+   "page": 102
+  },
+  {
+   "w": "discrimination",
+   "pos": "n",
+   "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+   "vi": "sự phân biệt đối xử",
+   "ex": "Discrimination against girls still exists in some places.",
+   "page": 102
+  },
+  {
+   "w": "depression",
+   "pos": "n",
+   "ipa": "/dɪˈpreʃn/",
+   "vi": "chứng trầm cảm",
+   "ex": "Victims of bullying may suffer from depression.",
+   "page": 102
+  },
+  {
+   "w": "anxiety",
+   "pos": "n",
+   "ipa": "/æŋˈzaɪəti/",
+   "vi": "sự lo âu",
+   "ex": "Exams can cause stress and anxiety.",
+   "page": 102
+  },
+  {
+   "w": "mental health",
+   "pos": "n phr",
+   "ipa": "/ˌmentl ˈhelθ/",
+   "vi": "sức khoẻ tinh thần",
+   "ex": "Too much time online can affect your mental health.",
+   "page": 102
+  },
+  {
+   "w": "give in (to)",
+   "pos": "phr v",
+   "ipa": "/ˌɡɪv ˈɪn/",
+   "vi": "chịu thua, khuất phục (trước)",
+   "ex": "Don't give in to peer pressure if you know it's wrong.",
+   "page": 103
+  },
+  {
+   "w": "fit in",
+   "pos": "phr v",
+   "ipa": "/ˌfɪt ˈɪn/",
+   "vi": "hoà nhập, hợp với nhóm",
+   "ex": "Many teens smoke just to fit in with their friends.",
+   "page": 103
+  },
+  {
+   "w": "influence",
+   "pos": "n, v",
+   "ipa": "/ˈɪnfluəns/",
+   "vi": "sự ảnh hưởng; ảnh hưởng",
+   "ex": "Friends have a strong influence on teenagers' choices.",
+   "page": 103
+  },
+  {
+   "w": "risky",
+   "pos": "adj",
+   "ipa": "/ˈrɪski/",
+   "vi": "mạo hiểm, nguy hiểm",
+   "ex": "Negative peer pressure can lead to risky behaviour.",
+   "page": 103
+  },
+  {
+   "w": "self-esteem",
+   "pos": "n",
+   "ipa": "/ˌself ɪˈstiːm/",
+   "vi": "lòng tự trọng, sự tự tôn",
+   "ex": "Positive friends can help improve your self-esteem.",
+   "page": 103
+  },
+  {
+   "w": "resist",
+   "pos": "v",
+   "ipa": "/rɪˈzɪst/",
+   "vi": "chống lại, cưỡng lại",
+   "ex": "It's not easy to resist pressure from your peers.",
+   "page": 103
+  },
+  {
+   "w": "approval",
+   "pos": "n",
+   "ipa": "/əˈpruːvl/",
+   "vi": "sự tán thành, chấp thuận",
+   "ex": "Teenagers often want their friends' approval.",
+   "page": 103
+  },
+  {
+   "w": "stand up to",
+   "pos": "phr v",
+   "ipa": "/ˌstænd ˈʌp tə/",
+   "vi": "đứng lên chống lại",
+   "ex": "She finally stood up to the bullies.",
+   "page": 104
+  },
+  {
+   "w": "cope with",
+   "pos": "phr v",
+   "ipa": "/ˈkəʊp wɪð/",
+   "vi": "đối phó, đương đầu với",
+   "ex": "Talking to friends helps me cope with stress.",
+   "page": 104
+  },
+  {
+   "w": "overcome",
+   "pos": "v",
+   "ipa": "/ˌəʊvəˈkʌm/",
+   "vi": "vượt qua",
+   "ex": "He overcame his fear and told the teacher.",
+   "page": 104
+  },
+  {
+   "w": "spread rumours",
+   "pos": "phr",
+   "ipa": "/ˌspred ˈruːməz/",
+   "vi": "tung tin đồn",
+   "ex": "Some students spread rumours about her online.",
+   "page": 105
+  },
+  {
+   "w": "verbal",
+   "pos": "adj",
+   "ipa": "/ˈvɜːbl/",
+   "vi": "bằng lời nói",
+   "ex": "Name-calling is a type of verbal bullying.",
+   "page": 105
+  },
+  {
+   "w": "physical",
+   "pos": "adj",
+   "ipa": "/ˈfɪzɪkl/",
+   "vi": "thuộc về thể chất",
+   "ex": "Hitting and pushing are forms of physical bullying.",
+   "page": 105
+  },
+  {
+   "w": "isolated",
+   "pos": "adj",
+   "ipa": "/ˈaɪsəleɪtɪd/",
+   "vi": "bị cô lập",
+   "ex": "She felt isolated after the rumours started.",
+   "page": 105
+  },
+  {
+   "w": "threaten",
+   "pos": "v",
+   "ipa": "/ˈθretn/",
+   "vi": "đe doạ",
+   "ex": "The bully threatened to post her photos online.",
+   "page": 105
+  },
+  {
+   "w": "campaign",
+   "pos": "n",
+   "ipa": "/kæmˈpeɪn/",
+   "vi": "chiến dịch",
+   "ex": "Our class is planning a campaign against cyberbullying.",
+   "page": 106
+  },
+  {
+   "w": "counsellor",
+   "pos": "n",
+   "ipa": "/ˈkaʊnsələ(r)/",
+   "vi": "chuyên viên tư vấn",
+   "ex": "You can talk to the school counsellor if you feel stressed.",
+   "page": 106
+  },
+  {
+   "w": "sympathy",
+   "pos": "n",
+   "ipa": "/ˈsɪmpəθi/",
+   "vi": "sự cảm thông",
+   "ex": "I want to express my sympathy for your loss.",
+   "page": 107
+  },
+  {
+   "w": "teenage pregnancy",
+   "pos": "n phr",
+   "ipa": "/ˌtiːneɪdʒ ˈpreɡnənsi/",
+   "vi": "mang thai ở tuổi vị thành niên",
+   "ex": "Teenage pregnancy is a social problem in some countries.",
+   "page": 107
+  }
+ ],
+ "passages": [
+  {
+   "id": "G11U9-P1",
+   "title": "Saying no to peer pressure",
+   "text": "Peer pressure is the influence that people of your own age have on your choices. It is not always bad: good friends can encourage you to study harder or take up a sport. (1) _____, negative peer pressure can push teenagers into risky behaviour such as smoking, skipping classes or bullying others. Many young people give (2) _____ to it because they want to fit in and be accepted by the group. So how can you resist it? First, choose friends (3) _____ share your values and respect your decisions. Second, practise saying \"no\" in a firm but friendly way, and suggest something else to do. Third, remember that real friends will never make you feel bad for being yourself. If the pressure becomes too strong, talk to someone you trust, (4) _____ a parent, a teacher or the school counsellor. Learning to make your own decisions will build your (5) _____ and help you become a more independent person."
+  },
+  {
+   "id": "G11U9-P2",
+   "title": "Fighting cyberbullying",
+   "text": "Cyberbullying is bullying that takes place on phones, computers and social media. Bullies may send hurtful messages, post embarrassing photos or (6) _____ rumours about their victims online. Unlike face-to-face bullying, it can happen at any time of the day, (7) _____ victims often feel that there is no escape. As a result, many of them suffer from stress, anxiety and even (8) _____. Schools and families can do a lot to (9) _____ this problem. Teachers can organise campaigns to raise students' awareness of online safety, while parents should keep an eye on their children's online activities. Victims, on the other hand, should not reply to the bullies. Instead, they should save the evidence, block the bullies and report the problem to an adult they trust. (10) _____ cyberbullying is hard to stop completely, working together can make the online world a safer place for teenagers."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G11U9-V01",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Peer pressure",
+   "level": 1,
+   "q": "_____ is the influence that people of your own age have on the way you think and behave.",
+   "options": [
+    "Poverty",
+    "Body shaming",
+    "Peer pressure",
+    "Self-esteem"
+   ],
+   "answer": 2,
+   "explain": "Peer pressure = áp lực từ bạn cùng trang lứa, đúng với định nghĩa 'ảnh hưởng của người cùng tuổi'. Body shaming = chê bai ngoại hình; self-esteem = lòng tự tôn; poverty = nghèo đói.",
+   "review": "Lớp 11 · Unit 9 – Getting Started"
+  },
+  {
+   "id": "G11U9-V02",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 1,
+   "q": "People who are hurt, attacked or bullied are called _____.",
+   "options": [
+    "bullies",
+    "peers",
+    "victims",
+    "counsellors"
+   ],
+   "answer": 2,
+   "explain": "Victim = nạn nhân. Bully = kẻ bắt nạt; peer = bạn cùng trang lứa; counsellor = chuyên viên tư vấn.",
+   "review": "Lớp 11 · Unit 9 – Getting Started"
+  },
+  {
+   "id": "G11U9-V03",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 1,
+   "q": "_____ is bullying that happens online, for example on social media or through text messages.",
+   "options": [
+    "Cyberbullying",
+    "Unemployment",
+    "Homelessness",
+    "Discrimination"
+   ],
+   "answer": 0,
+   "explain": "Cyberbullying = bắt nạt trên mạng. Discrimination = phân biệt đối xử; unemployment = thất nghiệp; homelessness = vô gia cư.",
+   "review": "Lớp 11 · Unit 9 – Getting Started"
+  },
+  {
+   "id": "G11U9-V04",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 1,
+   "q": "Making negative comments about someone's weight or appearance is called _____.",
+   "options": [
+    "body shaming",
+    "unemployment",
+    "peer pressure",
+    "drug abuse"
+   ],
+   "answer": 0,
+   "explain": "Body shaming = miệt thị ngoại hình (chê cân nặng, vẻ ngoài). Các phương án khác không liên quan đến ngoại hình.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V05",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 2,
+   "q": "After the factory closed, the rate of _____ in the town rose sharply.",
+   "options": [
+    "unemployment",
+    "discrimination",
+    "addiction",
+    "depression"
+   ],
+   "answer": 0,
+   "explain": "Nhà máy đóng cửa → nhiều người mất việc → tỉ lệ thất nghiệp (unemployment) tăng. Discrimination = phân biệt đối xử; addiction = nghiện; depression = trầm cảm không phải hệ quả trực tiếp của việc nhà máy đóng cửa.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V06",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Don't give _____ to peer pressure if you know that something is wrong.",
+   "options": [
+    "in",
+    "on",
+    "up",
+    "out"
+   ],
+   "answer": 0,
+   "explain": "Give in (to sth) = chịu thua, khuất phục trước điều gì. Give up = từ bỏ; give out = phân phát/cạn kiệt; give on không phải cụm động từ đúng nghĩa ở đây.",
+   "review": "Lớp 11 · Unit 9 – Reading"
+  },
+  {
+   "id": "G11U9-V07",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Many teenagers start smoking just because they want to _____ in with their friends.",
+   "options": [
+    "break",
+    "take",
+    "stand",
+    "fit"
+   ],
+   "answer": 3,
+   "explain": "Fit in (with sb) = hoà nhập, được nhóm chấp nhận. Stand in = thay thế; break in = đột nhập; take in = tiếp thu/lừa – không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Reading"
+  },
+  {
+   "id": "G11U9-V08",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Peer pressure",
+   "level": 1,
+   "q": "Her lack of _____ made her afraid to speak in front of the class. (CONFIDENT)",
+   "options": [
+    "confide",
+    "confidently",
+    "confident",
+    "confidence"
+   ],
+   "answer": 3,
+   "explain": "Sau 'lack of' cần danh từ → confidence (sự tự tin). Confident là tính từ, confidently là trạng từ, confide là động từ (tâm sự).",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V09",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 2,
+   "q": "The campaign aims to make students more _____ of the dangers of vaping.",
+   "options": [
+    "awareness",
+    "awarely",
+    "awake",
+    "aware"
+   ],
+   "answer": 3,
+   "explain": "Cấu trúc make sb + adj; 'be aware of' = nhận thức được. Awareness là danh từ; awake = thức (tỉnh ngủ); 'awarely' không tồn tại.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V10",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 1,
+   "q": "Our school organised a week of activities to _____ awareness of bullying.",
+   "options": [
+    "raise",
+    "arise",
+    "rise",
+    "lift"
+   ],
+   "answer": 0,
+   "explain": "Collocation: raise awareness of = nâng cao nhận thức về. Rise và arise là nội động từ, không có tân ngữ; lift không đi với awareness.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V11",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 1,
+   "q": "Some students _____ rumours about her on social media, which made her very upset.",
+   "options": [
+    "threw",
+    "made",
+    "spread",
+    "opened"
+   ],
+   "answer": 2,
+   "explain": "Collocation: spread rumours = tung tin đồn. Các động từ còn lại không kết hợp với 'rumours'.",
+   "review": "Lớp 11 · Unit 9 – Listening"
+  },
+  {
+   "id": "G11U9-V12",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 3,
+   "q": "She finally found the courage to <u>stand up to</u> the bullies. (CLOSEST in meaning)",
+   "options": [
+    "support",
+    "join",
+    "avoid",
+    "confront"
+   ],
+   "answer": 3,
+   "explain": "Stand up to = đứng lên chống lại, đối mặt → gần nghĩa nhất với confront. Avoid = né tránh; support = ủng hộ; join = tham gia – đều sai nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Speaking"
+  },
+  {
+   "id": "G11U9-V13",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 2,
+   "q": "After the rumours spread, Mai felt <u>isolated</u> from her classmates. (OPPOSITE in meaning)",
+   "options": [
+    "depressed",
+    "worried",
+    "connected",
+    "lonely"
+   ],
+   "answer": 2,
+   "explain": "Isolated = bị cô lập; trái nghĩa là connected (gắn kết). Lonely gần nghĩa với isolated; depressed, worried không phải từ trái nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Listening"
+  },
+  {
+   "id": "G11U9-V14",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 2,
+   "q": "Long-term <u>poverty</u> can push some young people into crime. (CLOSEST in meaning)",
+   "options": [
+    "lack of education",
+    "lack of jobs",
+    "the state of being poor",
+    "the state of having no home"
+   ],
+   "answer": 2,
+   "explain": "Poverty = sự nghèo đói, tức 'the state of being poor'. Lack of education = thiếu giáo dục; having no home = homelessness; lack of jobs = unemployment.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V15",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Teenagers often want their friends' <u>approval</u> more than their parents'. (OPPOSITE in meaning)",
+   "options": [
+    "acceptance",
+    "disapproval",
+    "support",
+    "praise"
+   ],
+   "answer": 1,
+   "explain": "Approval = sự tán thành; trái nghĩa là disapproval (sự phản đối). Acceptance, praise, support đều mang nghĩa tích cực, gần với approval.",
+   "review": "Lớp 11 · Unit 9 – Reading"
+  },
+  {
+   "id": "G11U9-V16",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 1,
+   "q": "Children who experience _____ at home may have problems at school. (VIOLENT)",
+   "options": [
+    "violent",
+    "violently",
+    "violate",
+    "violence"
+   ],
+   "answer": 3,
+   "explain": "Sau động từ experience cần danh từ → violence (bạo lực; domestic violence = bạo lực gia đình). Violent là tính từ, violently là trạng từ, violate là động từ (vi phạm).",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V17",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Bullying and cyberbullying",
+   "level": 1,
+   "q": "If you are being bullied and feel stressed, you should talk to the school _____.",
+   "options": [
+    "bully",
+    "counsellor",
+    "peer",
+    "victim"
+   ],
+   "answer": 1,
+   "explain": "School counsellor = chuyên viên tư vấn học đường, người có thể giúp học sinh bị bắt nạt. Các phương án khác không phải người hỗ trợ.",
+   "review": "Lớp 11 · Unit 9 – Writing"
+  },
+  {
+   "id": "G11U9-V18",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 1,
+   "q": "_____ is unfair treatment of people because of their race, gender or religion.",
+   "options": [
+    "Pressure",
+    "Discrimination",
+    "Depression",
+    "Addiction"
+   ],
+   "answer": 1,
+   "explain": "Discrimination = phân biệt đối xử (đối xử bất công vì chủng tộc, giới tính, tôn giáo). Depression = trầm cảm; pressure = áp lực; addiction = nghiện.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V19",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 3,
+   "q": "Teenagers who are _____ to social media often find it hard to sleep at night.",
+   "options": [
+    "addicting",
+    "addicted",
+    "addictive",
+    "addiction"
+   ],
+   "answer": 1,
+   "explain": "Cấu trúc be addicted to sth = nghiện cái gì (tính từ chỉ người). Addictive = gây nghiện (tả vật); addiction là danh từ; addicting không dùng trong cấu trúc 'be … to'.",
+   "review": "Lớp 11 · Unit 9 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U9-V20",
+   "unit": 9,
+   "type": "vocab",
+   "topic": "Social issues",
+   "level": 3,
+   "q": "With help from her family and friends, she managed to _____ her depression.",
+   "options": [
+    "overtake",
+    "overcome",
+    "overdo",
+    "overlook"
+   ],
+   "answer": 1,
+   "explain": "Overcome = vượt qua (khó khăn, bệnh tật). Overtake = vượt (xe); overlook = bỏ qua, không để ý; overdo = làm quá mức – không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Speaking"
+  },
+  {
+   "id": "G11U9-G01",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "_____ he was bullied for months, he never told his parents.",
+   "options": [
+    "However",
+    "Because",
+    "Despite",
+    "Although"
+   ],
+   "answer": 3,
+   "explain": "Hai vế tương phản (bị bắt nạt nhiều tháng >< không kể với bố mẹ), phía sau là mệnh đề → Although. Despite + danh từ/V-ing; Because sai nghĩa; However không nối hai mệnh đề trong cùng câu như vậy.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G02",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "_____ the warnings, many teenagers still use e-cigarettes.",
+   "options": [
+    "However",
+    "Although",
+    "Because",
+    "Despite"
+   ],
+   "answer": 3,
+   "explain": "Phía sau là cụm danh từ 'the warnings' và nghĩa tương phản → Despite. Although cần mệnh đề; However là trạng từ nối; Because sai nghĩa và cần mệnh đề.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G03",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "Peer pressure can be positive. _____, it can also lead teenagers into risky behaviour.",
+   "options": [
+    "Therefore",
+    "Moreover",
+    "However",
+    "Although"
+   ],
+   "answer": 2,
+   "explain": "Câu sau trái ý câu trước (tích cực >< dẫn tới hành vi nguy hiểm), đứng đầu câu có dấu phẩy → However. Therefore = vì vậy; Moreover = hơn nữa; Although là liên từ, không đứng một mình với dấu phẩy.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G04",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "Mai felt isolated _____ her classmates kept spreading rumours about her.",
+   "options": [
+    "despite",
+    "because of",
+    "because",
+    "so"
+   ],
+   "answer": 2,
+   "explain": "Vế sau là nguyên nhân và là mệnh đề (S + V) → because. Because of + danh từ; despite chỉ tương phản; so chỉ kết quả.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G05",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "Many young people lost their jobs _____ the economic crisis.",
+   "options": [
+    "because of",
+    "because",
+    "although",
+    "so that"
+   ],
+   "answer": 0,
+   "explain": "Phía sau là cụm danh từ 'the economic crisis' chỉ nguyên nhân → because of. Because, although, so that đều cần mệnh đề.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G06",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Cyberbullying is often hard to detect. _____, schools should teach students how to report it.",
+   "options": [
+    "Because",
+    "Although",
+    "In contrast",
+    "Therefore"
+   ],
+   "answer": 3,
+   "explain": "Câu sau là kết quả/kết luận rút ra từ câu trước → Therefore (vì vậy). In contrast chỉ sự đối lập; Although và Because là liên từ phụ thuộc, không đứng đầu câu kèm dấu phẩy như vậy.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G07",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "The campaign raised students' awareness of body shaming. _____, it encouraged them to support one another.",
+   "options": [
+    "Otherwise",
+    "In addition",
+    "Instead",
+    "However"
+   ],
+   "answer": 1,
+   "explain": "Câu sau bổ sung thêm một tác dụng tích cực của chiến dịch → In addition (ngoài ra). However = tuy nhiên; Otherwise = nếu không thì; Instead = thay vào đó – không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G08",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "_____ reduce poverty, the government has created more jobs in rural areas.",
+   "options": [
+    "In order to",
+    "Because",
+    "So that",
+    "Although"
+   ],
+   "answer": 0,
+   "explain": "Chỉ mục đích, phía sau là động từ nguyên mẫu 'reduce' → In order to. So that cần mệnh đề; Because và Although sai nghĩa và cần mệnh đề.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G09",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "The school set up a hotline _____ victims of bullying could report it anonymously.",
+   "options": [
+    "because of",
+    "so that",
+    "in order to",
+    "despite"
+   ],
+   "answer": 1,
+   "explain": "Chỉ mục đích, phía sau là mệnh đề có 'could' → so that. In order to + V nguyên mẫu; because of và despite + danh từ.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G10",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "_____ the fact that unemployment has fallen, many young people still can't find good jobs.",
+   "options": [
+    "However",
+    "Although",
+    "Because of",
+    "Despite"
+   ],
+   "answer": 3,
+   "explain": "Cấu trúc Despite the fact that + mệnh đề, nghĩa tương phản. Although không đi với 'the fact that'; However không dùng như vậy; Because of the fact that sai nghĩa (không phải nguyên nhân).",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G11",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Lan refused to try smoking. _____, her so-called friends stopped inviting her to parties.",
+   "options": [
+    "Despite this",
+    "In addition",
+    "As a result",
+    "However"
+   ],
+   "answer": 2,
+   "explain": "Việc bạn bè không mời nữa là hậu quả của việc Lan từ chối hút thuốc → As a result (kết quả là). In addition = thêm vào đó; However và Despite this chỉ tương phản – sai logic.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G12",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Some students give in to peer pressure _____ they want to be accepted by the group.",
+   "options": [
+    "although",
+    "as",
+    "however",
+    "so"
+   ],
+   "answer": 1,
+   "explain": "Vế sau là nguyên nhân → as (= because). So chỉ kết quả; although chỉ nhượng bộ; however là trạng từ nối, không nối mệnh đề như liên từ.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G13",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "Domestic violence affects not only women _____ children.",
+   "options": [
+    "but also",
+    "or",
+    "and also",
+    "as well"
+   ],
+   "answer": 0,
+   "explain": "Cặp liên từ cố định not only … but also (không những … mà còn). And also, or, as well không đi với 'not only'.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G14",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Body shaming can hurt teenagers' self-esteem; _____, it may lead to eating disorders.",
+   "options": [
+    "moreover",
+    "despite",
+    "although",
+    "however"
+   ],
+   "answer": 0,
+   "explain": "Vế sau bổ sung thêm tác hại, đứng sau dấu chấm phẩy và trước dấu phẩy → moreover (hơn nữa). However tương phản; despite và although không dùng ở vị trí này.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G15",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "_____ unemployment, many families in the area live in poverty.",
+   "options": [
+    "Therefore",
+    "Although",
+    "Since",
+    "Due to"
+   ],
+   "answer": 3,
+   "explain": "Phía sau là danh từ 'unemployment' chỉ nguyên nhân → Due to. Since và Although cần mệnh đề; Therefore chỉ kết quả, không đứng trước danh từ như giới từ.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G16",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 1,
+   "q": "She was really upset about the rumours, _____ she didn't show it.",
+   "options": [
+    "therefore",
+    "but",
+    "because",
+    "so"
+   ],
+   "answer": 1,
+   "explain": "Hai vế tương phản (rất buồn >< không thể hiện ra) → but. So và therefore chỉ kết quả; because chỉ nguyên nhân.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G17",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "The bullying got worse and worse; _____, the school decided to take action.",
+   "options": [
+    "nevertheless",
+    "in contrast",
+    "consequently",
+    "besides"
+   ],
+   "answer": 2,
+   "explain": "Nhà trường hành động là hậu quả của việc bắt nạt ngày càng tệ → consequently (do đó). Nevertheless = tuy nhiên; in contrast = ngược lại; besides = ngoài ra.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G18",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "You should report the problem to a teacher; _____, it may get worse.",
+   "options": [
+    "however",
+    "therefore",
+    "otherwise",
+    "moreover"
+   ],
+   "answer": 2,
+   "explain": "Otherwise = nếu không thì (nếu không báo giáo viên, vấn đề có thể tệ hơn). Therefore = vì vậy; moreover = hơn nữa; however = tuy nhiên – không đúng logic.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G19",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "_____ hard she tried, she couldn't stop thinking about the hurtful comments.",
+   "options": [
+    "However",
+    "Although",
+    "Whatever",
+    "Despite"
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc However + adj/adv + S + V = dù … đến đâu. Although và Despite không đứng trước 'hard' như vậy; Whatever đi với danh từ.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-G20",
+   "unit": 9,
+   "type": "grammar",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "Teenagers sometimes follow their friends' advice _____ that of their parents.",
+   "options": [
+    "as well",
+    "rather than",
+    "instead",
+    "in spite of"
+   ],
+   "answer": 1,
+   "explain": "Rather than = thay vì, nối hai thành phần tương đương (their friends' advice / that of their parents). Instead cần 'of' mới đứng trước danh từ; as well và in spite of sai nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-P01",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Intonation in choice questions",
+   "level": 1,
+   "q": "In the choice question \"Do you prefer texting or calling?\", how does the speaker's voice usually move?",
+   "options": [
+    "It rises on both 'texting' and 'calling'.",
+    "It falls on 'texting' and rises on 'calling'.",
+    "It rises on 'texting' and falls on 'calling'.",
+    "It falls on both 'texting' and 'calling'."
+   ],
+   "answer": 2,
+   "explain": "Câu hỏi lựa chọn: lên giọng ở phương án đầu (texting ↗), xuống giọng ở phương án cuối (calling ↘).",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P02",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Intonation in choice questions",
+   "level": 2,
+   "q": "Which question normally ends with a FALLING intonation?",
+   "options": [
+    "Do you know anyone who has been bullied?",
+    "Should we talk to the teacher or the counsellor?",
+    "Have you ever felt peer pressure?",
+    "Is bullying a problem at your school?"
+   ],
+   "answer": 1,
+   "explain": "Câu hỏi lựa chọn kết thúc bằng giọng xuống ở phương án cuối (counsellor ↘). Ba câu còn lại là câu hỏi Yes/No nên thường lên giọng ở cuối.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P03",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Intonation in choice questions",
+   "level": 1,
+   "q": "\"Is cyberbullying more common among boys or girls?\" – On which word does the voice FALL?",
+   "options": [
+    "girls",
+    "cyberbullying",
+    "boys",
+    "common"
+   ],
+   "answer": 0,
+   "explain": "Trong câu hỏi lựa chọn, giọng xuống ở phương án cuối cùng là 'girls'; 'boys' (phương án đầu) lên giọng.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P04",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Intonation in choice questions",
+   "level": 2,
+   "q": "\"Would you rather join the anti-bullying club, the volunteer team or the debate club?\" – Which describes the intonation?",
+   "options": [
+    "Falling on the first choice, rising on the last two",
+    "Rising on the first two choices, falling on the last one",
+    "Rising on all three choices",
+    "Falling on all three choices"
+   ],
+   "answer": 1,
+   "explain": "Với danh sách lựa chọn, giọng lên ở các phương án đầu và giữa (anti-bullying club ↗, volunteer team ↗), xuống ở phương án cuối (debate club ↘).",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P05",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Pronunciation: 'ea' /iː/ vs /e/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "r<u>ea</u>son",
+    "thr<u>ea</u>ten",
+    "h<u>ea</u>lth",
+    "spr<u>ea</u>d"
+   ],
+   "answer": 0,
+   "explain": "reason /ˈriːzn/ đọc /iː/; threaten /ˈθretn/, health /helθ/, spread /spred/ đọc /e/.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P06",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Pronunciation: -ed endings",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "protect<u>ed</u>",
+    "report<u>ed</u>",
+    "bulli<u>ed</u>",
+    "isolat<u>ed</u>"
+   ],
+   "answer": 2,
+   "explain": "bullied /ˈbʊlid/ đuôi -ed đọc /d/; isolated, reported, protected tận cùng bằng /t/ nên -ed đọc /ɪd/.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P07",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Pronunciation: letter 'c' /k/ vs /s/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>c</u>ounsellor",
+    "<u>c</u>yberbullying",
+    "<u>c</u>rime",
+    "<u>c</u>ampaign"
+   ],
+   "answer": 1,
+   "explain": "cyberbullying /ˈsaɪbəbʊliɪŋ/ – c đọc /s/ (trước y); campaign /kæmˈpeɪn/, crime /kraɪm/, counsellor /ˈkaʊnsələ(r)/ – c đọc /k/.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P08",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "physical",
+    "pressure",
+    "victim",
+    "campaign"
+   ],
+   "answer": 3,
+   "explain": "campaign /kæmˈpeɪn/ nhấn âm 2; victim /ˈvɪktɪm/, pressure /ˈpreʃə(r)/, physical /ˈfɪzɪkl/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P09",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "poverty",
+    "abusive",
+    "depression",
+    "addiction"
+   ],
+   "answer": 0,
+   "explain": "poverty /ˈpɒvəti/ nhấn âm 1; depression /dɪˈpreʃn/, addiction /əˈdɪkʃn/, abusive /əˈbjuːsɪv/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P10",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "influence",
+    "counsellor",
+    "isolated",
+    "approval"
+   ],
+   "answer": 3,
+   "explain": "approval /əˈpruːvl/ nhấn âm 2; influence /ˈɪnfluəns/, isolated /ˈaɪsəleɪtɪd/, counsellor /ˈkaʊnsələ(r)/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P11",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "awareness",
+    "domestic",
+    "violence",
+    "encourage"
+   ],
+   "answer": 2,
+   "explain": "violence /ˈvaɪələns/ nhấn âm 1; domestic /dəˈmestɪk/, awareness /əˈweənəs/, encourage /ɪnˈkʌrɪdʒ/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-P12",
+   "unit": 9,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "unemployment",
+    "understanding",
+    "disappointment",
+    "anxiety"
+   ],
+   "answer": 3,
+   "explain": "anxiety /æŋˈzaɪəti/ nhấn âm 2; unemployment /ˌʌnɪmˈplɔɪmənt/, disappointment /ˌdɪsəˈpɔɪntmənt/, understanding /ˌʌndəˈstændɪŋ/ nhấn âm 3.",
+   "review": "Lớp 11 · Unit 9 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U9-E01",
+   "unit": 9,
+   "type": "error",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Despite</u> (A) he felt nervous, he <u>decided</u> (B) to report the bully <u>to</u> (C) his <u>form teacher</u> (D).",
+   "options": [
+    "A. Despite",
+    "B. decided",
+    "C. to",
+    "D. form teacher"
+   ],
+   "answer": 0,
+   "explain": "Đáp án A: 'Despite' không đi với mệnh đề (he felt nervous) → sửa thành Although.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E02",
+   "unit": 9,
+   "type": "error",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMany young people <u>are</u> (A) unemployed <u>because</u> (B) the economic crisis <u>that</u> (C) <u>started</u> (D) last year.",
+   "options": [
+    "A. are",
+    "B. because",
+    "C. that",
+    "D. started"
+   ],
+   "answer": 1,
+   "explain": "Đáp án B: phía sau là cụm danh từ 'the economic crisis' → sửa because thành because of.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E03",
+   "unit": 9,
+   "type": "error",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nPeer pressure <u>can</u> (A) be harmful; <u>however</u> (B), it can also <u>encouraging</u> (C) teens to <u>work</u> (D) harder.",
+   "options": [
+    "A. can",
+    "B. however",
+    "C. encouraging",
+    "D. work"
+   ],
+   "answer": 2,
+   "explain": "Đáp án C: sau động từ khuyết thiếu 'can' dùng động từ nguyên mẫu → sửa encouraging thành encourage.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E04",
+   "unit": 9,
+   "type": "error",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe school <u>has launched</u> (A) a campaign <u>to raise</u> (B) awareness <u>of</u> (C) cyberbullying, <u>so</u> (D) many students still ignore the problem.",
+   "options": [
+    "A. has launched",
+    "B. to raise",
+    "C. of",
+    "D. so"
+   ],
+   "answer": 3,
+   "explain": "Đáp án D: hai vế tương phản (đã phát động chiến dịch >< nhiều học sinh vẫn phớt lờ) → sửa so thành but.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E05",
+   "unit": 9,
+   "type": "error",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Because of</u> (A) she was bullied online, she <u>became</u> (B) anxious and <u>refused</u> (C) <u>to go</u> (D) to school.",
+   "options": [
+    "A. Because of",
+    "B. became",
+    "C. refused",
+    "D. to go"
+   ],
+   "answer": 0,
+   "explain": "Đáp án A: phía sau là mệnh đề (she was bullied online) → sửa Because of thành Because.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E06",
+   "unit": 9,
+   "type": "error",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nTeenagers <u>who</u> (A) give <u>up</u> (B) to peer pressure often <u>do</u> (C) things they <u>later</u> (D) regret.",
+   "options": [
+    "A. who",
+    "B. up",
+    "C. do",
+    "D. later"
+   ],
+   "answer": 1,
+   "explain": "Đáp án B: cụm đúng là give in to (khuất phục trước) → sửa up thành in.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E07",
+   "unit": 9,
+   "type": "error",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe government <u>should</u> (A) create more jobs <u>in order to</u> (B) <u>reducing</u> (C) poverty and <u>homelessness</u> (D).",
+   "options": [
+    "A. should",
+    "B. in order to",
+    "C. reducing",
+    "D. homelessness"
+   ],
+   "answer": 2,
+   "explain": "Đáp án C: in order to + động từ nguyên mẫu → sửa reducing thành reduce.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-E08",
+   "unit": 9,
+   "type": "error",
+   "topic": "Bullying and cyberbullying",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nVictims of bullying <u>often</u> (A) feel <u>isolated</u> (B), <u>so</u> (C) teachers should be <u>sympathy</u> (D) to them.",
+   "options": [
+    "A. often",
+    "B. isolated",
+    "C. so",
+    "D. sympathy"
+   ],
+   "answer": 3,
+   "explain": "Đáp án D: sau 'be' cần tính từ → sửa danh từ sympathy thành sympathetic (be sympathetic to sb = cảm thông với ai).",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R01",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nAlthough she was bullied, she kept going to school.",
+   "options": [
+    "Because she was bullied, she kept going to school.",
+    "Despite being bullied, she kept going to school.",
+    "She was bullied, so she kept going to school.",
+    "Despite she was bullied, she kept going to school."
+   ],
+   "answer": 1,
+   "explain": "Although + mệnh đề = Despite + V-ing (being bullied). 'Despite she was…' sai ngữ pháp; Because và so đổi quan hệ thành nguyên nhân – kết quả, sai nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R02",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nHe lost his job, so he couldn't pay the rent.",
+   "options": [
+    "Because he lost his job, he couldn't pay the rent.",
+    "Although he lost his job, he couldn't pay the rent.",
+    "Because of he lost his job, he couldn't pay the rent.",
+    "He couldn't pay the rent; however, he lost his job."
+   ],
+   "answer": 0,
+   "explain": "Câu gốc: mất việc → không trả được tiền thuê nhà (nguyên nhân – kết quả) = Because + mệnh đề. Although sai nghĩa; 'Because of he lost' sai ngữ pháp; however sai quan hệ.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R03",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe school set up a hotline so that students could report bullying.",
+   "options": [
+    "The school set up a hotline because students reported bullying.",
+    "The school set up a hotline in order to students report bullying.",
+    "The school set up a hotline to help students report bullying.",
+    "The school set up a hotline, but students could not report bullying."
+   ],
+   "answer": 2,
+   "explain": "So that chỉ mục đích → 'to help students report bullying' giữ nguyên nghĩa. Because đổi thành nguyên nhân; but làm sai nghĩa; 'in order to students report' sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R04",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nDue to unemployment, many families live in poverty.",
+   "options": [
+    "Many families live in poverty, so people are out of work.",
+    "Many families live in poverty because people are out of work.",
+    "Many families live in poverty although people have jobs.",
+    "Unemployment is caused by poverty in many families."
+   ],
+   "answer": 1,
+   "explain": "Due to + N = because + mệnh đề; unemployment = people are out of work. Although sai nghĩa; hai câu còn lại đảo ngược quan hệ nguyên nhân – kết quả.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R05",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf you don't report cyberbullying, it may get worse.",
+   "options": [
+    "Report cyberbullying; otherwise, it may get worse.",
+    "Report cyberbullying; therefore, it may get worse.",
+    "Unless you report cyberbullying, it won't get worse.",
+    "Report cyberbullying, and it may get worse."
+   ],
+   "answer": 0,
+   "explain": "If … not = otherwise (nếu không thì). Therefore và 'and' biến việc báo cáo thành nguyên nhân làm tình hình tệ hơn; câu với Unless … won't sai nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R06",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nNam didn't give in to peer pressure despite his friends' teasing.",
+   "options": [
+    "Despite his friends teased him, Nam didn't give in to peer pressure.",
+    "Although his friends teased him, Nam didn't give in to peer pressure.",
+    "Because his friends teased him, Nam gave in to peer pressure.",
+    "Nam gave in to peer pressure although his friends teased him."
+   ],
+   "answer": 1,
+   "explain": "Despite + N (his friends' teasing) = Although + mệnh đề (his friends teased him), giữ nguyên ý Nam không khuất phục. Hai câu đổi thành 'gave in' sai nghĩa; 'Despite his friends teased him' sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R07",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nBody shaming hurts teenagers' feelings. It also damages their self-esteem.",
+   "options": [
+    "Body shaming hurts teenagers' feelings because it damages their self-esteem.",
+    "Body shaming hurts teenagers' feelings, but it doesn't damage their self-esteem.",
+    "Body shaming not only hurts teenagers' feelings but also damages their self-esteem.",
+    "Body shaming neither hurts teenagers' feelings nor damages their self-esteem."
+   ],
+   "answer": 2,
+   "explain": "Hai câu nêu hai tác hại bổ sung cho nhau → not only … but also. Các câu còn lại phủ định một/cả hai tác hại hoặc tạo quan hệ nguyên nhân không có trong câu gốc.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R08",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe anti-bullying campaign was well organised. Few students took part in it.",
+   "options": [
+    "Despite the anti-bullying campaign was well organised, few students took part in it.",
+    "Because the anti-bullying campaign was well organised, few students took part in it.",
+    "The anti-bullying campaign was well organised, so few students took part in it.",
+    "Although the anti-bullying campaign was well organised, few students took part in it."
+   ],
+   "answer": 3,
+   "explain": "Hai ý tương phản (tổ chức tốt >< ít người tham gia) → Although + mệnh đề. Because và so sai logic; 'Despite + mệnh đề' sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R09",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nLan wanted to fit in with the group. She started skipping classes like them.",
+   "options": [
+    "Lan wanted to fit in with the group; however, she started skipping classes like them.",
+    "Lan started skipping classes like the group although she wanted to fit in with them.",
+    "Lan started skipping classes like the group in order to she could fit in with them.",
+    "Lan started skipping classes like the group so that she could fit in with them."
+   ],
+   "answer": 3,
+   "explain": "Lan trốn học là để được nhóm chấp nhận → mục đích: so that + mệnh đề (could). Although và however tạo tương phản, sai nghĩa; 'in order to she could' sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-R10",
+   "unit": 9,
+   "type": "rewrite",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nShe was very shy. She stood up to the bullies.",
+   "options": [
+    "Shy as she was, she stood up to the bullies.",
+    "She was so shy that she stood up to the bullies.",
+    "Because she was very shy, she stood up to the bullies.",
+    "Shy as was she, she stood up to the bullies."
+   ],
+   "answer": 0,
+   "explain": "Adj + as + S + be = Although S + be + adj (dù rất nhút nhát, cô ấy vẫn đứng lên chống kẻ bắt nạt). 'so … that' và Because tạo quan hệ kết quả/nguyên nhân sai nghĩa; 'Shy as was she' sai trật tự từ.",
+   "review": "Lớp 11 · Unit 9 – Language, Grammar"
+  },
+  {
+   "id": "G11U9-C01",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "Although",
+    "However",
+    "Therefore",
+    "Moreover"
+   ],
+   "answer": 1,
+   "explain": "Câu trước nói mặt tốt, câu này nói mặt xấu của áp lực bạn bè → However (tuy nhiên). Therefore = vì vậy; Moreover = hơn nữa; Although là liên từ, không đứng đầu câu kèm dấu phẩy.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P1",
+   "blank": 1
+  },
+  {
+   "id": "G11U9-C02",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "up",
+    "in",
+    "out",
+    "on"
+   ],
+   "answer": 1,
+   "explain": "Give in to sth = khuất phục trước điều gì: 'Many young people give in to it' (nhiều bạn trẻ khuất phục trước áp lực bạn bè).",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P1",
+   "blank": 2
+  },
+  {
+   "id": "G11U9-C03",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "which",
+    "who",
+    "whose",
+    "whom"
+   ],
+   "answer": 1,
+   "explain": "Đại từ quan hệ thay cho 'friends' (người) và làm chủ ngữ của 'share' → who. Which dùng cho vật; whose chỉ sở hữu; whom làm tân ngữ.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P1",
+   "blank": 3
+  },
+  {
+   "id": "G11U9-C04",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Peer pressure",
+   "level": 2,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "such that",
+    "as if",
+    "as though",
+    "such as"
+   ],
+   "answer": 3,
+   "explain": "Such as = chẳng hạn như, dùng để liệt kê ví dụ (a parent, a teacher or the school counsellor). Such that, as if, as though đều đi với mệnh đề và sai nghĩa.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P1",
+   "blank": 4
+  },
+  {
+   "id": "G11U9-C05",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Peer pressure",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "confide",
+    "self-confident",
+    "confidently",
+    "self-confidence"
+   ],
+   "answer": 3,
+   "explain": "Sau tính từ sở hữu 'your' cần danh từ → self-confidence (sự tự tin). Self-confident là tính từ, confidently là trạng từ, confide là động từ.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P1",
+   "blank": 5
+  },
+  {
+   "id": "G11U9-C06",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Bullying and cyberbullying",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "spread",
+    "say",
+    "give",
+    "open"
+   ],
+   "answer": 0,
+   "explain": "Collocation: spread rumours = tung tin đồn. Say, open, give không đi với 'rumours'.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P2",
+   "blank": 6
+  },
+  {
+   "id": "G11U9-C07",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Linking words and phrases",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "so",
+    "because",
+    "although",
+    "but"
+   ],
+   "answer": 0,
+   "explain": "Vế sau là kết quả của vế trước (bị bắt nạt bất cứ lúc nào → nạn nhân cảm thấy không lối thoát) → so. But và although chỉ tương phản; because chỉ nguyên nhân.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P2",
+   "blank": 7
+  },
+  {
+   "id": "G11U9-C08",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Social issues",
+   "level": 2,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "depressing",
+    "depress",
+    "depression",
+    "depressed"
+   ],
+   "answer": 2,
+   "explain": "Suffer from + danh từ, song song với stress, anxiety → depression (trầm cảm). Depressed/depressing là tính từ, depress là động từ.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P2",
+   "blank": 8
+  },
+  {
+   "id": "G11U9-C09",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Social issues",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "cause",
+    "ignore",
+    "tackle",
+    "increase"
+   ],
+   "answer": 2,
+   "explain": "Tackle a problem = giải quyết một vấn đề, hợp với ý 'trường học và gia đình có thể làm nhiều điều'. Cause, increase, ignore đều trái với ý đoạn văn.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P2",
+   "blank": 9
+  },
+  {
+   "id": "G11U9-C10",
+   "unit": 9,
+   "type": "cloze",
+   "topic": "Linking words and phrases",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "Although",
+    "However",
+    "Because",
+    "Despite"
+   ],
+   "answer": 0,
+   "explain": "Hai vế tương phản (khó chấm dứt hoàn toàn >< hợp tác có thể làm thế giới mạng an toàn hơn), phía sau là mệnh đề → Although. Despite cần danh từ/V-ing; Because sai nghĩa; However không nối hai mệnh đề trong một câu như vậy.",
+   "review": "Lớp 11 · Unit 9 – Reading",
+   "pid": "G11U9-P2",
+   "blank": 10
+  }
+ ]
+}

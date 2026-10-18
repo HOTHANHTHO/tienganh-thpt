@@ -1,0 +1,1796 @@
+{
+ "grade": 10,
+ "unit": 3,
+ "name": "Music",
+ "src": "book",
+ "vocabTopics": [
+  "Music",
+  "TV music shows",
+  "Music festivals & events",
+  "Traditional music"
+ ],
+ "pron": "Stress in two-syllable words",
+ "grammar": [
+  "Compound sentences",
+  "To-infinitives and bare infinitives"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Câu ghép (Compound sentences)",
+   "page": 30,
+   "body": "Câu ghép gồm hai (hoặc nhiều) mệnh đề độc lập, nối bằng liên từ đẳng lập (coordinating conjunction), thường có dấu phẩy trước liên từ.\nCấu trúc: Mệnh đề 1, + and / but / or / so (/ yet / for / nor) + Mệnh đề 2.\n• and: thêm ý, hai ý cùng chiều. • but / yet: đối lập, tương phản. • or: lựa chọn; sau câu mệnh lệnh nghĩa là 'nếu không thì'. • so: kết quả (mệnh đề sau là kết quả của mệnh đề trước). • for: vì (lý do, văn trang trọng).\nVí dụ: It was raining, but they still went to the outdoor show. / I am a jazz fan, and my favourite style is from the late 1960s. / You can book the tickets online, or you can buy them at the stadium ticket office. / The concert didn't happen, so we stayed at home. / Hurry up, or we will miss the show.\nLỗi hay gặp: nhầm so (kết quả) với because (nguyên nhân – liên từ phụ thuộc, tạo câu phức); dùng cả although … but trong một câu; nhầm but và so khi hai vế không cùng chiều."
+  },
+  {
+   "kind": "grammar",
+   "title": "To-infinitive và bare infinitive sau động từ",
+   "page": 30,
+   "body": "1) V + to V: decide, expect, plan, want, promise, agree, hope, hesitate, learn, refuse, would like… (vd: Her fans planned to send her a surprise present. / The band decided to delay their live concert.)\n2) V + O + to V: ask, tell, want, invite, encourage, allow, expect… (vd: She asked him to attend the school performance.)\n3) V + O + V nguyên mẫu (bare infinitive): make, let; động từ tri giác hear, see, notice, watch (chứng kiến toàn bộ hành động). (vd: Their performance was so boring that it made us fall asleep. / Her parents won't let her watch such TV shows.)\nLưu ý: help + O + (to) V đều được; bị động của make: be made to V (He was made to sing). let không dùng ở bị động — thay bằng be allowed to V.\nLỗi hay gặp (Looking Back tr. 36): let/make + to V (sai) → let/make + V; agree/ask + O + V (sai) → agree to V, ask sb to V."
+  },
+  {
+   "kind": "pron",
+   "title": "Trọng âm từ hai âm tiết",
+   "page": 29,
+   "body": "Quy tắc chung (Tips tr. 29):\n• Hầu hết danh từ và tính từ hai âm tiết nhấn âm 1: ˈsinger, ˈprogramme, ˈcommon, ˈcareful, ˈconcert, ˈfamous, ˈfinal, ˈartist, ˈtalent.\n• Hầu hết động từ hai âm tiết nhấn âm 2: reˈlax, perˈform, atˈtract, deˈcide, enˈjoy, reˈceive, atˈtend.\nNgoại lệ cần nhớ: danh từ nhấn âm 2 (aˈward, guiˈtar, hoˈtel, eˈvent); động từ nhấn âm 1 (ˈlisten, ˈhappen, ˈpractise, ˈvisit, ˈenter, ˈopen). Một số từ vừa là danh từ vừa là động từ đổi trọng âm: ˈrecord (n) – reˈcord (v), ˈpresent (n) – preˈsent (v).\nMẹo: âm tiết chứa /ə/ hoặc /ɪ/ yếu thường không mang trọng âm (perform /pəˈfɔːm/, enjoy /ɪnˈdʒɔɪ/)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 28,
+   "body": "perform live (biểu diễn trực tiếp) · play a musical instrument / play the piano, drums, guitar · receive an award · a (big) fan of sb · a teen idol · upload videos on social media · cover song · reach two billion views · attract an audience of + số · a talent show / a reality competition · in search of (đi tìm) · identify with sb (đồng cảm) · be eliminated (bị loại) · vote for sb · play an important role in · win first prize / a cash prize · the winner and two runners-up · take place (diễn ra) · greatest hits · party atmosphere · make new friends · praise gods or national heroes · be recognised as."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Câu chọn liên từ: xác định quan hệ hai vế trước — cùng chiều (and), đối lập (but), lựa chọn/điều kiện phủ định (or), nguyên nhân → kết quả (so). Nếu vế sau là nguyên nhân thì không dùng so.\n• Câu dạng động từ: nhìn động từ đứng trước — make/let/hear/see/notice + O + V; decide/plan/agree/hope/promise + to V; ask/tell/invite/encourage + O + to V; bị động be made to V.\n• Câu trọng âm: phân loại từ (danh/tính từ hay động từ) rồi áp quy tắc, sau đó kiểm tra ngoại lệ quen thuộc (award, guitar, event).\n• Câu tìm lỗi: soát lần lượt dạng động từ sau make/let/agree/ask, liên từ có hợp nghĩa không, và từ loại (talent – talented, music – musician).\n• Đoạn văn điền từ: đọc cả câu trước và sau chỗ trống; chỗ trống sau dấu phẩy thường là liên từ hoặc đại từ quan hệ (who/which/when)."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "pop",
+   "pos": "n",
+   "ipa": "/pɒp/",
+   "vi": "nhạc pop",
+   "ex": "That pop singer looks great, Ann!",
+   "page": 28
+  },
+  {
+   "w": "teen idol",
+   "pos": "n phr",
+   "ipa": "/ˌtiːn ˈaɪdl/",
+   "vi": "thần tượng tuổi teen",
+   "ex": "He's a popular teen idol around the world now.",
+   "page": 28
+  },
+  {
+   "w": "fan",
+   "pos": "n",
+   "ipa": "/fæn/",
+   "vi": "người hâm mộ",
+   "ex": "You must be a fan of his!",
+   "page": 28
+  },
+  {
+   "w": "talented",
+   "pos": "adj",
+   "ipa": "/ˈtæləntɪd/",
+   "vi": "có tài, tài năng",
+   "ex": "He's a talented artist who can write music.",
+   "page": 28
+  },
+  {
+   "w": "artist",
+   "pos": "n",
+   "ipa": "/ˈɑːtɪst/",
+   "vi": "nghệ sĩ",
+   "ex": "She is a famous artist.",
+   "page": 28
+  },
+  {
+   "w": "musical instrument",
+   "pos": "n phr",
+   "ipa": "/ˌmjuːzɪkl ˈɪnstrəmənt/",
+   "vi": "nhạc cụ",
+   "ex": "He can write music and play many musical instruments.",
+   "page": 28
+  },
+  {
+   "w": "award",
+   "pos": "n",
+   "ipa": "/əˈwɔːd/",
+   "vi": "giải thưởng",
+   "ex": "He has received several awards such as the Grammy.",
+   "page": 28
+  },
+  {
+   "w": "trumpet",
+   "pos": "n",
+   "ipa": "/ˈtrʌmpɪt/",
+   "vi": "kèn trumpet",
+   "ex": "He learnt to play the piano, drums, guitar, and trumpet by himself.",
+   "page": 28
+  },
+  {
+   "w": "perform",
+   "pos": "v",
+   "ipa": "/pəˈfɔːm/",
+   "vi": "biểu diễn",
+   "ex": "He performed at the local theatre in his home town.",
+   "page": 28
+  },
+  {
+   "w": "tourist season",
+   "pos": "n phr",
+   "ipa": "/ˈtʊərɪst ˌsiːzn/",
+   "vi": "mùa du lịch",
+   "ex": "He performed at the local theatre during the tourist season.",
+   "page": 28
+  },
+  {
+   "w": "upload",
+   "pos": "v",
+   "ipa": "/ˌʌpˈləʊd/",
+   "vi": "tải lên (mạng)",
+   "ex": "His mother started to upload his cover song videos on social media.",
+   "page": 28
+  },
+  {
+   "w": "cover song",
+   "pos": "n phr",
+   "ipa": "/ˈkʌvə sɒŋ/",
+   "vi": "bài hát hát lại (cover)",
+   "ex": "His cover song videos made him an online star.",
+   "page": 28
+  },
+  {
+   "w": "social media",
+   "pos": "n phr",
+   "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+   "vi": "mạng xã hội",
+   "ex": "His mother uploaded his videos on social media.",
+   "page": 28
+  },
+  {
+   "w": "judge",
+   "pos": "n",
+   "ipa": "/dʒʌdʒ/",
+   "vi": "giám khảo",
+   "ex": "She was invited to be a judge in a popular TV talent show.",
+   "page": 30
+  },
+  {
+   "w": "audience",
+   "pos": "n",
+   "ipa": "/ˈɔːdiəns/",
+   "vi": "khán giả",
+   "ex": "The TV show attracted an audience of more than 5 million.",
+   "page": 30
+  },
+  {
+   "w": "single",
+   "pos": "n",
+   "ipa": "/ˈsɪŋɡl/",
+   "vi": "đĩa đơn (bản thu một bài hát)",
+   "ex": "Have you heard their new single?",
+   "page": 30
+  },
+  {
+   "w": "musician",
+   "pos": "n",
+   "ipa": "/mjuˈzɪʃn/",
+   "vi": "nhạc sĩ, nhạc công",
+   "ex": "He has a nice voice, and he is a talented musician.",
+   "page": 30
+  },
+  {
+   "w": "talent show",
+   "pos": "n phr",
+   "ipa": "/ˈtælənt ʃəʊ/",
+   "vi": "chương trình tìm kiếm tài năng",
+   "ex": "She was invited to be a judge in a popular TV talent show.",
+   "page": 30
+  },
+  {
+   "w": "charity concert",
+   "pos": "n phr",
+   "ipa": "/ˈtʃærəti ˌkɒnsət/",
+   "vi": "buổi hòa nhạc từ thiện",
+   "ex": "Many famous artists decided to perform at the charity concert.",
+   "page": 30
+  },
+  {
+   "w": "series",
+   "pos": "n",
+   "ipa": "/ˈsɪəriːz/",
+   "vi": "loạt phim/chương trình nhiều tập",
+   "ex": "At that time, there were many movies and TV series.",
+   "page": 31
+  },
+  {
+   "w": "participant",
+   "pos": "n",
+   "ipa": "/pɑːˈtɪsɪpənt/",
+   "vi": "người tham gia, thí sinh",
+   "ex": "The participants in this programme are ordinary people.",
+   "page": 31
+  },
+  {
+   "w": "identify with",
+   "pos": "phr v",
+   "ipa": "/aɪˈdentɪfaɪ wɪð/",
+   "vi": "đồng cảm, thấy mình giống (ai)",
+   "ex": "They are ordinary people who the audience can really identify with.",
+   "page": 31
+  },
+  {
+   "w": "in search of",
+   "pos": "phr",
+   "ipa": "/ɪn ˈsɜːtʃ əv/",
+   "vi": "để tìm kiếm",
+   "ex": "Judges travel all round America in search of the best singers.",
+   "page": 31
+  },
+  {
+   "w": "eliminate",
+   "pos": "v",
+   "ipa": "/ɪˈlɪmɪneɪt/",
+   "vi": "loại (khỏi cuộc thi)",
+   "ex": "The singer with the lowest number of votes is eliminated.",
+   "page": 31
+  },
+  {
+   "w": "vote",
+   "pos": "v",
+   "ipa": "/vəʊt/",
+   "vi": "bình chọn, bỏ phiếu",
+   "ex": "People can vote for their preferred singers online.",
+   "page": 31
+  },
+  {
+   "w": "semi-final",
+   "pos": "n",
+   "ipa": "/ˌsemiˈfaɪnl/",
+   "vi": "vòng bán kết",
+   "ex": "From the semi-final onwards, people can vote for their preferred singers.",
+   "page": 31
+  },
+  {
+   "w": "runner-up",
+   "pos": "n",
+   "ipa": "/ˌrʌnər ˈʌp/",
+   "vi": "người về nhì, á quân",
+   "ex": "TV audiences can decide on the winner and two runners-up.",
+   "page": 32
+  },
+  {
+   "w": "cash prize",
+   "pos": "n phr",
+   "ipa": "/ˌkæʃ ˈpraɪz/",
+   "vi": "giải thưởng tiền mặt",
+   "ex": "The winner of the show will receive a cash prize.",
+   "page": 32
+  },
+  {
+   "w": "festival",
+   "pos": "n",
+   "ipa": "/ˈfestɪvl/",
+   "vi": "lễ hội",
+   "ex": "Last Saturday, I went to the International Youth Music Festival.",
+   "page": 33
+  },
+  {
+   "w": "atmosphere",
+   "pos": "n",
+   "ipa": "/ˈætməsfɪə(r)/",
+   "vi": "bầu không khí",
+   "ex": "We could make new friends and enjoy the party atmosphere.",
+   "page": 33
+  },
+  {
+   "w": "greatest hits",
+   "pos": "n phr",
+   "ipa": "/ˌɡreɪtɪst ˈhɪts/",
+   "vi": "những bài hát nổi tiếng nhất",
+   "ex": "We listened to their greatest hits.",
+   "page": 33
+  },
+  {
+   "w": "fireworks",
+   "pos": "n",
+   "ipa": "/ˈfaɪəwɜːks/",
+   "vi": "pháo hoa",
+   "ex": "We stayed late to watch fireworks.",
+   "page": 34
+  },
+  {
+   "w": "exhibition",
+   "pos": "n",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "vi": "cuộc triển lãm",
+   "ex": "You can also see art exhibitions at the festival.",
+   "page": 34
+  },
+  {
+   "w": "suggestion",
+   "pos": "n",
+   "ipa": "/səˈdʒestʃən/",
+   "vi": "lời đề nghị, gợi ý",
+   "ex": "Mai and Ann are making and responding to suggestions.",
+   "page": 34
+  },
+  {
+   "w": "ancient",
+   "pos": "adj",
+   "ipa": "/ˈeɪnʃənt/",
+   "vi": "cổ xưa",
+   "ex": "Chau van singing is an ancient form of Vietnamese performance art.",
+   "page": 35
+  },
+  {
+   "w": "praise",
+   "pos": "v",
+   "ipa": "/preɪz/",
+   "vi": "ca ngợi, tôn vinh",
+   "ex": "It is used to praise gods or national heroes.",
+   "page": 35
+  },
+  {
+   "w": "worship",
+   "pos": "v",
+   "ipa": "/ˈwɜːʃɪp/",
+   "vi": "thờ cúng",
+   "ex": "The style of clothes depends on the rank of the gods the performers worship.",
+   "page": 35
+  },
+  {
+   "w": "costume",
+   "pos": "n",
+   "ipa": "/ˈkɒstjuːm/",
+   "vi": "trang phục (biểu diễn)",
+   "ex": "The costumes of chau van performers are very important.",
+   "page": 35
+  },
+  {
+   "w": "moon-shaped lute",
+   "pos": "n phr",
+   "ipa": "/ˌmuːn ʃeɪpt ˈluːt/",
+   "vi": "đàn nguyệt",
+   "ex": "The main instruments are the moon-shaped lute, bamboo clappers, drum, and gong.",
+   "page": 35
+  },
+  {
+   "w": "bamboo clappers",
+   "pos": "n phr",
+   "ipa": "/ˌbæmˈbuː ˈklæpəz/",
+   "vi": "phách tre",
+   "ex": "The main instruments are the moon-shaped lute, bamboo clappers, drum, and gong.",
+   "page": 35
+  },
+  {
+   "w": "gong",
+   "pos": "n",
+   "ipa": "/ɡɒŋ/",
+   "vi": "cồng, chiêng",
+   "ex": "The main musical instruments include a drum and a gong.",
+   "page": 35
+  },
+  {
+   "w": "recognise",
+   "pos": "v",
+   "ipa": "/ˈrekəɡnaɪz/",
+   "vi": "công nhận",
+   "ex": "Chau van singing was recognised as part of Vietnamese national culture.",
+   "page": 35
+  },
+  {
+   "w": "hesitate",
+   "pos": "v",
+   "ipa": "/ˈhezɪteɪt/",
+   "vi": "do dự, ngần ngại",
+   "ex": "Most of them did not hesitate to say that they love music.",
+   "page": 36
+  },
+  {
+   "w": "traditional",
+   "pos": "adj",
+   "ipa": "/trəˈdɪʃənl/",
+   "vi": "truyền thống",
+   "ex": "Do research on a form of traditional music in Viet Nam.",
+   "page": 37
+  }
+ ],
+ "passages": [
+  {
+   "id": "G10U3-P1",
+   "title": "Our school music festival",
+   "text": "Last month, our school held its first music festival, and it was a great success. More than twenty students signed up (1) _____ in the show. Some of them sang pop songs, while others played musical (2) _____ such as the guitar, the piano, and the drums. Three teachers were invited to be the (3) _____, and they gave useful comments after each performance. The students in the audience could also (4) _____ for their favourite performers by putting a paper ticket into a box. My best friend, Lan, was very nervous at first, (5) _____ she sang a beautiful folk song and won first prize. Everyone clapped and cheered for her. The festival not only helped us discover many talented students but also brought everyone closer together. Our head teacher has promised to make it a yearly event, so we are already looking forward to next year's festival."
+  },
+  {
+   "id": "G10U3-P2",
+   "title": "Xoan singing",
+   "text": "Xoan singing is a form of traditional folk music from Phu Tho Province, the land of the Hung Kings. It is usually performed in spring, at the beginning of the new year, (6) _____ people pray for good harvests and good health. A Xoan group often includes both male and female performers, (7) _____ sing and dance together in temples and communal houses. The music is simple, and the main instruments are drums and clappers. In the past, Xoan singing was in danger of (8) _____ because few young people wanted to learn it. However, local artists decided (9) _____ free classes for children, and many young people now enjoy this art form. Thanks to these efforts, Xoan singing has been recognised by UNESCO, (10) _____ more and more tourists come to Phu Tho to watch it every year."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G10U3-V01",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 1,
+   "q": "He is a _____ artist who can write music and play many musical instruments.",
+   "options": [
+    "talent",
+    "talented",
+    "talently",
+    "talents"
+   ],
+   "answer": 1,
+   "explain": "Trước danh từ 'artist' và sau mạo từ 'a' cần tính từ → talented (có tài). 'talent' là danh từ, 'talents' là danh từ số nhiều, 'talently' không tồn tại.",
+   "review": "Lớp 10 · Unit 3 – Getting Started (tr. 28)"
+  },
+  {
+   "id": "G10U3-V02",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 1,
+   "q": "A person who decides on the results of a competition is called a _____.",
+   "options": [
+    "participant",
+    "audience",
+    "judge",
+    "fan"
+   ],
+   "answer": 2,
+   "explain": "judge = giám khảo, người quyết định kết quả cuộc thi. participant = thí sinh; audience = khán giả; fan = người hâm mộ.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-V03",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 2,
+   "q": "The final night of the show attracted a TV _____ of over ten million people.",
+   "options": [
+    "viewer",
+    "audience",
+    "spectator",
+    "participant"
+   ],
+   "answer": 1,
+   "explain": "Cụm 'attract an audience of + số người' (thu hút lượng khán giả …). audience là danh từ tập hợp nên đi được với 'of over ten million people'; viewer, spectator chỉ một người xem; participant là người tham gia thi.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-V04",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 1,
+   "q": "Have you heard the band's new _____? It has only one song, but it is already at the top of the charts.",
+   "options": [
+    "album",
+    "concert",
+    "single",
+    "instrument"
+   ],
+   "answer": 2,
+   "explain": "single = đĩa đơn, bản thu chỉ có một bài hát (đúng gợi ý 'It has only one song'). album gồm nhiều bài; concert là buổi hòa nhạc; instrument là nhạc cụ.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-V05",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 2,
+   "q": "Many famous artists agreed to _____ live at the charity concert.",
+   "options": [
+    "attend",
+    "participate",
+    "perform",
+    "show"
+   ],
+   "answer": 2,
+   "explain": "Collocation 'perform live' = biểu diễn trực tiếp. attend (tham dự) và participate (cần 'in') không đi với 'live' theo nghĩa này; show cần tân ngữ.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-V06",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 2,
+   "q": "The judges travelled all round the country _____ the best young singers.",
+   "options": [
+    "in charge of",
+    "in spite of",
+    "in front of",
+    "in search of"
+   ],
+   "answer": 3,
+   "explain": "in search of = để tìm kiếm (Reading tr. 31). in charge of = phụ trách; in spite of = mặc dù; in front of = phía trước — không hợp nghĩa. Câu: Ban giám khảo đi khắp đất nước để tìm những ca sĩ trẻ giỏi nhất.",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)"
+  },
+  {
+   "id": "G10U3-V07",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nThe singer with the lowest number of votes is <u>eliminated</u> from the show every week.",
+   "options": [
+    "removed",
+    "chosen",
+    "praised",
+    "supported"
+   ],
+   "answer": 0,
+   "explain": "eliminated = bị loại khỏi cuộc thi ≈ removed. chosen = được chọn, praised = được khen, supported = được ủng hộ — đều trái hoặc khác nghĩa.",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)"
+  },
+  {
+   "id": "G10U3-V08",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 3,
+   "q": "Teenagers can easily _____ the characters in the series because they have similar problems.",
+   "options": [
+    "identify with",
+    "deal with",
+    "put up with",
+    "come up with"
+   ],
+   "answer": 0,
+   "explain": "identify with sb = thấy mình giống, đồng cảm với ai (hợp với 'because they have similar problems'). deal with = giải quyết; put up with = chịu đựng; come up with = nghĩ ra.",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)"
+  },
+  {
+   "id": "G10U3-V09",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nHer latest single was a big hit, and it made her <u>famous</u> all over the country.",
+   "options": [
+    "popular",
+    "unknown",
+    "well-known",
+    "successful"
+   ],
+   "answer": 1,
+   "explain": "famous = nổi tiếng, trái nghĩa là unknown (vô danh). popular, well-known, successful đều cùng chiều nghĩa với famous.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-V10",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 1,
+   "q": "Many young people dream of becoming professional _____.",
+   "options": [
+    "music",
+    "musicians",
+    "musical",
+    "musically"
+   ],
+   "answer": 1,
+   "explain": "Sau tính từ 'professional' và động từ 'becoming' cần danh từ chỉ người → musicians (nhạc sĩ, nhạc công). music là danh từ chỉ vật (âm nhạc), musical là tính từ, musically là trạng từ.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-V11",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 1,
+   "q": "She didn't go to a music school; she learnt to play the guitar by _____.",
+   "options": [
+    "herself",
+    "her own",
+    "alone",
+    "hers"
+   ],
+   "answer": 0,
+   "explain": "by + đại từ phản thân: by herself = tự mình (Getting Started: he learnt … by himself). 'by her own' sai (phải là 'on her own'); 'by alone', 'by hers' không có.",
+   "review": "Lớp 10 · Unit 3 – Getting Started (tr. 28)"
+  },
+  {
+   "id": "G10U3-V12",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music",
+   "level": 1,
+   "q": "His mother uploaded his cover song videos on _____ media, and he became an online star.",
+   "options": [
+    "society",
+    "sociable",
+    "social",
+    "socially"
+   ],
+   "answer": 2,
+   "explain": "Cụm cố định 'social media' = mạng xã hội. society là danh từ; sociable = hòa đồng; socially là trạng từ.",
+   "review": "Lớp 10 · Unit 3 – Getting Started (tr. 28)"
+  },
+  {
+   "id": "G10U3-V13",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music festivals & events",
+   "level": 3,
+   "q": "The festival took place in a big country park, so there was _____ of space for everyone to enjoy the music.",
+   "options": [
+    "many",
+    "much",
+    "a few",
+    "plenty"
+   ],
+   "answer": 3,
+   "explain": "plenty of + danh từ không đếm được/đếm được = nhiều (Writing tr. 33: plenty of space). 'many of', 'much of', 'a few of' không dùng trước danh từ không xác định như 'space' trong cấu trúc này.",
+   "review": "Lớp 10 · Unit 3 – Writing (tr. 33)"
+  },
+  {
+   "id": "G10U3-V14",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Music festivals & events",
+   "level": 2,
+   "q": "We really enjoyed the party _____ at the festival: everyone was dancing and singing together.",
+   "options": [
+    "atmosphere",
+    "weather",
+    "condition",
+    "environment"
+   ],
+   "answer": 0,
+   "explain": "party atmosphere = bầu không khí tiệc tùng, sôi động. weather = thời tiết; condition = điều kiện; environment = môi trường — không hợp với 'everyone was dancing and singing'.",
+   "review": "Lớp 10 · Unit 3 – Writing (tr. 33)"
+  },
+  {
+   "id": "G10U3-V15",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 2,
+   "q": "From the semi-final onwards, the audience can _____ for their favourite singers by text message.",
+   "options": [
+    "vote",
+    "choose",
+    "elect",
+    "select"
+   ],
+   "answer": 0,
+   "explain": "vote for sb = bình chọn cho ai. choose, elect, select là ngoại động từ, đi trực tiếp với tân ngữ, không đi với giới từ 'for' trong nghĩa này.",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)"
+  },
+  {
+   "id": "G10U3-V16",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 2,
+   "q": "TV audiences can decide on the winner and two _____ of the show.",
+   "options": [
+    "runner-ups",
+    "runners-ups",
+    "runners-up",
+    "run-ups"
+   ],
+   "answer": 2,
+   "explain": "Danh từ ghép runner-up có số nhiều là runners-up (thêm -s vào danh từ chính 'runner'). Câu: Khán giả truyền hình quyết định người thắng cuộc và hai người về nhì.",
+   "review": "Lớp 10 · Unit 3 – Speaking (tr. 32)"
+  },
+  {
+   "id": "G10U3-V17",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Traditional music",
+   "level": 2,
+   "q": "Chau van singing is an ancient form of Vietnamese performance art which is used to _____ gods or national heroes.",
+   "options": [
+    "blame",
+    "ignore",
+    "complain",
+    "praise"
+   ],
+   "answer": 3,
+   "explain": "praise = ca ngợi, tôn vinh (Culture tr. 35). blame = đổ lỗi, ignore = phớt lờ, complain = phàn nàn — trái với mục đích nghi lễ của hát chầu văn.",
+   "review": "Lớp 10 · Unit 3 – Culture (tr. 35)"
+  },
+  {
+   "id": "G10U3-V18",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Traditional music",
+   "level": 1,
+   "q": "The main musical instruments in chau van performance are the moon-shaped lute, bamboo _____, drum, and gong.",
+   "options": [
+    "claps",
+    "clapping",
+    "clapped",
+    "clappers"
+   ],
+   "answer": 3,
+   "explain": "bamboo clappers = phách tre (danh từ chỉ nhạc cụ). claps (tiếng vỗ tay), clapping (việc vỗ tay), clapped (động từ quá khứ) không chỉ nhạc cụ.",
+   "review": "Lớp 10 · Unit 3 – Culture (tr. 35)"
+  },
+  {
+   "id": "G10U3-V19",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "TV music shows",
+   "level": 3,
+   "q": "Choose the word/phrase CLOSEST in meaning to the underlined part.\nThe judges <u>play an important role</u> in the competition.",
+   "options": [
+    "play music well",
+    "are very important",
+    "are very famous",
+    "perform many roles"
+   ],
+   "answer": 1,
+   "explain": "play an important role in sth = đóng vai trò quan trọng ≈ are very important. Các phương án khác hiểu sai 'play' và 'role' theo nghĩa đen (chơi nhạc, đóng vai).",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)"
+  },
+  {
+   "id": "G10U3-V20",
+   "unit": 3,
+   "type": "vocab",
+   "topic": "Traditional music",
+   "level": 3,
+   "q": "The style of clothes, hats, and belts of chau van performers _____ the rank of the gods or saints they worship.",
+   "options": [
+    "results in",
+    "consists of",
+    "relies to",
+    "depends on"
+   ],
+   "answer": 3,
+   "explain": "depend on = phụ thuộc vào (Culture tr. 35). results in = dẫn đến; consists of = gồm có — sai nghĩa; 'relies to' sai giới từ (rely on).",
+   "review": "Lớp 10 · Unit 3 – Culture (tr. 35)"
+  },
+  {
+   "id": "G10U3-G01",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 1,
+   "q": "My sister plays the piano, _____ my brother plays the violin.",
+   "options": [
+    "so",
+    "or",
+    "and",
+    "because"
+   ],
+   "answer": 2,
+   "explain": "Hai mệnh đề cùng chiều, bổ sung thông tin → and. so chỉ kết quả, or chỉ lựa chọn, because chỉ nguyên nhân — không hợp nghĩa. Câu: Chị tôi chơi piano và anh tôi chơi violin.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G02",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 1,
+   "q": "Jackson wanted to go to the music festival, _____ he had a maths exam on that day.",
+   "options": [
+    "so",
+    "but",
+    "or",
+    "and"
+   ],
+   "answer": 1,
+   "explain": "Hai vế đối lập (muốn đi lễ hội >< có bài kiểm tra) → but. Câu: Jackson muốn đi lễ hội âm nhạc, nhưng hôm đó cậu có bài kiểm tra toán.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G03",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 1,
+   "q": "You can book the tickets online, _____ you can buy them at the ticket office.",
+   "options": [
+    "so",
+    "for",
+    "nor",
+    "or"
+   ],
+   "answer": 3,
+   "explain": "Đưa ra hai lựa chọn → or (hoặc). so (vì vậy) và for (bởi vì) sai quan hệ nghĩa; nor dùng sau mệnh đề phủ định và cần đảo ngữ.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G04",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 1,
+   "q": "It started to rain heavily, _____ the organisers moved the concert indoors.",
+   "options": [
+    "but",
+    "or",
+    "nor",
+    "so"
+   ],
+   "answer": 3,
+   "explain": "Vế sau là kết quả của vế trước (mưa to → chuyển buổi hòa nhạc vào trong nhà) → so.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G05",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 2,
+   "q": "Hurry up, _____ we will miss the opening performance.",
+   "options": [
+    "or",
+    "and",
+    "so",
+    "but"
+   ],
+   "answer": 0,
+   "explain": "Câu mệnh lệnh + or + mệnh đề = 'nếu không thì'. Câu: Nhanh lên, nếu không chúng ta sẽ lỡ tiết mục mở màn. 'and' sẽ mang nghĩa 'nhanh lên thì sẽ lỡ' — vô lý.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G06",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 2,
+   "q": "Which of the following is a compound sentence?",
+   "options": [
+    "She sings well because she practises every day.",
+    "She sings well, and she can also play the drums.",
+    "Although she sings well, she didn't win the contest.",
+    "The girl who sings well is my cousin."
+   ],
+   "answer": 1,
+   "explain": "Câu ghép = hai mệnh đề độc lập nối bằng liên từ đẳng lập (and/but/or/so). 'She sings well, and she can also play the drums' đúng định nghĩa. Các câu còn lại dùng because, although, who → là câu phức (có mệnh đề phụ thuộc).",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G07",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 2,
+   "q": "Choose the correct sentence.",
+   "options": [
+    "The concert was cancelled, so we stayed at home.",
+    "The concert was cancelled so, we stayed at home.",
+    "The concert was cancelled, so that we stayed at home.",
+    "The concert was cancelled, so we stay at home yesterday."
+   ],
+   "answer": 0,
+   "explain": "Câu ghép đúng: dấu phẩy đặt TRƯỚC liên từ 'so', hai vế cùng thì quá khứ. 'so, we' đặt sai dấu phẩy; 'so that' chỉ mục đích; 'we stay … yesterday' sai thì.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G08",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "Compound sentences",
+   "level": 3,
+   "q": "He didn't win the talent competition, _____ he became a famous singer a few years later.",
+   "options": [
+    "so",
+    "or",
+    "yet",
+    "for"
+   ],
+   "answer": 2,
+   "explain": "yet (= but) diễn tả sự đối lập: không thắng cuộc thi nhưng sau này vẫn nổi tiếng. so (kết quả), or (lựa chọn), for (lý do) không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G09",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 1,
+   "q": "The band promised _____ a new album next year.",
+   "options": [
+    "release",
+    "releasing",
+    "to release",
+    "released"
+   ],
+   "answer": 2,
+   "explain": "promise + to V. Câu: Ban nhạc hứa sẽ phát hành album mới vào năm sau.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G10",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 1,
+   "q": "The sad song made many people in the audience _____.",
+   "options": [
+    "cry",
+    "to cry",
+    "crying",
+    "cried"
+   ],
+   "answer": 0,
+   "explain": "make + O + V nguyên mẫu không 'to' (bare infinitive) → made … cry. Câu: Bài hát buồn khiến nhiều khán giả bật khóc.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G11",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 1,
+   "q": "My parents won't let me _____ to the concert alone.",
+   "options": [
+    "to go",
+    "going",
+    "went",
+    "go"
+   ],
+   "answer": 3,
+   "explain": "let + O + V nguyên mẫu không 'to' → let me go. Câu: Bố mẹ sẽ không cho tôi đi xem hòa nhạc một mình.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G12",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 1,
+   "q": "The judges asked the participants _____ a song in English.",
+   "options": [
+    "to sing",
+    "sing",
+    "singing",
+    "sang"
+   ],
+   "answer": 0,
+   "explain": "ask + O + to V → asked the participants to sing. Câu: Ban giám khảo yêu cầu thí sinh hát một bài bằng tiếng Anh.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G13",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "Don't hesitate _____ me if you need help with your guitar lessons.",
+   "options": [
+    "ask",
+    "asking",
+    "to ask",
+    "asked"
+   ],
+   "answer": 2,
+   "explain": "hesitate + to V (Remember! tr. 30). Câu: Đừng ngại hỏi tôi nếu bạn cần giúp đỡ với bài học guitar.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G14",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "We heard the band _____ their greatest hit at the end of the show.",
+   "options": [
+    "to play",
+    "played",
+    "plays",
+    "play"
+   ],
+   "answer": 3,
+   "explain": "hear + O + V nguyên mẫu (nghe toàn bộ hành động) → heard the band play. 'to play' sai sau động từ tri giác ở thể chủ động; played/plays không dùng sau tân ngữ.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G15",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "When they were young, the singers were made _____ for many hours a day.",
+   "options": [
+    "practise",
+    "to practise",
+    "practising",
+    "practised"
+   ],
+   "answer": 1,
+   "explain": "Chủ động: make + O + V; nhưng bị động: be made + to V → were made to practise. Câu: Hồi nhỏ, các ca sĩ bị bắt luyện tập nhiều giờ mỗi ngày.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-G16",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "I noticed a young man _____ onto the stage during the performance.",
+   "options": [
+    "to jump",
+    "jump",
+    "jumped",
+    "jumps"
+   ],
+   "answer": 1,
+   "explain": "notice + O + V nguyên mẫu (chứng kiến cả hành động) → noticed a young man jump. 'to jump', 'jumped', 'jumps' không dùng sau tân ngữ của notice.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G17",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 1,
+   "q": "Due to the bad weather, the organisers decided _____ the outdoor show until next weekend.",
+   "options": [
+    "delay",
+    "delaying",
+    "delayed",
+    "to delay"
+   ],
+   "answer": 3,
+   "explain": "decide + to V → decided to delay. Câu: Do thời tiết xấu, ban tổ chức quyết định hoãn buổi biểu diễn ngoài trời đến cuối tuần sau.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G18",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "She agreed _____ at the school festival, and she also let her younger sister _____ with her.",
+   "options": [
+    "perform / to sing",
+    "to perform / sing",
+    "to perform / to sing",
+    "performing / singing"
+   ],
+   "answer": 1,
+   "explain": "agree + to V → to perform; let + O + V nguyên mẫu → sing. Câu ghép nối bằng 'and'.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-G19",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "My music teacher encouraged me _____ part in the talent show.",
+   "options": [
+    "to take",
+    "take",
+    "taking",
+    "took"
+   ],
+   "answer": 0,
+   "explain": "encourage + O + to V → encouraged me to take part in. Câu: Thầy dạy nhạc khuyến khích tôi tham gia cuộc thi tài năng.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-G20",
+   "unit": 3,
+   "type": "grammar",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "Choose the correct sentence.",
+   "options": [
+    "Her father made her to practise the piano every evening.",
+    "Her father let her to practise the piano every evening.",
+    "Her father made her practise the piano every evening.",
+    "Her father wanted her practise the piano every evening."
+   ],
+   "answer": 2,
+   "explain": "make + O + V nguyên mẫu → made her practise (đúng). 'made her to practise', 'let her to practise' sai (make/let không đi với to V ở thể chủ động); want + O + to V nên 'wanted her practise' sai.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-P01",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "perform<u>ed</u>",
+    "receiv<u>ed</u>",
+    "play<u>ed</u>",
+    "talent<u>ed</u>"
+   ],
+   "answer": 3,
+   "explain": "talented /ˈtæləntɪd/: đuôi -ed đọc /ɪd/ vì đứng sau /t/. performed /pəˈfɔːmd/, received /rɪˈsiːvd/, played /pleɪd/: đuôi -ed đọc /d/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P02",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "concert<u>s</u>",
+    "singer<u>s</u>",
+    "song<u>s</u>",
+    "award<u>s</u>"
+   ],
+   "answer": 0,
+   "explain": "concerts /ˈkɒnsəts/: -s đọc /s/ sau âm vô thanh /t/. singers /ˈsɪŋəz/, songs /sɒŋz/, awards /əˈwɔːdz/: -s đọc /z/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P03",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "f<u>a</u>mous",
+    "t<u>a</u>lent",
+    "st<u>a</u>dium",
+    "st<u>a</u>ge"
+   ],
+   "answer": 1,
+   "explain": "talent /ˈtælənt/: a đọc /æ/. famous /ˈfeɪməs/, stadium /ˈsteɪdiəm/, stage /steɪdʒ/: a đọc /eɪ/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P04",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "f<u>i</u>nal",
+    "<u>i</u>dol",
+    "pr<u>i</u>ze",
+    "s<u>i</u>nger"
+   ],
+   "answer": 3,
+   "explain": "singer /ˈsɪŋə(r)/: i đọc /ɪ/. final /ˈfaɪnl/, idol /ˈaɪdl/, prize /praɪz/: i đọc /aɪ/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P05",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>arity",
+    "<u>ch</u>orus",
+    "<u>ch</u>ance",
+    "<u>ch</u>art"
+   ],
+   "answer": 1,
+   "explain": "chorus /ˈkɔːrəs/: ch đọc /k/. charity /ˈtʃærəti/, chance /tʃɑːns/, chart /tʃɑːt/: ch đọc /tʃ/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P06",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "m<u>u</u>sic",
+    "tr<u>u</u>mpet",
+    "m<u>u</u>seum",
+    "comp<u>u</u>ter"
+   ],
+   "answer": 1,
+   "explain": "trumpet /ˈtrʌmpɪt/: u đọc /ʌ/. music /ˈmjuːzɪk/, museum /mjuˈziːəm/, computer /kəmˈpjuːtə(r)/: u đọc /juː/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P07",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "c<u>o</u>ncert",
+    "p<u>o</u>p",
+    "s<u>o</u>ng",
+    "sh<u>o</u>w"
+   ],
+   "answer": 3,
+   "explain": "show /ʃəʊ/: o đọc /əʊ/. concert /ˈkɒnsət/, pop /pɒp/, song /sɒŋ/: o đọc /ɒ/.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P08",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "singer",
+    "concert",
+    "perform",
+    "famous"
+   ],
+   "answer": 2,
+   "explain": "perform /pəˈfɔːm/ (động từ) nhấn âm 2. singer /ˈsɪŋə(r)/, concert /ˈkɒnsət/, famous /ˈfeɪməs/ (danh/tính từ) nhấn âm 1.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Pronunciation (tr. 36)"
+  },
+  {
+   "id": "G10U3-P09",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "relax",
+    "decide",
+    "programme",
+    "attract"
+   ],
+   "answer": 2,
+   "explain": "programme /ˈprəʊɡræm/ (danh từ) nhấn âm 1. relax /rɪˈlæks/, decide /dɪˈsaɪd/, attract /əˈtrækt/ (động từ) nhấn âm 2.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P10",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "careful",
+    "common",
+    "enjoy",
+    "final"
+   ],
+   "answer": 2,
+   "explain": "enjoy /ɪnˈdʒɔɪ/ (động từ) nhấn âm 2. careful /ˈkeəfl/, common /ˈkɒmən/, final /ˈfaɪnl/ (tính từ) nhấn âm 1.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P11",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "artist",
+    "attend",
+    "receive",
+    "prefer"
+   ],
+   "answer": 0,
+   "explain": "artist /ˈɑːtɪst/ (danh từ) nhấn âm 1. attend /əˈtend/, receive /rɪˈsiːv/, prefer /prɪˈfɜː(r)/ (động từ) nhấn âm 2.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-P12",
+   "unit": 3,
+   "type": "pron",
+   "topic": "Stress in two-syllable words",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "award",
+    "talent",
+    "music",
+    "single"
+   ],
+   "answer": 0,
+   "explain": "award /əˈwɔːd/ là danh từ ngoại lệ, nhấn âm 2. talent /ˈtælənt/, music /ˈmjuːzɪk/, single /ˈsɪŋɡl/ theo quy tắc danh từ, nhấn âm 1.",
+   "review": "Lớp 10 · Unit 3 – Language, Pronunciation (tr. 29)"
+  },
+  {
+   "id": "G10U3-E01",
+   "unit": 3,
+   "type": "error",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nShe <u>asked</u> (A) her brother <u>attend</u> (B) the school performance <u>with</u> (C) her <u>last week</u> (D).",
+   "options": [
+    "A. asked",
+    "B. attend",
+    "C. with",
+    "D. last week"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: ask + O + to V → sửa 'attend' thành 'to attend'. Câu: Tuần trước cô ấy đã rủ em trai đi xem buổi biểu diễn của trường cùng mình.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-E02",
+   "unit": 3,
+   "type": "error",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy parents <u>don't</u> (A) <u>let</u> (B) me <u>to stay</u> (C) up late <u>to watch</u> (D) music shows.",
+   "options": [
+    "A. don't",
+    "B. let",
+    "C. to stay",
+    "D. to watch"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: let + O + V nguyên mẫu → sửa 'to stay' thành 'stay'. 'to watch' (D) đúng vì chỉ mục đích.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-E03",
+   "unit": 3,
+   "type": "error",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe organisers <u>expected</u> (A) many fans <u>to come</u> (B), <u>so</u> (C) they decided <u>holding</u> (D) the festival in the stadium.",
+   "options": [
+    "A. expected",
+    "B. to come",
+    "C. so",
+    "D. holding"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: decide + to V → sửa 'holding' thành 'to hold'. expect + O + to V (B) đúng; 'so' (C) nối vế kết quả hợp lý.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-E04",
+   "unit": 3,
+   "type": "error",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 1,
+   "q": "Find the underlined part that needs correction.\nJackson <u>wants going</u> (A) to the music festival, <u>but</u> (B) he <u>has</u> (C) a maths exam <u>on</u> (D) that day.",
+   "options": [
+    "A. wants going",
+    "B. but",
+    "C. has",
+    "D. on"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: want + to V → sửa 'wants going' thành 'wants to go'. 'but' (B) đúng vì hai vế đối lập.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-E05",
+   "unit": 3,
+   "type": "error",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe audience <u>was made laugh</u> (A) by the singer's funny song, <u>and</u> (B) everyone <u>enjoyed</u> (C) the show <u>a lot</u> (D).",
+   "options": [
+    "A. was made laugh",
+    "B. and",
+    "C. enjoyed",
+    "D. a lot"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: bị động của make là be made + to V → sửa thành 'was made to laugh'.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-E06",
+   "unit": 3,
+   "type": "error",
+   "topic": "Compound sentences",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nI <u>really want</u> (A) to go to the concert, <u>and</u> (B) I <u>have to</u> (C) finish my <u>homework</u> (D) first.",
+   "options": [
+    "A. really want",
+    "B. and",
+    "C. have to",
+    "D. homework"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: hai vế đối lập (rất muốn đi >< phải làm xong bài tập trước) → sửa 'and' thành 'but'.",
+   "review": "Lớp 10 · Unit 3 – Communication, Everyday English (tr. 34)"
+  },
+  {
+   "id": "G10U3-E07",
+   "unit": 3,
+   "type": "error",
+   "topic": "Music",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe <u>judges</u> (A) <u>said</u> (B) that she was a very <u>talent</u> (C) singer <u>with</u> (D) a beautiful voice.",
+   "options": [
+    "A. judges",
+    "B. said",
+    "C. talent",
+    "D. with"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: trước danh từ 'singer' cần tính từ → sửa 'talent' thành 'talented'.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)"
+  },
+  {
+   "id": "G10U3-E08",
+   "unit": 3,
+   "type": "error",
+   "topic": "TV music shows",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe singer <u>with</u> (A) the <u>lowest</u> (B) number of votes <u>is</u> (C) <u>eliminating</u> (D) every week.",
+   "options": [
+    "A. with",
+    "B. lowest",
+    "C. is",
+    "D. eliminating"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: ca sĩ bị loại → cần bị động 'is eliminated', không phải 'is eliminating'.",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)"
+  },
+  {
+   "id": "G10U3-R01",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nHer parents didn't allow her to watch such TV shows.",
+   "options": [
+    "Her parents didn't let her to watch such TV shows.",
+    "Her parents didn't let her watch such TV shows.",
+    "Her parents let her watch such TV shows.",
+    "Her parents made her watch such TV shows."
+   ],
+   "answer": 1,
+   "explain": "allow sb to V = let sb V (cho phép). Câu đúng giữ thể phủ định và dùng let + O + V nguyên mẫu. 'let her to watch' sai ngữ pháp; 'let her watch' (khẳng định) ngược nghĩa; 'made her watch' = bắt xem — sai nghĩa.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-R02",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe performance was so boring that we fell asleep.",
+   "options": [
+    "The boring performance made us to fall asleep.",
+    "The boring performance made us fall asleep.",
+    "The boring performance made us falling asleep.",
+    "The performance was interesting enough to keep us awake."
+   ],
+   "answer": 1,
+   "explain": "make + O + V nguyên mẫu: The boring performance made us fall asleep. 'made us to fall', 'made us falling' sai ngữ pháp; phương án 'interesting enough to keep us awake' ngược nghĩa.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-R03",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"I will send you a ticket for the concert,\" Mai said to Ann.",
+   "options": [
+    "Mai promised to send Ann a ticket for the concert.",
+    "Mai promised sending Ann a ticket for the concert.",
+    "Mai refused to send Ann a ticket for the concert.",
+    "Mai asked Ann to send her a ticket for the concert."
+   ],
+   "answer": 0,
+   "explain": "Lời hứa 'I will…' → promise + to V. 'promised sending' sai dạng động từ; 'refused' (từ chối) ngược nghĩa; 'asked Ann to send her' đảo người gửi.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-R04",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "To-infinitives and bare infinitives",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"Shall we go to the music festival this weekend?\" Ann said to Mai.",
+   "options": [
+    "Ann suggested to go to the music festival this weekend.",
+    "Ann refused to go to the music festival this weekend.",
+    "Ann asked Mai where the music festival was this weekend.",
+    "Ann suggested going to the music festival this weekend."
+   ],
+   "answer": 3,
+   "explain": "'Shall we…?' là lời đề nghị (Everyday English tr. 34) → suggest + V-ing. 'suggested to go' sai ngữ pháp; 'refused' ngược nghĩa; câu hỏi 'where…' sai nội dung.",
+   "review": "Lớp 10 · Unit 3 – Communication, Everyday English (tr. 34)"
+  },
+  {
+   "id": "G10U3-R05",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "Compound sentences",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nAlthough he didn't go to a music school, he learnt to play many instruments.",
+   "options": [
+    "He didn't go to a music school, so he learnt to play many instruments.",
+    "Because he didn't go to a music school, he learnt to play many instruments.",
+    "He didn't go to a music school, but he learnt to play many instruments.",
+    "He went to a music school, and he learnt to play many instruments."
+   ],
+   "answer": 2,
+   "explain": "Although (mặc dù) diễn tả sự tương phản → câu ghép với but. so/because biến thành quan hệ nguyên nhân – kết quả (sai nghĩa); 'He went to a music school' ngược thông tin.",
+   "review": "Lớp 10 · Unit 3 – Getting Started (tr. 28)"
+  },
+  {
+   "id": "G10U3-R06",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "Compound sentences",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf you don't buy the tickets now, they will be sold out.",
+   "options": [
+    "Buy the tickets now, and they will be sold out.",
+    "Buy the tickets now, or they will be sold out.",
+    "Buy the tickets now, but they will be sold out.",
+    "Buy the tickets now, so they will be sold out."
+   ],
+   "answer": 1,
+   "explain": "Mệnh lệnh + or = 'nếu không thì' ≈ If you don't…. Với and/but/so câu mang nghĩa 'mua ngay thì vé sẽ hết' — sai logic.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-R07",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "Compound sentences",
+   "level": 1,
+   "q": "Choose the sentence that best combines each pair of sentences.\nIt was raining. They still went to the outdoor show.",
+   "options": [
+    "It was raining, but they still went to the outdoor show.",
+    "It was raining, so they still went to the outdoor show.",
+    "It was raining, or they still went to the outdoor show.",
+    "It was raining, and so they still went to the outdoor show."
+   ],
+   "answer": 0,
+   "explain": "Trời mưa >< vẫn đi xem → quan hệ tương phản → but (ví dụ trong Remember! tr. 30). so / and so chỉ kết quả, or chỉ lựa chọn — không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-R08",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "Compound sentences",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe traffic was really bad. We decided to walk to the stadium.",
+   "options": [
+    "The traffic was really bad, so we decided to walk to the stadium.",
+    "The traffic was really bad, but we decided to walk to the stadium.",
+    "The traffic was really bad, or we decided to walk to the stadium.",
+    "The traffic was really bad, so we decided walking to the stadium."
+   ],
+   "answer": 0,
+   "explain": "Giao thông tắc → quyết định đi bộ: quan hệ nguyên nhân – kết quả → so; decide + to V. 'but', 'or' sai nghĩa; 'decided walking' sai dạng động từ.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-R09",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "Compound sentences",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nYou can watch the show on TV. You can also buy a ticket and see it live.",
+   "options": [
+    "You can watch the show on TV, so you can buy a ticket and see it live.",
+    "Because you can watch the show on TV, you can buy a ticket and see it live.",
+    "You can watch the show on TV, or you can buy a ticket and see it live.",
+    "You can watch the show on TV, or you can buying a ticket and see it live."
+   ],
+   "answer": 2,
+   "explain": "Hai cách lựa chọn → or. 'so' và 'Because' tạo quan hệ nhân quả vô lý; 'can buying' sai ngữ pháp (can + V nguyên mẫu).",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)"
+  },
+  {
+   "id": "G10U3-R10",
+   "unit": 3,
+   "type": "rewrite",
+   "topic": "Compound sentences",
+   "level": 1,
+   "q": "Choose the sentence that best combines each pair of sentences.\nShe writes her own songs. They always have deep meanings.",
+   "options": [
+    "She writes her own songs, or they always have deep meanings.",
+    "She writes her own songs, and they always having deep meanings.",
+    "She writes her own songs, but they never have deep meanings.",
+    "She writes her own songs, and they always have deep meanings."
+   ],
+   "answer": 3,
+   "explain": "Hai ý bổ sung cho nhau → and. 'or' sai nghĩa; 'they always having' thiếu động từ chia; 'but they never have' đổi nghĩa câu gốc.",
+   "review": "Lớp 10 · Unit 3 – Looking Back, Grammar (tr. 36)"
+  },
+  {
+   "id": "G10U3-C01",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Our school music festival – sign up to V",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "to perform",
+    "performing",
+    "perform",
+    "performed"
+   ],
+   "answer": 0,
+   "explain": "sign up + to V (đăng ký để làm gì): signed up to perform in the show = đăng ký biểu diễn trong chương trình.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)",
+   "pid": "G10U3-P1",
+   "blank": 1
+  },
+  {
+   "id": "G10U3-C02",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Our school music festival – musical instruments",
+   "level": 1,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "instrumental",
+    "instruments",
+    "instrumentation",
+    "instrumentally"
+   ],
+   "answer": 1,
+   "explain": "Cụm 'musical instruments' = nhạc cụ, sau đó liệt kê guitar, piano, drums. Các phương án còn lại sai từ loại/nghĩa.",
+   "review": "Lớp 10 · Unit 3 – Getting Started (tr. 28)",
+   "pid": "G10U3-P1",
+   "blank": 2
+  },
+  {
+   "id": "G10U3-C03",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Our school music festival – judges",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "judges",
+    "fans",
+    "audience",
+    "participants"
+   ],
+   "answer": 0,
+   "explain": "Người được mời và 'gave useful comments after each performance' là ban giám khảo → judges. fans, audience, participants không làm nhiệm vụ nhận xét.",
+   "review": "Lớp 10 · Unit 3 – Language, Vocabulary (tr. 30)",
+   "pid": "G10U3-P1",
+   "blank": 3
+  },
+  {
+   "id": "G10U3-C04",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Our school music festival – vote for",
+   "level": 2,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "choose",
+    "vote",
+    "elect",
+    "select"
+   ],
+   "answer": 1,
+   "explain": "vote for sb = bình chọn cho ai. choose/elect/select không đi với 'for' theo nghĩa này.",
+   "review": "Lớp 10 · Unit 3 – Reading (tr. 31)",
+   "pid": "G10U3-P1",
+   "blank": 4
+  },
+  {
+   "id": "G10U3-C05",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Our school music festival – but",
+   "level": 2,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "so",
+    "or",
+    "but",
+    "because"
+   ],
+   "answer": 2,
+   "explain": "Lan rất hồi hộp lúc đầu >< vẫn hát hay và đạt giải nhất → tương phản → but.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)",
+   "pid": "G10U3-P1",
+   "blank": 5
+  },
+  {
+   "id": "G10U3-C06",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Xoan singing – relative adverb when",
+   "level": 3,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "which",
+    "where",
+    "who",
+    "when"
+   ],
+   "answer": 3,
+   "explain": "Trước chỗ trống là cụm chỉ thời gian 'in spring, at the beginning of the new year' và sau là mệnh đề đầy đủ (people pray…) → trạng từ quan hệ when. which cần thiếu chủ ngữ/tân ngữ; where chỉ nơi chốn; who chỉ người.",
+   "review": "Lớp 10 · Unit 3 – Culture (tr. 35)",
+   "pid": "G10U3-P2",
+   "blank": 6
+  },
+  {
+   "id": "G10U3-C07",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Xoan singing – relative pronoun who",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer": 0,
+   "explain": "Thay cho 'performers' (người) và làm chủ ngữ của 'sing and dance' → who. whom làm tân ngữ; whose cần danh từ theo sau; which chỉ vật.",
+   "review": "Lớp 10 · Unit 3 – Culture (tr. 35)",
+   "pid": "G10U3-P2",
+   "blank": 7
+  },
+  {
+   "id": "G10U3-C08",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Xoan singing – in danger of + V-ing",
+   "level": 3,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "disappear",
+    "disappearing",
+    "to disappear",
+    "disappeared"
+   ],
+   "answer": 1,
+   "explain": "Sau giới từ 'of' dùng V-ing: in danger of disappearing = có nguy cơ biến mất.",
+   "review": "Lớp 10 · Unit 3 – Culture (tr. 35)",
+   "pid": "G10U3-P2",
+   "blank": 8
+  },
+  {
+   "id": "G10U3-C09",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Xoan singing – decide to V",
+   "level": 1,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "open",
+    "opening",
+    "opened",
+    "to open"
+   ],
+   "answer": 3,
+   "explain": "decide + to V → decided to open free classes (quyết định mở lớp miễn phí).",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)",
+   "pid": "G10U3-P2",
+   "blank": 9
+  },
+  {
+   "id": "G10U3-C10",
+   "unit": 3,
+   "type": "cloze",
+   "topic": "Xoan singing – so",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "but",
+    "or",
+    "so",
+    "although"
+   ],
+   "answer": 2,
+   "explain": "Được UNESCO công nhận → ngày càng nhiều du khách đến xem: quan hệ nguyên nhân – kết quả → so. but/or sai nghĩa; although diễn tả nhượng bộ.",
+   "review": "Lớp 10 · Unit 3 – Language, Grammar (tr. 30)",
+   "pid": "G10U3-P2",
+   "blank": 10
+  }
+ ]
+}

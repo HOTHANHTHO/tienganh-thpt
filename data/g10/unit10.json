@@ -1,0 +1,1747 @@
+{
+ "grade": 10,
+ "unit": 10,
+ "name": "Ecotourism",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Ecotourism and ecotours",
+  "Protecting the environment when travelling",
+  "Local culture and communities"
+ ],
+ "pron": "Intonation: rising and falling intonation",
+ "grammar": [
+  "Conditional sentences Type 1",
+  "Conditional sentences Type 2"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Câu điều kiện loại 1 (First conditional)",
+   "page": 113,
+   "body": "Dùng để nói về sự việc CÓ THỂ xảy ra ở hiện tại hoặc tương lai và kết quả của nó.\nCấu trúc: If + S + V(hiện tại đơn), S + will/can/may/might/should + V(nguyên mẫu). Mệnh đề chính cũng có thể là câu mệnh lệnh: If you want to…, join…\nUnless = If … not: Unless you book early, you won't get a room. (= If you don't book early, …)\nVí dụ:\n- If it doesn't rain tomorrow, we will go kayaking.\n- If tourists don't follow the rules, the coral reefs will be damaged.\n- If you visit the Mekong Delta, you can stay at a homestay.\nLỗi hay gặp: dùng will trong mệnh đề If (✗ If the weather will be fine…); dùng unless + phủ định (✗ Unless you don't…)."
+  },
+  {
+   "kind": "grammar",
+   "title": "Câu điều kiện loại 2 (Second conditional)",
+   "page": 113,
+   "body": "Dùng để nói về điều KHÔNG CÓ THẬT hoặc khó xảy ra ở hiện tại/tương lai; đưa ra lời khuyên.\nCấu trúc: If + S + V(quá khứ đơn), S + would/could/might + V(nguyên mẫu). Với 'be' dùng were cho mọi ngôi (If I were you, I would…).\nViết lại câu từ sự thật hiện tại: đổi khẳng định ↔ phủ định ở cả hai vế. Ví dụ: We don't have a map, so we are lost. → If we had a map, we wouldn't be lost.\nVí dụ:\n- If I had a lot of money, I would travel around the world on ecotours.\n- If tourists left less litter, the beaches would be much cleaner.\n- If I were you, I would choose a homestay.\nCấu trúc tương đương: Without / If it weren't for + N, S + would + V.\nLỗi hay gặp: trộn loại 1 và 2 (✗ If I had…, I will…); quên dùng V nguyên mẫu sau would (✗ would travels)."
+  },
+  {
+   "kind": "pron",
+   "title": "Ngữ điệu lên – xuống (Intonation)",
+   "page": 112,
+   "body": "- Câu hỏi Yes/No (Are/Do/Can/Have…?) thường LÊN giọng ở cuối: Have you ever been on an ecotour? ↗\n- Câu hỏi Wh- (What/Where/Why/How…?) thường XUỐNG giọng ở cuối: Where is the biosphere reserve? ↘\n- Câu trần thuật, câu mệnh lệnh thường xuống giọng ở cuối: We stayed with a local family. ↘\n- Câu hỏi lựa chọn (… or …): lên ở lựa chọn đầu, xuống ở lựa chọn cuối: Would you prefer a homestay ↗ or a hotel ↘?\nMẹo: xác định từ đầu câu (trợ động từ hay từ để hỏi Wh-) để đoán ngữ điệu."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 111,
+   "body": "flora and fauna (hệ động thực vật) · biosphere reserve (khu dự trữ sinh quyển) · have a negative/positive impact on (tác động tiêu cực/tích cực đến) · raise awareness of (nâng cao nhận thức về) · dispose of rubbish (xử lý rác) · reduce your carbon footprint (giảm lượng khí thải các-bon) · generate income (tạo thu nhập) · discharge waste into (xả thải ra) · eco-friendly / environmentally responsible (thân thiện / có trách nhiệm với môi trường) · leave no trace (không để lại dấu vết) · floating market, homestay, fruit orchard, mangrove forest."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "- Câu điều kiện: nhìn động từ ở vế đã cho để xác định loại (will → loại 1, would → loại 2), rồi chọn thì cho vế còn lại. Mệnh đề If không bao giờ chứa will/would ở hai loại này.\n- Viết lại câu 'sự thật hiện tại, so…' → dùng loại 2 và đảo khẳng định/phủ định ở cả hai vế.\n- Unless = If … not; loại ngay phương án có 'Unless … not/don't'.\n- Từ vựng: phân biệt các từ gần hình thức (conservation/conversation, impact/affect, footprint/footstep); xác định từ loại cần điền dựa vào vị trí (sau be/very → tính từ; sau sở hữu cách/a/the → danh từ).\n- Ngữ điệu: Yes/No ↗, Wh- ↘, câu trần thuật ↘, câu hỏi lựa chọn ↗…↘."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "ecotourism",
+   "pos": "n",
+   "ipa": "/ˈiːkəʊtʊərɪzəm/",
+   "vi": "du lịch sinh thái",
+   "ex": "Ecotourism helps protect nature and supports local people.",
+   "page": 110
+  },
+  {
+   "w": "ecotour",
+   "pos": "n",
+   "ipa": "/ˈiːkəʊtʊə(r)/",
+   "vi": "chuyến du lịch sinh thái",
+   "ex": "We went on an ecotour to Cat Tien National Park.",
+   "page": 110
+  },
+  {
+   "w": "ecotourist",
+   "pos": "n",
+   "ipa": "/ˈiːkəʊtʊərɪst/",
+   "vi": "khách du lịch sinh thái",
+   "ex": "A responsible ecotourist never leaves rubbish behind.",
+   "page": 110
+  },
+  {
+   "w": "biosphere reserve",
+   "pos": "n phr",
+   "ipa": "/ˈbaɪəʊsfɪə rɪˌzɜːv/",
+   "vi": "khu dự trữ sinh quyển",
+   "ex": "Can Gio Mangrove Forest is a world biosphere reserve.",
+   "page": 110
+  },
+  {
+   "w": "flora",
+   "pos": "n",
+   "ipa": "/ˈflɔːrə/",
+   "vi": "hệ thực vật (của một vùng)",
+   "ex": "The flora of the island includes many rare plants.",
+   "page": 111
+  },
+  {
+   "w": "fauna",
+   "pos": "n",
+   "ipa": "/ˈfɔːnə/",
+   "vi": "hệ động vật (của một vùng)",
+   "ex": "The national park is famous for its rich flora and fauna.",
+   "page": 111
+  },
+  {
+   "w": "sustainable",
+   "pos": "adj",
+   "ipa": "/səˈsteɪnəbl/",
+   "vi": "bền vững",
+   "ex": "Ecotourism is a sustainable form of tourism.",
+   "page": 111
+  },
+  {
+   "w": "impact",
+   "pos": "n",
+   "ipa": "/ˈɪmpækt/",
+   "vi": "tác động, ảnh hưởng",
+   "ex": "Mass tourism can have a negative impact on the environment.",
+   "page": 111
+  },
+  {
+   "w": "local",
+   "pos": "adj",
+   "ipa": "/ˈləʊkl/",
+   "vi": "(thuộc) địa phương",
+   "ex": "Ecotourists often stay with local families.",
+   "page": 111
+  },
+  {
+   "w": "tour guide",
+   "pos": "n",
+   "ipa": "/ˈtʊə ɡaɪd/",
+   "vi": "hướng dẫn viên du lịch",
+   "ex": "Our tour guide told us about the history of the village.",
+   "page": 111
+  },
+  {
+   "w": "eco-friendly",
+   "pos": "adj",
+   "ipa": "/ˌiːkəʊ ˈfrendli/",
+   "vi": "thân thiện với môi trường",
+   "ex": "We should choose eco-friendly products when travelling.",
+   "page": 112
+  },
+  {
+   "w": "discharge",
+   "pos": "v",
+   "ipa": "/dɪsˈtʃɑːdʒ/",
+   "vi": "thải ra, xả ra",
+   "ex": "Hotels must not discharge waste water into the river.",
+   "page": 112
+  },
+  {
+   "w": "entertain",
+   "pos": "v",
+   "ipa": "/ˌentəˈteɪn/",
+   "vi": "giải trí, làm vui",
+   "ex": "Local artists entertained the tourists with folk songs.",
+   "page": 112
+  },
+  {
+   "w": "natural resources",
+   "pos": "n phr",
+   "ipa": "/ˌnætʃrəl rɪˈzɔːsɪz/",
+   "vi": "tài nguyên thiên nhiên",
+   "ex": "Tourism should not use up natural resources.",
+   "page": 112
+  },
+  {
+   "w": "conservation",
+   "pos": "n",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "vi": "sự bảo tồn",
+   "ex": "Money from ecotours is used for wildlife conservation.",
+   "page": 112
+  },
+  {
+   "w": "wildlife",
+   "pos": "n",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "vi": "động vật hoang dã",
+   "ex": "Visitors must not feed the wildlife in the park.",
+   "page": 112
+  },
+  {
+   "w": "habitat",
+   "pos": "n",
+   "ipa": "/ˈhæbɪtæt/",
+   "vi": "môi trường sống (của động, thực vật)",
+   "ex": "Cutting down forests destroys the habitats of many animals.",
+   "page": 113
+  },
+  {
+   "w": "landscape",
+   "pos": "n",
+   "ipa": "/ˈlændskeɪp/",
+   "vi": "phong cảnh",
+   "ex": "Ha Giang is famous for its stunning landscape.",
+   "page": 114
+  },
+  {
+   "w": "destination",
+   "pos": "n",
+   "ipa": "/ˌdestɪˈneɪʃn/",
+   "vi": "điểm đến",
+   "ex": "Phong Nha – Ke Bang is a popular ecotourism destination.",
+   "page": 114
+  },
+  {
+   "w": "explore",
+   "pos": "v",
+   "ipa": "/ɪkˈsplɔː(r)/",
+   "vi": "khám phá",
+   "ex": "Tourists can explore the caves with a local guide.",
+   "page": 114
+  },
+  {
+   "w": "adventure",
+   "pos": "n",
+   "ipa": "/ədˈventʃə(r)/",
+   "vi": "cuộc phiêu lưu, trải nghiệm mạo hiểm",
+   "ex": "Kayaking through the mangrove forest was a real adventure.",
+   "page": 114
+  },
+  {
+   "w": "accommodation",
+   "pos": "n",
+   "ipa": "/əˌkɒməˈdeɪʃn/",
+   "vi": "chỗ ở",
+   "ex": "The tour price includes accommodation and meals.",
+   "page": 114
+  },
+  {
+   "w": "homestay",
+   "pos": "n",
+   "ipa": "/ˈhəʊmsteɪ/",
+   "vi": "nhà dân cho khách ở cùng (homestay)",
+   "ex": "We stayed at a homestay in Ben Tre.",
+   "page": 114
+  },
+  {
+   "w": "explorer",
+   "pos": "n",
+   "ipa": "/ɪkˈsplɔːrə(r)/",
+   "vi": "nhà thám hiểm, người khám phá",
+   "ex": "The cave was discovered by a group of explorers.",
+   "page": 114
+  },
+  {
+   "w": "raise awareness",
+   "pos": "phr",
+   "ipa": "/ˌreɪz əˈweənəs/",
+   "vi": "nâng cao nhận thức",
+   "ex": "Ecotours raise awareness of environmental protection.",
+   "page": 115
+  },
+  {
+   "w": "dispose of",
+   "pos": "phr v",
+   "ipa": "/dɪˈspəʊz əv/",
+   "vi": "vứt bỏ, xử lý (rác)",
+   "ex": "Please dispose of your rubbish properly.",
+   "page": 115
+  },
+  {
+   "w": "litter",
+   "pos": "n, v",
+   "ipa": "/ˈlɪtə(r)/",
+   "vi": "rác (vứt bừa bãi); xả rác",
+   "ex": "Don't litter on the beach.",
+   "page": 115
+  },
+  {
+   "w": "respect",
+   "pos": "v",
+   "ipa": "/rɪˈspekt/",
+   "vi": "tôn trọng",
+   "ex": "Ecotourists respect local customs and traditions.",
+   "page": 115
+  },
+  {
+   "w": "leave no trace",
+   "pos": "phr",
+   "ipa": "/ˌliːv nəʊ ˈtreɪs/",
+   "vi": "không để lại dấu vết (rác, hư hại) nơi đã đến",
+   "ex": "When camping, remember to leave no trace.",
+   "page": 115
+  },
+  {
+   "w": "orchard",
+   "pos": "n",
+   "ipa": "/ˈɔːtʃəd/",
+   "vi": "vườn cây ăn quả",
+   "ex": "Visitors can pick fruit in the orchards of Cai Be.",
+   "page": 116
+  },
+  {
+   "w": "floating market",
+   "pos": "n phr",
+   "ipa": "/ˌfləʊtɪŋ ˈmɑːkɪt/",
+   "vi": "chợ nổi",
+   "ex": "Cai Rang floating market opens very early in the morning.",
+   "page": 116
+  },
+  {
+   "w": "mangrove forest",
+   "pos": "n phr",
+   "ipa": "/ˈmæŋɡrəʊv ˌfɒrɪst/",
+   "vi": "rừng ngập mặn",
+   "ex": "We took a boat trip through the mangrove forest.",
+   "page": 116
+  },
+  {
+   "w": "souvenir",
+   "pos": "n",
+   "ipa": "/ˌsuːvəˈnɪə(r)/",
+   "vi": "quà lưu niệm",
+   "ex": "I bought a handmade souvenir from a local craftsman.",
+   "page": 116
+  },
+  {
+   "w": "responsible",
+   "pos": "adj",
+   "ipa": "/rɪˈspɒnsəbl/",
+   "vi": "có trách nhiệm",
+   "ex": "Be a responsible traveller and protect nature.",
+   "page": 117
+  },
+  {
+   "w": "generate income",
+   "pos": "phr",
+   "ipa": "/ˌdʒenəreɪt ˈɪnkʌm/",
+   "vi": "tạo ra thu nhập",
+   "ex": "Ecotourism helps local people generate income.",
+   "page": 118
+  },
+  {
+   "w": "carbon footprint",
+   "pos": "n phr",
+   "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+   "vi": "lượng khí thải các-bon (dấu chân các-bon)",
+   "ex": "Cycling instead of driving reduces your carbon footprint.",
+   "page": 118
+  },
+  {
+   "w": "damage",
+   "pos": "v, n",
+   "ipa": "/ˈdæmɪdʒ/",
+   "vi": "làm hư hại; sự hư hại",
+   "ex": "Touching coral can damage the reef.",
+   "page": 118
+  },
+  {
+   "w": "endangered species",
+   "pos": "n phr",
+   "ipa": "/ɪnˌdeɪndʒəd ˈspiːʃiːz/",
+   "vi": "loài có nguy cơ tuyệt chủng",
+   "ex": "The park protects many endangered species.",
+   "page": 118
+  }
+ ],
+ "passages": [
+  {
+   "id": "G10U10-P1",
+   "title": "An ecotour in the Mekong Delta",
+   "text": "Ecotourism is becoming more and more popular in Viet Nam, and the Mekong Delta is one of the best places to try it. Instead of staying in big hotels, many visitors choose a (1) _____ with a local family. This gives them a chance to learn about the daily life and culture of the people (2) _____ live along the rivers. In the morning, tourists can take a small boat to a floating market, where farmers sell fresh fruit and vegetables. Later, they can cycle along quiet country roads, visit fruit (3) _____ and taste delicious local dishes. Ecotourism brings many benefits to the region. It helps local people (4) _____ income, so they do not need to cut down trees or catch too many fish. (5) _____, it can also cause problems if visitors are careless. If everyone takes their rubbish home and respects local customs, the Mekong Delta will stay beautiful for many years to come."
+  },
+  {
+   "id": "G10U10-P2",
+   "title": "How to be a responsible ecotourist",
+   "text": "Ecotourists are travellers who want to enjoy nature without harming it. If you want to become one, here are some simple tips. First, choose tour companies that are (6) _____ to the environment and support local communities. Second, do not pick flowers or feed wild animals, because these activities can have a negative (7) _____ on their natural habitats. You should also (8) _____ of your rubbish properly or take it home with you. Third, try to reduce your carbon footprint. If you (9) _____ instead of driving, you will produce much less pollution and see more of the countryside. Finally, buy souvenirs made by local people, (10) _____ helps them earn money from their traditional crafts. If every traveller followed these tips, our natural wonders would be protected for future generations."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G10U10-V01",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecotourism and ecotours",
+   "level": 1,
+   "q": "_____ is a form of tourism that focuses on visiting natural areas, protecting the environment and supporting local people.",
+   "options": [
+    "Ecotourism",
+    "Space tourism",
+    "Mass tourism",
+    "Sightseeing"
+   ],
+   "answer": 0,
+   "explain": "Ecotourism (du lịch sinh thái) là loại hình du lịch đến các khu thiên nhiên, bảo vệ môi trường và hỗ trợ người dân địa phương. Mass tourism là du lịch đại trà; space tourism là du lịch vũ trụ; sightseeing chỉ là ngắm cảnh, tham quan.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V02",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecotourism and ecotours",
+   "level": 1,
+   "q": "Cat Tien National Park is home to a rich variety of _____ and fauna.",
+   "options": [
+    "floral",
+    "florist",
+    "flora",
+    "flour"
+   ],
+   "answer": 2,
+   "explain": "Cụm cố định <i>flora and fauna</i> = hệ thực vật và động vật. Flour là bột mì; florist là người bán hoa; floral là tính từ (thuộc về hoa), không đứng ở vị trí danh từ.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V03",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecotourism and ecotours",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nThe <u>fauna</u> of Phong Nha – Ke Bang includes many rare species of monkeys and birds.",
+   "options": [
+    "landscapes",
+    "plants",
+    "animals",
+    "visitors"
+   ],
+   "answer": 2,
+   "explain": "Fauna = hệ động vật của một vùng, gần nghĩa nhất với animals. Plants là hệ thực vật (flora); landscapes là phong cảnh; visitors là du khách. Dịch: Hệ động vật ở Phong Nha – Kẻ Bàng gồm nhiều loài khỉ và chim quý hiếm.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V04",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "Ecotourism should be _____, which means it can continue for a long time without harming the environment.",
+   "options": [
+    "comfortable",
+    "sustainable",
+    "profitable",
+    "available"
+   ],
+   "answer": 1,
+   "explain": "Sustainable = bền vững, có thể duy trì lâu dài mà không gây hại môi trường – đúng với phần giải thích sau 'which means'. Available = có sẵn; comfortable = thoải mái; profitable = có lãi.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V05",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "Tourists' rubbish can have a negative _____ on the local environment.",
+   "options": [
+    "impact",
+    "affect",
+    "effort",
+    "attention"
+   ],
+   "answer": 0,
+   "explain": "Collocation <i>have a negative impact on</i> = có tác động tiêu cực đến. Effort = nỗ lực; affect là động từ nên không đứng sau 'a negative'; attention = sự chú ý, không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V06",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "Hotels and restaurants should not _____ waste water directly into rivers and lakes.",
+   "options": [
+    "discharge",
+    "exchange",
+    "recharge",
+    "charge"
+   ],
+   "answer": 0,
+   "explain": "Discharge (something) into = thải, xả ra (sông, hồ). Charge = tính phí/sạc; recharge = sạc lại; exchange = trao đổi.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V07",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Local culture and communities",
+   "level": 1,
+   "q": "A _____ is a kind of accommodation where tourists stay with a local family during their trip.",
+   "options": [
+    "resort",
+    "hostel",
+    "campsite",
+    "homestay"
+   ],
+   "answer": 3,
+   "explain": "Homestay = ở cùng nhà dân địa phương. Campsite là khu cắm trại; resort là khu nghỉ dưỡng; hostel là nhà nghỉ giá rẻ, không ở cùng gia đình chủ nhà.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V08",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Local culture and communities",
+   "level": 1,
+   "q": "Visitors to the Mekong Delta can buy fresh fruit at the _____ market early in the morning.",
+   "options": [
+    "flowing",
+    "floating",
+    "flying",
+    "falling"
+   ],
+   "answer": 1,
+   "explain": "Floating market = chợ nổi, đặc trưng của đồng bằng sông Cửu Long. Các từ còn lại (bay, chảy, rơi) không đi với market.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V09",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 1,
+   "q": "Ecotours help raise people's _____ of environmental protection.",
+   "options": [
+    "awarely",
+    "awareness",
+    "unaware",
+    "aware"
+   ],
+   "answer": 1,
+   "explain": "Sau sở hữu cách people's cần danh từ: awareness (nhận thức); <i>raise awareness of</i> = nâng cao nhận thức về. Aware/unaware là tính từ; 'awarely' không dùng.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V10",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "When we go camping, we should _____ of our rubbish properly.",
+   "options": [
+    "remove",
+    "throw",
+    "leave",
+    "dispose"
+   ],
+   "answer": 3,
+   "explain": "Cụm động từ <i>dispose of</i> = vứt bỏ, xử lý (rác). Throw, remove, leave không đi với giới từ 'of' theo nghĩa này (throw away, remove rubbish, leave rubbish).",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V11",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 1,
+   "q": "Tour companies should be environmentally _____ and avoid damaging nature.",
+   "options": [
+    "irresponsibility",
+    "responsibility",
+    "responsibly",
+    "responsible"
+   ],
+   "answer": 3,
+   "explain": "Sau 'be' và trạng từ 'environmentally' cần tính từ: responsible (có trách nhiệm). Responsibility/irresponsibility là danh từ; responsibly là trạng từ.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V12",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nMany careless tourists <u>damage</u> coral reefs by touching and stepping on them.",
+   "options": [
+    "protect",
+    "destroy",
+    "ruin",
+    "harm"
+   ],
+   "answer": 0,
+   "explain": "Damage = làm hư hại; trái nghĩa là protect (bảo vệ). Harm, destroy, ruin đều gần nghĩa với damage.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V13",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Local culture and communities",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nEcotourism can help <u>generate</u> income for local communities.",
+   "options": [
+    "produce",
+    "waste",
+    "spend",
+    "reduce"
+   ],
+   "answer": 0,
+   "explain": "Generate income = tạo ra thu nhập, gần nghĩa với produce. Reduce = giảm; spend = tiêu; waste = lãng phí.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V14",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Local culture and communities",
+   "level": 1,
+   "q": "A Vietnamese conical hat is a popular _____ that tourists often buy and take home.",
+   "options": [
+    "ticket",
+    "passport",
+    "souvenir",
+    "luggage"
+   ],
+   "answer": 2,
+   "explain": "Souvenir = quà lưu niệm. Nón lá là món quà lưu niệm du khách hay mua. Ticket (vé), passport (hộ chiếu), luggage (hành lý) không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V15",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Local culture and communities",
+   "level": 1,
+   "q": "Our _____ explained the history of the village and showed us around.",
+   "options": [
+    "customer",
+    "traveller",
+    "tour guide",
+    "passenger"
+   ],
+   "answer": 2,
+   "explain": "Tour guide = hướng dẫn viên, người giải thích và dẫn đoàn đi tham quan (show somebody around). Passenger, customer, traveller đều là khách, không làm việc này.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V16",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 1,
+   "q": "Ecotourists try to reduce their carbon _____ by walking or cycling instead of using cars.",
+   "options": [
+    "footage",
+    "footprint",
+    "footstep",
+    "foothold"
+   ],
+   "answer": 1,
+   "explain": "Carbon footprint = lượng khí thải các-bon do một người/hoạt động tạo ra. Footstep = bước chân; foothold = chỗ đặt chân; footage = đoạn phim quay.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V17",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecotourism and ecotours",
+   "level": 3,
+   "q": "Biosphere reserves are areas where the _____ of plants and animals is a top priority.",
+   "options": [
+    "convention",
+    "conversation",
+    "conservation",
+    "conversion"
+   ],
+   "answer": 2,
+   "explain": "Conservation = sự bảo tồn. Các từ dễ nhầm hình thức: conversation (cuộc trò chuyện), conversion (sự chuyển đổi), convention (hội nghị, quy ước).",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V18",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecotourism and ecotours",
+   "level": 1,
+   "q": "Can Gio Mangrove Forest has been recognised as a world _____ reserve by UNESCO.",
+   "options": [
+    "atmosphere",
+    "biosphere",
+    "hemisphere",
+    "stratosphere"
+   ],
+   "answer": 1,
+   "explain": "Biosphere reserve = khu dự trữ sinh quyển (Cần Giờ được UNESCO công nhận năm 2000). Atmosphere = khí quyển; hemisphere = bán cầu; stratosphere = tầng bình lưu.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V19",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment when travelling",
+   "level": 3,
+   "q": "Using plastic bags on holiday is not very _____, so you should bring cloth bags instead.",
+   "options": [
+    "eco-friendliness",
+    "ecotourist",
+    "ecotourism",
+    "eco-friendly"
+   ],
+   "answer": 3,
+   "explain": "Sau 'not very' cần tính từ: eco-friendly (thân thiện với môi trường). Eco-friendliness, ecotourism, ecotourist đều là danh từ.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-V20",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecotourism and ecotours",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nThe beaches on this island are still <u>unspoilt</u> because few tourists come here.",
+   "options": [
+    "untouched",
+    "beautiful",
+    "natural",
+    "damaged"
+   ],
+   "answer": 3,
+   "explain": "Unspoilt = còn nguyên sơ, chưa bị tàn phá; trái nghĩa là damaged (bị hư hại). Natural và untouched gần nghĩa; beautiful không phải nghĩa trái ngược.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-G01",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 1,
+   "q": "If it _____ tomorrow, we will go kayaking on the river.",
+   "options": [
+    "won't rain",
+    "hadn't rained",
+    "doesn't rain",
+    "didn't rain"
+   ],
+   "answer": 2,
+   "explain": "Câu điều kiện loại 1 (sự việc có thể xảy ra ở tương lai): If + hiện tại đơn, S + will + V. Mệnh đề If không dùng will; didn't rain là loại 2, hadn't rained là loại 3. Dịch: Nếu mai trời không mưa, chúng ta sẽ đi chèo thuyền kayak trên sông.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G02",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 1,
+   "q": "If you visit Sa Pa in September, you _____ beautiful golden rice terraces.",
+   "options": [
+    "will see",
+    "had seen",
+    "saw",
+    "would see"
+   ],
+   "answer": 0,
+   "explain": "Mệnh đề If ở hiện tại đơn (visit) → loại 1, mệnh đề chính dùng will + V: will see. Would see dùng cho loại 2; saw, had seen sai thì.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G03",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 1,
+   "q": "If I _____ a lot of money, I would travel around the world on ecotours.",
+   "options": [
+    "will have",
+    "have",
+    "would have",
+    "had"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề chính có would travel → loại 2 (giả định không có thật ở hiện tại): If + quá khứ đơn → had. Thực tế: tôi không có nhiều tiền.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G04",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 1,
+   "q": "If tourists left less litter, the beaches _____ much cleaner.",
+   "options": [
+    "would be",
+    "are",
+    "will be",
+    "were being"
+   ],
+   "answer": 0,
+   "explain": "Mệnh đề If ở quá khứ đơn (left) → loại 2, mệnh đề chính: would + V → would be. Will be/are dùng cho loại 1/hiện tại.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G05",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 1,
+   "q": "We _____ the boat to the floating market if we don't leave now.",
+   "options": [
+    "miss",
+    "will miss",
+    "missed",
+    "would miss"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề If 'if we don't leave now' ở hiện tại đơn → loại 1: will + V → will miss. Dịch: Chúng ta sẽ lỡ chuyến thuyền ra chợ nổi nếu không đi ngay bây giờ.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G06",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 1,
+   "q": "If I _____ you, I would choose a homestay instead of a big hotel.",
+   "options": [
+    "will be",
+    "am",
+    "were",
+    "had been"
+   ],
+   "answer": 2,
+   "explain": "Cấu trúc lời khuyên loại 2: If I were you, I would… Với 'be' trong câu điều kiện loại 2 dùng were cho mọi ngôi. Am/will be không dùng cho giả định; had been là loại 3.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G07",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "_____ you book early, you won't get a room at the eco-lodge.",
+   "options": [
+    "If",
+    "When",
+    "As soon as",
+    "Unless"
+   ],
+   "answer": 3,
+   "explain": "Unless = If … not. 'Unless you book early, you won't get a room' = Nếu bạn không đặt sớm, bạn sẽ không có phòng. If/When/As soon as làm câu vô lý (đặt sớm thì lại không có phòng).",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G08",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "What would you do if you _____ a tourist feeding the monkeys in the national park?",
+   "options": [
+    "will see",
+    "would see",
+    "see",
+    "saw"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề chính 'What would you do' → loại 2: If + quá khứ đơn → saw. Không dùng will/would trong mệnh đề If.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G09",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 1,
+   "q": "If local people _____ money from ecotourism, they will protect the forest better.",
+   "options": [
+    "earned",
+    "earn",
+    "would earn",
+    "will earn"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề chính 'they will protect' → loại 1: If + hiện tại đơn; chủ ngữ số nhiều (local people) → earn.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G10",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "Phong Nha – Ke Bang _____ so many visitors if it didn't have such amazing caves.",
+   "options": [
+    "didn't attract",
+    "doesn't attract",
+    "won't attract",
+    "wouldn't attract"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề If ở quá khứ đơn (didn't have) → loại 2, mệnh đề chính: wouldn't + V. Thực tế: nơi đây có hang động tuyệt đẹp nên thu hút nhiều du khách.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G11",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "If the weather is good this weekend, we _____ a boat trip through the mangrove forest.",
+   "options": [
+    "would take",
+    "might take",
+    "took",
+    "had taken"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề If ở hiện tại đơn → loại 1; mệnh đề chính có thể dùng will/can/may/might + V → might take (có thể sẽ đi). Would take là loại 2; took, had taken sai.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G12",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 1,
+   "q": "If tourists _____ the rules, the coral reefs will be seriously damaged.",
+   "options": [
+    "wouldn't follow",
+    "didn't follow",
+    "don't follow",
+    "won't follow"
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề chính 'will be damaged' → loại 1: If + hiện tại đơn (phủ định) → don't follow. Không dùng will/would trong mệnh đề If.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G13",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "I don't know much about birds, so I can't recognise them on the tour.\n→ If I _____ more about birds, I could recognise them on the tour.",
+   "options": [
+    "knew",
+    "know",
+    "had known",
+    "will know"
+   ],
+   "answer": 0,
+   "explain": "Sự thật ở hiện tại (không biết) → giả định trái với hiện tại dùng loại 2: If + quá khứ đơn → knew; mệnh đề chính could + V.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G14",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "There are too many visitors, so the island is polluted.\n→ If there _____ fewer visitors, the island _____ polluted.",
+   "options": [
+    "are / wouldn't be",
+    "were / wouldn't be",
+    "are / won't be",
+    "were / won't be"
+   ],
+   "answer": 1,
+   "explain": "Giả định trái với thực tế hiện tại → loại 2: If + were…, S + wouldn't be. Các phương án còn lại sai cấu trúc (lẫn loại 1 và loại 2) hoặc là loại 1, không diễn tả điều trái thực tế.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G15",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "If you _____ to learn about local culture, join our cooking class at the homestay.",
+   "options": [
+    "want",
+    "will want",
+    "would want",
+    "wanted"
+   ],
+   "answer": 0,
+   "explain": "Câu điều kiện loại 1 có mệnh đề chính là câu mệnh lệnh: If + hiện tại đơn, V(nguyên mẫu)… → want.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G16",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "If we _____ plastic bottles, we would produce much less waste.",
+   "options": [
+    "didn't use",
+    "hadn't used",
+    "don't use",
+    "won't use"
+   ],
+   "answer": 0,
+   "explain": "Mệnh đề chính 'would produce' → loại 2: If + quá khứ đơn → didn't use. Don't use/won't use là loại 1; hadn't used là loại 3.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G17",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 1,
+   "q": "Choose the correct sentence.",
+   "options": [
+    "If I have a camera, I would take photos of the wild birds.",
+    "If I had a camera, I will take photos of the wild birds.",
+    "If I had a camera, I would take photos of the wild birds.",
+    "If I would have a camera, I took photos of the wild birds."
+   ],
+   "answer": 2,
+   "explain": "Loại 2 đúng cấu trúc: If + quá khứ đơn (had), S + would + V (would take). Các câu còn lại trộn sai thì giữa hai mệnh đề.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G18",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 1",
+   "level": 1,
+   "q": "Many animals will lose their habitats if people _____ down the forests.",
+   "options": [
+    "would cut",
+    "cuts",
+    "will cut",
+    "cut"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề chính 'will lose' → loại 1: If + hiện tại đơn; chủ ngữ 'people' số nhiều → cut. Cuts dùng cho ngôi số ít; would/will không dùng trong mệnh đề If.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G19",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "If she _____ more free time, she would volunteer at the wildlife rescue centre, but she's too busy.",
+   "options": [
+    "would have",
+    "has",
+    "had",
+    "will have"
+   ],
+   "answer": 2,
+   "explain": "Vế 'but she's too busy' cho biết điều kiện trái với thực tế hiện tại → loại 2: If + quá khứ đơn → had.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-G20",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "If it weren't for our tour guide, we _____ lost in the forest now.",
+   "options": [
+    "are",
+    "would be",
+    "were",
+    "will be"
+   ],
+   "answer": 1,
+   "explain": "If it weren't for + N = nếu không có… (loại 2, giả định trái với hiện tại) → mệnh đề chính would + V: would be (lost). are/will be không diễn tả điều trái thực tế; 'were' sai vì mệnh đề chính cần would + V. Dịch: Nếu không có hướng dẫn viên, giờ này chúng tôi đã bị lạc trong rừng rồi.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-P01",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation: rising and falling intonation",
+   "level": 1,
+   "q": "Which question is normally spoken with a RISING intonation at the end?",
+   "options": [
+    "Where is the biosphere reserve?",
+    "What do ecotourists usually do?",
+    "How long does the boat trip take?",
+    "Have you ever been on an ecotour?"
+   ],
+   "answer": 3,
+   "explain": "Câu hỏi Yes/No (bắt đầu bằng trợ động từ Have, Do, Can, Is…) thường lên giọng ở cuối. Ba câu còn lại là câu hỏi Wh- (Where, What, How long) nên xuống giọng ở cuối.",
+   "review": "Lớp 10 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U10-P02",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation: rising and falling intonation",
+   "level": 1,
+   "q": "Which question is normally spoken with a FALLING intonation at the end?",
+   "options": [
+    "Is ecotourism popular in Viet Nam?",
+    "Do you like camping in the forest?",
+    "Can we swim in the lake?",
+    "Why do people choose ecotours?"
+   ],
+   "answer": 3,
+   "explain": "Câu hỏi Wh- (Why) xuống giọng ở cuối. Ba câu còn lại là câu hỏi Yes/No nên thường lên giọng.",
+   "review": "Lớp 10 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U10-P03",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation: rising and falling intonation",
+   "level": 2,
+   "q": "Choose the correct intonation for the question: \"Are you going to the Mekong Delta this summer?\"",
+   "options": [
+    "Rising (↗) at the end, because it is a Yes/No question",
+    "Falling (↘) at the end, because it is a Yes/No question",
+    "Falling (↘) at the end, because it is a Wh-question",
+    "Level (→) at the end, because it is a statement"
+   ],
+   "answer": 0,
+   "explain": "Câu bắt đầu bằng 'Are' là câu hỏi Yes/No → lên giọng ở cuối. Các phương án khác sai về ngữ điệu hoặc sai loại câu.",
+   "review": "Lớp 10 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U10-P04",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation: rising and falling intonation",
+   "level": 2,
+   "q": "Choose the correct intonation for the question: \"Which ecotour did you choose?\"",
+   "options": [
+    "Level (→) at the end, because it is a statement",
+    "Rising (↗) at the end, because it is a Wh-question",
+    "Falling (↘) at the end, because it is a Wh-question",
+    "Rising (↗) at the end, because it is a Yes/No question"
+   ],
+   "answer": 2,
+   "explain": "Câu bắt đầu bằng 'Which' là câu hỏi Wh- (hỏi thông tin) → xuống giọng ở cuối.",
+   "review": "Lớp 10 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U10-P05",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation: rising and falling intonation",
+   "level": 2,
+   "q": "In which sentence does the speaker's voice normally go DOWN at the end?",
+   "options": [
+    "Did you stay at a homestay?",
+    "We stayed with a local family in Ben Tre.",
+    "Will the tour guide meet us at the hotel?",
+    "Can I take photos of the birds?"
+   ],
+   "answer": 1,
+   "explain": "Câu trần thuật (statement) thường xuống giọng ở cuối. Ba câu còn lại là câu hỏi Yes/No nên lên giọng.",
+   "review": "Lớp 10 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U10-P06",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation: rising and falling intonation",
+   "level": 3,
+   "q": "In the question \"Would you prefer a homestay or a hotel?\" (asking the listener to choose one), how does the intonation usually go?",
+   "options": [
+    "Rising on 'homestay' and falling on 'hotel'",
+    "Falling on 'homestay' and rising on 'hotel'",
+    "Rising on both 'homestay' and 'hotel'",
+    "Level on 'homestay' and rising on 'hotel'"
+   ],
+   "answer": 0,
+   "explain": "Câu hỏi lựa chọn (… or …): lên giọng ở lựa chọn thứ nhất, xuống giọng ở lựa chọn cuối cùng để báo hiệu danh sách đã kết thúc.",
+   "review": "Lớp 10 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U10-P07",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Protecting the environment when travelling",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "culture",
+    "protect",
+    "local",
+    "tourist"
+   ],
+   "answer": 1,
+   "explain": "protect /prəˈtekt/ nhấn âm 2; local /ˈləʊkl/, tourist /ˈtʊərɪst/, culture /ˈkʌltʃə(r)/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 10 – Language, Vocabulary (trọng âm từ vựng)"
+  },
+  {
+   "id": "G10U10-P08",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Ecotourism and ecotours",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "destination",
+    "sustainable",
+    "responsible",
+    "environment"
+   ],
+   "answer": 0,
+   "explain": "destination /ˌdestɪˈneɪʃn/ nhấn âm 3; sustainable /səˈsteɪnəbl/, environment /ɪnˈvaɪrənmənt/, responsible /rɪˈspɒnsəbl/ nhấn âm 2.",
+   "review": "Lớp 10 · Unit 10 – Language, Vocabulary (trọng âm từ vựng)"
+  },
+  {
+   "id": "G10U10-P09",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Ecotourism and ecotours",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "adventure",
+    "discover",
+    "visitor",
+    "develop"
+   ],
+   "answer": 2,
+   "explain": "visitor /ˈvɪzɪtə(r)/ nhấn âm 1; adventure /ədˈventʃə(r)/, discover /dɪˈskʌvə(r)/, develop /dɪˈveləp/ nhấn âm 2.",
+   "review": "Lớp 10 · Unit 10 – Language, Vocabulary (trọng âm từ vựng)"
+  },
+  {
+   "id": "G10U10-P10",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Ecotourism and ecotours",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "litter",
+    "explore",
+    "damage",
+    "nature"
+   ],
+   "answer": 1,
+   "explain": "explore /ɪkˈsplɔː(r)/ nhấn âm 2; nature /ˈneɪtʃə(r)/, damage /ˈdæmɪdʒ/, litter /ˈlɪtə(r)/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 10 – Language, Vocabulary (trọng âm từ vựng)"
+  },
+  {
+   "id": "G10U10-P11",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "energy",
+    "wildlife",
+    "tourism",
+    "pollution"
+   ],
+   "answer": 3,
+   "explain": "pollution /pəˈluːʃn/ nhấn âm 2; tourism /ˈtʊərɪzəm/, wildlife /ˈwaɪldlaɪf/, energy /ˈenədʒi/ nhấn âm 1.",
+   "review": "Lớp 10 · Unit 10 – Language, Vocabulary (trọng âm từ vựng)"
+  },
+  {
+   "id": "G10U10-P12",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Ecotourism and ecotours",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "economy",
+    "activity",
+    "ecotourist",
+    "traditional"
+   ],
+   "answer": 2,
+   "explain": "ecotourist /ˈiːkəʊtʊərɪst/ nhấn âm 1; traditional /trəˈdɪʃənl/, activity /ækˈtɪvəti/, economy /ɪˈkɒnəmi/ nhấn âm 2.",
+   "review": "Lớp 10 · Unit 10 – Language, Vocabulary (trọng âm từ vựng)"
+  },
+  {
+   "id": "G10U10-E01",
+   "unit": 10,
+   "type": "error",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nIf it <u>rains</u> (A) tomorrow, we <u>would cancel</u> (B) the boat trip <u>to</u> (C) the <u>floating</u> (D) market.",
+   "options": [
+    "A. rains",
+    "B. would cancel",
+    "C. to",
+    "D. floating"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: mệnh đề If ở hiện tại đơn (rains) → câu điều kiện loại 1, mệnh đề chính phải là will + V. Sửa: would cancel → will cancel.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-E02",
+   "unit": 10,
+   "type": "error",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nIf I <u>am</u> (A) you, I <u>would book</u> (B) a homestay <u>instead of</u> (C) a <u>luxury</u> (D) hotel.",
+   "options": [
+    "A. am",
+    "B. would book",
+    "C. instead of",
+    "D. luxury"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: lời khuyên dùng câu điều kiện loại 2 'If I were you, I would…'. Sửa: am → were.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-E03",
+   "unit": 10,
+   "type": "error",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nTourists <u>should</u> (A) <u>dispose</u> (B) their rubbish <u>properly</u> (C) to <u>protect</u> (D) the environment.",
+   "options": [
+    "A. should",
+    "B. dispose",
+    "C. properly",
+    "D. protect"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: cụm động từ đúng là 'dispose of something' (vứt bỏ, xử lý). Sửa: dispose → dispose of.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-E04",
+   "unit": 10,
+   "type": "error",
+   "topic": "Conditional sentences Type 1",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nIf tourists <u>will leave</u> (A) less litter, the beach <u>will</u> (B) be <u>much</u> (C) <u>cleaner</u> (D).",
+   "options": [
+    "A. will leave",
+    "B. will",
+    "C. much",
+    "D. cleaner"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: trong câu điều kiện loại 1, mệnh đề If dùng hiện tại đơn, không dùng will. Sửa: will leave → leave.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-E05",
+   "unit": 10,
+   "type": "error",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nIf she <u>had</u> (A) more money, she <u>would</u> (B) <u>travels</u> (C) to <u>many</u> (D) eco-friendly destinations.",
+   "options": [
+    "A. had",
+    "B. would",
+    "C. travels",
+    "D. many"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: sau would dùng động từ nguyên mẫu không 'to'. Sửa: travels → travel.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-E06",
+   "unit": 10,
+   "type": "error",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nEcotourists try <u>to</u> (A) <u>reduce</u> (B) their carbon <u>footstep</u> (C) by <u>cycling</u> (D) instead of driving.",
+   "options": [
+    "A. to",
+    "B. reduce",
+    "C. footstep",
+    "D. cycling"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: collocation đúng là 'carbon footprint' (lượng khí thải các-bon). Sửa: footstep → footprint.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-E07",
+   "unit": 10,
+   "type": "error",
+   "topic": "Conditional sentences Type 1",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nWe <u>will</u> (A) <u>go</u> (B) camping <u>if</u> (C) the weather <u>will be</u> (D) fine this weekend.",
+   "options": [
+    "A. will",
+    "B. go",
+    "C. if",
+    "D. will be"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: mệnh đề If của câu điều kiện loại 1 dùng hiện tại đơn. Sửa: will be → is.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-E08",
+   "unit": 10,
+   "type": "error",
+   "topic": "Local culture and communities",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nEcotourism <u>can</u> (A) <u>bring</u> (B) many benefits <u>to</u> (C) the <u>locally</u> (D) communities.",
+   "options": [
+    "A. can",
+    "B. bring",
+    "C. to",
+    "D. locally"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: trước danh từ 'communities' cần tính từ. Sửa: locally → local.",
+   "review": "Lớp 10 · Unit 10 – Getting Started; Language, Vocabulary"
+  },
+  {
+   "id": "G10U10-R01",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nYou don't follow the rules, so you can't enter the biosphere reserve.",
+   "options": [
+    "If you followed the rules, you could enter the biosphere reserve.",
+    "If you didn't follow the rules, you could enter the biosphere reserve.",
+    "If you follow the rules, you can't enter the biosphere reserve.",
+    "If you followed the rules, you couldn't enter the biosphere reserve."
+   ],
+   "answer": 0,
+   "explain": "Sự thật hiện tại (không tuân thủ → không được vào) → viết lại bằng loại 2, đảo ngược khẳng định/phủ định ở cả hai vế: If you followed…, you could enter… Các câu còn lại sai cấu trúc hoặc sai nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R02",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nUnless we protect the forest, many animals will lose their habitats.",
+   "options": [
+    "If we protect the forest, many animals will lose their habitats.",
+    "Many animals will lose their habitats although we protect the forest.",
+    "If we don't protect the forest, many animals will lose their habitats.",
+    "If we didn't protect the forest, many animals wouldn't lose their habitats."
+   ],
+   "answer": 2,
+   "explain": "Unless = If … not → If we don't protect the forest, … Các câu còn lại làm sai nghĩa (bảo vệ rừng mà động vật vẫn mất nơi sống) hoặc đổi sang loại 2 với nghĩa ngược.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R03",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nI'm not a tour guide, so I can't show you around the national park.",
+   "options": [
+    "If I weren't a tour guide, I could show you around the national park.",
+    "If I were a tour guide, I could show you around the national park.",
+    "If I were a tour guide, I couldn't show you around the national park.",
+    "If I am a tour guide, I can show you around the national park."
+   ],
+   "answer": 1,
+   "explain": "Giả định trái với hiện tại → loại 2: If I were…, I could… Câu dùng 'am/can' là loại 1 (không diễn tả điều trái thực tế); hai câu còn lại sai nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R04",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 1",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nBook your tour early, or you won't get a discount.",
+   "options": [
+    "Unless you don't book your tour early, you will get a discount.",
+    "If you didn't book your tour early, you would get a discount.",
+    "If you book your tour early, you won't get a discount.",
+    "If you don't book your tour early, you won't get a discount."
+   ],
+   "answer": 3,
+   "explain": "Cấu trúc 'Mệnh lệnh, or + kết quả' = If you don't…, you will/won't… → If you don't book early, you won't get a discount. Các câu còn lại sai nghĩa (đặt sớm lại không được giảm giá; phủ định kép với unless).",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R05",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nWithout the help of local people, the ecotour wouldn't be successful.",
+   "options": [
+    "Because local people help, the ecotour isn't successful.",
+    "If local people didn't help, the ecotour wouldn't be successful.",
+    "If local people helped, the ecotour wouldn't be successful.",
+    "If local people don't help, the ecotour would be successful."
+   ],
+   "answer": 1,
+   "explain": "Without + N, S + wouldn't… = If + S + didn't…, S + wouldn't… (loại 2). Các câu còn lại sai nghĩa hoặc sai cấu trúc.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R06",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nTourists leave rubbish everywhere, so the beach is dirty.",
+   "options": [
+    "If tourists left rubbish everywhere, the beach wouldn't be dirty.",
+    "If tourists didn't leave rubbish everywhere, the beach wouldn't be dirty.",
+    "Unless tourists left rubbish everywhere, the beach would be dirty.",
+    "If tourists don't leave rubbish everywhere, the beach would be dirty."
+   ],
+   "answer": 1,
+   "explain": "Sự thật hiện tại → loại 2 với hai vế đảo ngược: If tourists didn't leave…, the beach wouldn't be dirty. Các câu còn lại sai nghĩa hoặc trộn sai thì.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R07",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe weather may be fine tomorrow. We will go cycling around the village.",
+   "options": [
+    "If the weather is fine tomorrow, we will go cycling around the village.",
+    "If the weather will be fine tomorrow, we go cycling around the village.",
+    "Unless the weather is fine tomorrow, we will go cycling around the village.",
+    "If the weather were fine tomorrow, we will go cycling around the village."
+   ],
+   "answer": 0,
+   "explain": "Điều có thể xảy ra ở tương lai → loại 1: If + hiện tại đơn, will + V. Không dùng will trong mệnh đề If; 'were… will' trộn sai loại; unless làm sai nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R08",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 2",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nShe doesn't live near the sea. She can't go diving every weekend.",
+   "options": [
+    "If she lived near the sea, she can't go diving every weekend.",
+    "If she lives near the sea, she couldn't go diving every weekend.",
+    "If she didn't live near the sea, she could go diving every weekend.",
+    "If she lived near the sea, she could go diving every weekend."
+   ],
+   "answer": 3,
+   "explain": "Hai câu nói về sự thật hiện tại → loại 2, đảo ngược nghĩa: If she lived…, she could go… Các câu còn lại sai nghĩa hoặc trộn sai thì.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R09",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 1",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nYou should take a reusable bottle. You will reduce plastic waste.",
+   "options": [
+    "If you take a reusable bottle, you will reduce plastic waste.",
+    "Unless you take a reusable bottle, you will reduce plastic waste.",
+    "If you take a reusable bottle, you would have reduced plastic waste.",
+    "If you took a reusable bottle, you will reduce plastic waste."
+   ],
+   "answer": 0,
+   "explain": "Kết quả có thể xảy ra ở tương lai → loại 1: If you take…, you will reduce… Các câu còn lại trộn sai thì hoặc sai nghĩa (unless).",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-R10",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences Type 2",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nWe don't have a map. We are lost in the forest.",
+   "options": [
+    "If we didn't have a map, we wouldn't be lost in the forest.",
+    "If we have a map, we won't be lost in the forest.",
+    "If we had a map, we wouldn't be lost in the forest.",
+    "If we had a map, we would be lost in the forest."
+   ],
+   "answer": 2,
+   "explain": "Sự thật hiện tại (không có bản đồ → bị lạc) → loại 2, đảo nghĩa hai vế: If we had a map, we wouldn't be lost. Các câu còn lại không diễn tả điều trái thực tế hoặc sai nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G10U10-C01",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Local culture and communities",
+   "level": 2,
+   "pid": "G10U10-P1",
+   "blank": 1,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "homestay",
+    "destination",
+    "souvenir",
+    "landscape"
+   ],
+   "answer": 0,
+   "explain": "Choose a homestay with a local family = chọn ở homestay cùng một gia đình địa phương; đối lập với 'staying in big hotels'. Souvenir (quà lưu niệm), landscape (phong cảnh), destination (điểm đến) không hợp với 'with a local family'.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C02",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Relative clauses",
+   "level": 1,
+   "pid": "G10U10-P1",
+   "blank": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer": 0,
+   "explain": "Đại từ quan hệ thay cho người (the people) và làm chủ ngữ của 'live' → who. Which dùng cho vật; whose chỉ sở hữu; whom làm tân ngữ, không đứng trước động từ.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C03",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Ecotourism and ecotours",
+   "level": 2,
+   "pid": "G10U10-P1",
+   "blank": 3,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "habitats",
+    "landscapes",
+    "reserves",
+    "orchards"
+   ],
+   "answer": 3,
+   "explain": "Fruit orchards = vườn cây ăn trái, hoạt động quen thuộc khi du lịch miền Tây. Reserves (khu bảo tồn), habitats (môi trường sống), landscapes (phong cảnh) không đi với 'fruit'.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C04",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Local culture and communities",
+   "level": 2,
+   "pid": "G10U10-P1",
+   "blank": 4,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "spend",
+    "waste",
+    "generate",
+    "reduce"
+   ],
+   "answer": 2,
+   "explain": "Generate income = tạo ra thu nhập; hợp với ý 'nên họ không cần chặt cây hay đánh bắt quá mức'. Reduce/spend/waste income làm sai nghĩa.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C05",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Linking words",
+   "level": 3,
+   "pid": "G10U10-P1",
+   "blank": 5,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "Therefore",
+    "However",
+    "Because",
+    "Moreover"
+   ],
+   "answer": 1,
+   "explain": "Câu trước nói lợi ích, câu này nói vấn đề ('cause problems') → quan hệ tương phản: However. Therefore (vì vậy) và Moreover (hơn nữa) không hợp logic; Because là liên từ phụ thuộc, không đứng đầu câu kèm dấu phẩy như vậy.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C06",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "pid": "G10U10-P2",
+   "blank": 6,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "friendly",
+    "friendship",
+    "befriend",
+    "friendliness"
+   ],
+   "answer": 0,
+   "explain": "Sau 'are' cần tính từ: friendly to the environment = thân thiện với môi trường. Friendship, friendliness là danh từ; befriend là động từ.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C07",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment when travelling",
+   "level": 1,
+   "pid": "G10U10-P2",
+   "blank": 7,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "interest",
+    "impact",
+    "attention",
+    "protection"
+   ],
+   "answer": 1,
+   "explain": "Collocation have a negative impact on = có tác động tiêu cực đến. Attention, interest, protection không tạo nghĩa phù hợp với 'negative … on their habitats'.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C08",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment when travelling",
+   "level": 2,
+   "pid": "G10U10-P2",
+   "blank": 8,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "remove",
+    "clear",
+    "dispose",
+    "throw"
+   ],
+   "answer": 2,
+   "explain": "Dispose of your rubbish = vứt bỏ/xử lý rác. Throw (away), remove, clear không đi với giới từ 'of' trong cấu trúc này.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C09",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Conditional sentences Type 1",
+   "level": 3,
+   "pid": "G10U10-P2",
+   "blank": 9,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "cycled or walked",
+    "cycle or walk",
+    "will cycle or walk",
+    "would cycle or walk"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề chính 'you will produce' → câu điều kiện loại 1: If + hiện tại đơn → cycle or walk. Không dùng will/would trong mệnh đề If; quá khứ đơn dùng cho loại 2.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  },
+  {
+   "id": "G10U10-C10",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Relative clauses",
+   "level": 3,
+   "pid": "G10U10-P2",
+   "blank": 10,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "who",
+    "that",
+    "what",
+    "which"
+   ],
+   "answer": 3,
+   "explain": "Sau dấu phẩy, thay cho cả mệnh đề phía trước (việc mua quà của người địa phương) → which. That không dùng trong mệnh đề quan hệ không xác định; who chỉ người; what không làm đại từ quan hệ.",
+   "review": "Lớp 10 · Unit 10 – Reading"
+  }
+ ]
+}

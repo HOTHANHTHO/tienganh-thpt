@@ -1,0 +1,1757 @@
+{
+ "grade": 10,
+ "unit": 6,
+ "name": "Gender Equality",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Gender equality",
+  "Jobs and career choices",
+  "Women's achievements"
+ ],
+ "pron": "Stress in three-syllable adjectives and verbs",
+ "grammar": [
+  "Passive voice with modals",
+  "Passive voice (review)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Câu bị động với động từ khuyết thiếu (Passive voice with modals)",
+   "page": 69,
+   "body": "Cấu trúc: S + modal (can/could/may/might/must/should/will/ought to/have to) + BE + V3/ed (+ by O).\nPhủ định: S + modal + NOT + be + V3. Nghi vấn: Modal + S + be + V3?\nChuyển chủ động → bị động: tân ngữ của câu chủ động lên làm chủ ngữ; giữ nguyên động từ khuyết thiếu; thêm 'be'; động từ chính chuyển sang V3. 'by + người thực hiện' thường bỏ khi không quan trọng (people, they, someone...).\nVí dụ:\n- Girls mustn't be kept home in today's world. (Getting Started)\n- Boys and girls should be treated equally and given the same job opportunities.\n- In some countries girls may not be allowed to be pilots.\n- We must eliminate discrimination. → Discrimination must be eliminated.\n- Employers should pay women fairly. → Women should be paid fairly.\nLỗi hay gặp: quên 'be' (should treated ✗), dùng 'been' sau modal (must been done ✗), dùng V-ing (should be giving ✗ khi nghĩa bị động), chia 'be' (can is done ✗). Sau modal luôn là 'be' nguyên mẫu."
+  },
+  {
+   "kind": "pron",
+   "title": "Trọng âm từ ba âm tiết: tính từ và động từ",
+   "page": 68,
+   "body": "Tính từ 3 âm tiết: thường nhấn âm 1: 'beautiful, 'dangerous, 'difficult, 'wonderful, 'positive, 'confident. Nếu âm 1 là tiền tố/âm yếu (/ɪ/, /ə/) thì nhấn âm 2: im'portant, e'normous, at'tractive, de'licious, e'ffective.\nĐộng từ 3 âm tiết: nếu âm cuối chứa nguyên âm dài/đôi hoặc kết thúc bằng hơn một phụ âm thì thường nhấn âm cuối: ˌunder'stand, ˌenter'tain, ˌintro'duce; nếu âm cuối yếu thì nhấn âm 2: de'velop, en'courage, re'member, dis'cover, de'termine.\nNgoại lệ hay gặp: động từ tận cùng -ate, -ise/-ize thường nhấn âm 1: 'celebrate, 'educate, 'organise, 'recognise.\nMẹo: phát âm to từng từ, tìm âm có nguyên âm mạnh; so sánh 4 từ theo cùng từ loại."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 68,
+   "body": "- gender equality / gender gap / gender discrimination: bình đẳng giới / khoảng cách giới / phân biệt giới tính\n- equal (job) opportunities; equal pay for equal work; equal rights\n- be treated equally / fairly: được đối xử bình đẳng / công bằng\n- discriminate against sb: phân biệt đối xử với ai\n- encourage sb to do sth; allow sb to do sth; force sb to do sth; prevent sb from doing sth\n- physical strength: sức mạnh thể chất; male-dominated job: nghề do nam giới chiếm ưu thế\n- enrol in a course/school; eliminate discrimination; take up a job/hobby\n- Word family: equal (adj) – equality (n) – equally (adv); discriminate (v) – discrimination (n); achieve (v) – achievement (n)\n- Everyday English (đồng ý/không đồng ý): I couldn't agree more. / I totally agree. / I'm afraid I disagree. / I see your point, but..."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "- Thấy chủ ngữ là vật/người CHỊU tác động (housework, girls, discrimination...) + modal → nghĩ ngay đến 'modal + be + V3'.\n- Câu viết lại: giữ nguyên modal và thì; kiểm tra phủ định (must not ≠ needn't).\n- Tìm lỗi sai: soát 'be' sau modal, dạng V3 (given, paid, held), từ loại (equal/equally, discriminate/discrimination).\n- Trọng âm: tách riêng tính từ, động từ; nhớ nhóm -ate/-ise nhấn âm 1.\n- Đọc điền từ: chú ý collocation (equal pay, gender gap, take sth seriously, such as) và cấu trúc allow/encourage sb to V."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "gender",
+   "pos": "n",
+   "ipa": "/ˈdʒendə(r)/",
+   "vi": "giới, giới tính",
+   "ex": "People should not be judged by their gender.",
+   "page": 68
+  },
+  {
+   "w": "equality",
+   "pos": "n",
+   "ipa": "/iˈkwɒləti/",
+   "vi": "sự bình đẳng",
+   "ex": "Gender equality means men and women have the same rights.",
+   "page": 68
+  },
+  {
+   "w": "gender equality",
+   "pos": "n phr",
+   "ipa": "/ˌdʒendər iˈkwɒləti/",
+   "vi": "bình đẳng giới",
+   "ex": "Our school club promotes gender equality.",
+   "page": 68
+  },
+  {
+   "w": "equal",
+   "pos": "adj",
+   "ipa": "/ˈiːkwəl/",
+   "vi": "bình đẳng, ngang bằng",
+   "ex": "Men and women should have equal rights.",
+   "page": 68
+  },
+  {
+   "w": "equally",
+   "pos": "adv",
+   "ipa": "/ˈiːkwəli/",
+   "vi": "một cách bình đẳng",
+   "ex": "Boys and girls should be treated equally.",
+   "page": 67
+  },
+  {
+   "w": "job opportunity",
+   "pos": "n phr",
+   "ipa": "/ˌdʒɒb ˌɒpəˈtjuːnəti/",
+   "vi": "cơ hội việc làm",
+   "ex": "Boys and girls should be given the same job opportunities.",
+   "page": 67
+  },
+  {
+   "w": "opportunity",
+   "pos": "n",
+   "ipa": "/ˌɒpəˈtjuːnəti/",
+   "vi": "cơ hội",
+   "ex": "Women now have more opportunities to study abroad.",
+   "page": 66
+  },
+  {
+   "w": "surgeon",
+   "pos": "n",
+   "ipa": "/ˈsɜːdʒən/",
+   "vi": "bác sĩ phẫu thuật",
+   "ex": "I've always wanted to be a surgeon, so I'll go to medical school.",
+   "page": 66
+  },
+  {
+   "w": "airline pilot",
+   "pos": "n phr",
+   "ipa": "/ˈeəlaɪn ˌpaɪlət/",
+   "vi": "phi công hãng hàng không",
+   "ex": "My dream is to become an airline pilot.",
+   "page": 66
+  },
+  {
+   "w": "kindergarten",
+   "pos": "n",
+   "ipa": "/ˈkɪndəɡɑːtn/",
+   "vi": "trường mẫu giáo",
+   "ex": "I think I'll be a kindergarten teacher.",
+   "page": 66
+  },
+  {
+   "w": "treat",
+   "pos": "v",
+   "ipa": "/triːt/",
+   "vi": "đối xử",
+   "ex": "Everyone should be treated fairly at work.",
+   "page": 67
+  },
+  {
+   "w": "encourage",
+   "pos": "v",
+   "ipa": "/ɪnˈkʌrɪdʒ/",
+   "vi": "khuyến khích",
+   "ex": "Boys and girls are encouraged to do the jobs they want.",
+   "page": 67
+  },
+  {
+   "w": "allow",
+   "pos": "v",
+   "ipa": "/əˈlaʊ/",
+   "vi": "cho phép",
+   "ex": "In some countries girls may not be allowed to be pilots.",
+   "page": 67
+  },
+  {
+   "w": "discrimination",
+   "pos": "n",
+   "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+   "vi": "sự phân biệt đối xử",
+   "ex": "Gender discrimination at work must be stopped.",
+   "page": 68
+  },
+  {
+   "w": "discriminate (against)",
+   "pos": "v",
+   "ipa": "/dɪˈskrɪmɪneɪt/",
+   "vi": "phân biệt đối xử (với)",
+   "ex": "Employers must not discriminate against women.",
+   "page": 68
+  },
+  {
+   "w": "enrol",
+   "pos": "v",
+   "ipa": "/ɪnˈrəʊl/",
+   "vi": "đăng kí học, nhập học",
+   "ex": "More girls now enrol in engineering courses.",
+   "page": 68
+  },
+  {
+   "w": "eliminate",
+   "pos": "v",
+   "ipa": "/ɪˈlɪmɪneɪt/",
+   "vi": "loại bỏ, xoá bỏ",
+   "ex": "We must work together to eliminate gender discrimination.",
+   "page": 68
+  },
+  {
+   "w": "physical strength",
+   "pos": "n phr",
+   "ipa": "/ˌfɪzɪkl ˈstreŋθ/",
+   "vi": "sức mạnh thể chất",
+   "ex": "Some jobs require a lot of physical strength.",
+   "page": 68
+  },
+  {
+   "w": "gender gap",
+   "pos": "n phr",
+   "ipa": "/ˈdʒendə ɡæp/",
+   "vi": "khoảng cách giới",
+   "ex": "The gender gap in pay is getting smaller.",
+   "page": 70
+  },
+  {
+   "w": "workforce",
+   "pos": "n",
+   "ipa": "/ˈwɜːkfɔːs/",
+   "vi": "lực lượng lao động",
+   "ex": "Women make up nearly half of the workforce.",
+   "page": 70
+  },
+  {
+   "w": "wage",
+   "pos": "n",
+   "ipa": "/weɪdʒ/",
+   "vi": "tiền công, tiền lương",
+   "ex": "Women's wages are still lower than men's in many places.",
+   "page": 70
+  },
+  {
+   "w": "equal pay",
+   "pos": "n phr",
+   "ipa": "/ˌiːkwəl ˈpeɪ/",
+   "vi": "trả lương ngang nhau",
+   "ex": "We support equal pay for equal work.",
+   "page": 70
+  },
+  {
+   "w": "right",
+   "pos": "n",
+   "ipa": "/raɪt/",
+   "vi": "quyền",
+   "ex": "Women in Viet Nam have the right to vote.",
+   "page": 70
+  },
+  {
+   "w": "force",
+   "pos": "v",
+   "ipa": "/fɔːs/",
+   "vi": "ép buộc",
+   "ex": "Girls shouldn't be forced to leave school early.",
+   "page": 70
+  },
+  {
+   "w": "housework",
+   "pos": "n",
+   "ipa": "/ˈhaʊswɜːk/",
+   "vi": "việc nhà",
+   "ex": "Housework should be shared by all family members.",
+   "page": 70
+  },
+  {
+   "w": "stereotype",
+   "pos": "n",
+   "ipa": "/ˈsteriətaɪp/",
+   "vi": "định kiến, khuôn mẫu",
+   "ex": "'Boys don't cry' is a gender stereotype.",
+   "page": 70
+  },
+  {
+   "w": "male-dominated",
+   "pos": "adj",
+   "ipa": "/ˌmeɪl ˈdɒmɪneɪtɪd/",
+   "vi": "do nam giới chiếm ưu thế",
+   "ex": "Engineering used to be a male-dominated field.",
+   "page": 70
+  },
+  {
+   "w": "career",
+   "pos": "n",
+   "ipa": "/kəˈrɪə(r)/",
+   "vi": "nghề nghiệp, sự nghiệp",
+   "ex": "She wants a career in medicine.",
+   "page": 71
+  },
+  {
+   "w": "firefighter",
+   "pos": "n",
+   "ipa": "/ˈfaɪəfaɪtə(r)/",
+   "vi": "lính cứu hoả",
+   "ex": "More women are becoming firefighters.",
+   "page": 71
+  },
+  {
+   "w": "mechanic",
+   "pos": "n",
+   "ipa": "/məˈkænɪk/",
+   "vi": "thợ máy",
+   "ex": "My aunt works as a car mechanic.",
+   "page": 71
+  },
+  {
+   "w": "secretary",
+   "pos": "n",
+   "ipa": "/ˈsekrətri/",
+   "vi": "thư kí",
+   "ex": "Men can also work as secretaries.",
+   "page": 71
+  },
+  {
+   "w": "take up",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈʌp/",
+   "vi": "bắt đầu (một công việc, sở thích)",
+   "ex": "She took up flying lessons at the age of 18.",
+   "page": 71
+  },
+  {
+   "w": "astronaut",
+   "pos": "n",
+   "ipa": "/ˈæstrənɔːt/",
+   "vi": "phi hành gia",
+   "ex": "She dreams of becoming an astronaut.",
+   "page": 72
+  },
+  {
+   "w": "cosmonaut",
+   "pos": "n",
+   "ipa": "/ˈkɒzmənɔːt/",
+   "vi": "nhà du hành vũ trụ (Liên Xô/Nga)",
+   "ex": "Valentina Tereshkova was a Soviet cosmonaut.",
+   "page": 72
+  },
+  {
+   "w": "achievement",
+   "pos": "n",
+   "ipa": "/əˈtʃiːvmənt/",
+   "vi": "thành tựu",
+   "ex": "Flying into space was a great achievement.",
+   "page": 72
+  },
+  {
+   "w": "determined",
+   "pos": "adj",
+   "ipa": "/dɪˈtɜːmɪnd/",
+   "vi": "quyết tâm",
+   "ex": "She was determined to become a pilot.",
+   "page": 72
+  },
+  {
+   "w": "hire",
+   "pos": "v",
+   "ipa": "/ˈhaɪə(r)/",
+   "vi": "thuê, tuyển dụng",
+   "ex": "Companies should hire staff based on their skills.",
+   "page": 73
+  },
+  {
+   "w": "female",
+   "pos": "adj",
+   "ipa": "/ˈfiːmeɪl/",
+   "vi": "(thuộc) nữ giới",
+   "ex": "The number of female engineers is growing.",
+   "page": 74
+  },
+  {
+   "w": "professional",
+   "pos": "adj",
+   "ipa": "/prəˈfeʃənl/",
+   "vi": "chuyên nghiệp",
+   "ex": "She plays for a professional football club.",
+   "page": 74
+  },
+  {
+   "w": "tournament",
+   "pos": "n",
+   "ipa": "/ˈtʊənəmənt/",
+   "vi": "giải đấu",
+   "ex": "The women's team won the regional tournament.",
+   "page": 74
+  }
+ ],
+ "passages": [
+  {
+   "id": "G10U6-P1",
+   "title": "Gender equality at work",
+   "text": "Gender equality means that men and women have the same rights and (1) _____ in all areas of life. In the past, many jobs such as pilot, surgeon or engineer were considered to be men's jobs, and women were rarely (2) _____ to do them. Today, the situation has changed a lot. More and more women work in fields (3) _____ used to be dominated by men, and many men have become nurses or kindergarten teachers. However, there is still a gender (4) _____ in pay in many countries: women often earn less than men for doing the same work. To solve this problem, governments should make laws to protect women's rights, and companies should (5) _____ staff based on their skills, not their gender. When everyone is treated fairly, society can benefit from the talents of all its members."
+  },
+  {
+   "id": "G10U6-P2",
+   "title": "Women's football",
+   "text": "Women's football has a long history, but for many years it was not taken (6) _____. In some countries, women were even banned from playing on official pitches. Things began to change in the 1970s, and the first FIFA Women's World Cup (7) _____ in China in 1991. Since then, the game has grown quickly. Today, millions of girls around the world play football, and top players (8) _____ as Megan Rapinoe have become famous role models. In Viet Nam, the women's national team has won many regional titles and (9) _____ for the 2023 FIFA Women's World Cup – the first World Cup in its history. Their success shows that football is not only a sport for men. However, female players still receive much lower salaries than male players. Many people believe that women footballers should (10) _____ fairly and paid what they deserve."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G10U6-V01",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Jobs and career choices",
+   "level": 1,
+   "q": "A _____ is a doctor who performs operations in a hospital.",
+   "options": [
+    "surgeon",
+    "mechanic",
+    "pilot",
+    "nurse"
+   ],
+   "answer": 0,
+   "explain": "surgeon = bác sĩ phẫu thuật, người thực hiện ca mổ. nurse: y tá; pilot: phi công; mechanic: thợ máy.",
+   "review": "Lớp 10 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G10U6-V02",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Jobs and career choices",
+   "level": 1,
+   "q": "Lan wants to become an airline _____ because she loves flying.",
+   "options": [
+    "secretary",
+    "surgeon",
+    "firefighter",
+    "pilot"
+   ],
+   "answer": 3,
+   "explain": "airline pilot = phi công hãng hàng không, hợp với 'loves flying'. Các từ còn lại không liên quan đến bay.",
+   "review": "Lớp 10 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G10U6-V03",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nMany women still face <u>discrimination</u> at work.",
+   "options": [
+    "unfair treatment",
+    "hard training",
+    "equal treatment",
+    "high salaries"
+   ],
+   "answer": 0,
+   "explain": "discrimination = sự phân biệt đối xử ≈ unfair treatment (sự đối xử bất công). equal treatment mang nghĩa ngược lại.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V04",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Girls should be _____ to follow their dreams of studying science and technology.",
+   "options": [
+    "prevented",
+    "encouraged",
+    "discouraged",
+    "banned"
+   ],
+   "answer": 1,
+   "explain": "be encouraged to do sth = được khuyến khích làm gì. discouraged/prevented đi với 'from + V-ing'; banned không đi với 'to V' theo nghĩa này và trái ý câu.",
+   "review": "Lớp 10 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G10U6-V05",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Men and women should receive equal _____ for equal work.",
+   "options": [
+    "cost",
+    "price",
+    "fee",
+    "pay"
+   ],
+   "answer": 3,
+   "explain": "Cụm cố định 'equal pay for equal work' = trả lương ngang nhau cho công việc như nhau. price/cost/fee là giá cả, chi phí, lệ phí.",
+   "review": "Lớp 10 · Unit 6 – Reading"
+  },
+  {
+   "id": "G10U6-V06",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "In the past, women were not allowed to _____ in universities in some countries.",
+   "options": [
+    "encourage",
+    "enrol",
+    "eliminate",
+    "employ"
+   ],
+   "answer": 1,
+   "explain": "enrol in a university = đăng kí nhập học vào đại học. employ: thuê; eliminate: loại bỏ; encourage: khuyến khích – không hợp nghĩa và cấu trúc.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V07",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "We must work together to _____ gender discrimination in the workplace.",
+   "options": [
+    "develop",
+    "increase",
+    "eliminate",
+    "create"
+   ],
+   "answer": 2,
+   "explain": "eliminate discrimination = xoá bỏ sự phân biệt đối xử. develop/create/increase (phát triển/tạo ra/tăng) ngược ý câu.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V08",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 1,
+   "q": "The gender _____ in pay between men and women is getting smaller.",
+   "options": [
+    "gap",
+    "space",
+    "hole",
+    "break"
+   ],
+   "answer": 0,
+   "explain": "gender gap = khoảng cách (chênh lệch) giới. hole/space/break không kết hợp với gender theo nghĩa này.",
+   "review": "Lớp 10 · Unit 6 – Reading"
+  },
+  {
+   "id": "G10U6-V09",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 1,
+   "q": "Gender _____ means that men and women have the same rights and opportunities.",
+   "options": [
+    "equal",
+    "equally",
+    "equalise",
+    "equality"
+   ],
+   "answer": 3,
+   "explain": "Sau 'gender' cần danh từ tạo cụm 'gender equality' (bình đẳng giới). equal: tính từ; equally: trạng từ; equalise: động từ.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V10",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 1,
+   "q": "Boys and girls should be treated _____ at school.",
+   "options": [
+    "equally",
+    "equality",
+    "equal",
+    "equalise"
+   ],
+   "answer": 0,
+   "explain": "Bổ nghĩa cho động từ 'be treated' cần trạng từ equally (một cách bình đẳng).",
+   "review": "Lớp 10 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G10U6-V11",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Some employers still _____ against women when they choose new staff.",
+   "options": [
+    "discriminatory",
+    "discriminator",
+    "discriminate",
+    "discrimination"
+   ],
+   "answer": 2,
+   "explain": "Sau chủ ngữ 'Some employers' + still cần động từ: discriminate against sb = phân biệt đối xử với ai. Các phương án khác là danh từ/tính từ.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V12",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Jobs and career choices",
+   "level": 1,
+   "q": "Firefighters have to carry heavy equipment, so they need a lot of _____ strength.",
+   "options": [
+    "physics",
+    "physician",
+    "physical",
+    "physically"
+   ],
+   "answer": 2,
+   "explain": "Trước danh từ 'strength' cần tính từ: physical strength = sức mạnh thể chất. physics: môn vật lí; physician: bác sĩ; physically: trạng từ.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V13",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nMen and women should have <u>equal</u> rights in all areas of life.",
+   "options": [
+    "fair",
+    "unequal",
+    "similar",
+    "identical"
+   ],
+   "answer": 1,
+   "explain": "equal (ngang bằng) trái nghĩa với unequal (không ngang bằng). identical/similar gần nghĩa; fair (công bằng) cũng gần nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G10U6-V14",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Jobs and career choices",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nMany companies now <u>hire</u> both men and women as engineers.",
+   "options": [
+    "pay",
+    "dismiss",
+    "employ",
+    "train"
+   ],
+   "answer": 2,
+   "explain": "hire = thuê, tuyển dụng ≈ employ. dismiss: sa thải (trái nghĩa); train: đào tạo; pay: trả lương.",
+   "review": "Lớp 10 · Unit 6 – Writing"
+  },
+  {
+   "id": "G10U6-V15",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Jobs and career choices",
+   "level": 2,
+   "q": "She wants to _____ flying lessons so that she can become a pilot one day.",
+   "options": [
+    "take over",
+    "take off",
+    "take after",
+    "take up"
+   ],
+   "answer": 3,
+   "explain": "take up sth = bắt đầu học/làm gì. take off: cất cánh, cởi ra; take after: giống (người thân); take over: tiếp quản.",
+   "review": "Lớp 10 · Unit 6 – Speaking"
+  },
+  {
+   "id": "G10U6-V16",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 3,
+   "q": "It is unfair that in some places girls are _____ to leave school early to do housework.",
+   "options": [
+    "forced",
+    "stopped",
+    "kept",
+    "prevented"
+   ],
+   "answer": 0,
+   "explain": "be forced to do sth = bị ép làm gì, hợp với 'unfair'. prevented/stopped đi với 'from + V-ing'; kept đi với 'V-ing' hoặc 'from + V-ing', không đi với 'to V'.",
+   "review": "Lớp 10 · Unit 6 – Reading"
+  },
+  {
+   "id": "G10U6-V17",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Women's achievements",
+   "level": 1,
+   "q": "Valentina Tereshkova was the first woman to travel into space. She was a Soviet _____.",
+   "options": [
+    "mechanic",
+    "surgeon",
+    "cosmonaut",
+    "footballer"
+   ],
+   "answer": 2,
+   "explain": "cosmonaut = nhà du hành vũ trụ của Liên Xô/Nga. Bài nghe của Unit nói về người phụ nữ đầu tiên bay vào vũ trụ.",
+   "review": "Lớp 10 · Unit 6 – Listening"
+  },
+  {
+   "id": "G10U6-V18",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Women's achievements",
+   "level": 2,
+   "q": "Flying into space in 1963 was a remarkable _____ for a young woman.",
+   "options": [
+    "achieve",
+    "achievement",
+    "achiever",
+    "achievable"
+   ],
+   "answer": 1,
+   "explain": "Sau tính từ 'remarkable' và mạo từ 'a' cần danh từ chỉ sự việc: achievement (thành tựu). achiever là danh từ chỉ người, không hợp nghĩa 'flying into space was...'.",
+   "review": "Lớp 10 · Unit 6 – Listening"
+  },
+  {
+   "id": "G10U6-V19",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Gender equality",
+   "level": 3,
+   "q": "Old-fashioned _____ such as 'boys don't cry' or 'girls are bad at maths' can limit children's choices.",
+   "options": [
+    "achievements",
+    "rights",
+    "opportunities",
+    "stereotypes"
+   ],
+   "answer": 3,
+   "explain": "stereotypes = định kiến/khuôn mẫu; các ví dụ trong ngoặc là định kiến giới. opportunities/rights/achievements không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Reading"
+  },
+  {
+   "id": "G10U6-V20",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Jobs and career choices",
+   "level": 1,
+   "q": "My cousin is a _____ teacher. He takes care of children aged three to five.",
+   "options": [
+    "driving",
+    "kindergarten",
+    "secondary",
+    "university"
+   ],
+   "answer": 1,
+   "explain": "Trẻ 3–5 tuổi học mẫu giáo → kindergarten teacher (giáo viên mẫu giáo), như trong Getting Started.",
+   "review": "Lớp 10 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G10U6-G01",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "Boys and girls should _____ equally.",
+   "options": [
+    "been treated",
+    "be treated",
+    "be treating",
+    "treated"
+   ],
+   "answer": 1,
+   "explain": "Bị động với modal: should + be + V3. Boys and girls là đối tượng được đối xử → should be treated (nên được đối xử bình đẳng).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G02",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "Women _____ to work in any field they choose.",
+   "options": [
+    "should be allowing",
+    "should allowed",
+    "should allow",
+    "should be allowed"
+   ],
+   "answer": 3,
+   "explain": "Phụ nữ được cho phép → bị động: should be allowed to V. 'should allowed' thiếu be; 'should allow' là chủ động, sai nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G03",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "Gender discrimination at work must _____.",
+   "options": [
+    "eliminated",
+    "eliminate",
+    "be eliminated",
+    "be eliminating"
+   ],
+   "answer": 2,
+   "explain": "Sự phân biệt đối xử bị xoá bỏ → must be eliminated (phải được xoá bỏ).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G04",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "The passive voice with modals has the structure: S + modal + _____ + past participle.",
+   "options": [
+    "to be",
+    "being",
+    "been",
+    "be"
+   ],
+   "answer": 3,
+   "explain": "Sau modal luôn dùng động từ nguyên mẫu không 'to' → be. Cấu trúc: S + modal + be + V3.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G05",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "In today's world, girls _____ from going to school because of their gender.",
+   "options": [
+    "mustn't prevent",
+    "mustn't be prevented",
+    "mustn't be preventing",
+    "mustn't prevented"
+   ],
+   "answer": 1,
+   "explain": "Girls là người bị ngăn cản → bị động phủ định: mustn't be + V3 (prevented). Câu: Ngày nay, các em gái không được bị ngăn cản đến trường vì giới tính.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G06",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "Equal job opportunities _____ to everyone, regardless of gender.",
+   "options": [
+    "should be given",
+    "should give",
+    "should given",
+    "should be giving"
+   ],
+   "answer": 0,
+   "explain": "Cơ hội việc làm được trao → should be given (V3 của give là given).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G07",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "I believe more women _____ to take leadership positions in the future.",
+   "options": [
+    "will encourage",
+    "will encouraged",
+    "will be encouraged",
+    "are encouraging"
+   ],
+   "answer": 2,
+   "explain": "Phụ nữ được khuyến khích → bị động tương lai: will be encouraged. 'will encourage to take' thiếu tân ngữ và sai nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G08",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "A woman _____ less than a man for doing the same job.",
+   "options": [
+    "shouldn't be paid",
+    "shouldn't paid",
+    "shouldn't been paid",
+    "shouldn't be pay"
+   ],
+   "answer": 0,
+   "explain": "Người phụ nữ được trả lương → shouldn't be paid (không nên bị trả lương thấp hơn). Sau modal không dùng 'been'; sau be phải là V3.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G09",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "We can solve this problem easily. → This problem _____ easily.",
+   "options": [
+    "can solved",
+    "can be solved",
+    "can solve",
+    "can be solving"
+   ],
+   "answer": 1,
+   "explain": "Chuyển sang bị động: giữ modal can + be + V3 (solved).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G10",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "People must respect women's rights. → Women's rights _____.",
+   "options": [
+    "must be respected",
+    "must be respecting",
+    "must respect",
+    "must respected"
+   ],
+   "answer": 0,
+   "explain": "Tân ngữ women's rights lên làm chủ ngữ; must + be + respected; bỏ 'by people'.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G11",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Parents should not force children to do jobs they don't like. → Children _____ to do jobs they don't like.",
+   "options": [
+    "should not force",
+    "should not be forcing",
+    "should not be forced",
+    "should not forced"
+   ],
+   "answer": 2,
+   "explain": "Bị động phủ định: should not + be + V3 (forced); 'be forced to V' = bị ép làm gì.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G12",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "Housework _____ by all members of the family, not just women.",
+   "options": [
+    "should share",
+    "should be sharing",
+    "should shared",
+    "should be shared"
+   ],
+   "answer": 3,
+   "explain": "Có 'by all members' → bị động: should be shared (việc nhà nên được chia sẻ).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G13",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Do you think more women _____ as pilots by airlines in the future?",
+   "options": [
+    "will hired",
+    "will be hired",
+    "will hire",
+    "will be hiring"
+   ],
+   "answer": 1,
+   "explain": "Phụ nữ được các hãng hàng không tuyển dụng ('by airlines') → bị động: will be hired.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G14",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "_____ girls be allowed to play football at school?",
+   "options": [
+    "Have",
+    "Should",
+    "Are",
+    "Do"
+   ],
+   "answer": 1,
+   "explain": "Câu hỏi bị động với modal: Modal + S + be + V3? → Should girls be allowed...? Do/Are/Have không đứng trước 'be' nguyên mẫu.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G15",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice (review)",
+   "level": 3,
+   "q": "The results of our survey on gender equality _____ next week, so we can't discuss them now.",
+   "options": [
+    "will announce",
+    "have announced",
+    "announce",
+    "will be announced"
+   ],
+   "answer": 3,
+   "explain": "Kết quả được công bố, mốc 'next week' → bị động tương lai: will be announced. Các phương án còn lại là chủ động, sai nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G16",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 1,
+   "q": "This job _____ by both men and women.",
+   "options": [
+    "can be done",
+    "can be doing",
+    "can done",
+    "can do"
+   ],
+   "answer": 0,
+   "explain": "Có 'by both men and women' → bị động: can be done (có thể được làm).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G17",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice (review)",
+   "level": 3,
+   "q": "The first FIFA Women's World Cup _____ in China in 1991.",
+   "options": [
+    "was held",
+    "held",
+    "is held",
+    "was holding"
+   ],
+   "answer": 0,
+   "explain": "Sự kiện trong quá khứ (in 1991), giải đấu được tổ chức → bị động quá khứ đơn: was held.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G18",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Some people think that housework _____ only by women, but I disagree.",
+   "options": [
+    "should be doing",
+    "should do",
+    "should be done",
+    "should done"
+   ],
+   "answer": 2,
+   "explain": "Việc nhà được làm bởi phụ nữ → should be done.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G19",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Women's football matches _____ on TV more often to attract more fans.",
+   "options": [
+    "should be showing",
+    "should shown",
+    "should be shown",
+    "should show"
+   ],
+   "answer": 2,
+   "explain": "Trận đấu được chiếu → should be shown (V3 của show là shown).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-G20",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Gender equality _____ without the support of both men and women.",
+   "options": [
+    "cannot achieved",
+    "cannot be achieving",
+    "cannot achieve",
+    "cannot be achieved"
+   ],
+   "answer": 3,
+   "explain": "Bình đẳng giới được đạt tới → bị động phủ định: cannot be achieved (không thể đạt được nếu thiếu sự ủng hộ của cả nam và nữ).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-P01",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>g</u>oal",
+    "<u>g</u>ap",
+    "<u>g</u>ame",
+    "<u>g</u>ender"
+   ],
+   "answer": 3,
+   "explain": "gender /ˈdʒendə(r)/ – g đọc /dʒ/; gap /ɡæp/, goal /ɡəʊl/, game /ɡeɪm/ – g đọc /ɡ/.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P02",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "treat<u>ed</u>",
+    "enroll<u>ed</u>",
+    "encourag<u>ed</u>",
+    "allow<u>ed</u>"
+   ],
+   "answer": 0,
+   "explain": "treated /ˈtriːtɪd/ – đuôi -ed đọc /ɪd/ (sau /t/); allowed /əˈlaʊd/, encouraged /ɪnˈkʌrɪdʒd/, enrolled /ɪnˈrəʊld/ – đọc /d/.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P03",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "m<u>ea</u>n",
+    "l<u>ea</u>der",
+    "h<u>ea</u>lth",
+    "tr<u>ea</u>t"
+   ],
+   "answer": 2,
+   "explain": "health /helθ/ – ea đọc /e/; treat /triːt/, mean /miːn/, leader /ˈliːdə(r)/ – ea đọc /iː/.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P04",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "h<u>ou</u>sework",
+    "ab<u>ou</u>t",
+    "c<u>ou</u>ntry",
+    "gr<u>ou</u>nd"
+   ],
+   "answer": 2,
+   "explain": "country /ˈkʌntri/ – ou đọc /ʌ/; housework /ˈhaʊswɜːk/, about /əˈbaʊt/, ground /ɡraʊnd/ – ou đọc /aʊ/.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P05",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "surgeon<u>s</u>",
+    "astronaut<u>s</u>",
+    "pilot<u>s</u>",
+    "right<u>s</u>"
+   ],
+   "answer": 0,
+   "explain": "surgeons /ˈsɜːdʒənz/ – s đọc /z/ (sau âm hữu thanh /n/); rights /raɪts/, pilots /ˈpaɪləts/, astronauts /ˈæstrənɔːts/ – s đọc /s/ (sau /t/).",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P06",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "w<u>a</u>ge",
+    "m<u>a</u>le",
+    "s<u>a</u>me",
+    "g<u>a</u>p"
+   ],
+   "answer": 3,
+   "explain": "gap /ɡæp/ – a đọc /æ/; wage /weɪdʒ/, male /meɪl/, same /seɪm/ – a đọc /eɪ/.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P07",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>ild",
+    "me<u>ch</u>anic",
+    "<u>ch</u>oice",
+    "a<u>ch</u>ieve"
+   ],
+   "answer": 1,
+   "explain": "mechanic /məˈkænɪk/ – ch đọc /k/; child /tʃaɪld/, choice /tʃɔɪs/, achieve /əˈtʃiːv/ – ch đọc /tʃ/.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P08",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "dangerous",
+    "beautiful",
+    "difficult",
+    "important"
+   ],
+   "answer": 3,
+   "explain": "important /ɪmˈpɔːtnt/ nhấn âm 2; dangerous /ˈdeɪndʒərəs/, beautiful /ˈbjuːtɪfl/, difficult /ˈdɪfɪkəlt/ nhấn âm 1 (tính từ 3 âm tiết thường nhấn âm đầu).",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P09",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "develop",
+    "organise",
+    "encourage",
+    "remember"
+   ],
+   "answer": 1,
+   "explain": "organise /ˈɔːɡənaɪz/ nhấn âm 1 (động từ đuôi -ise); develop /dɪˈveləp/, encourage /ɪnˈkʌrɪdʒ/, remember /rɪˈmembə(r)/ nhấn âm 2.",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P10",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "recognise",
+    "celebrate",
+    "determine",
+    "educate"
+   ],
+   "answer": 2,
+   "explain": "determine /dɪˈtɜːmɪn/ nhấn âm 2; celebrate /ˈselɪbreɪt/, recognise /ˈrekəɡnaɪz/, educate /ˈedʒukeɪt/ nhấn âm 1 (đuôi -ate/-ise).",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P11",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "enormous",
+    "wonderful",
+    "attractive",
+    "delicious"
+   ],
+   "answer": 1,
+   "explain": "wonderful /ˈwʌndəfl/ nhấn âm 1; enormous /ɪˈnɔːməs/, attractive /əˈtræktɪv/, delicious /dɪˈlɪʃəs/ nhấn âm 2 (âm đầu yếu).",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-P12",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Stress in three-syllable adjectives and verbs",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "discover",
+    "entertain",
+    "introduce",
+    "understand"
+   ],
+   "answer": 0,
+   "explain": "discover /dɪˈskʌvə(r)/ nhấn âm 2; understand /ˌʌndəˈstænd/, entertain /ˌentəˈteɪn/, introduce /ˌɪntrəˈdjuːs/ nhấn âm 3 (âm cuối mạnh).",
+   "review": "Lớp 10 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G10U6-E01",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nGirls <u>should</u> (A) <u>be give</u> (B) the same <u>opportunities</u> (C) <u>as</u> (D) boys.",
+   "options": [
+    "A. should",
+    "B. be give",
+    "C. opportunities",
+    "D. as"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: sau 'be' phải dùng V3 → be given. Câu đúng: Girls should be given the same opportunities as boys.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E02",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nGender <u>discrimination</u> (A) <u>can</u> (B) <u>eliminated</u> (C) <u>through</u> (D) education.",
+   "options": [
+    "A. discrimination",
+    "B. can",
+    "C. eliminated",
+    "D. through"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: bị động với modal cần 'be' → can be eliminated.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E03",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nIn the past, <u>many</u> (A) women <u>were</u> (B) not <u>allowed</u> (C) <u>vote</u> (D).",
+   "options": [
+    "A. many",
+    "B. were",
+    "C. allowed",
+    "D. vote"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: be allowed + to V → were not allowed to vote.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E04",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>Equal</u> (A) pay <u>should be offering</u> (B) to <u>both</u> (C) men and women <u>for</u> (D) the same job.",
+   "options": [
+    "A. Equal",
+    "B. should be offering",
+    "C. both",
+    "D. for"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: 'equal pay' được trao → bị động should be offered (không dùng V-ing).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E05",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>Equality</u> (A) job opportunities must be <u>given</u> (B) to everyone <u>who</u> (C) is <u>qualified</u> (D).",
+   "options": [
+    "A. Equality",
+    "B. given",
+    "C. who",
+    "D. qualified"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: trước danh từ 'job opportunities' cần tính từ → Equal job opportunities.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E06",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nHousework <u>should</u> (A) be <u>shared</u> (B) <u>equal</u> (C) <u>between</u> (D) husbands and wives.",
+   "options": [
+    "A. should",
+    "B. shared",
+    "C. equal",
+    "D. between"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: bổ nghĩa cho động từ 'be shared' cần trạng từ → equally.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E07",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>Discriminate</u> (A) against women <u>in</u> (B) the workplace <u>must</u> (C) be <u>stopped</u> (D).",
+   "options": [
+    "A. Discriminate",
+    "B. in",
+    "C. must",
+    "D. stopped"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: chủ ngữ phải là danh từ → Discrimination against women in the workplace must be stopped.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-E08",
+   "unit": 6,
+   "type": "error",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nMany girls are <u>encouraged</u> (A) <u>to study</u> (B) science, so more women <u>may be</u> (C) <u>employ</u> (D) as engineers in the future.",
+   "options": [
+    "A. encouraged",
+    "B. to study",
+    "C. may be",
+    "D. employ"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: may be + V3 → may be employed.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R01",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThey should give women more chances to become leaders.",
+   "options": [
+    "Women should be gave more chances to become leaders.",
+    "Women should be given more chances to become leaders.",
+    "More chances should give women to become leaders.",
+    "Women should give more chances to become leaders."
+   ],
+   "answer": 1,
+   "explain": "Chuyển bị động với modal: should + be + given. Các phương án khác sai dạng động từ hoặc sai nghĩa (phụ nữ trao cơ hội).",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R02",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nNobody can do this job without good physical strength.",
+   "options": [
+    "Good physical strength cannot be done without this job.",
+    "This job cannot be done without good physical strength.",
+    "This job cannot do without good physical strength.",
+    "This job can be done without good physical strength."
+   ],
+   "answer": 1,
+   "explain": "Câu gốc: không ai làm được việc này nếu thiếu sức khoẻ tốt → This job cannot be done without... Phương án 'can be done' ngược nghĩa (mất phủ định); 'This job cannot do' sai dạng (thiếu be); phương án 'Good physical strength cannot be done...' vô nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R03",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nEmployers must not pay women less than men for the same work.",
+   "options": [
+    "Women must not pay less than men for the same work.",
+    "Women must not be paid less than men for the same work.",
+    "Men must not be paid less than women for the same work.",
+    "Women must be paid less than men for the same work."
+   ],
+   "answer": 1,
+   "explain": "Bị động phủ định: must not be paid. Phương án 'must be paid less' mất phủ định; 'Women must not pay' sai nghĩa (phụ nữ trả tiền); phương án 'Men must not be paid less than women' đổi chỗ nam/nữ.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R04",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's a good idea for schools to encourage girls to play sports.",
+   "options": [
+    "Girls should be encouraged to play sports at school.",
+    "Girls must be forced to play sports at school.",
+    "Girls shouldn't be encouraged to play sports at school.",
+    "Schools should be encouraged by girls to play sports."
+   ],
+   "answer": 0,
+   "explain": "'It's a good idea ...' = lời khuyên → should; bị động: Girls should be encouraged to... 'must be forced' sai nghĩa (bắt buộc); 'shouldn't' ngược nghĩa; phương án cuối đảo vai.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R05",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nWomen were not allowed to vote in many countries 100 years ago.",
+   "options": [
+    "In many countries 100 years ago, women had to vote.",
+    "In many countries 100 years ago, women did not want to vote.",
+    "In many countries 100 years ago, women could vote freely.",
+    "In many countries 100 years ago, women did not have the right to vote."
+   ],
+   "answer": 3,
+   "explain": "not allowed to vote = không có quyền bầu cử (not have the right to vote). Các phương án khác sai nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R06",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Gender equality",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"I couldn't agree more with you about equal job opportunities,\" Mark said to Lan.",
+   "options": [
+    "Mark completely agreed with Lan about equal job opportunities.",
+    "Mark did not agree with Lan about equal job opportunities at all.",
+    "Mark could not agree with Lan about equal job opportunities any longer.",
+    "Mark partly agreed with Lan about equal job opportunities."
+   ],
+   "answer": 0,
+   "explain": "'I couldn't agree more' = tôi hoàn toàn đồng ý (cách bày tỏ đồng ý trong Getting Started), không phải không đồng ý.",
+   "review": "Lớp 10 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G10U6-R07",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMen and women do the same job. They should receive the same pay.",
+   "options": [
+    "Men and women which do the same job should receive the same pay.",
+    "Men and women who do the same job should be received the same pay.",
+    "Men and women who do the same job should receive the same pay.",
+    "Men and women do the same job should receive the same pay."
+   ],
+   "answer": 2,
+   "explain": "Nối bằng đại từ quan hệ who (chỉ người). 'which' dùng cho vật; 'be received' sai nghĩa; phương án cuối thiếu đại từ quan hệ.",
+   "review": "Lớp 10 · Unit 6 – ôn tập mệnh đề quan hệ who/which (học kĩ ở Unit 8 – Language, Grammar)"
+  },
+  {
+   "id": "G10U6-R08",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nGirls are encouraged to study science. More women will become engineers.",
+   "options": [
+    "If girls are encouraged to study science, more women will become engineers.",
+    "Unless girls are encouraged to study science, more women will become engineers.",
+    "If girls encouraged to study science, more women will become engineers.",
+    "Although girls are encouraged to study science, more women will become engineers."
+   ],
+   "answer": 0,
+   "explain": "Quan hệ điều kiện – kết quả → câu điều kiện loại 1 với bị động: If girls are encouraged... 'If girls encouraged' thiếu are; Unless/Although sai quan hệ nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R09",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Jobs and career choices",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nLan wants to be an airline pilot. She is focusing on maths and physics.",
+   "options": [
+    "Lan wants to be an airline pilot although she is focusing on maths and physics.",
+    "Lan is focusing on maths and physics, so she wants to be an airline pilot.",
+    "Lan wants to be an airline pilot, but she is focusing on maths and physics.",
+    "Lan is focusing on maths and physics because she wants to be an airline pilot."
+   ],
+   "answer": 3,
+   "explain": "Muốn làm phi công là lí do học tập trung toán, lí → dùng because. although/but chỉ sự tương phản; 'so' đảo ngược quan hệ nhân quả.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-R10",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice with modals",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMen can do this job well. Women can do this job well.",
+   "options": [
+    "Only men can do this job well.",
+    "This job can be done well by neither men nor women.",
+    "This job can be done well by both men and women.",
+    "This job can do well by both men and women."
+   ],
+   "answer": 2,
+   "explain": "Cả nam và nữ đều làm tốt → both men and women; bị động: can be done. 'neither...nor' và 'Only men' sai nghĩa; 'can do well' thiếu be.",
+   "review": "Lớp 10 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G10U6-C01",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Gender equality",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "occasions",
+    "moments",
+    "opportunities",
+    "events"
+   ],
+   "answer": 2,
+   "explain": "Collocation 'the same rights and opportunities' = quyền và cơ hội như nhau. occasions/events/moments (dịp, sự kiện, khoảnh khắc) không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Reading",
+   "pid": "G10U6-P1",
+   "blank": 1
+  },
+  {
+   "id": "G10U6-C02",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Passive voice (review)",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "prevented",
+    "allowed",
+    "let",
+    "avoided"
+   ],
+   "answer": 1,
+   "explain": "were allowed to do = được phép làm. 'let' không dùng ở bị động với to V; prevented đi với from + V-ing; avoided không hợp nghĩa.",
+   "review": "Lớp 10 · Unit 6 – Reading",
+   "pid": "G10U6-P1",
+   "blank": 2
+  },
+  {
+   "id": "G10U6-C03",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Relative clauses",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "what",
+    "who",
+    "whose",
+    "that"
+   ],
+   "answer": 3,
+   "explain": "Thay cho danh từ chỉ vật 'fields' làm chủ ngữ → that (= which). who chỉ người; what không đứng sau danh từ; whose chỉ sở hữu.",
+   "review": "Lớp 10 · Unit 6 – Reading",
+   "pid": "G10U6-P1",
+   "blank": 3
+  },
+  {
+   "id": "G10U6-C04",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Gender equality",
+   "level": 1,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "gap",
+    "space",
+    "break",
+    "hole"
+   ],
+   "answer": 0,
+   "explain": "gender gap in pay = chênh lệch thu nhập theo giới.",
+   "review": "Lớp 10 · Unit 6 – Reading",
+   "pid": "G10U6-P1",
+   "blank": 4
+  },
+  {
+   "id": "G10U6-C05",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Jobs and career choices",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "hiring",
+    "hired",
+    "hire",
+    "to hire"
+   ],
+   "answer": 2,
+   "explain": "Sau modal 'should' dùng động từ nguyên mẫu không to → hire (tuyển dụng).",
+   "review": "Lớp 10 · Unit 6 – Reading",
+   "pid": "G10U6-P1",
+   "blank": 5
+  },
+  {
+   "id": "G10U6-C06",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Women's football",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "seriously",
+    "seriousness",
+    "serious",
+    "series"
+   ],
+   "answer": 0,
+   "explain": "take sth seriously = coi trọng điều gì; ở bị động: was not taken seriously. Cần trạng từ.",
+   "review": "Lớp 10 · Unit 6 – Communication and Culture, CLIL",
+   "pid": "G10U6-P2",
+   "blank": 6
+  },
+  {
+   "id": "G10U6-C07",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Passive voice (review)",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "was held",
+    "holds",
+    "was holding",
+    "held"
+   ],
+   "answer": 0,
+   "explain": "World Cup được tổ chức vào năm 1991 → bị động quá khứ đơn: was held.",
+   "review": "Lớp 10 · Unit 6 – Communication and Culture, CLIL",
+   "pid": "G10U6-P2",
+   "blank": 7
+  },
+  {
+   "id": "G10U6-C08",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Women's football",
+   "level": 1,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "as",
+    "such",
+    "so",
+    "even"
+   ],
+   "answer": 1,
+   "explain": "such as + ví dụ = chẳng hạn như. 'top players such as Megan Rapinoe'.",
+   "review": "Lớp 10 · Unit 6 – Communication and Culture, CLIL",
+   "pid": "G10U6-P2",
+   "blank": 8
+  },
+  {
+   "id": "G10U6-C09",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Women's achievements",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "won",
+    "qualified",
+    "succeeded",
+    "achieved"
+   ],
+   "answer": 1,
+   "explain": "qualify for a tournament = giành quyền tham dự giải. achieve/win không đi với 'for' theo nghĩa này; succeed đi với 'in'.",
+   "review": "Lớp 10 · Unit 6 – Communication and Culture, CLIL",
+   "pid": "G10U6-P2",
+   "blank": 9
+  },
+  {
+   "id": "G10U6-C10",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Passive voice with modals",
+   "level": 2,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "be treating",
+    "treated",
+    "treat",
+    "be treated"
+   ],
+   "answer": 3,
+   "explain": "Bị động với modal: should + be + V3 → should be treated fairly and (be) paid... song song với 'paid'.",
+   "review": "Lớp 10 · Unit 6 – Communication and Culture, CLIL",
+   "pid": "G10U6-P2",
+   "blank": 10
+  }
+ ]
+}

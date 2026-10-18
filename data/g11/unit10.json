@@ -1,0 +1,1754 @@
+{
+ "grade": 11,
+ "unit": 10,
+ "name": "The Ecosystem",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Ecosystems and biodiversity",
+  "Protecting the environment"
+ ],
+ "pron": "Intonation in question tags",
+ "grammar": [
+  "Compound nouns",
+  "Question tags (ôn tập)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Danh từ ghép (Compound nouns)",
+   "page": 112,
+   "body": "Danh từ ghép = 2 (hoặc nhiều) từ ghép lại thành một danh từ mang nghĩa mới.\n• Cách viết: liền một từ (rainforest, wildlife, wetland, greenhouse), tách rời (food chain, coral reef, national park, drinking water) hoặc có gạch nối (clean-up, sister-in-law). Nên tra từ điển khi không chắc.\n• Các kiểu cấu tạo thường gặp:\n  – Danh từ + danh từ: food chain, coral reef, rainforest, birdwatching (danh từ + V-ing)\n  – Tính từ + danh từ: greenhouse, wetland, national park\n  – V-ing + danh từ: drinking water, swimming pool (danh từ chỉ mục đích: nước để uống)\n  – Danh từ + động từ: sunrise, rainfall\n  – Động từ + tiểu từ / tiểu từ + động từ: clean-up, breakdown, outbreak\n• Số nhiều: thường thêm -s vào từ CHÍNH (thường là từ cuối): food chains, coral reefs, rainforests. Riêng dạng 'danh từ + cụm giới từ' thêm -s vào danh từ đầu: sisters-in-law, passers-by.\n• Danh từ đứng trước làm chức năng như tính từ nên KHÔNG chia số nhiều, không thêm 's: a food chain (không: foods chain, food's chain).\n• Trọng âm: danh từ ghép thường nhấn vào phần ĐẦU: ˈgreenhouse (nhà kính) ≠ a green ˈhouse (ngôi nhà màu xanh).\nVí dụ: Coral reefs are home to thousands of marine species. / The greenhouse effect causes global warming. / Clean drinking water is scarce in some areas.\nLỗi hay gặp: chia số nhiều sai (sister-in-laws), viết đảo trật tự (chain food), thêm 's (food's chain)."
+  },
+  {
+   "kind": "grammar",
+   "title": "Ôn tập câu hỏi đuôi (Question tags)",
+   "page": 111,
+   "body": "Cấu trúc: mệnh đề khẳng định → đuôi phủ định; mệnh đề phủ định → đuôi khẳng định. Đuôi dùng trợ động từ/động từ khuyết thiếu + đại từ.\n• The park is beautiful, isn't it? / You haven't seen it, have you?\n• Câu có never, few, little, nobody, nothing… mang nghĩa phủ định → đuôi khẳng định: There are few tigers left, are there?\n• Nobody/Everyone/Somebody → đuôi dùng they: Nobody cares, do they?\n• I am … → aren't I?; Let's … → shall we?; câu mệnh lệnh → will you?\n• There is/are … → is/isn't there, are/aren't there."
+  },
+  {
+   "kind": "pron",
+   "title": "Ngữ điệu trong câu hỏi đuôi",
+   "page": 111,
+   "body": "• Xuống giọng (↘) ở phần đuôi: người nói khá CHẮC CHẮN, chỉ muốn người nghe xác nhận/đồng ý. Vd: It's a beautiful national park, ↘isn't it?\n• Lên giọng (↗) ở phần đuôi: người nói KHÔNG CHẮC, thật sự muốn hỏi thông tin. Vd: You've been to Cat Tien National Park, ↗haven't you?\n• Mẹo: đọc ngữ cảnh — có 'I'm sure', 'expects agreement', 'obviously' → xuống giọng; có 'not sure', 'wants to check', 'really asks' → lên giọng."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 112,
+   "body": "• ecosystem / biodiversity / habitat / species / organism: hệ sinh thái / đa dạng sinh học / môi trường sống / loài / sinh vật\n• flora and fauna: hệ động thực vật; food chain: chuỗi thức ăn; ecological balance: cân bằng sinh thái\n• endangered species, invasive species; die out = become extinct\n• depend on / rely on; be home to; protect sb/sth from sth\n• restore/conserve/protect an ecosystem; destroy/damage a habitat\n• take action; raise (public) awareness of; use natural resources in a sustainable way\n• Word family: extinct (adj) – extinction (n); restore (v) – restoration (n); conserve (v) – conservation (n); threaten (v) – threat (n); diverse (adj) – diversity / biodiversity (n); aware (adj) – awareness (n); sustain (v) – sustainable (adj)"
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Danh từ ghép: xác định từ chính (thường đứng cuối) để chia số nhiều và hòa hợp chủ–vị; danh từ đứng trước không thêm -s/'s.\n• wildlife, biodiversity, fauna (chung) thường dùng như danh từ không đếm được → động từ số ít.\n• species: số ít và số nhiều cùng dạng (one species / many species), không có 'specie'.\n• Câu hỏi đuôi: tìm trợ động từ của mệnh đề chính, chú ý never/few/little/nobody, I am, Let's.\n• Bài đồng/trái nghĩa: đoán nghĩa từ gạch chân qua ngữ cảnh môi trường (destroy ↔ protect, diverse ↔ limited, die out = become extinct).\n• Điền đoạn văn: xem từ đứng sau chỗ trống (giới từ, danh từ) để chọn collocation: be home to, protect … from, climate change, take action."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "ecosystem",
+   "pos": "n",
+   "ipa": "/ˈiːkəʊsɪstəm/",
+   "vi": "hệ sinh thái",
+   "ex": "A healthy ecosystem has a wide variety of plants and animals.",
+   "page": 110
+  },
+  {
+   "w": "biodiversity",
+   "pos": "n",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "vi": "đa dạng sinh học",
+   "ex": "We should take action to protect local biodiversity.",
+   "page": 110
+  },
+  {
+   "w": "biosphere reserve",
+   "pos": "n phr",
+   "ipa": "/ˈbaɪəʊsfɪə(r) rɪˌzɜːv/",
+   "vi": "khu dự trữ sinh quyển",
+   "ex": "Can Gio Mangrove Forest is a biosphere reserve recognised by UNESCO.",
+   "page": 110
+  },
+  {
+   "w": "national park",
+   "pos": "n phr",
+   "ipa": "/ˌnæʃnəl ˈpɑːk/",
+   "vi": "vườn quốc gia",
+   "ex": "Cuc Phuong is the oldest national park in Viet Nam.",
+   "page": 113
+  },
+  {
+   "w": "species",
+   "pos": "n",
+   "ipa": "/ˈspiːʃiːz/",
+   "vi": "loài (sinh vật)",
+   "ex": "The park is home to hundreds of species of birds.",
+   "page": 110
+  },
+  {
+   "w": "organism",
+   "pos": "n",
+   "ipa": "/ˈɔːɡənɪzəm/",
+   "vi": "sinh vật",
+   "ex": "All the organisms in an ecosystem depend on each other.",
+   "page": 112
+  },
+  {
+   "w": "flora",
+   "pos": "n",
+   "ipa": "/ˈflɔːrə/",
+   "vi": "hệ thực vật (của một vùng)",
+   "ex": "The flora of the national park includes many rare trees.",
+   "page": 112
+  },
+  {
+   "w": "fauna",
+   "pos": "n",
+   "ipa": "/ˈfɔːnə/",
+   "vi": "hệ động vật (của một vùng)",
+   "ex": "Scientists are studying the flora and fauna of the island.",
+   "page": 112
+  },
+  {
+   "w": "habitat",
+   "pos": "n",
+   "ipa": "/ˈhæbɪtæt/",
+   "vi": "môi trường sống",
+   "ex": "Many animals are losing their natural habitats.",
+   "page": 110
+  },
+  {
+   "w": "endangered",
+   "pos": "adj",
+   "ipa": "/ɪnˈdeɪndʒəd/",
+   "vi": "có nguy cơ tuyệt chủng",
+   "ex": "The red-shanked douc is an endangered species.",
+   "page": 113
+  },
+  {
+   "w": "extinct",
+   "pos": "adj",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "vi": "tuyệt chủng",
+   "ex": "Some animals may become extinct if we do not protect them.",
+   "page": 113
+  },
+  {
+   "w": "extinction",
+   "pos": "n",
+   "ipa": "/ɪkˈstɪŋkʃn/",
+   "vi": "sự tuyệt chủng",
+   "ex": "Many species are in danger of extinction.",
+   "page": 113
+  },
+  {
+   "w": "die out",
+   "pos": "phr v",
+   "ipa": "/daɪ ˈaʊt/",
+   "vi": "tuyệt chủng, chết dần hết",
+   "ex": "Several species of fish have died out in this river.",
+   "page": 118
+  },
+  {
+   "w": "food chain",
+   "pos": "n phr",
+   "ipa": "/ˈfuːd tʃeɪn/",
+   "vi": "chuỗi thức ăn",
+   "ex": "Insects are an important part of the food chain.",
+   "page": 112
+  },
+  {
+   "w": "ecological balance",
+   "pos": "n phr",
+   "ipa": "/ˌiːkəˌlɒdʒɪkl ˈbæləns/",
+   "vi": "cân bằng sinh thái",
+   "ex": "Hunting too many animals can upset the ecological balance.",
+   "page": 115
+  },
+  {
+   "w": "depend on",
+   "pos": "phr v",
+   "ipa": "/dɪˈpend ɒn/",
+   "vi": "phụ thuộc vào",
+   "ex": "Many plants depend on bees for pollination.",
+   "page": 112
+  },
+  {
+   "w": "interact",
+   "pos": "v",
+   "ipa": "/ˌɪntərˈækt/",
+   "vi": "tương tác",
+   "ex": "Living things interact with each other and with their environment.",
+   "page": 112
+  },
+  {
+   "w": "wetland",
+   "pos": "n",
+   "ipa": "/ˈwetlənd/",
+   "vi": "vùng đất ngập nước",
+   "ex": "Wetlands provide food and shelter for many birds.",
+   "page": 112
+  },
+  {
+   "w": "mangrove",
+   "pos": "n",
+   "ipa": "/ˈmæŋɡrəʊv/",
+   "vi": "cây/rừng ngập mặn",
+   "ex": "Mangroves protect the coast from storms.",
+   "page": 117
+  },
+  {
+   "w": "rainforest",
+   "pos": "n",
+   "ipa": "/ˈreɪnfɒrɪst/",
+   "vi": "rừng mưa (nhiệt đới)",
+   "ex": "Tropical rainforests are rich in biodiversity.",
+   "page": 112
+  },
+  {
+   "w": "coral reef",
+   "pos": "n phr",
+   "ipa": "/ˈkɒrəl riːf/",
+   "vi": "rạn san hô",
+   "ex": "Coral reefs are home to thousands of marine species.",
+   "page": 117
+  },
+  {
+   "w": "wildlife",
+   "pos": "n",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "vi": "động vật hoang dã",
+   "ex": "The wildlife in the park is protected by law.",
+   "page": 113
+  },
+  {
+   "w": "coastal",
+   "pos": "adj",
+   "ipa": "/ˈkəʊstl/",
+   "vi": "thuộc vùng ven biển",
+   "ex": "Mangrove forests protect coastal areas from erosion.",
+   "page": 117
+  },
+  {
+   "w": "threat",
+   "pos": "n",
+   "ipa": "/θret/",
+   "vi": "mối đe dọa",
+   "ex": "Illegal hunting is a serious threat to wildlife.",
+   "page": 115
+  },
+  {
+   "w": "threaten",
+   "pos": "v",
+   "ipa": "/ˈθretn/",
+   "vi": "đe dọa",
+   "ex": "Pollution threatens the survival of many species.",
+   "page": 115
+  },
+  {
+   "w": "poaching",
+   "pos": "n",
+   "ipa": "/ˈpəʊtʃɪŋ/",
+   "vi": "sự săn bắt trộm",
+   "ex": "Poaching has reduced the number of elephants.",
+   "page": 113
+  },
+  {
+   "w": "deforestation",
+   "pos": "n",
+   "ipa": "/diːˌfɒrɪˈsteɪʃn/",
+   "vi": "sự phá rừng",
+   "ex": "Deforestation destroys the homes of many animals.",
+   "page": 115
+  },
+  {
+   "w": "invasive species",
+   "pos": "n phr",
+   "ipa": "/ɪnˌveɪsɪv ˈspiːʃiːz/",
+   "vi": "loài xâm lấn",
+   "ex": "Invasive species can harm local ecosystems.",
+   "page": 115
+  },
+  {
+   "w": "pollutant",
+   "pos": "n",
+   "ipa": "/pəˈluːtənt/",
+   "vi": "chất gây ô nhiễm",
+   "ex": "Pollutants from factories have killed the fish in the lake.",
+   "page": 115
+  },
+  {
+   "w": "conserve",
+   "pos": "v",
+   "ipa": "/kənˈsɜːv/",
+   "vi": "bảo tồn",
+   "ex": "The park was set up to conserve rare animals.",
+   "page": 113
+  },
+  {
+   "w": "conservation",
+   "pos": "n",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "vi": "sự bảo tồn",
+   "ex": "Wildlife conservation is the job of everyone.",
+   "page": 113
+  },
+  {
+   "w": "protect",
+   "pos": "v",
+   "ipa": "/prəˈtekt/",
+   "vi": "bảo vệ",
+   "ex": "We must protect the forest from fires.",
+   "page": 114
+  },
+  {
+   "w": "restore",
+   "pos": "v",
+   "ipa": "/rɪˈstɔː(r)/",
+   "vi": "khôi phục",
+   "ex": "The local government is trying to restore the damaged wetlands.",
+   "page": 116
+  },
+  {
+   "w": "restoration",
+   "pos": "n",
+   "ipa": "/ˌrestəˈreɪʃn/",
+   "vi": "sự khôi phục",
+   "ex": "The restoration of the forest will take many years.",
+   "page": 116
+  },
+  {
+   "w": "sustainable",
+   "pos": "adj",
+   "ipa": "/səˈsteɪnəbl/",
+   "vi": "bền vững",
+   "ex": "We should use natural resources in a sustainable way.",
+   "page": 116
+  },
+  {
+   "w": "natural resources",
+   "pos": "n phr",
+   "ipa": "/ˌnætʃrəl rɪˈzɔːsɪz/",
+   "vi": "tài nguyên thiên nhiên",
+   "ex": "Forests provide many natural resources.",
+   "page": 116
+  },
+  {
+   "w": "diverse",
+   "pos": "adj",
+   "ipa": "/daɪˈvɜːs/",
+   "vi": "đa dạng",
+   "ex": "The rainforest is home to a diverse range of plants.",
+   "page": 113
+  },
+  {
+   "w": "take action",
+   "pos": "phr",
+   "ipa": "/teɪk ˈækʃn/",
+   "vi": "hành động",
+   "ex": "We need to take action before it is too late.",
+   "page": 114
+  },
+  {
+   "w": "raise awareness (of)",
+   "pos": "phr",
+   "ipa": "/reɪz əˈweənəs/",
+   "vi": "nâng cao nhận thức (về)",
+   "ex": "The campaign aims to raise awareness of local ecosystems.",
+   "page": 119
+  }
+ ],
+ "passages": [
+  {
+   "id": "G11U10-P1",
+   "title": "A field trip to Cuc Phuong National Park",
+   "text": "Last summer, my class went on a field trip to Cuc Phuong National Park in Ninh Binh. It is the oldest national park in Viet Nam and (1) _____ home to thousands of species of plants and animals. Our guide, a park ranger, explained that every living thing in the forest plays a role in the (2) _____. For example, insects feed on plants, birds feed on insects, and larger animals feed on birds. If one species (3) _____ out, the others may also be affected. We also visited the Endangered Primate Rescue Center, (4) _____ injured and orphaned monkeys are cared for before they are released into the wild. The ranger told us that illegal hunting and habitat loss are the biggest (5) _____ to the animals here. At the end of the trip, we all agreed that protecting the park is not only the job of the rangers but also the responsibility of every visitor."
+  },
+  {
+   "id": "G11U10-P2",
+   "title": "Mangroves: guardians of the coast",
+   "text": "Mangrove forests grow along tropical coastlines, where the land meets the sea. These forests are among the most productive (6) _____ on Earth. Their thick roots provide shelter for young fish, crabs and shrimps, and they also protect coastal communities (7) _____ storms and rising sea levels. Many species of birds also nest and find food among their branches. In addition, mangroves can store large amounts of carbon, which helps to reduce the effects of (8) _____ change. (9) _____, large areas of mangrove forests in Viet Nam have been cleared for shrimp farms and coastal development. In recent years, local people and environmental groups have worked together to (10) _____ these forests by planting millions of young trees. Their efforts show that when people take action, damaged ecosystems can recover and continue to support both wildlife and humans."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G11U10-V01",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 1,
+   "q": "A(n) _____ is a community of living things that interact with each other and with their environment.",
+   "options": [
+    "habitat",
+    "species",
+    "ecosystem",
+    "organism"
+   ],
+   "answer": 2,
+   "explain": "ecosystem (hệ sinh thái) là cộng đồng sinh vật tương tác với nhau và với môi trường. habitat = nơi sống của một loài; species = loài; organism = một sinh vật riêng lẻ, không phải 'cộng đồng'.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V02",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 1,
+   "q": "Cuc Phuong National Park is famous for its rich _____, with thousands of species of plants and animals.",
+   "options": [
+    "pollution",
+    "biodiversity",
+    "urbanisation",
+    "deforestation"
+   ],
+   "answer": 1,
+   "explain": "rich biodiversity = đa dạng sinh học phong phú, khớp với 'thousands of species'. pollution (ô nhiễm), urbanisation (đô thị hóa), deforestation (phá rừng) đều không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Getting Started"
+  },
+  {
+   "id": "G11U10-V03",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "The natural _____ of the red panda is the cool mountain forest.",
+   "options": [
+    "habit",
+    "habitat",
+    "inhabitant",
+    "inhabitation"
+   ],
+   "answer": 1,
+   "explain": "natural habitat = môi trường sống tự nhiên. habit = thói quen; inhabitant = cư dân; inhabitation = sự cư trú — không dùng trong cụm này.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V04",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "Many rare animals in the park are in danger of _____.",
+   "options": [
+    "extinction",
+    "extinct",
+    "extinctive",
+    "extinguish"
+   ],
+   "answer": 0,
+   "explain": "Sau giới từ 'of' cần danh từ: in danger of extinction = có nguy cơ tuyệt chủng. extinct là tính từ; extinguish là động từ (dập tắt); extinctive không dùng.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-V05",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "The local authorities have taken measures to _____ the damaged forests.",
+   "options": [
+    "restoration",
+    "restorative",
+    "restorer",
+    "restore"
+   ],
+   "answer": 3,
+   "explain": "Sau 'to' (chỉ mục đích) cần động từ nguyên mẫu: to restore = khôi phục. restoration (n), restorative (adj), restorer (n) sai từ loại.",
+   "review": "Lớp 11 · Unit 10 – Writing"
+  },
+  {
+   "id": "G11U10-V06",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 1,
+   "q": "Bees are important because many plants _____ them for pollination.",
+   "options": [
+    "depend in",
+    "depend on",
+    "rely to",
+    "count with"
+   ],
+   "answer": 1,
+   "explain": "depend on sb/sth = phụ thuộc vào. Các giới từ in/to/with đi kèm sai (rely on, count on mới đúng).",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V07",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "If one species disappears, the whole food chain may be affected, which can upset the ecological _____.",
+   "options": [
+    "weight",
+    "scale",
+    "level",
+    "balance"
+   ],
+   "answer": 3,
+   "explain": "ecological balance = cân bằng sinh thái (collocation cố định). weight, scale, level không kết hợp với 'ecological' theo nghĩa này.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V08",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "Many species have <u>died out</u> because of habitat loss.\nChoose the word(s) CLOSEST in meaning to the underlined part.",
+   "options": [
+    "grown up",
+    "moved away",
+    "become extinct",
+    "increased"
+   ],
+   "answer": 2,
+   "explain": "die out = tuyệt chủng, chết dần hết = become extinct. grown up (lớn lên), moved away (di chuyển đi), increased (tăng) đều khác nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-V09",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "Illegal hunting is a serious <u>threat</u> to wildlife in the national park.\nChoose the word CLOSEST in meaning to the underlined word.",
+   "options": [
+    "benefit",
+    "protection",
+    "chance",
+    "danger"
+   ],
+   "answer": 3,
+   "explain": "threat = mối đe dọa ≈ danger (mối nguy hiểm). benefit (lợi ích), protection (sự bảo vệ) gần như trái nghĩa; chance (cơ hội) không liên quan.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V10",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 2,
+   "q": "Large areas of the forest have been <u>destroyed</u> by fires and illegal logging.\nChoose the word OPPOSITE in meaning to the underlined word.",
+   "options": [
+    "protected",
+    "damaged",
+    "ruined",
+    "burnt"
+   ],
+   "answer": 0,
+   "explain": "destroyed (bị phá hủy) trái nghĩa với protected (được bảo vệ). damaged, ruined, burnt đều gần nghĩa với destroyed.",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-V11",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 3,
+   "q": "The rainforest is home to a <u>diverse</u> range of plants and animals.\nChoose the word OPPOSITE in meaning to the underlined word.",
+   "options": [
+    "varied",
+    "limited",
+    "wide",
+    "rich"
+   ],
+   "answer": 1,
+   "explain": "diverse = đa dạng; trái nghĩa là limited (hạn chế, ít ỏi). varied, wide, rich đều mang nghĩa phong phú, gần nghĩa với diverse.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-V12",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "_____ is the illegal hunting of animals such as elephants and rhinos.",
+   "options": [
+    "Fishing",
+    "Farming",
+    "Poaching",
+    "Grazing"
+   ],
+   "answer": 2,
+   "explain": "Poaching = săn bắt trộm (trái phép). Fishing (câu cá), Farming (làm nông), Grazing (chăn thả) không mang nghĩa săn trái phép.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-V13",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 1,
+   "q": "All the plants and animals of a particular area are called its flora and _____.",
+   "options": [
+    "forest",
+    "fauna",
+    "flower",
+    "feature"
+   ],
+   "answer": 1,
+   "explain": "flora and fauna = hệ thực vật và hệ động vật — cặp từ cố định.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V14",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 1,
+   "q": "Mangrove forests protect _____ areas from storms and erosion.",
+   "options": [
+    "coast",
+    "coastline",
+    "coasting",
+    "coastal"
+   ],
+   "answer": 3,
+   "explain": "Trước danh từ 'areas' cần tính từ: coastal areas = vùng ven biển. coast, coastline là danh từ; coasting là V-ing (trôi theo đà), không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V15",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 3,
+   "q": "We need to raise public _____ of the importance of protecting wetlands.",
+   "options": [
+    "awareness",
+    "knowledge",
+    "attention",
+    "interest"
+   ],
+   "answer": 0,
+   "explain": "raise (public) awareness of = nâng cao nhận thức về — collocation cố định. 'raise knowledge' không tự nhiên; attention đi với 'to', interest đi với 'in', nên không hợp với giới từ 'of'.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V16",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 2,
+   "q": "Cutting down large areas of forest, known as _____, destroys the homes of many animals.",
+   "options": [
+    "deforestation",
+    "afforestation",
+    "reforestation",
+    "forestry"
+   ],
+   "answer": 0,
+   "explain": "deforestation = phá rừng (cutting down forests). afforestation = trồng rừng mới; reforestation = trồng lại rừng; forestry = lâm nghiệp.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V17",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Ecosystems and biodiversity",
+   "level": 3,
+   "q": "Some _____ species, such as the golden apple snail, spread quickly and harm local ecosystems.",
+   "options": [
+    "invasive",
+    "native",
+    "endangered",
+    "extinct"
+   ],
+   "answer": 0,
+   "explain": "invasive species = loài xâm lấn, lan nhanh và gây hại hệ sinh thái bản địa (ốc bươu vàng là ví dụ ở Việt Nam). native = bản địa; endangered = nguy cấp; extinct = đã tuyệt chủng — không thể 'spread quickly'.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-V18",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 2,
+   "q": "Local people should use natural resources in a _____ way so that future generations can also benefit.",
+   "options": [
+    "sustain",
+    "sustainability",
+    "sustainable",
+    "unsustainably"
+   ],
+   "answer": 2,
+   "explain": "Giữa 'a' và danh từ 'way' cần tính từ: in a sustainable way = một cách bền vững. sustain (v), sustainability (n), unsustainably (adv) sai từ loại.",
+   "review": "Lớp 11 · Unit 10 – Writing"
+  },
+  {
+   "id": "G11U10-V19",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "The national park was set up to _____ rare animals and their habitats.",
+   "options": [
+    "consume",
+    "conceal",
+    "conserve",
+    "confirm"
+   ],
+   "answer": 2,
+   "explain": "conserve = bảo tồn. consume (tiêu thụ), conceal (che giấu), confirm (xác nhận) có hình thức gần giống nhưng sai nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-V20",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "Young people should _____ action to protect the coral reefs before it is too late.",
+   "options": [
+    "make",
+    "do",
+    "give",
+    "take"
+   ],
+   "answer": 3,
+   "explain": "take action = hành động (collocation cố định). Không nói make/do/give action.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-G01",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "A _____ shows how energy passes from one living thing to another.",
+   "options": [
+    "chain food",
+    "food chain",
+    "food's chain",
+    "foods chain"
+   ],
+   "answer": 1,
+   "explain": "Danh từ ghép 'food chain' (chuỗi thức ăn): danh từ chính 'chain' đứng sau, danh từ bổ nghĩa 'food' đứng trước, không thêm -s hay 's. 'chain food' sai trật tự.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G02",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "Coral _____ are home to thousands of marine species.",
+   "options": [
+    "reefs",
+    "reef",
+    "reef's",
+    "reefs'"
+   ],
+   "answer": 0,
+   "explain": "Động từ 'are' là số nhiều → danh từ ghép chia số nhiều ở từ chính (từ cuối): coral reefs. reef's / reefs' là sở hữu cách, không phù hợp.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G03",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "Which of the following compound nouns is formed by ADJECTIVE + NOUN?",
+   "options": [
+    "food chain",
+    "greenhouse",
+    "birdwatching",
+    "sunrise"
+   ],
+   "answer": 1,
+   "explain": "greenhouse = green (tính từ) + house (danh từ). food chain = danh từ + danh từ; birdwatching = danh từ + V-ing; sunrise = danh từ + động từ.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G04",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Which of the following compound nouns is formed by NOUN + VERB?",
+   "options": [
+    "swimming pool",
+    "national park",
+    "coral reef",
+    "sunrise"
+   ],
+   "answer": 3,
+   "explain": "sunrise = sun (danh từ) + rise (động từ). swimming pool = V-ing + danh từ; national park = tính từ + danh từ; coral reef = danh từ + danh từ.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G05",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "Which of the following compound nouns is formed by V-ING + NOUN?",
+   "options": [
+    "birdwatching",
+    "wildlife",
+    "drinking water",
+    "food chain"
+   ],
+   "answer": 2,
+   "explain": "drinking water = drinking (V-ing, chỉ mục đích: nước để uống) + water. birdwatching = danh từ + V-ing (ngược lại); wildlife = tính từ + danh từ; food chain = danh từ + danh từ.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G06",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Both of my _____ work as park rangers in Cat Tien National Park.",
+   "options": [
+    "sister-in-laws",
+    "sisters-in-laws",
+    "sister's-in-law",
+    "sisters-in-law"
+   ],
+   "answer": 3,
+   "explain": "Danh từ ghép dạng 'danh từ + cụm giới từ' chia số nhiều ở danh từ đầu: sister-in-law → sisters-in-law. Các dạng còn lại sai cách chia.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G07",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "Clean _____ is becoming scarce in many rural areas because of pollution.",
+   "options": [
+    "water drinking",
+    "drinking water",
+    "drink water",
+    "drunk water"
+   ],
+   "answer": 1,
+   "explain": "drinking water = nước uống (V-ing + danh từ). water drinking sai trật tự; drink water, drunk water không phải danh từ ghép đúng.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G08",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Visitors to the wetland can enjoy _____, a popular activity among nature lovers.",
+   "options": [
+    "birdwatching",
+    "watching bird",
+    "bird watches",
+    "birds-watch"
+   ],
+   "answer": 0,
+   "explain": "birdwatching = hoạt động ngắm chim (danh từ + V-ing). Các dạng còn lại sai trật tự hoặc sai hình thức.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G09",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "The _____ effect is one of the main causes of global warming.",
+   "options": [
+    "greenhouse",
+    "green house",
+    "greenhouses",
+    "house green"
+   ],
+   "answer": 0,
+   "explain": "the greenhouse effect = hiệu ứng nhà kính; 'greenhouse' viết liền, ở đây làm bổ ngữ cho 'effect' nên không chia số nhiều. 'green house' (viết rời) nghĩa là ngôi nhà màu xanh.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G10",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 1,
+   "q": "Heavy _____ last month caused serious floods in the delta.",
+   "options": [
+    "fallrain",
+    "raining fall",
+    "rainfall",
+    "rainsfall"
+   ],
+   "answer": 2,
+   "explain": "rainfall = lượng mưa (danh từ + động từ, viết liền). Các phương án khác sai trật tự hoặc sai hình thức.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G11",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Our class took part in a beach _____ last Sunday and collected 50 kilos of plastic waste.",
+   "options": [
+    "clean-up",
+    "cleaned-up",
+    "cleaning-ups",
+    "clean-ups"
+   ],
+   "answer": 0,
+   "explain": "Sau mạo từ 'a' cần danh từ ghép số ít: a clean-up = buổi dọn dẹp (động từ + tiểu từ). clean-ups là số nhiều, không đi với 'a'; cleaned-up là tính từ; cleaning-ups sai hình thức.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G12",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 3,
+   "q": "There has been an _____ of disease among the fish in the polluted lake.",
+   "options": [
+    "breakout",
+    "breakdown",
+    "outbreak",
+    "outlook"
+   ],
+   "answer": 2,
+   "explain": "an outbreak of disease = sự bùng phát dịch bệnh. breakout = cuộc vượt ngục; breakdown = sự hỏng hóc/suy sụp; outlook = triển vọng, quan điểm.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G13",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Which of the following compound nouns is written as ONE word?",
+   "options": [
+    "coral reef",
+    "national park",
+    "wildlife",
+    "food chain"
+   ],
+   "answer": 2,
+   "explain": "wildlife viết liền một từ. coral reef, national park, food chain là danh từ ghép viết rời.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G14",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "A forest that grows in hot areas with heavy rain all year round is called a tropical _____.",
+   "options": [
+    "forest rain",
+    "rainforest",
+    "raining forest",
+    "rainy-forest"
+   ],
+   "answer": 1,
+   "explain": "rainforest = rừng mưa (danh từ + danh từ, viết liền). Các phương án khác sai trật tự hoặc sai hình thức.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-G15",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Question tags (ôn tập)",
+   "level": 1,
+   "q": "The ecosystem in this area is very fragile, _____?",
+   "options": [
+    "is it",
+    "doesn't it",
+    "wasn't it",
+    "isn't it"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề khẳng định dùng 'is' (hiện tại) → đuôi phủ định 'isn't it'. 'is it' sai vì cùng khẳng định; 'doesn't' sai trợ động từ; 'wasn't' sai thì.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-G16",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Question tags (ôn tập)",
+   "level": 2,
+   "q": "Nobody cares about the endangered birds here, _____?",
+   "options": [
+    "does he",
+    "don't they",
+    "doesn't he",
+    "do they"
+   ],
+   "answer": 3,
+   "explain": "Nobody mang nghĩa phủ định → đuôi khẳng định; chủ ngữ nobody/everyone dùng đại từ 'they' trong đuôi → do they.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-G17",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Question tags (ôn tập)",
+   "level": 1,
+   "q": "We should protect local biodiversity, _____?",
+   "options": [
+    "should we",
+    "shouldn't we",
+    "don't we",
+    "shouldn't us"
+   ],
+   "answer": 1,
+   "explain": "Mệnh đề khẳng định với 'should' → đuôi 'shouldn't we'. 'us' là tân ngữ, không dùng làm chủ ngữ trong đuôi.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-G18",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Question tags (ôn tập)",
+   "level": 2,
+   "q": "Let's join the tree-planting campaign this weekend, _____?",
+   "options": [
+    "shall we",
+    "will we",
+    "don't we",
+    "let us"
+   ],
+   "answer": 0,
+   "explain": "Câu bắt đầu bằng Let's (rủ rê) → đuôi 'shall we'.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-G19",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Question tags (ôn tập)",
+   "level": 3,
+   "q": "There are few wild tigers left in Viet Nam, _____?",
+   "options": [
+    "aren't there",
+    "aren't they",
+    "are there",
+    "are they"
+   ],
+   "answer": 2,
+   "explain": "'few' mang nghĩa phủ định (rất ít, hầu như không) → đuôi khẳng định; chủ ngữ giả 'there' giữ nguyên → are there.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-G20",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Question tags (ôn tập)",
+   "level": 2,
+   "q": "I'm a member of the school's environmental club, _____?",
+   "options": [
+    "am not I",
+    "isn't I",
+    "don't I",
+    "aren't I"
+   ],
+   "answer": 3,
+   "explain": "I am … → đuôi phủ định đặc biệt 'aren't I'. 'am not I' sai trật tự; isn't/don't sai trợ động từ.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P01",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in question tags",
+   "level": 2,
+   "q": "Mai is sure that her friend agrees with her: \"Cuc Phuong is a beautiful national park, isn't it?\"\nWhich intonation does Mai most likely use on the question tag?",
+   "options": [
+    "Falling (↘), because she expects agreement",
+    "Rising (↗), because she expects agreement",
+    "Rising (↗), because she is sure of the answer",
+    "Falling (↘), because she does not know the answer"
+   ],
+   "answer": 0,
+   "explain": "Khi người nói chắc chắn và chỉ mong người nghe đồng ý/xác nhận → xuống giọng ở câu hỏi đuôi. Lên giọng dùng khi không chắc, thật sự hỏi thông tin.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P02",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in question tags",
+   "level": 2,
+   "q": "Nam doesn't know if his friend has read the report and really wants to find out: \"You've read the report on coral reefs, haven't you?\"\nWhich intonation does Nam most likely use on the question tag?",
+   "options": [
+    "Falling (↘), because he is not sure",
+    "Falling (↘), because he expects agreement",
+    "Rising (↗), because he is not sure",
+    "Rising (↗), because he is giving an order"
+   ],
+   "answer": 2,
+   "explain": "Người nói không chắc, thật sự muốn biết câu trả lời → lên giọng ở câu hỏi đuôi.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P03",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in question tags",
+   "level": 3,
+   "q": "In which situation is the question tag most likely said with RISING intonation?",
+   "options": [
+    "You're looking at a clear blue sky: \"It's a lovely day, isn't it?\"",
+    "You're checking information you are not sure about: \"The park opens at 7 a.m., doesn't it?\"",
+    "You both see the dirty river: \"The water is really polluted, isn't it?\"",
+    "You're watching a beautiful sunset with a friend: \"The view is amazing, isn't it?\""
+   ],
+   "answer": 1,
+   "explain": "Lên giọng khi người nói không chắc và muốn kiểm tra thông tin (giờ mở cửa). Các tình huống còn lại là nhận xét điều hiển nhiên, mong người nghe đồng tình → xuống giọng.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P04",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in question tags",
+   "level": 3,
+   "q": "In which situation is the question tag most likely said with FALLING intonation?",
+   "options": [
+    "You forgot the date of the trip: \"We're leaving on Friday, aren't we?\"",
+    "You are not sure about a fact: \"Mangroves can grow in salt water, can't they?\"",
+    "Both speakers can see the forest fire: \"The fire is spreading fast, isn't it?\"",
+    "You want to check your friend's plan: \"You haven't joined the club yet, have you?\""
+   ],
+   "answer": 2,
+   "explain": "Cả hai người đều thấy rõ đám cháy → người nói chắc chắn, chỉ mong đồng tình → xuống giọng. Các tình huống còn lại người nói chưa chắc, muốn hỏi/kiểm tra → lên giọng.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P05",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Pronunciation: 'ea' /iː/ vs /e/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "thr<u>ea</u>t",
+    "h<u>ea</u>lth",
+    "pl<u>ea</u>sant",
+    "r<u>ea</u>son"
+   ],
+   "answer": 3,
+   "explain": "reason /ˈriːzn/ có 'ea' đọc /iː/; threat /θret/, health /helθ/, pleasant /ˈpleznt/ đọc /e/.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P06",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Pronunciation: -ed endings",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "protect<u>ed</u>",
+    "endanger<u>ed</u>",
+    "restor<u>ed</u>",
+    "destroy<u>ed</u>"
+   ],
+   "answer": 0,
+   "explain": "protected /prəˈtektɪd/: -ed đọc /ɪd/ (sau /t/). endangered /ɪnˈdeɪndʒəd/, restored /rɪˈstɔːd/, destroyed /dɪˈstrɔɪd/: -ed đọc /d/.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P07",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Pronunciation: -s endings",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "plant<u>s</u>",
+    "habitat<u>s</u>",
+    "organism<u>s</u>",
+    "insect<u>s</u>"
+   ],
+   "answer": 2,
+   "explain": "organisms /ˈɔːɡənɪzəmz/: -s đọc /z/ (sau âm hữu thanh /m/). plants, habitats, insects: -s đọc /s/ (sau âm vô thanh /t/).",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P08",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Pronunciation: letter 'c' /k/ vs /ʃ/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>c</u>oral",
+    "spe<u>c</u>ies",
+    "<u>c</u>limate",
+    "<u>c</u>onserve"
+   ],
+   "answer": 1,
+   "explain": "species /ˈspiːʃiːz/: 'c' đọc /ʃ/. coral /ˈkɒrəl/, climate /ˈklaɪmət/, conserve /kənˈsɜːv/: 'c' đọc /k/.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P09",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "extinction",
+    "ecosystem",
+    "habitat",
+    "wildlife"
+   ],
+   "answer": 0,
+   "explain": "extinction /ɪkˈstɪŋkʃn/ nhấn âm 2. ecosystem /ˈiːkəʊsɪstəm/, habitat /ˈhæbɪtæt/, wildlife /ˈwaɪldlaɪf/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P10",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "endangered",
+    "protection",
+    "pollution",
+    "organism"
+   ],
+   "answer": 3,
+   "explain": "organism /ˈɔːɡənɪzəm/ nhấn âm 1. endangered /ɪnˈdeɪndʒəd/, protection /prəˈtekʃn/, pollution /pəˈluːʃn/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P11",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "conservation",
+    "restoration",
+    "information",
+    "urbanisation"
+   ],
+   "answer": 3,
+   "explain": "urbanisation /ˌɜːbənaɪˈzeɪʃn/ nhấn âm 4. conservation /ˌkɒnsəˈveɪʃn/, restoration /ˌrestəˈreɪʃn/, information /ˌɪnfəˈmeɪʃn/ nhấn âm 3 (từ có đuôi -tion nhấn vào âm ngay trước đuôi).",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-P12",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "extinct",
+    "mangrove",
+    "restore",
+    "protect"
+   ],
+   "answer": 1,
+   "explain": "mangrove /ˈmæŋɡrəʊv/ nhấn âm 1. extinct /ɪkˈstɪŋkt/, restore /rɪˈstɔː(r)/, protect /prəˈtekt/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-E01",
+   "unit": 10,
+   "type": "error",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Coral reef</u> (A) are <u>home to</u> (B) many marine species <u>which</u> (C) depend <u>on</u> (D) them for food.",
+   "options": [
+    "A. Coral reef",
+    "B. home to",
+    "C. which",
+    "D. on"
+   ],
+   "answer": 0,
+   "explain": "Sai ở A: động từ 'are' số nhiều nên danh từ ghép phải chia số nhiều ở từ cuối → Coral reefs.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-E02",
+   "unit": 10,
+   "type": "error",
+   "topic": "Ecosystems and biodiversity",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>The wildlife</u> (A) in this national park <u>are</u> (B) <u>strictly</u> (C) protected <u>by</u> (D) law.",
+   "options": [
+    "A. The wildlife",
+    "B. are",
+    "C. strictly",
+    "D. by"
+   ],
+   "answer": 1,
+   "explain": "Sai ở B: 'wildlife' là danh từ không đếm được → động từ số ít: are → is.",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-E03",
+   "unit": 10,
+   "type": "error",
+   "topic": "Question tags (ôn tập)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nVisitors <u>are not allowed</u> (A) to feed the animals <u>in</u> (B) the park, <u>aren't</u> (C) <u>they</u> (D)?",
+   "options": [
+    "A. are not allowed",
+    "B. in",
+    "C. aren't",
+    "D. they"
+   ],
+   "answer": 2,
+   "explain": "Sai ở C: mệnh đề chính phủ định (are not allowed) → đuôi khẳng định: aren't they → are they.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-E04",
+   "unit": 10,
+   "type": "error",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Deforestation</u> (A) has <u>destroyed</u> (B) the natural habitats <u>of</u> (C) many <u>specie</u> (D).",
+   "options": [
+    "A. Deforestation",
+    "B. destroyed",
+    "C. of",
+    "D. specie"
+   ],
+   "answer": 3,
+   "explain": "Sai ở D: 'species' có dạng số ít và số nhiều giống nhau, không có 'specie' → many species.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-E05",
+   "unit": 10,
+   "type": "error",
+   "topic": "Compound nouns",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nMy two <u>brother-in-laws</u> (A) <u>work</u> (B) as rangers <u>at</u> (C) Cat Tien National Park, <u>which</u> (D) is in the south of Viet Nam.",
+   "options": [
+    "A. brother-in-laws",
+    "B. work",
+    "C. at",
+    "D. which"
+   ],
+   "answer": 0,
+   "explain": "Sai ở A: danh từ ghép 'brother-in-law' chia số nhiều ở danh từ đầu → brothers-in-law.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-E06",
+   "unit": 10,
+   "type": "error",
+   "topic": "Protecting the environment",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nWe should <u>raise</u> (A) people's <u>aware</u> (B) <u>of</u> (C) the need <u>to protect</u> (D) wetlands.",
+   "options": [
+    "A. raise",
+    "B. aware",
+    "C. of",
+    "D. to protect"
+   ],
+   "answer": 1,
+   "explain": "Sai ở B: sau sở hữu cách people's cần danh từ → awareness (raise awareness of = nâng cao nhận thức về).",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U10-E07",
+   "unit": 10,
+   "type": "error",
+   "topic": "Compound nouns",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nHeavy <u>rainfall</u> (A) and <u>rising</u> (B) temperatures <u>has</u> (C) <u>seriously</u> (D) affected the local ecosystem.",
+   "options": [
+    "A. rainfall",
+    "B. rising",
+    "C. has",
+    "D. seriously"
+   ],
+   "answer": 2,
+   "explain": "Sai ở C: chủ ngữ là hai danh từ nối bằng 'and' (rainfall and temperatures) → động từ số nhiều: has → have.",
+   "review": "Lớp 11 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G11U10-E08",
+   "unit": 10,
+   "type": "error",
+   "topic": "Question tags (ôn tập)",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nLet's <u>plant</u> (A) more trees <u>along</u> (B) the river <u>to prevent</u> (C) erosion, <u>will we</u> (D)?",
+   "options": [
+    "A. plant",
+    "B. along",
+    "C. to prevent",
+    "D. will we"
+   ],
+   "answer": 3,
+   "explain": "Sai ở D: câu bắt đầu bằng Let's → đuôi dùng 'shall we': will we → shall we.",
+   "review": "Lớp 11 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U10-R01",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Passive voice (present perfect)",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nPeople have cut down most of the trees in this forest.",
+   "options": [
+    "Most of the trees in this forest has been cut down.",
+    "Most of the trees in this forest have been cut down.",
+    "Most of the trees in this forest have cut down.",
+    "Hardly any trees in this forest have been cut down."
+   ],
+   "answer": 1,
+   "explain": "Câu bị động hiện tại hoàn thành: have been + V3; chủ ngữ 'most of the trees' số nhiều → have. 'has' sai hòa hợp; 'have cut down' thiếu been (thành chủ động, sai nghĩa); 'Hardly any' đổi nghĩa (hầu như không cây nào).",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-R02",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Modal verbs: don't have to",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt is not necessary for visitors to bring food into the park.",
+   "options": [
+    "Visitors don't have to bring food into the park.",
+    "Visitors mustn't bring food into the park.",
+    "Visitors must bring food into the park.",
+    "Visitors needn't to bring food into the park."
+   ],
+   "answer": 0,
+   "explain": "not necessary = không cần thiết → don't have to. mustn't = bị cấm (sai nghĩa); must = bắt buộc (ngược nghĩa); needn't + V nguyên mẫu không 'to'.",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-R03",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Conditional sentences with unless",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf we don't protect the wetlands, many birds will lose their habitats.",
+   "options": [
+    "Unless we don't protect the wetlands, many birds will lose their habitats.",
+    "If we protect the wetlands, many birds will lose their habitats.",
+    "Unless we protect the wetlands, many birds will lose their habitats.",
+    "Unless we protect the wetlands, many birds won't lose their habitats."
+   ],
+   "answer": 2,
+   "explain": "Unless = If … not, nên 'If we don't protect' = 'Unless we protect', mệnh đề chính giữ nguyên. 'Unless we don't' là phủ định kép; hai phương án còn lại sai nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-R04",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "too … to / so … that",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe national park is too large for us to explore in one day.",
+   "options": [
+    "The national park is so large that we can explore it in one day.",
+    "The national park is large enough for us to explore in one day.",
+    "The national park is such large that we can't explore it in one day.",
+    "The national park is so large that we can't explore it in one day."
+   ],
+   "answer": 3,
+   "explain": "too … to (quá … đến nỗi không thể) = so + adj + that + S + can't …; mệnh đề sau 'that' cần tân ngữ 'it'. Phương án 'can explore' và 'large enough' ngược nghĩa; 'such large' sai (such + (a) adj + N).",
+   "review": "Lớp 11 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G11U10-R05",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Present perfect: the first time",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThis is the first time I have visited a biosphere reserve.",
+   "options": [
+    "I visited a biosphere reserve for the first time years ago.",
+    "I have never visited a biosphere reserve before.",
+    "I have visited biosphere reserves many times.",
+    "I have ever visited a biosphere reserve before."
+   ],
+   "answer": 1,
+   "explain": "This is the first time + S + have V3 = S + have never V3 + before. Hai phương án 'years ago', 'many times' sai nghĩa; 'have ever … before' trong câu khẳng định sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 10 – Getting Started"
+  },
+  {
+   "id": "G11U10-R06",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Passive reporting structures",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt is said that the red-shanked douc is one of the most beautiful primates in the world.",
+   "options": [
+    "The red-shanked douc is said being one of the most beautiful primates in the world.",
+    "The red-shanked douc is saying to be one of the most beautiful primates in the world.",
+    "The red-shanked douc is said to be one of the most beautiful primates in the world.",
+    "The red-shanked douc said to be one of the most beautiful primates in the world."
+   ],
+   "answer": 2,
+   "explain": "Bị động kép: It is said that S + V (hiện tại) → S + is said + to V. 'is said being' sai dạng động từ; 'is saying' là chủ động; thiếu 'is' trước 'said' sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-R07",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Purpose: in order to",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nPoachers kill many elephants. They want to sell the elephants' tusks.",
+   "options": [
+    "Poachers kill many elephants so that to sell their tusks.",
+    "Poachers kill many elephants in order to sell their tusks.",
+    "Poachers kill many elephants although they want to sell their tusks.",
+    "Poachers want to kill many elephants, so they sell their tusks."
+   ],
+   "answer": 1,
+   "explain": "Câu 2 là mục đích của câu 1 → in order to + V. 'so that to' sai cấu trúc (so that + mệnh đề); 'although' sai quan hệ nghĩa; phương án cuối đảo quan hệ nhân quả.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-R08",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Non-defining relative clauses",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nCuc Phuong is Viet Nam's oldest national park. It was established in 1962.",
+   "options": [
+    "Cuc Phuong, that was established in 1962, is Viet Nam's oldest national park.",
+    "Cuc Phuong, which established in 1962, is Viet Nam's oldest national park.",
+    "Cuc Phuong, where was established in 1962, is Viet Nam's oldest national park.",
+    "Cuc Phuong, which was established in 1962, is Viet Nam's oldest national park."
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề quan hệ không xác định (có dấu phẩy) dùng 'which', không dùng 'that'; động từ phải ở bị động 'was established'; 'where' không làm chủ ngữ.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-R09",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Double comparatives",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nWe plant more trees. The air will become cleaner.",
+   "options": [
+    "The more trees we plant, the cleaner the air will become.",
+    "The more trees we plant, the air will become cleaner.",
+    "The more we plant trees, the more clean the air will become.",
+    "More trees we plant, cleaner the air will become."
+   ],
+   "answer": 0,
+   "explain": "So sánh kép: The + so sánh hơn + S + V, the + so sánh hơn + S + V. Vế 2 thiếu 'the cleaner' ở phương án 2; 'more clean' sai (clean → cleaner); phương án cuối thiếu 'the'.",
+   "review": "Lớp 11 · Unit 10 – Writing"
+  },
+  {
+   "id": "G11U10-R10",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Linking words: cause and result",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe coral reefs are dying. Many fish species are losing their homes.",
+   "options": [
+    "As the coral reefs are dying, many fish species are losing their homes.",
+    "Although the coral reefs are dying, many fish species are losing their homes.",
+    "The coral reefs are dying, but many fish species are not losing their homes.",
+    "Because of the coral reefs are dying, many fish species are losing their homes."
+   ],
+   "answer": 0,
+   "explain": "Hai câu có quan hệ nguyên nhân – kết quả → As (vì) + mệnh đề. Although (mặc dù) và 'but … not' sai nghĩa; 'Because of' + danh từ/cụm danh từ, không + mệnh đề.",
+   "review": "Lớp 11 · Unit 10 – Reading"
+  },
+  {
+   "id": "G11U10-C01",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Ecosystems and biodiversity",
+   "level": 1,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "has",
+    "makes",
+    "is",
+    "lives"
+   ],
+   "answer": 2,
+   "explain": "be home to = là nơi sinh sống của: It is … and is home to thousands of species. has/makes/lives không đi với 'home to'.",
+   "review": "Lớp 11 · Unit 10 – Reading",
+   "pid": "G11U10-P1",
+   "blank": 1
+  },
+  {
+   "id": "G11U10-C02",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Compound nouns",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "chain food",
+    "food chain",
+    "food shop",
+    "foodstuff"
+   ],
+   "answer": 1,
+   "explain": "Câu sau mô tả côn trùng ăn cây, chim ăn côn trùng… → food chain (chuỗi thức ăn). 'chain food' sai trật tự; food shop (cửa hàng thực phẩm), foodstuff (thực phẩm) sai nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary",
+   "pid": "G11U10-P1",
+   "blank": 2
+  },
+  {
+   "id": "G11U10-C03",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "dies",
+    "gives",
+    "runs",
+    "goes"
+   ],
+   "answer": 0,
+   "explain": "die out = tuyệt chủng: If one species dies out… give out (cạn kiệt/phát ra), run out (hết), go out (tắt, đi ra ngoài) không dùng cho loài sinh vật.",
+   "review": "Lớp 11 · Unit 10 – Looking Back",
+   "pid": "G11U10-P1",
+   "blank": 3
+  },
+  {
+   "id": "G11U10-C04",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Relative pronouns",
+   "level": 3,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "which",
+    "where",
+    "that",
+    "when"
+   ],
+   "answer": 1,
+   "explain": "Chỗ trống thay cho nơi chốn (the Rescue Center) và sau nó là mệnh đề đầy đủ (injured monkeys are cared for) → where. which/that cần mệnh đề thiếu chủ ngữ/tân ngữ; when chỉ thời gian.",
+   "review": "Lớp 11 · Unit 10 – Reading",
+   "pid": "G11U10-P1",
+   "blank": 4
+  },
+  {
+   "id": "G11U10-C05",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment",
+   "level": 2,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "threatens",
+    "threats",
+    "threatening",
+    "threatened"
+   ],
+   "answer": 1,
+   "explain": "Sau tính từ so sánh nhất 'the biggest' cần danh từ; chủ ngữ số nhiều 'are' → threats (những mối đe dọa); 'threat to' là collocation đúng.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary",
+   "pid": "G11U10-P1",
+   "blank": 5
+  },
+  {
+   "id": "G11U10-C06",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Ecosystems and biodiversity",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "ecosystem",
+    "ecological",
+    "ecosystems",
+    "ecologists"
+   ],
+   "answer": 2,
+   "explain": "'among the most productive …' cần danh từ số nhiều chỉ vật → ecosystems. ecosystem số ít không đi với 'among'; ecological là tính từ; ecologists = nhà sinh thái học (người), sai nghĩa.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary",
+   "pid": "G11U10-P2",
+   "blank": 6
+  },
+  {
+   "id": "G11U10-C07",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "of",
+    "with",
+    "at",
+    "from"
+   ],
+   "answer": 3,
+   "explain": "protect sb/sth from sth = bảo vệ ai/cái gì khỏi cái gì. of/with/at không đi với protect theo nghĩa này.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary",
+   "pid": "G11U10-P2",
+   "blank": 7
+  },
+  {
+   "id": "G11U10-C08",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "climate",
+    "weather",
+    "temperature",
+    "season"
+   ],
+   "answer": 0,
+   "explain": "climate change = biến đổi khí hậu (collocation cố định). weather/temperature/season change không phải cụm thông dụng với nghĩa này.",
+   "review": "Lớp 11 · Unit 10 – Language, Vocabulary",
+   "pid": "G11U10-P2",
+   "blank": 8
+  },
+  {
+   "id": "G11U10-C09",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Linking words",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "Therefore",
+    "Moreover",
+    "For example",
+    "However"
+   ],
+   "answer": 3,
+   "explain": "Câu trước nói lợi ích của rừng ngập mặn, câu sau nói rừng bị chặt phá → quan hệ tương phản → However. Therefore (vì vậy), Moreover (hơn nữa), For example (ví dụ) không phù hợp.",
+   "review": "Lớp 11 · Unit 10 – Reading",
+   "pid": "G11U10-P2",
+   "blank": 9
+  },
+  {
+   "id": "G11U10-C10",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Protecting the environment",
+   "level": 1,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "restore",
+    "destroy",
+    "reduce",
+    "remove"
+   ],
+   "answer": 0,
+   "explain": "Trồng hàng triệu cây non nhằm khôi phục rừng → restore. destroy, reduce, remove ngược nghĩa với 'planting millions of young trees'.",
+   "review": "Lớp 11 · Unit 10 – Writing",
+   "pid": "G11U10-P2",
+   "blank": 10
+  }
+ ]
+}

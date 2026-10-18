@@ -1,0 +1,1776 @@
+{
+ "grade": 12,
+ "unit": 8,
+ "name": "Wildlife Conservation",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Endangered species and threats",
+  "Wildlife conservation"
+ ],
+ "pron": "Assimilation",
+ "grammar": [
+  "Adverbial clauses of condition",
+  "Adverbial clauses of comparison"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề trạng ngữ chỉ điều kiện (Adverbial clauses of condition)",
+   "page": 103,
+   "body": "Nêu điều kiện để sự việc ở mệnh đề chính xảy ra.\n<b>Liên từ:</b> if (nếu) · unless (= if … not, trừ khi) · as long as / so long as (miễn là) · provided (that) / providing (that) (với điều kiện là) · on condition that (với điều kiện là – trang trọng).\n<b>Thì:</b> nói về tương lai thì mệnh đề điều kiện dùng HIỆN TẠI ĐƠN, không dùng will: If the forest <i>is</i> cut down, many species <i>will</i> lose their homes. (KHÔNG: If the forest will be cut down…)\n<b>Ví dụ:</b>\n• Unless we take action now, tigers will die out. (= If we don't take action…)\n• Rhinos can survive as long as poaching is stopped.\n• Visitors can enter the park provided that they follow the rules.\n• The turtles will be released on condition that they are healthy.\n<b>Lỗi hay gặp:</b> dùng 'unless' với phủ định (Unless we don't… ✗); dùng 'will' sau if/unless/as long as; viết 'provide that' thay vì 'provided/providing that'. 'In case' (phòng khi) KHÔNG đồng nghĩa với 'if'."
+  },
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề trạng ngữ chỉ so sánh (Adverbial clauses of comparison)",
+   "page": 103,
+   "body": "So sánh hai sự việc, mệnh đề sau bắt đầu bằng <b>as</b> hoặc <b>than</b>.\n<b>So sánh bằng:</b> as + adj/adv + as + mệnh đề: We should act as quickly as we can. · Phủ định: not as/so + adj/adv + as: The rhino population is not as large as it used to be.\n<b>So sánh hơn/kém:</b> adj-er / more/less + adj/adv + than + mệnh đề: Tigers are much more endangered than most people think. · There are fewer tigers today than there were 100 years ago.\n• Mệnh đề sau than/as thường lược bớt hoặc dùng trợ động từ: Elephants cannot run as fast as cheetahs (can).\n• Nhấn mạnh so sánh hơn: much / far / a lot + so sánh hơn.\n• Mở rộng: The + so sánh hơn …, the + so sánh hơn …: The more people know about wildlife, the more they want to protect it.\n<b>Lỗi hay gặp:</b> dùng 'as' với so sánh hơn (more … as ✗); 'more small' thay vì 'smaller'; nhầm 'than' với 'then'; 'as more … as' ✗."
+  },
+  {
+   "kind": "pron",
+   "title": "Đồng hóa âm (Assimilation)",
+   "page": 102,
+   "body": "Khi nói nhanh, âm cuối của một từ thay đổi cho giống âm đầu của từ tiếp theo để dễ phát âm.\n• /n/ → /m/ trước /p, b, m/: ten pandas /tem ˈpændəz/, green bag.\n• /n/ → /ŋ/ trước /k, ɡ/: green grass /ɡriːŋ ɡrɑːs/, in case.\n• /t/ → /p/ trước /p, b, m/: that bird /ðæp bɜːd/; /t/ → /k/ trước /k, ɡ/: that cat.\n• /d/ → /b/ trước /p, b, m/: good man /ɡʊb mæn/; /d/ → /ɡ/ trước /k, ɡ/: bad girl.\n• /s/ → /ʃ/ trước /ʃ, j/: this shop; /z/ → /ʒ/: these shoes.\n• Âm nhập (coalescence): /t/ + /j/ → /tʃ/: don't you; /d/ + /j/ → /dʒ/: did you, would you.\nLưu ý: âm KHÔNG đổi khi từ sau bắt đầu bằng nguyên âm hoặc /t, d, s, l, h/… (ten elephants, ten tigers)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 102,
+   "body": "• endangered / threatened / protected species; critically endangered\n• become extinct = die out; face extinction; on the verge of extinction\n• habitat loss / destruction; natural habitat\n• illegal hunting / poaching / wildlife trade\n• in captivity ↔ in the wild; release (animals) into the wild; breed in captivity\n• raise awareness of; take action; pose a threat to; put … at risk\n• the survival of; the number/population of … has declined\n• ban the trade in ivory / rhino horn; enforce laws\n• Word family: conserve – conservation – conservationist; survive – survival – survivor; threaten – threat – threatened; extinct – extinction; endanger – endangered."
+  },
+  {
+   "kind": "vocab",
+   "title": "Sách Đỏ IUCN (IUCN Red List)",
+   "page": 109,
+   "body": "Liên minh Bảo tồn Thiên nhiên Quốc tế (IUCN) phân loại mức độ đe dọa: Least Concern (ít quan tâm) → Near Threatened (sắp bị đe dọa) → Vulnerable (sắp nguy cấp) → Endangered (nguy cấp) → Critically Endangered (cực kỳ nguy cấp) → Extinct in the Wild (tuyệt chủng ngoài tự nhiên) → Extinct (tuyệt chủng). Loài ở Việt Nam thường gặp trong bài: saola (sao la), Javan rhino (tê giác Java – đã tuyệt chủng ở VN năm 2010), pangolin (tê tê), tiger, Asian elephant, sea turtle."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Gặp 'unless' → nghĩ ngay 'if … not'; mệnh đề sau unless KHÔNG dùng phủ định nữa và KHÔNG dùng will.\n• as long as / provided (that) / providing / on condition that ≈ 'only if' – chọn khi câu nói về điều kiện bắt buộc.\n• Thấy 'than' → trước đó phải là so sánh hơn (-er/more/less/fewer); thấy 'as … as' → tính từ/trạng từ ở dạng nguyên.\n• Viết lại câu: 'If … not' ⇄ 'Unless'; 'A is smaller than B' ⇄ 'A is not as large as B'; 'Without + N, …' ⇄ 'Unless/If … not …'.\n• Từ vựng: phân biệt endangered (có nguy cơ) và extinct (đã tuyệt chủng); habitat (môi trường sống) và habit (thói quen); horn (sừng tê giác) và tusk (ngà voi).\n• Phát âm: đuôi -ed sau /t, d/ đọc /ɪd/ (protected), sau âm hữu thanh đọc /d/ (endangered)."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "wildlife",
+   "pos": "n",
+   "ipa": "/ˈwaɪldlaɪf/",
+   "vi": "động vật hoang dã, đời sống hoang dã",
+   "ex": "We should do more to protect wildlife in our country.",
+   "page": 100
+  },
+  {
+   "w": "conservation",
+   "pos": "n",
+   "ipa": "/ˌkɒnsəˈveɪʃn/",
+   "vi": "sự bảo tồn",
+   "ex": "Wildlife conservation is everyone's responsibility.",
+   "page": 100
+  },
+  {
+   "w": "conserve",
+   "pos": "v",
+   "ipa": "/kənˈsɜːv/",
+   "vi": "bảo tồn",
+   "ex": "We must conserve the forests where these animals live.",
+   "page": 102
+  },
+  {
+   "w": "conservationist",
+   "pos": "n",
+   "ipa": "/ˌkɒnsəˈveɪʃənɪst/",
+   "vi": "nhà bảo tồn",
+   "ex": "Conservationists are trying to save the last Javan rhinos.",
+   "page": 104
+  },
+  {
+   "w": "endangered",
+   "pos": "adj",
+   "ipa": "/ɪnˈdeɪndʒəd/",
+   "vi": "có nguy cơ tuyệt chủng",
+   "ex": "The saola is one of the most endangered animals in the world.",
+   "page": 100
+  },
+  {
+   "w": "critically endangered",
+   "pos": "adj phr",
+   "ipa": "/ˌkrɪtɪkli ɪnˈdeɪndʒəd/",
+   "vi": "cực kỳ nguy cấp",
+   "ex": "Pangolins are listed as critically endangered.",
+   "page": 109
+  },
+  {
+   "w": "vulnerable",
+   "pos": "adj",
+   "ipa": "/ˈvʌlnərəbl/",
+   "vi": "sắp nguy cấp; dễ bị tổn thương",
+   "ex": "Some species are classified as vulnerable on the Red List.",
+   "page": 109
+  },
+  {
+   "w": "extinct",
+   "pos": "adj",
+   "ipa": "/ɪkˈstɪŋkt/",
+   "vi": "tuyệt chủng",
+   "ex": "The dodo became extinct in the 17th century.",
+   "page": 102
+  },
+  {
+   "w": "extinction",
+   "pos": "n",
+   "ipa": "/ɪkˈstɪŋkʃn/",
+   "vi": "sự tuyệt chủng",
+   "ex": "Many species are facing extinction because of hunting.",
+   "page": 102
+  },
+  {
+   "w": "die out",
+   "pos": "phr v",
+   "ipa": "/daɪ aʊt/",
+   "vi": "chết dần, tuyệt chủng",
+   "ex": "Tigers may die out if we do not protect them.",
+   "page": 101
+  },
+  {
+   "w": "species",
+   "pos": "n",
+   "ipa": "/ˈspiːʃiːz/",
+   "vi": "loài",
+   "ex": "There are thousands of endangered species in the world.",
+   "page": 100
+  },
+  {
+   "w": "habitat",
+   "pos": "n",
+   "ipa": "/ˈhæbɪtæt/",
+   "vi": "môi trường sống (của động, thực vật)",
+   "ex": "Forests are the natural habitat of many animals.",
+   "page": 102
+  },
+  {
+   "w": "habitat loss",
+   "pos": "n phr",
+   "ipa": "/ˈhæbɪtæt lɒs/",
+   "vi": "sự mất môi trường sống",
+   "ex": "Habitat loss is a serious threat to tigers.",
+   "page": 106
+  },
+  {
+   "w": "deforestation",
+   "pos": "n",
+   "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+   "vi": "nạn phá rừng",
+   "ex": "Deforestation destroys the homes of many species.",
+   "page": 106
+  },
+  {
+   "w": "poaching",
+   "pos": "n",
+   "ipa": "/ˈpəʊtʃɪŋ/",
+   "vi": "nạn săn bắt trộm",
+   "ex": "Poaching is the main reason why rhinos are disappearing.",
+   "page": 104
+  },
+  {
+   "w": "poacher",
+   "pos": "n",
+   "ipa": "/ˈpəʊtʃə(r)/",
+   "vi": "kẻ săn trộm",
+   "ex": "Poachers kill elephants for their ivory.",
+   "page": 104
+  },
+  {
+   "w": "hunt",
+   "pos": "v",
+   "ipa": "/hʌnt/",
+   "vi": "săn bắt",
+   "ex": "Tigers are hunted for their skin and bones.",
+   "page": 106
+  },
+  {
+   "w": "illegal",
+   "pos": "adj",
+   "ipa": "/ɪˈliːɡl/",
+   "vi": "bất hợp pháp",
+   "ex": "Buying and selling ivory is illegal in many countries.",
+   "page": 104
+  },
+  {
+   "w": "wildlife trade",
+   "pos": "n phr",
+   "ipa": "/ˈwaɪldlaɪf treɪd/",
+   "vi": "buôn bán động vật hoang dã",
+   "ex": "The illegal wildlife trade threatens pangolins.",
+   "page": 104
+  },
+  {
+   "w": "ivory",
+   "pos": "n",
+   "ipa": "/ˈaɪvəri/",
+   "vi": "ngà voi",
+   "ex": "Never buy souvenirs made of ivory.",
+   "page": 104
+  },
+  {
+   "w": "horn",
+   "pos": "n",
+   "ipa": "/hɔːn/",
+   "vi": "sừng",
+   "ex": "Rhinos are killed for their horns.",
+   "page": 104
+  },
+  {
+   "w": "threat",
+   "pos": "n",
+   "ipa": "/θret/",
+   "vi": "mối đe dọa",
+   "ex": "Climate change is a major threat to wildlife.",
+   "page": 102
+  },
+  {
+   "w": "threaten",
+   "pos": "v",
+   "ipa": "/ˈθretn/",
+   "vi": "đe dọa",
+   "ex": "Pollution threatens the survival of sea turtles.",
+   "page": 102
+  },
+  {
+   "w": "survival",
+   "pos": "n",
+   "ipa": "/səˈvaɪvl/",
+   "vi": "sự sống sót, sự tồn tại",
+   "ex": "The survival of tigers depends on protecting their forests.",
+   "page": 106
+  },
+  {
+   "w": "survive",
+   "pos": "v",
+   "ipa": "/səˈvaɪv/",
+   "vi": "sống sót, tồn tại",
+   "ex": "Few animals can survive without their natural habitat.",
+   "page": 106
+  },
+  {
+   "w": "decline",
+   "pos": "v",
+   "ipa": "/dɪˈklaɪn/",
+   "vi": "suy giảm",
+   "ex": "The number of wild tigers has declined sharply.",
+   "page": 106
+  },
+  {
+   "w": "population",
+   "pos": "n",
+   "ipa": "/ˌpɒpjuˈleɪʃn/",
+   "vi": "số lượng (cá thể của một loài)",
+   "ex": "The elephant population in Viet Nam is very small.",
+   "page": 104
+  },
+  {
+   "w": "biodiversity",
+   "pos": "n",
+   "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+   "vi": "đa dạng sinh học",
+   "ex": "National parks help to protect biodiversity.",
+   "page": 102
+  },
+  {
+   "w": "ecosystem",
+   "pos": "n",
+   "ipa": "/ˈiːkəʊsɪstəm/",
+   "vi": "hệ sinh thái",
+   "ex": "Every species plays a role in the ecosystem.",
+   "page": 102
+  },
+  {
+   "w": "national park",
+   "pos": "n phr",
+   "ipa": "/ˌnæʃnəl ˈpɑːk/",
+   "vi": "vườn quốc gia",
+   "ex": "Cuc Phuong is the oldest national park in Viet Nam.",
+   "page": 101
+  },
+  {
+   "w": "sanctuary",
+   "pos": "n",
+   "ipa": "/ˈsæŋktʃuəri/",
+   "vi": "khu bảo tồn, nơi trú ẩn cho động vật",
+   "ex": "Injured animals are cared for at the wildlife sanctuary.",
+   "page": 105
+  },
+  {
+   "w": "captivity",
+   "pos": "n",
+   "ipa": "/kæpˈtɪvəti/",
+   "vi": "tình trạng nuôi nhốt",
+   "ex": "Some rare animals are bred in captivity.",
+   "page": 104
+  },
+  {
+   "w": "release",
+   "pos": "v",
+   "ipa": "/rɪˈliːs/",
+   "vi": "thả (về tự nhiên)",
+   "ex": "The turtles were released into the wild.",
+   "page": 104
+  },
+  {
+   "w": "the wild",
+   "pos": "n",
+   "ipa": "/ðə waɪld/",
+   "vi": "môi trường hoang dã, tự nhiên",
+   "ex": "Very few saolas have been seen in the wild.",
+   "page": 104
+  },
+  {
+   "w": "rescue",
+   "pos": "v",
+   "ipa": "/ˈreskjuː/",
+   "vi": "giải cứu",
+   "ex": "Volunteers rescued ten bears from a farm.",
+   "page": 105
+  },
+  {
+   "w": "predator",
+   "pos": "n",
+   "ipa": "/ˈpredətə(r)/",
+   "vi": "động vật săn mồi",
+   "ex": "Tigers are top predators in the forest.",
+   "page": 106
+  },
+  {
+   "w": "prey",
+   "pos": "n",
+   "ipa": "/preɪ/",
+   "vi": "con mồi",
+   "ex": "Deer are common prey for tigers.",
+   "page": 106
+  },
+  {
+   "w": "ban",
+   "pos": "v",
+   "ipa": "/bæn/",
+   "vi": "cấm",
+   "ex": "The government has banned the trade in rhino horn.",
+   "page": 108
+  },
+  {
+   "w": "enforce",
+   "pos": "v",
+   "ipa": "/ɪnˈfɔːs/",
+   "vi": "thực thi (luật)",
+   "ex": "Laws against poaching must be strictly enforced.",
+   "page": 108
+  },
+  {
+   "w": "raise awareness (of)",
+   "pos": "phr",
+   "ipa": "/reɪz əˈweənəs/",
+   "vi": "nâng cao nhận thức (về)",
+   "ex": "The event aims to raise awareness of endangered species.",
+   "page": 105
+  },
+  {
+   "w": "take action",
+   "pos": "phr",
+   "ipa": "/teɪk ˈækʃn/",
+   "vi": "hành động",
+   "ex": "We must take action now to save wildlife.",
+   "page": 105
+  }
+ ],
+ "passages": [
+  {
+   "id": "G12U8-P1",
+   "title": "Saving the saola",
+   "text": "The saola, often called the \"Asian unicorn\", is one of the rarest mammals in the world. It lives only in the Truong Son Mountains along the border between Viet Nam and Laos. Scientists first discovered it in 1992, and since then very few people have seen one in the wild. Today the saola is listed as critically (1) _____ on the IUCN Red List. Its biggest threat is not hunting for its meat but the wire traps that hunters set for other animals. (2) _____ these traps are removed, the saola may disappear before we learn much about it. Forest rangers and local volunteers now walk through the forest to find and destroy thousands of traps every year. Conservationists also hope to start a breeding programme in (3) _____, so that some animals can later be released back into the wild. However, saolas are extremely shy, and finding one is much more difficult (4) _____ most people imagine. The species can survive only as long as its forest home (5) _____ protected."
+  },
+  {
+   "id": "G12U8-P2",
+   "title": "How teenagers can help wildlife",
+   "text": "You don't have to be a scientist to help protect wildlife. There are many simple things that teenagers can do every day. First, you can help (6) _____ awareness of endangered species by sharing reliable information on social media. Many people still buy products made from ivory or rhino horn (7) _____ they do not know how much harm the trade causes. Second, never buy souvenirs made from wild animals, and ask your friends and family to do the same. If nobody buys these products, poachers will have no reason to (8) _____ the animals. Third, you can volunteer at a local rescue centre, (9) _____ injured animals are treated before they are returned to their natural habitats. Finally, try to reduce, reuse and recycle, because pollution and climate change also put wildlife at risk. Remember that small actions add up. The more people take part, (10) _____ chance endangered animals will have to survive."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G12U8-V01",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 1,
+   "q": "Animals that are _____ are at risk of disappearing completely from the Earth.",
+   "options": [
+    "domestic",
+    "endangered",
+    "common",
+    "extinct"
+   ],
+   "answer": 1,
+   "explain": "'endangered' = có nguy cơ tuyệt chủng, đúng nghĩa 'at risk of disappearing'. 'extinct' là đã tuyệt chủng rồi; 'domestic' (vật nuôi) và 'common' (phổ biến) không hợp nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V02",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 1,
+   "q": "The dodo became _____ in the 17th century; there are none left today.",
+   "options": [
+    "extinct",
+    "endangered",
+    "vulnerable",
+    "protected"
+   ],
+   "answer": 0,
+   "explain": "'there are none left' (không còn con nào) → 'extinct' (tuyệt chủng). endangered/vulnerable chỉ là có nguy cơ; protected = được bảo vệ.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V03",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 1,
+   "q": "Illegal _____ of elephants for their ivory is still a major problem in Africa.",
+   "options": [
+    "farming",
+    "feeding",
+    "breeding",
+    "poaching"
+   ],
+   "answer": 3,
+   "explain": "'poaching' = săn bắt trộm, hợp với 'illegal' và 'for their ivory'. farming/breeding/feeding (nuôi, nhân giống, cho ăn) không phải nguyên nhân giết voi lấy ngà.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-V04",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 2,
+   "q": "Cutting down forests destroys the natural _____ of many animals and plants.",
+   "options": [
+    "habits",
+    "homelands",
+    "habitats",
+    "inhabitants"
+   ],
+   "answer": 2,
+   "explain": "'natural habitat' = môi trường sống tự nhiên. 'habits' = thói quen; 'inhabitants' = cư dân (là chính các loài, không bị 'phá' theo nghĩa này); 'homelands' = quê hương (dùng cho con người).",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V05",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "Some rare animals are kept in _____ so that they can breed safely.",
+   "options": [
+    "activity",
+    "captivity",
+    "capacity",
+    "capture"
+   ],
+   "answer": 1,
+   "explain": "Cụm 'in captivity' = trong điều kiện nuôi nhốt. 'capacity' = sức chứa; 'capture' = sự bắt giữ; 'activity' = hoạt động.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-V06",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "The aim of the festival is to raise _____ of the need to protect wildlife.",
+   "options": [
+    "awareness",
+    "information",
+    "news",
+    "notice"
+   ],
+   "answer": 0,
+   "explain": "Collocation 'raise awareness of' = nâng cao nhận thức về. Các từ còn lại không đi với 'raise … of' theo nghĩa này.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V07",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 2,
+   "q": "If we don't act now, many species will _____ before the end of this century.",
+   "options": [
+    "give in",
+    "run over",
+    "pass by",
+    "die out"
+   ],
+   "answer": 3,
+   "explain": "'die out' = tuyệt chủng, chết dần hết. pass by = đi ngang qua; run over = cán qua; give in = chịu thua.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V08",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 2,
+   "q": "The _____ of tigers depends on how well we protect their forests.",
+   "options": [
+    "survive",
+    "surviving",
+    "survival",
+    "survivor"
+   ],
+   "answer": 2,
+   "explain": "Sau 'The' và trước 'of' cần danh từ chỉ sự việc → 'survival' (sự sống còn). 'survive' là động từ; 'surviving' là tính từ/V-ing; 'survivor' là người/vật sống sót – sai nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V09",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 1,
+   "q": "Wildlife _____ is the responsibility of every citizen, not just the government.",
+   "options": [
+    "conservative",
+    "conservation",
+    "conserved",
+    "conserve"
+   ],
+   "answer": 1,
+   "explain": "Cần danh từ làm chủ ngữ: 'wildlife conservation' = bảo tồn động vật hoang dã. 'conserve' (v), 'conservative' (adj: bảo thủ), 'conserved' (V-ed) đều sai từ loại.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V10",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 2,
+   "q": "Rhinos are often killed for their _____, which some people wrongly believe can cure diseases.",
+   "options": [
+    "horns",
+    "tusks",
+    "feathers",
+    "shells"
+   ],
+   "answer": 0,
+   "explain": "Tê giác bị giết lấy 'horns' (sừng). 'tusks' là ngà (voi); feathers = lông vũ; shells = mai, vỏ.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-V11",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nThe number of wild tigers has <u>declined</u> sharply over the last century.",
+   "options": [
+    "recovered",
+    "remained",
+    "increased",
+    "decreased"
+   ],
+   "answer": 3,
+   "explain": "'decline' = suy giảm ≈ 'decrease'. increased (tăng) trái nghĩa; remained (giữ nguyên), recovered (phục hồi) sai nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Looking Back"
+  },
+  {
+   "id": "G12U8-V12",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nHunting rare animals is <u>illegal</u> in Viet Nam.",
+   "options": [
+    "banned",
+    "cruel",
+    "legal",
+    "dangerous"
+   ],
+   "answer": 2,
+   "explain": "'illegal' (bất hợp pháp) trái nghĩa với 'legal' (hợp pháp). 'banned' (bị cấm) gần nghĩa; dangerous, cruel không phải từ trái nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Looking Back"
+  },
+  {
+   "id": "G12U8-V13",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nThe government has <u>banned</u> the trade in ivory and rhino horn.",
+   "options": [
+    "encouraged",
+    "prohibited",
+    "reduced",
+    "allowed"
+   ],
+   "answer": 1,
+   "explain": "'ban' = cấm ≈ 'prohibit'. allowed (cho phép), encouraged (khuyến khích) ngược nghĩa; reduced (giảm) không đồng nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Looking Back"
+  },
+  {
+   "id": "G12U8-V14",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 1,
+   "q": "The national park was set up to _____ endangered species and their habitats.",
+   "options": [
+    "protect",
+    "hunt",
+    "harm",
+    "threaten"
+   ],
+   "answer": 0,
+   "explain": "Vườn quốc gia được lập ra để 'protect' (bảo vệ) các loài nguy cấp. harm, hunt, threaten (làm hại, săn, đe dọa) trái mục đích.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V15",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "A wildlife _____ is a protected place where injured or rescued wild animals are cared for before being returned to nature.",
+   "options": [
+    "circus",
+    "farm",
+    "market",
+    "sanctuary"
+   ],
+   "answer": 3,
+   "explain": "'wildlife sanctuary' = khu bảo tồn/cứu hộ động vật hoang dã. market (chợ), circus (rạp xiếc), farm (trang trại) không phải nơi chăm sóc rồi thả về tự nhiên.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V16",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "_____ is the variety of plants and animals living in a particular area.",
+   "options": [
+    "Agriculture",
+    "Deforestation",
+    "Biodiversity",
+    "Pollution"
+   ],
+   "answer": 2,
+   "explain": "Định nghĩa 'sự đa dạng của thực vật và động vật trong một khu vực' là 'biodiversity' (đa dạng sinh học). Pollution = ô nhiễm; Deforestation = phá rừng; Agriculture = nông nghiệp.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V17",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "After three months of treatment, the sea turtles were _____ into the wild.",
+   "options": [
+    "rescued",
+    "released",
+    "relieved",
+    "removed"
+   ],
+   "answer": 1,
+   "explain": "Collocation 'release … into the wild' = thả về tự nhiên. relieved = nhẹ nhõm; removed = loại bỏ; 'rescued' (được cứu) không đi với 'into the wild'.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-V18",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 2,
+   "q": "Climate change poses a serious _____ to polar bears and other Arctic animals.",
+   "options": [
+    "threat",
+    "threatening",
+    "threatened",
+    "threaten"
+   ],
+   "answer": 0,
+   "explain": "Collocation 'pose a threat to' = gây ra mối đe dọa cho; sau 'a serious' cần danh từ → 'threat'. Các dạng còn lại là động từ/tính từ.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V19",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Endangered species and threats",
+   "level": 1,
+   "q": "_____ are animals that kill and eat other animals.",
+   "options": [
+    "Prey",
+    "Pets",
+    "Poachers",
+    "Predators"
+   ],
+   "answer": 3,
+   "explain": "'predators' = động vật săn mồi. 'prey' là con mồi; 'pets' là thú cưng; 'poachers' là kẻ săn trộm (con người).",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-V20",
+   "unit": 8,
+   "type": "vocab",
+   "topic": "Wildlife conservation",
+   "level": 2,
+   "q": "It is time for all of us to take _____ to save endangered animals before it is too late.",
+   "options": [
+    "place",
+    "notice",
+    "action",
+    "turns"
+   ],
+   "answer": 2,
+   "explain": "Collocation 'take action' = hành động. take place = diễn ra; take turns = lần lượt; take notice = chú ý – không hợp ngữ cảnh 'to save…'.",
+   "review": "Lớp 12 · Unit 8 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U8-G01",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "_____ we protect their habitats, tigers will die out in the near future.",
+   "options": [
+    "As long as",
+    "Unless",
+    "If",
+    "Provided that"
+   ],
+   "answer": 1,
+   "explain": "'Unless' = if … not: Nếu chúng ta không bảo vệ môi trường sống, hổ sẽ tuyệt chủng. If/As long as/Provided that làm câu thành 'nếu bảo vệ thì hổ tuyệt chủng' – vô lý.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G02",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 1,
+   "q": "Rhinos can survive _____ poaching is stopped.",
+   "options": [
+    "as long as",
+    "so that",
+    "although",
+    "unless"
+   ],
+   "answer": 0,
+   "explain": "'as long as' = miễn là: tê giác có thể sống sót miễn là nạn săn trộm bị chấm dứt. 'unless' ngược nghĩa; 'although' (mặc dù), 'so that' (để) không chỉ điều kiện.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G03",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "You can take photos in the sanctuary _____ you don't use a flash.",
+   "options": [
+    "in order that",
+    "even if",
+    "unless",
+    "provided that"
+   ],
+   "answer": 3,
+   "explain": "'provided that' = với điều kiện là: được chụp ảnh với điều kiện không dùng đèn flash. 'unless you don't…' sai logic; 'even if' (ngay cả khi) và 'in order that' (để) sai nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G04",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 1,
+   "q": "If the forest _____ down, many species will lose their homes.",
+   "options": [
+    "was cut",
+    "cuts",
+    "is cut",
+    "will be cut"
+   ],
+   "answer": 2,
+   "explain": "Câu điều kiện loại 1: mệnh đề if dùng hiện tại đơn, ở đây bị động → 'is cut'. Không dùng will trong mệnh đề if; 'was cut' sai thì; 'cuts' là chủ động – rừng không tự chặt.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G05",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Unless we _____ action now, it will be too late to save the saola.",
+   "options": [
+    "took",
+    "take",
+    "will take",
+    "don't take"
+   ],
+   "answer": 1,
+   "explain": "Sau 'unless' (= if not) dùng động từ khẳng định, thì hiện tại đơn → 'take'. 'don't take' thành phủ định kép; không dùng will; 'took' sai thì.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G06",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Visitors are allowed to enter the national park on condition that they _____ the rules.",
+   "options": [
+    "follow",
+    "following",
+    "will follow",
+    "followed"
+   ],
+   "answer": 0,
+   "explain": "Sau 'on condition that' dùng hiện tại đơn để chỉ điều kiện → 'follow'. Không dùng will; 'followed' sai thì; 'following' thiếu động từ chia.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G07",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Providing that enough funding _____ available, the centre will release 50 turtles next year.",
+   "options": [
+    "was",
+    "will be",
+    "be",
+    "is"
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề điều kiện với 'providing that' nói về tương lai dùng hiện tại đơn → 'is'. 'will be' không dùng trong mệnh đề điều kiện; 'was' sai thì; 'be' thiếu chia.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G08",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Tigers will not survive in the wild _____ their forests are protected.",
+   "options": [
+    "as long as",
+    "if",
+    "unless",
+    "provided"
+   ],
+   "answer": 2,
+   "explain": "Hổ sẽ không sống sót TRỪ KHI rừng được bảo vệ → 'unless'. 'if/as long as/provided' tạo nghĩa 'nếu rừng được bảo vệ thì hổ không sống sót' – vô lý.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G09",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 1,
+   "q": "Elephants cannot run as fast _____ cheetahs can.",
+   "options": [
+    "so",
+    "as",
+    "like",
+    "than"
+   ],
+   "answer": 1,
+   "explain": "Cấu trúc so sánh bằng: as + adv + as → 'as fast as'. 'than' dùng với so sánh hơn; 'so' và 'like' không đi sau 'as fast'.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G10",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 1,
+   "q": "The problem of poaching is more serious _____ most people think.",
+   "options": [
+    "than",
+    "that",
+    "then",
+    "as"
+   ],
+   "answer": 0,
+   "explain": "Có 'more serious' (so sánh hơn) → dùng 'than'. 'as' dùng cho so sánh bằng; 'that' không dùng; 'then' (sau đó) là lỗi chính tả hay nhầm.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G11",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Today there are far fewer wild tigers _____ there were 100 years ago.",
+   "options": [
+    "as",
+    "when",
+    "that",
+    "than"
+   ],
+   "answer": 3,
+   "explain": "'fewer' là so sánh hơn → mệnh đề so sánh bắt đầu bằng 'than'. Các từ còn lại không tạo cấu trúc so sánh.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G12",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "The rhino population in Africa is not _____ large as it used to be.",
+   "options": [
+    "much",
+    "such",
+    "as",
+    "more"
+   ],
+   "answer": 2,
+   "explain": "So sánh không bằng: not as + adj + as → 'not as large as'. 'more/much/such' không đi với '… as'.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G13",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Pangolins are hunted more _____ than any other mammal in the world.",
+   "options": [
+    "frequency",
+    "often",
+    "frequent",
+    "oftenly"
+   ],
+   "answer": 1,
+   "explain": "Bổ nghĩa cho động từ 'are hunted' cần trạng từ → 'more often' (thường xuyên hơn). 'frequent' là tính từ, 'frequency' là danh từ, 'oftenly' không tồn tại.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G14",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 3,
+   "q": "The more people learn about wildlife, _____ they will want to protect it.",
+   "options": [
+    "the more",
+    "most",
+    "the most",
+    "more"
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc so sánh kép 'The + so sánh hơn …, the + so sánh hơn …' → 'the more'. Thiếu 'the' hoặc dùng so sánh nhất đều sai.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G15",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 1,
+   "q": "We should act as quickly _____ we can to save the last Javan rhinos.",
+   "options": [
+    "than",
+    "so",
+    "that",
+    "as"
+   ],
+   "answer": 3,
+   "explain": "'as quickly as we can' = nhanh nhất có thể (so sánh bằng as … as). 'than' cần so sánh hơn; 'so/that' sai cấu trúc.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G16",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 1,
+   "q": "Javan rhinos are much _____ than Indian rhinos.",
+   "options": [
+    "smallest",
+    "small",
+    "smaller",
+    "more small"
+   ],
+   "answer": 2,
+   "explain": "Tính từ ngắn 'small' → so sánh hơn 'smaller'; 'much' nhấn mạnh so sánh hơn và có 'than'. 'more small' sai; 'small' thiếu dạng so sánh; 'smallest' là so sánh nhất.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G17",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Protecting habitats costs much less _____ trying to save animals on the verge of extinction.",
+   "options": [
+    "then",
+    "than",
+    "as",
+    "that"
+   ],
+   "answer": 1,
+   "explain": "'less' là so sánh kém → dùng 'than'. Bảo vệ môi trường sống tốn ít tiền hơn cứu những loài sắp tuyệt chủng.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G18",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 1,
+   "q": "_____ you see an injured wild animal, call the local rescue centre immediately.",
+   "options": [
+    "If",
+    "Than",
+    "Unless",
+    "As long as"
+   ],
+   "answer": 0,
+   "explain": "Nếu bạn thấy động vật hoang dã bị thương, hãy gọi trung tâm cứu hộ → 'If'. 'Unless' ngược nghĩa; 'As long as' (miễn là) không hợp với lời khuyên tình huống; 'Than' là từ so sánh.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G19",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Wild elephants often live longer _____ elephants kept in zoos do.",
+   "options": [
+    "as",
+    "so",
+    "that",
+    "than"
+   ],
+   "answer": 3,
+   "explain": "'longer' là so sánh hơn → 'than'; mệnh đề sau dùng trợ động từ 'do' thay cho 'live'. 'as' chỉ dùng trong as … as.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-G20",
+   "unit": 8,
+   "type": "grammar",
+   "topic": "Adverbial clauses of condition",
+   "level": 3,
+   "q": "If more people _____ about the problem, they would do more to help wild animals.",
+   "options": [
+    "will know",
+    "had known",
+    "knew",
+    "know"
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề chính dùng 'would do' → câu điều kiện loại 2 (giả định ở hiện tại): mệnh đề if dùng quá khứ đơn 'knew'. 'know/will know' không hợp với would; 'had known' là loại 3.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-P01",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Assimilation",
+   "level": 2,
+   "q": "In connected speech, in which phrase is the underlined /n/ usually pronounced as /m/?",
+   "options": [
+    "te<u>n</u> tigers",
+    "te<u>n</u> pandas",
+    "te<u>n</u> deer",
+    "te<u>n</u> elephants"
+   ],
+   "answer": 1,
+   "explain": "/n/ đồng hóa thành /m/ trước âm môi /p, b, m/: ten pandas /tem ˈpændəz/. Trước /t/, /d/ hoặc nguyên âm, /n/ giữ nguyên.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P02",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Assimilation",
+   "level": 2,
+   "q": "In connected speech, in which phrase is the underlined /n/ usually pronounced as /ŋ/?",
+   "options": [
+    "gree<u>n</u> grass",
+    "gree<u>n</u> trees",
+    "gree<u>n</u> leaves",
+    "gree<u>n</u> areas"
+   ],
+   "answer": 0,
+   "explain": "/n/ đồng hóa thành /ŋ/ trước âm vòm mềm /k, ɡ/: green grass /ɡriːŋ ɡrɑːs/. Trước /l/, /t/ hay nguyên âm thì /n/ không đổi.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P03",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Assimilation",
+   "level": 3,
+   "q": "In fast speech, in which phrase is the underlined /t/ most likely pronounced as /p/?",
+   "options": [
+    "tha<u>t</u> elephant",
+    "tha<u>t</u> species",
+    "tha<u>t</u> tiger",
+    "tha<u>t</u> bird"
+   ],
+   "answer": 3,
+   "explain": "/t/ đồng hóa thành /p/ trước âm môi /p, b, m/: that bird /ðæp bɜːd/. Trước /t/, nguyên âm hoặc /s/ thì không đổi thành /p/.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P04",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Assimilation",
+   "level": 3,
+   "q": "In fast speech, which underlined sounds are pronounced together as /dʒ/?",
+   "options": [
+    "ha<u>d l</u>unch",
+    "di<u>d i</u>t",
+    "di<u>d y</u>ou",
+    "goo<u>d m</u>an"
+   ],
+   "answer": 2,
+   "explain": "Âm nhập: /d/ + /j/ → /dʒ/: did you /ˈdɪdʒu/. 'did it' nối âm bình thường; 'good man' /d/→/b/; 'had lunch' không có /dʒ/.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P05",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Vowel sounds",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "s<u>a</u>nctuary",
+    "n<u>a</u>ture",
+    "c<u>a</u>ptivity",
+    "h<u>a</u>bitat"
+   ],
+   "answer": 1,
+   "explain": "nature /ˈneɪtʃə(r)/ có /eɪ/; habitat /ˈhæbɪtæt/, captivity /kæpˈtɪvəti/, sanctuary /ˈsæŋktʃuəri/ đều có /æ/.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P06",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Pronunciation of 'ch'",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>emical",
+    "<u>ch</u>ance",
+    "rea<u>ch</u>",
+    "poa<u>ch</u>ing"
+   ],
+   "answer": 0,
+   "explain": "chemical /ˈkemɪkl/ đọc /k/; poaching /ˈpəʊtʃɪŋ/, chance /tʃɑːns/, reach /riːtʃ/ đọc /tʃ/.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P07",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "conserv<u>ed</u>",
+    "endanger<u>ed</u>",
+    "threaten<u>ed</u>",
+    "protect<u>ed</u>"
+   ],
+   "answer": 3,
+   "explain": "protected /prəˈtektɪd/: -ed sau /t/ đọc /ɪd/; endangered /ɪnˈdeɪndʒəd/, threatened /ˈθretnd/, conserved /kənˈsɜːvd/: -ed sau âm hữu thanh đọc /d/.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P08",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Vowel sounds",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "w<u>i</u>ld",
+    "<u>i</u>vory",
+    "<u>i</u>llegal",
+    "cl<u>i</u>mate"
+   ],
+   "answer": 2,
+   "explain": "illegal /ɪˈliːɡl/ có /ɪ/; ivory /ˈaɪvəri/, wild /waɪld/, climate /ˈklaɪmət/ có /aɪ/.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P09",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "conserve",
+    "habitat",
+    "endangered",
+    "extinction"
+   ],
+   "answer": 1,
+   "explain": "habitat /ˈhæbɪtæt/ nhấn âm 1; endangered /ɪnˈdeɪndʒəd/, extinction /ɪkˈstɪŋkʃn/, conserve /kənˈsɜːv/ nhấn âm 2.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P10",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "population",
+    "vulnerable",
+    "ecosystem",
+    "sanctuary"
+   ],
+   "answer": 0,
+   "explain": "population /ˌpɒpjuˈleɪʃn/ nhấn âm 3; vulnerable /ˈvʌlnərəbl/, sanctuary /ˈsæŋktʃuəri/, ecosystem /ˈiːkəʊsɪstəm/ nhấn âm 1.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P11",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "protection",
+    "survival",
+    "illegal",
+    "predator"
+   ],
+   "answer": 3,
+   "explain": "predator /ˈpredətə(r)/ nhấn âm 1; survival /səˈvaɪvl/, protection /prəˈtekʃn/, illegal /ɪˈliːɡl/ nhấn âm 2.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-P12",
+   "unit": 8,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "release",
+    "protect",
+    "wildlife",
+    "extinct"
+   ],
+   "answer": 2,
+   "explain": "wildlife /ˈwaɪldlaɪf/ nhấn âm 1; release /rɪˈliːs/, protect /prəˈtekt/, extinct /ɪkˈstɪŋkt/ nhấn âm 2.",
+   "review": "Lớp 12 · Unit 8 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U8-E01",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nUnless we <u>don't stop</u> (A) <u>cutting down</u> (B) forests, many animals <u>will lose</u> (C) <u>their</u> (D) homes.",
+   "options": [
+    "A. don't stop",
+    "B. cutting down",
+    "C. will lose",
+    "D. their"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: 'unless' đã mang nghĩa phủ định (= if not) → sửa 'don't stop' thành 'stop' (Unless we stop cutting down forests…).",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E02",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nRhinos will be safer <u>as long as</u> (A) poachers are punished <u>more strict</u> (B) <u>than</u> (C) they <u>are</u> (D) now.",
+   "options": [
+    "A. as long as",
+    "B. more strict",
+    "C. than",
+    "D. are"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: bổ nghĩa cho động từ 'are punished' cần trạng từ → sửa 'more strict' thành 'more strictly'.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E03",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of comparison",
+   "level": 1,
+   "q": "Find the underlined part that needs correction.\nTigers <u>are</u> (A) <u>much</u> (B) more endangered <u>as</u> (C) most people <u>believe</u> (D).",
+   "options": [
+    "A. are",
+    "B. much",
+    "C. as",
+    "D. believe"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: có 'more endangered' (so sánh hơn) nên phải dùng 'than' → sửa 'as' thành 'than'.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E04",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nIf the government <u>bans</u> (A) the ivory trade, fewer elephants <u>will</u> (B) <u>be</u> (C) <u>killing</u> (D) by poachers.",
+   "options": [
+    "A. bans",
+    "B. will",
+    "C. be",
+    "D. killing"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: voi bị giết (bị động, có 'by poachers') → sửa 'killing' thành 'killed' (will be killed).",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E05",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of condition",
+   "level": 1,
+   "q": "Find the underlined part that needs correction.\nIf the forest <u>will be</u> (A) destroyed, the saola <u>will</u> (B) <u>have</u> (C) nowhere <u>to live</u> (D).",
+   "options": [
+    "A. will be",
+    "B. will",
+    "C. have",
+    "D. to live"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: mệnh đề if của câu điều kiện loại 1 dùng hiện tại đơn, không dùng will → sửa 'will be' thành 'is'.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E06",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nAsian elephants are not <u>as</u> (A) <u>more</u> (B) common <u>as</u> (C) they <u>were</u> (D) fifty years ago.",
+   "options": [
+    "A. as",
+    "B. more",
+    "C. as",
+    "D. were"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: cấu trúc so sánh bằng 'not as + adj + as' dùng tính từ nguyên dạng → bỏ 'more' (not as common as).",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E07",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe turtles <u>will be</u> (A) <u>released</u> (B) into the wild <u>provide</u> (C) that they are <u>healthy</u> (D).",
+   "options": [
+    "A. will be",
+    "B. released",
+    "C. provide",
+    "D. healthy"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: liên từ điều kiện là 'provided that' hoặc 'providing that' → sửa 'provide' thành 'provided'.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-E08",
+   "unit": 8,
+   "type": "error",
+   "topic": "Adverbial clauses of comparison",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nBiodiversity <u>is</u> (A) <u>declining</u> (B) much faster <u>than</u> (C) scientists <u>expecting</u> (D).",
+   "options": [
+    "A. is",
+    "B. declining",
+    "C. than",
+    "D. expecting"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: mệnh đề sau 'than' cần động từ chia → sửa 'expecting' thành 'expected' (than scientists expected).",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R01",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf we don't protect their habitat, pandas will die out.",
+   "options": [
+    "Unless we don't protect their habitat, pandas will die out.",
+    "Unless we protect their habitat, pandas will die out.",
+    "If we protect their habitat, pandas will die out.",
+    "Unless we protect their habitat, pandas won't die out."
+   ],
+   "answer": 1,
+   "explain": "'If … not' = 'Unless' + khẳng định. Phương án có 'Unless we don't' là phủ định kép; hai phương án còn lại đổi ngược nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R02",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe rhino population is smaller than it was ten years ago.",
+   "options": [
+    "The rhino population is not as large as it was ten years ago.",
+    "The rhino population is as large as it was ten years ago.",
+    "The rhino population is larger than it was ten years ago.",
+    "The rhino population is not so smaller as it was ten years ago."
+   ],
+   "answer": 0,
+   "explain": "'smaller than' ⇄ 'not as large as'. 'as large as' và 'larger than' sai nghĩa; 'not so smaller as' sai ngữ pháp (as … as dùng tính từ nguyên dạng).",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R03",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nVisitors may enter the reserve only if they have a permit.",
+   "options": [
+    "Visitors may enter the reserve unless they have a permit.",
+    "Visitors may enter the reserve as long as they don't have a permit.",
+    "Visitors may enter the reserve even though they have a permit.",
+    "Visitors may enter the reserve as long as they have a permit."
+   ],
+   "answer": 3,
+   "explain": "'only if' ≈ 'as long as' (miễn là). 'unless' và 'as long as … don't' ngược nghĩa; 'even though' (mặc dù) sai nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R04",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nPoaching is not as serious as habitat loss.",
+   "options": [
+    "Habitat loss is not serious than poaching.",
+    "Habitat loss is as serious as poaching.",
+    "Habitat loss is more serious than poaching.",
+    "Poaching is more serious than habitat loss."
+   ],
+   "answer": 2,
+   "explain": "'A is not as serious as B' = 'B is more serious than A'. Các phương án khác đảo nghĩa, đổi thành so sánh bằng, hoặc sai ngữ pháp (thiếu 'more').",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R05",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of condition",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nWithout more funding, the rescue centre will have to close.",
+   "options": [
+    "Unless the rescue centre doesn't get more funding, it will have to close.",
+    "Unless the rescue centre gets more funding, it will have to close.",
+    "If the rescue centre gets more funding, it will have to close.",
+    "Provided the rescue centre gets more funding, it will have to close."
+   ],
+   "answer": 1,
+   "explain": "'Without + N' = 'Unless/If … not': nếu không có thêm kinh phí thì trung tâm phải đóng cửa. 'If/Provided … gets' ngược nghĩa; 'Unless … doesn't' phủ định kép.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R06",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of comparison",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nFew people realise how quickly species are disappearing.",
+   "options": [
+    "Species are disappearing more quickly than most people realise.",
+    "Most people realise that species are disappearing quickly.",
+    "Species are disappearing less quickly than most people realise.",
+    "Species are disappearing as slowly as most people realise."
+   ],
+   "answer": 0,
+   "explain": "Ít người nhận ra các loài biến mất nhanh thế nào = các loài biến mất nhanh hơn mức đa số người nghĩ. Các phương án còn lại sai nghĩa (chậm, đa số đã biết, kém nhanh hơn).",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R07",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe illegal trade must be stopped. Otherwise, pangolins will become extinct.",
+   "options": [
+    "As long as the illegal trade is stopped, pangolins will become extinct.",
+    "If the illegal trade is stopped, pangolins will become extinct.",
+    "Unless the illegal trade isn't stopped, pangolins will become extinct.",
+    "Unless the illegal trade is stopped, pangolins will become extinct."
+   ],
+   "answer": 3,
+   "explain": "'Otherwise' (nếu không thì) → 'Unless … is stopped'. 'If/As long as … is stopped' cho nghĩa ngược; 'Unless … isn't' là phủ định kép.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R08",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of condition",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nTigers can survive. Their forests must be protected.",
+   "options": [
+    "Tigers can survive unless their forests are protected.",
+    "Tigers can survive provided that their forests aren't protected.",
+    "Tigers can survive provided that their forests are protected.",
+    "Tigers can survive even though their forests are protected."
+   ],
+   "answer": 2,
+   "explain": "Rừng được bảo vệ là điều kiện để hổ sống sót → 'provided that their forests are protected'. 'unless' và 'provided that … aren't' ngược nghĩa; 'even though' (mặc dù) sai quan hệ ý.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R09",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of comparison",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nSaolas are extremely rare. Javan rhinos are equally rare.",
+   "options": [
+    "Javan rhinos are as rarer as saolas.",
+    "Javan rhinos are as rare as saolas.",
+    "Javan rhinos are rarer than saolas.",
+    "Javan rhinos are not as rare as saolas."
+   ],
+   "answer": 1,
+   "explain": "'equally rare' (hiếm như nhau) → so sánh bằng 'as rare as'. 'rarer than', 'not as rare as' sai nghĩa; 'as rarer as' sai ngữ pháp.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-R10",
+   "unit": 8,
+   "type": "rewrite",
+   "topic": "Adverbial clauses of condition",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nVolunteers can join the trip. They must agree to follow the park rules.",
+   "options": [
+    "Volunteers can join the trip on condition that they follow the park rules.",
+    "Volunteers can join the trip on condition that they don't follow the park rules.",
+    "Volunteers can join the trip on condition they will following the park rules.",
+    "Volunteers can join the trip unless they follow the park rules."
+   ],
+   "answer": 0,
+   "explain": "Tuân thủ nội quy là điều kiện để tham gia → 'on condition that they follow…'. 'unless' và 'don't follow' ngược nghĩa; 'will following' sai ngữ pháp.",
+   "review": "Lớp 12 · Unit 8 – Language, Grammar"
+  },
+  {
+   "id": "G12U8-C01",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P1",
+   "blank": 1,
+   "topic": "Saving the saola",
+   "level": 1,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "dangerous",
+    "extinct",
+    "endangered",
+    "endangering"
+   ],
+   "answer": 2,
+   "explain": "Cụm 'critically endangered' = cực kỳ nguy cấp (một mức trong Sách Đỏ IUCN). 'extinct' mâu thuẫn với việc loài vẫn còn; 'dangerous' (nguy hiểm), 'endangering' (gây nguy hiểm) sai nghĩa.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C02",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P1",
+   "blank": 2,
+   "topic": "Saving the saola",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "Although",
+    "Unless",
+    "Because",
+    "If"
+   ],
+   "answer": 1,
+   "explain": "Nếu những cái bẫy KHÔNG được gỡ bỏ thì sao la có thể biến mất → 'Unless' (= If … not). 'If' cho nghĩa ngược; 'Because/Although' không hợp quan hệ ý.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C03",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P1",
+   "blank": 3,
+   "topic": "Saving the saola",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "captivity",
+    "capture",
+    "captive",
+    "capacity"
+   ],
+   "answer": 0,
+   "explain": "Cụm 'breeding programme in captivity' = chương trình nhân giống trong điều kiện nuôi nhốt; sau giới từ 'in' cần danh từ 'captivity'. 'capture' (sự bắt), 'capacity' (sức chứa) sai nghĩa; 'captive' chủ yếu là tính từ.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C04",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P1",
+   "blank": 4,
+   "topic": "Saving the saola",
+   "level": 2,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "then",
+    "as",
+    "that",
+    "than"
+   ],
+   "answer": 3,
+   "explain": "'much more difficult' là so sánh hơn → 'than most people imagine'. 'as' dùng cho so sánh bằng; 'then', 'that' sai.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C05",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P1",
+   "blank": 5,
+   "topic": "Saving the saola",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "being",
+    "will be",
+    "is",
+    "was"
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề sau 'as long as' (điều kiện, nói về tương lai/sự thật chung) dùng hiện tại đơn → 'is protected'. Không dùng will; 'was' sai thì; 'being' thiếu động từ chia.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C06",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P2",
+   "blank": 6,
+   "topic": "How teenagers can help wildlife",
+   "level": 1,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "arise",
+    "raise",
+    "rise",
+    "grow"
+   ],
+   "answer": 1,
+   "explain": "Collocation 'raise awareness of' = nâng cao nhận thức về; 'help + V nguyên mẫu'. 'rise', 'arise' là nội động từ (không có tân ngữ); 'grow awareness' không phải cụm chuẩn.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C07",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P2",
+   "blank": 7,
+   "topic": "How teenagers can help wildlife",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "because",
+    "so",
+    "although",
+    "unless"
+   ],
+   "answer": 0,
+   "explain": "Người ta vẫn mua sản phẩm từ ngà, sừng VÌ không biết tác hại → 'because'. 'although' (mặc dù) và 'unless' (trừ khi) sai quan hệ ý; 'so' (vì vậy) đảo quan hệ nguyên nhân – kết quả.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C08",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P2",
+   "blank": 8,
+   "topic": "How teenagers can help wildlife",
+   "level": 1,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "feed",
+    "release",
+    "rescue",
+    "hunt"
+   ],
+   "answer": 3,
+   "explain": "Nếu không ai mua, kẻ săn trộm sẽ không có lý do để 'hunt' (săn) động vật. feed (cho ăn), release (thả), rescue (cứu) không hợp với 'poachers'.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C09",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P2",
+   "blank": 9,
+   "topic": "How teenagers can help wildlife",
+   "level": 2,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "which",
+    "that",
+    "where",
+    "when"
+   ],
+   "answer": 2,
+   "explain": "Đại từ quan hệ thay cho nơi chốn 'a local rescue centre', sau đó là mệnh đề đầy đủ (injured animals are treated) → 'where'. 'which/that' cần đóng vai chủ ngữ/tân ngữ; 'when' chỉ thời gian. Ngoài ra 'that' không dùng sau dấu phẩy.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  },
+  {
+   "id": "G12U8-C10",
+   "unit": 8,
+   "type": "cloze",
+   "pid": "G12U8-P2",
+   "blank": 10,
+   "topic": "How teenagers can help wildlife",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "the best",
+    "the better",
+    "better",
+    "more better"
+   ],
+   "answer": 1,
+   "explain": "So sánh kép 'The more …, the + so sánh hơn …' → 'the better chance'. Thiếu 'the', dùng so sánh nhất, hoặc 'more better' đều sai.",
+   "review": "Lớp 12 · Unit 8 – Reading"
+  }
+ ]
+}

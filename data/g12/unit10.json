@@ -1,0 +1,1778 @@
+{
+ "grade": 12,
+ "unit": 10,
+ "name": "Lifelong Learning",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Lifelong learning",
+  "Self-directed learning and personal development"
+ ],
+ "pron": "Intonation in questions (revision)",
+ "grammar": [
+  "Reported speech: orders, requests, offers and advice",
+  "Reported speech (ôn tập: statements and questions)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Câu tường thuật: mệnh lệnh, yêu cầu, lời mời/đề nghị giúp, lời khuyên",
+   "page": 131,
+   "body": "Khi tường thuật mệnh lệnh, yêu cầu, đề nghị giúp đỡ, lời khuyên ta thường dùng ĐỘNG TỪ TƯỜNG THUẬT + (tân ngữ) + TO-V; phủ định: NOT TO-V.\n• Mệnh lệnh: tell / order sb (not) to V\n  \"Turn off your phones.\" → The teacher told us to turn off our phones.\n  \"Don't be late!\" → He told me not to be late.\n• Yêu cầu (please, can/could you…?, would you mind…?): ask sb (not) to V\n  \"Could you help me with this form, please?\" → She asked me to help her with the form.\n• Đề nghị giúp (I'll…, Shall I…?, Would you like me to…?): offer to V (KHÔNG có tân ngữ sau offer)\n  \"Shall I carry your bag?\" → He offered to carry my bag.\n• Lời khuyên (You should…, You'd better…, If I were you, I'd…): advise sb (not) to V; hoặc said (that) sb should V\n  \"You should take an online course.\" → She advised me to take an online course.\n• Nhớ đổi đại từ, tính từ sở hữu, trạng từ thời gian/nơi chốn (now → then, here → there, tomorrow → the next day…).\nLỗi hay gặp: *said me to… (phải told me to…); *offered me to help (phải offered to help me); *told him don't… / *not stop (phải not to stop); *suggested me to… (suggest không đi với sb + to V)."
+  },
+  {
+   "kind": "grammar",
+   "title": "Ôn tập: tường thuật câu kể và câu hỏi",
+   "page": 131,
+   "body": "• Câu kể: say (that) / tell sb (that) + mệnh đề lùi thì: hiện tại đơn → quá khứ đơn; hiện tại tiếp diễn → quá khứ tiếp diễn; hiện tại hoàn thành / quá khứ đơn → quá khứ hoàn thành; will → would; can → could.\n  \"I am taking an English course now.\" → He said (that) he was taking an English course then.\n• Câu hỏi Yes/No: ask (sb) if/whether + S + V (lùi thì), KHÔNG đảo ngữ, không dấu hỏi.\n  \"Do you want to join our club?\" → She asked me if I wanted to join their club.\n• Câu hỏi Wh-: ask (sb) + Wh- + S + V (lùi thì).\n  \"Where can I find information?\" → She asked where she could find information.\nLỗi hay gặp: giữ trật tự câu hỏi (*asked where could she find); dùng 'or no' thay vì 'or not'; quên đổi đại từ."
+  },
+  {
+   "kind": "pron",
+   "title": "Ngữ điệu trong câu hỏi (ôn tập)",
+   "page": 130,
+   "body": "• Câu hỏi Yes/No: thường LÊN giọng (↗) ở cuối. Do you enjoy learning new things? ↗\n• Câu hỏi Wh- (what, where, why, how…): thường XUỐNG giọng (↘) ở cuối. Why did he go back to university? ↘\n• Câu hỏi lựa chọn (A or B?): lên giọng ở lựa chọn thứ nhất, xuống giọng ở lựa chọn cuối. Do you prefer learning online ↗ or in a classroom? ↘\n• Câu hỏi đuôi: xuống giọng khi người nói chắc chắn, chờ xác nhận; lên giọng khi không chắc, thật sự hỏi.\nMẹo: xác định loại câu hỏi trước (từ để hỏi hay trợ động từ đứng đầu? có 'or' nối hai lựa chọn không?)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 130,
+   "body": "lifelong learning / lifelong learner • acquire knowledge / skills • pursue a degree / a hobby • keep up with technology / changes • stay up to date • broaden your horizons • take up a hobby / a course • enrol in a course • drop out of school / a course • self-motivated / self-directed learner • personal development / self-improvement • a voluntary course (≠ compulsory) • distance learning / online course / adult education • improve your employability / career prospects • keep your mind active • a growth mindset • time management skills • a sense of fulfilment • be a role model for sb"
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Tường thuật: nhìn câu trực tiếp để chọn động từ: mệnh lệnh → told/ordered sb to V; Please/Could you → asked sb to V; I'll/Shall I → offered to V; You should/If I were you → advised sb to V. Phủ định luôn là NOT TO V.\n• Loại nhanh phương án: 'said me', 'offered sb to V', 'suggested sb to V', 'told sb don't' đều sai.\n• Câu hỏi tường thuật: không đảo ngữ, lùi thì, dùng if/whether cho Yes/No.\n• Từ vựng: nhớ các phrasal verb chủ đề học tập: take up, keep up with, drop out of, sign up for, give up.\n• Ngữ điệu: Yes/No ↗, Wh- ↘, câu lựa chọn ↗…↘."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "lifelong",
+   "pos": "adj",
+   "ipa": "/ˈlaɪflɒŋ/",
+   "vi": "suốt đời",
+   "ex": "Learning should be a lifelong process.",
+   "page": 128
+  },
+  {
+   "w": "lifelong learning",
+   "pos": "n phr",
+   "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+   "vi": "học tập suốt đời",
+   "ex": "Lifelong learning helps people adapt to a changing world.",
+   "page": 128
+  },
+  {
+   "w": "lifelong learner",
+   "pos": "n phr",
+   "ipa": "/ˌlaɪflɒŋ ˈlɜːnə(r)/",
+   "vi": "người học tập suốt đời",
+   "ex": "My grandmother is a true lifelong learner.",
+   "page": 128
+  },
+  {
+   "w": "self-motivated",
+   "pos": "adj",
+   "ipa": "/ˌself ˈməʊtɪveɪtɪd/",
+   "vi": "tự tạo động lực, tự giác",
+   "ex": "Self-motivated learners don't need anyone to push them.",
+   "page": 130
+  },
+  {
+   "w": "self-directed",
+   "pos": "adj",
+   "ipa": "/ˌself daɪˈrektɪd/",
+   "vi": "tự định hướng",
+   "ex": "Self-directed learning means you plan and manage your own study.",
+   "page": 130
+  },
+  {
+   "w": "self-study",
+   "pos": "n",
+   "ipa": "/ˌself ˈstʌdi/",
+   "vi": "sự tự học",
+   "ex": "He improved his English through self-study.",
+   "page": 130
+  },
+  {
+   "w": "self-improvement",
+   "pos": "n",
+   "ipa": "/ˌself ɪmˈpruːvmənt/",
+   "vi": "sự tự hoàn thiện bản thân",
+   "ex": "She reads books on self-improvement every week.",
+   "page": 130
+  },
+  {
+   "w": "personal development",
+   "pos": "n phr",
+   "ipa": "/ˌpɜːsənl dɪˈveləpmənt/",
+   "vi": "sự phát triển bản thân",
+   "ex": "Learning new skills contributes to personal development.",
+   "page": 130
+  },
+  {
+   "w": "acquire",
+   "pos": "v",
+   "ipa": "/əˈkwaɪə(r)/",
+   "vi": "thu nhận, đạt được (kiến thức, kỹ năng)",
+   "ex": "You can acquire new skills at any age.",
+   "page": 130
+  },
+  {
+   "w": "pursue",
+   "pos": "v",
+   "ipa": "/pəˈsjuː/",
+   "vi": "theo đuổi",
+   "ex": "She decided to pursue a master's degree at 50.",
+   "page": 132
+  },
+  {
+   "w": "keep up with",
+   "pos": "phr v",
+   "ipa": "/kiːp ˈʌp wɪð/",
+   "vi": "theo kịp",
+   "ex": "Workers need training to keep up with new technology.",
+   "page": 132
+  },
+  {
+   "w": "up to date",
+   "pos": "adj phr",
+   "ipa": "/ˌʌp tə ˈdeɪt/",
+   "vi": "cập nhật, hiện đại",
+   "ex": "Doctors must keep their knowledge up to date.",
+   "page": 132
+  },
+  {
+   "w": "outdated",
+   "pos": "adj",
+   "ipa": "/ˌaʊtˈdeɪtɪd/",
+   "vi": "lỗi thời",
+   "ex": "Some of the skills I learnt at school are now outdated.",
+   "page": 132
+  },
+  {
+   "w": "voluntary",
+   "pos": "adj",
+   "ipa": "/ˈvɒləntri/",
+   "vi": "tự nguyện",
+   "ex": "Lifelong learning is voluntary and self-motivated.",
+   "page": 128
+  },
+  {
+   "w": "flexible",
+   "pos": "adj",
+   "ipa": "/ˈfleksəbl/",
+   "vi": "linh hoạt",
+   "ex": "Online courses offer flexible study hours.",
+   "page": 129
+  },
+  {
+   "w": "distance learning",
+   "pos": "n phr",
+   "ipa": "/ˌdɪstəns ˈlɜːnɪŋ/",
+   "vi": "học từ xa",
+   "ex": "Distance learning is popular among working adults.",
+   "page": 129
+  },
+  {
+   "w": "adult education",
+   "pos": "n phr",
+   "ipa": "/ˌædʌlt edʒuˈkeɪʃn/",
+   "vi": "giáo dục người lớn",
+   "ex": "The centre offers adult education courses in the evening.",
+   "page": 129
+  },
+  {
+   "w": "enrol (in)",
+   "pos": "v",
+   "ipa": "/ɪnˈrəʊl/",
+   "vi": "ghi danh, đăng ký (khóa học)",
+   "ex": "My uncle enrolled in an accounting course.",
+   "page": 129
+  },
+  {
+   "w": "drop out (of)",
+   "pos": "phr v",
+   "ipa": "/drɒp ˈaʊt/",
+   "vi": "bỏ học giữa chừng",
+   "ex": "Lack of motivation makes many learners drop out of online courses.",
+   "page": 133
+  },
+  {
+   "w": "take up",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈʌp/",
+   "vi": "bắt đầu (một sở thích, môn học)",
+   "ex": "After retiring, he took up painting.",
+   "page": 134
+  },
+  {
+   "w": "broaden one's horizons",
+   "pos": "phr",
+   "ipa": "/ˈbrɔːdn wʌnz həˈraɪznz/",
+   "vi": "mở rộng tầm hiểu biết",
+   "ex": "Travelling and reading broaden your horizons.",
+   "page": 130
+  },
+  {
+   "w": "curiosity",
+   "pos": "n",
+   "ipa": "/ˌkjʊəriˈɒsəti/",
+   "vi": "sự tò mò, ham hiểu biết",
+   "ex": "Curiosity is the key to lifelong learning.",
+   "page": 132
+  },
+  {
+   "w": "curious",
+   "pos": "adj",
+   "ipa": "/ˈkjʊəriəs/",
+   "vi": "tò mò, ham học hỏi",
+   "ex": "Stay curious and keep asking questions.",
+   "page": 132
+  },
+  {
+   "w": "motivation",
+   "pos": "n",
+   "ipa": "/ˌməʊtɪˈveɪʃn/",
+   "vi": "động lực",
+   "ex": "Motivation is important for adult learners.",
+   "page": 133
+  },
+  {
+   "w": "qualification",
+   "pos": "n",
+   "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+   "vi": "bằng cấp, chứng chỉ",
+   "ex": "She got a teaching qualification at the age of 45.",
+   "page": 135
+  },
+  {
+   "w": "employability",
+   "pos": "n",
+   "ipa": "/ɪmˌplɔɪəˈbɪləti/",
+   "vi": "khả năng được tuyển dụng",
+   "ex": "Learning new skills improves your employability.",
+   "page": 136
+  },
+  {
+   "w": "career prospects",
+   "pos": "n phr",
+   "ipa": "/kəˈrɪə ˈprɒspekts/",
+   "vi": "triển vọng nghề nghiệp",
+   "ex": "A second language can improve your career prospects.",
+   "page": 136
+  },
+  {
+   "w": "upskill",
+   "pos": "v",
+   "ipa": "/ˈʌpskɪl/",
+   "vi": "nâng cao kỹ năng",
+   "ex": "Companies encourage employees to upskill regularly.",
+   "page": 136
+  },
+  {
+   "w": "mindset",
+   "pos": "n",
+   "ipa": "/ˈmaɪndset/",
+   "vi": "tư duy, lối suy nghĩ",
+   "ex": "A growth mindset helps you learn from mistakes.",
+   "page": 134
+  },
+  {
+   "w": "open-minded",
+   "pos": "adj",
+   "ipa": "/ˌəʊpən ˈmaɪndɪd/",
+   "vi": "cởi mở, sẵn sàng tiếp thu",
+   "ex": "Lifelong learners are usually open-minded.",
+   "page": 134
+  },
+  {
+   "w": "commitment",
+   "pos": "n",
+   "ipa": "/kəˈmɪtmənt/",
+   "vi": "sự cam kết, quyết tâm",
+   "ex": "Studying while working requires strong commitment.",
+   "page": 135
+  },
+  {
+   "w": "time management",
+   "pos": "n phr",
+   "ipa": "/ˈtaɪm mænɪdʒmənt/",
+   "vi": "quản lý thời gian",
+   "ex": "Good time management helps you balance work and study.",
+   "page": 135
+  },
+  {
+   "w": "juggle",
+   "pos": "v",
+   "ipa": "/ˈdʒʌɡl/",
+   "vi": "xoay xở (làm nhiều việc cùng lúc)",
+   "ex": "Many adult learners juggle work, family and study.",
+   "page": 135
+  },
+  {
+   "w": "challenge",
+   "pos": "n",
+   "ipa": "/ˈtʃæləndʒ/",
+   "vi": "thách thức",
+   "ex": "Lack of time is a major challenge of lifelong learning.",
+   "page": 135
+  },
+  {
+   "w": "retirement",
+   "pos": "n",
+   "ipa": "/rɪˈtaɪəmənt/",
+   "vi": "sự nghỉ hưu",
+   "ex": "He started learning English after his retirement.",
+   "page": 137
+  },
+  {
+   "w": "graduate",
+   "pos": "n",
+   "ipa": "/ˈɡrædʒuət/",
+   "vi": "người tốt nghiệp",
+   "ex": "She became one of the oldest university graduates.",
+   "page": 137
+  },
+  {
+   "w": "school-leaver",
+   "pos": "n",
+   "ipa": "/ˈskuːl liːvə(r)/",
+   "vi": "học sinh vừa tốt nghiệp phổ thông",
+   "ex": "The head teacher gave advice to school-leavers.",
+   "page": 132
+  },
+  {
+   "w": "head teacher",
+   "pos": "n",
+   "ipa": "/ˌhed ˈtiːtʃə(r)/",
+   "vi": "hiệu trưởng",
+   "ex": "The head teacher wrote a message to school-leavers.",
+   "page": 132
+  },
+  {
+   "w": "role model",
+   "pos": "n",
+   "ipa": "/ˈrəʊl mɒdl/",
+   "vi": "tấm gương",
+   "ex": "My grandfather is a great role model for lifelong learning.",
+   "page": 134
+  },
+  {
+   "w": "fulfilment",
+   "pos": "n",
+   "ipa": "/fʊlˈfɪlmənt/",
+   "vi": "sự mãn nguyện, cảm giác viên mãn",
+   "ex": "Learning gives many older people a sense of fulfilment.",
+   "page": 136
+  },
+  {
+   "w": "well-being",
+   "pos": "n",
+   "ipa": "/ˈwel biːɪŋ/",
+   "vi": "sức khỏe, hạnh phúc (thể chất và tinh thần)",
+   "ex": "Learning new things is good for your well-being.",
+   "page": 136
+  },
+  {
+   "w": "embrace",
+   "pos": "v",
+   "ipa": "/ɪmˈbreɪs/",
+   "vi": "sẵn lòng đón nhận",
+   "ex": "Young people should embrace new learning opportunities.",
+   "page": 132
+  }
+ ],
+ "passages": [
+  {
+   "id": "G12U10-P1",
+   "title": "Learning never stops",
+   "text": "In today's fast-changing world, what we learn at school is no longer enough for a whole career. That is (1) _____ more and more people are becoming lifelong learners. Lifelong learning is the voluntary and self-motivated pursuit of knowledge for personal or professional reasons. It does not always (2) _____ place in a classroom. People can learn from online courses, books, podcasts, or even from their colleagues at work. Learning new skills helps workers keep (3) _____ with new technology and improves their career prospects. It also brings personal benefits. People (4) _____ continue learning throughout their lives often feel more confident and satisfied with what they do. Experts (5) _____ young people to develop good learning habits while they are still at school, so that they will be ready to adapt to any changes in the future."
+  },
+  {
+   "id": "G12U10-P2",
+   "title": "Never too old to learn",
+   "text": "When Mrs Hoa retired at the age of 60, she felt bored and lonely. Her granddaughter (6) _____ that she join a free computer course at the local community centre. At first, Mrs Hoa was worried that she was too old to learn, but her teacher told her (7) _____ about her age. After a few weeks, she could send emails, search for information and video-call her relatives abroad. Encouraged by her (8) _____, she then took up an online English course. 'Learning keeps my mind active and makes me feel young again,' she says. Today, Mrs Hoa is a role model for many people in her neighbourhood. She often offers (9) _____ other older people use their smartphones. Her story shows that it is never too late to learn, (10) _____ you are curious and willing to try."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G12U10-V01",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "Lifelong learning means _____.",
+   "options": [
+    "studying one subject for a long time",
+    "learning only while you are at school",
+    "continuing to learn throughout your life",
+    "studying only to get a university degree"
+   ],
+   "answer": 2,
+   "explain": "lifelong learning = học tập suốt đời, tức là tiếp tục học trong suốt cuộc đời, không chỉ ở trường hay chỉ để lấy bằng.",
+   "review": "Lớp 12 · Unit 10 – Getting Started"
+  },
+  {
+   "id": "G12U10-V02",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 1,
+   "q": "A _____ learner does not need other people to push him or her to study.",
+   "options": [
+    "self-motivated",
+    "self-employed",
+    "self-centred",
+    "self-conscious"
+   ],
+   "answer": 0,
+   "explain": "self-motivated = tự tạo động lực, tự giác. self-employed: tự kinh doanh; self-centred: ích kỷ; self-conscious: ngượng ngùng, e dè.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U10-V03",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "In a fast-changing world, workers need to _____ new skills to keep their jobs.",
+   "options": [
+    "admire",
+    "require",
+    "inquire",
+    "acquire"
+   ],
+   "answer": 3,
+   "explain": "acquire skills = tiếp thu, đạt được kỹ năng. require: đòi hỏi; inquire: hỏi thăm; admire: ngưỡng mộ — không hợp nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U10-V04",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 2,
+   "q": "After retiring, many people _____ new hobbies such as painting or gardening.",
+   "options": [
+    "take off",
+    "take up",
+    "take after",
+    "take over"
+   ],
+   "answer": 1,
+   "explain": "take up = bắt đầu (một sở thích, hoạt động mới). take off: cất cánh/cởi ra; take after: giống (người thân); take over: tiếp quản.",
+   "review": "Lớp 12 · Unit 10 – Speaking"
+  },
+  {
+   "id": "G12U10-V05",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "It is hard to _____ the latest technology because it changes so quickly.",
+   "options": [
+    "get on with",
+    "keep up with",
+    "put up with",
+    "come up with"
+   ],
+   "answer": 1,
+   "explain": "keep up with = theo kịp. get on with: hòa hợp/tiếp tục; put up with: chịu đựng; come up with: nghĩ ra.",
+   "review": "Lớp 12 · Unit 10 – Reading"
+  },
+  {
+   "id": "G12U10-V06",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 2,
+   "q": "Learning a foreign language can help you _____ your horizons and understand other cultures.",
+   "options": [
+    "raise",
+    "lengthen",
+    "heighten",
+    "broaden"
+   ],
+   "answer": 3,
+   "explain": "Collocation: broaden one's horizons = mở rộng tầm hiểu biết. Các động từ còn lại không đi với 'horizons'.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U10-V07",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 2,
+   "q": "Children have a natural _____ about the world around them.",
+   "options": [
+    "curiosity",
+    "curious",
+    "curiously",
+    "uncurious"
+   ],
+   "answer": 0,
+   "explain": "Sau tính từ 'natural' và mạo từ 'a' cần danh từ → curiosity (sự tò mò). curious/uncurious là tính từ, curiously là trạng từ.",
+   "review": "Lớp 12 · Unit 10 – Reading"
+  },
+  {
+   "id": "G12U10-V08",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 2,
+   "q": "Lack of _____ is one of the main reasons why many learners drop out of online courses.",
+   "options": [
+    "motivated",
+    "motivate",
+    "motivation",
+    "motivational"
+   ],
+   "answer": 2,
+   "explain": "Sau 'lack of' cần danh từ → motivation (động lực). motivate: động từ; motivated, motivational: tính từ.",
+   "review": "Lớp 12 · Unit 10 – Listening"
+  },
+  {
+   "id": "G12U10-V09",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "Online courses are popular because they are _____: learners can study at any time and in any place.",
+   "options": [
+    "formal",
+    "fixed",
+    "strict",
+    "flexible"
+   ],
+   "answer": 3,
+   "explain": "flexible = linh hoạt, phù hợp với vế giải thích 'học bất cứ lúc nào, ở đâu'. fixed: cố định; strict: nghiêm khắc; formal: chính quy — trái ý.",
+   "review": "Lớp 12 · Unit 10 – Getting Started"
+  },
+  {
+   "id": "G12U10-V10",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "My uncle _____ in an evening course in accounting last month.",
+   "options": [
+    "attended",
+    "enrolled",
+    "entered",
+    "admitted"
+   ],
+   "answer": 1,
+   "explain": "enrol in a course = ghi danh vào khóa học. attend và enter là ngoại động từ, không dùng 'in'; admit nghĩa là thừa nhận/cho vào, không hợp.",
+   "review": "Lớp 12 · Unit 10 – Getting Started"
+  },
+  {
+   "id": "G12U10-V11",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 2,
+   "q": "Since this is a _____ course, nobody forces you to take it.",
+   "options": [
+    "obligatory",
+    "compulsory",
+    "voluntary",
+    "mandatory"
+   ],
+   "answer": 2,
+   "explain": "voluntary = tự nguyện, phù hợp 'không ai bắt buộc bạn học'. compulsory/obligatory/mandatory đều nghĩa là bắt buộc — mâu thuẫn với vế sau.",
+   "review": "Lớp 12 · Unit 10 – Getting Started"
+  },
+  {
+   "id": "G12U10-V12",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nOlder people who keep learning often find a sense of <u>fulfilment</u> in their lives.",
+   "options": [
+    "satisfaction",
+    "disappointment",
+    "pressure",
+    "boredom"
+   ],
+   "answer": 0,
+   "explain": "fulfilment = sự mãn nguyện ≈ satisfaction (sự hài lòng). disappointment: thất vọng; pressure: áp lực; boredom: buồn chán.",
+   "review": "Lớp 12 · Unit 10 – Writing"
+  },
+  {
+   "id": "G12U10-V13",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 2,
+   "q": "Choose the word(s) CLOSEST in meaning to the underlined word.\nShe decided to <u>pursue</u> a master's degree at the age of 50.",
+   "options": [
+    "try to achieve",
+    "give up",
+    "put off",
+    "turn down"
+   ],
+   "answer": 0,
+   "explain": "pursue = theo đuổi ≈ try to achieve (cố gắng đạt được). give up: từ bỏ; put off: trì hoãn; turn down: từ chối.",
+   "review": "Lớp 12 · Unit 10 – Reading"
+  },
+  {
+   "id": "G12U10-V14",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 3,
+   "q": "Choose the word(s) OPPOSITE in meaning to the underlined word.\nMany adults worry that their knowledge will become <u>outdated</u> quickly.",
+   "options": [
+    "useless",
+    "old-fashioned",
+    "up to date",
+    "limited"
+   ],
+   "answer": 2,
+   "explain": "outdated = lỗi thời, trái nghĩa là up to date (cập nhật). old-fashioned là đồng nghĩa; useless, limited không phải trái nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Reading"
+  },
+  {
+   "id": "G12U10-V15",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined phrase.\nThanks to his strong commitment, he never <u>dropped out of</u> the evening course.",
+   "options": [
+    "left",
+    "completed",
+    "quit",
+    "missed"
+   ],
+   "answer": 1,
+   "explain": "drop out of = bỏ học giữa chừng, trái nghĩa là completed (hoàn thành). left và quit gần nghĩa với drop out; missed: bỏ lỡ.",
+   "review": "Lớp 12 · Unit 10 – Listening"
+  },
+  {
+   "id": "G12U10-V16",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 2,
+   "q": "A _____ mindset helps learners see mistakes as opportunities to improve.",
+   "options": [
+    "narrow",
+    "fixed",
+    "closed",
+    "growth"
+   ],
+   "answer": 3,
+   "explain": "growth mindset = tư duy phát triển, coi sai lầm là cơ hội tiến bộ. fixed/closed/narrow mindset mang nghĩa ngược lại.",
+   "review": "Lớp 12 · Unit 10 – Speaking"
+  },
+  {
+   "id": "G12U10-V17",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "A student who has just finished secondary school is called a _____.",
+   "options": [
+    "head teacher",
+    "school-leaver",
+    "lecturer",
+    "dropout"
+   ],
+   "answer": 1,
+   "explain": "school-leaver = học sinh vừa tốt nghiệp phổ thông. head teacher: hiệu trưởng; lecturer: giảng viên; dropout: người bỏ học giữa chừng.",
+   "review": "Lớp 12 · Unit 10 – Reading"
+  },
+  {
+   "id": "G12U10-V18",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Self-directed learning and personal development",
+   "level": 1,
+   "q": "Good _____ management skills help adult learners plan their study time effectively.",
+   "options": [
+    "time",
+    "risk",
+    "waste",
+    "crisis"
+   ],
+   "answer": 0,
+   "explain": "time management = quản lý thời gian, phù hợp 'lên kế hoạch thời gian học'. risk/waste/crisis management không liên quan.",
+   "review": "Lớp 12 · Unit 10 – Listening"
+  },
+  {
+   "id": "G12U10-V19",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 3,
+   "q": "Lifelong learning can improve your _____ because employers value workers who keep developing their skills.",
+   "options": [
+    "unemployment",
+    "employment",
+    "employer",
+    "employability"
+   ],
+   "answer": 3,
+   "explain": "Sau tính từ sở hữu 'your' cần danh từ; nghĩa phù hợp: employability = khả năng được tuyển dụng. employer: người thuê; unemployment: thất nghiệp; 'improve your employment' không tự nhiên.",
+   "review": "Lớp 12 · Unit 10 – Writing"
+  },
+  {
+   "id": "G12U10-V20",
+   "unit": 10,
+   "type": "vocab",
+   "topic": "Lifelong learning",
+   "level": 1,
+   "q": "Studies show that learning new things keeps older people's minds _____ and healthy.",
+   "options": [
+    "lazy",
+    "passive",
+    "active",
+    "idle"
+   ],
+   "answer": 2,
+   "explain": "keep one's mind active = giữ đầu óc minh mẫn, năng động. passive/lazy/idle mang nghĩa tiêu cực, trái với 'healthy'.",
+   "review": "Lớp 12 · Unit 10 – Communication and Culture"
+  },
+  {
+   "id": "G12U10-G01",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"Turn off your phones,\" the teacher said to us.\n→ The teacher told us _____ our phones.",
+   "options": [
+    "turn off",
+    "to turn off",
+    "turning off",
+    "that we turn off"
+   ],
+   "answer": 1,
+   "explain": "Mệnh lệnh: tell sb to V. Không dùng V nguyên mẫu trần, V-ing hay 'that' sau 'told us' trong trường hợp này.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G02",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"Don't be late for the workshop,\" the trainer said to Nam.\n→ The trainer told Nam _____ late for the workshop.",
+   "options": [
+    "to be not",
+    "don't be",
+    "not be",
+    "not to be"
+   ],
+   "answer": 3,
+   "explain": "Mệnh lệnh phủ định: tell sb NOT TO V → not to be late. 'don't be' giữ nguyên câu trực tiếp; 'not be', 'to be not' sai cấu trúc.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G03",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"Could you help me with my online course?\" my grandmother asked me.\n→ My grandmother asked me _____ her with her online course.",
+   "options": [
+    "to help",
+    "help",
+    "helping",
+    "that I help"
+   ],
+   "answer": 0,
+   "explain": "Yêu cầu: ask sb to V → asked me to help her.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G04",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"I'll show you how to use this app,\" Minh said to his father.\n→ Minh _____ to show his father how to use the app.",
+   "options": [
+    "ordered",
+    "advised",
+    "offered",
+    "told"
+   ],
+   "answer": 2,
+   "explain": "Câu 'I'll…' là lời đề nghị giúp → offer to V (không có tân ngữ). advised/ordered/told phải có tân ngữ trước to V và sai nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G05",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"You should read more books to broaden your knowledge,\" the librarian said to us.\n→ The librarian advised us _____ more books to broaden our knowledge.",
+   "options": [
+    "that read",
+    "reading",
+    "to read",
+    "read"
+   ],
+   "answer": 2,
+   "explain": "Lời khuyên: advise sb to V → advised us to read.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar (ôn ở Looking Back)"
+  },
+  {
+   "id": "G12U10-G06",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "The head teacher advised school-leavers _____ learning after they graduated.",
+   "options": [
+    "not to stop",
+    "not stop",
+    "to not stopping",
+    "don't stop"
+   ],
+   "answer": 0,
+   "explain": "advise sb NOT TO V → not to stop. Các phương án khác sai cấu trúc.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G07",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "\"Shall I send you the link to the course?\" Lan said to me.\n→ Lan _____ the link to the course.",
+   "options": [
+    "asked me to send",
+    "offered me to send",
+    "suggested me to send",
+    "offered to send me"
+   ],
+   "answer": 3,
+   "explain": "'Shall I…?' là đề nghị giúp → offer to V: offered to send me. 'offered me to send', 'suggested me to send' sai cấu trúc; 'asked me to send' sai nghĩa (thành tôi gửi).",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G08",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"Please fill in this enrolment form,\" the receptionist said to my mother.\n→ The receptionist _____ my mother to fill in the enrolment form.",
+   "options": [
+    "said",
+    "asked",
+    "offered",
+    "suggested"
+   ],
+   "answer": 1,
+   "explain": "Câu có 'please' là lời yêu cầu → ask sb to V. said không đi với sb + to V; offered không có tân ngữ; suggest không dùng suggest sb to V.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G09",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "\"If I were you, I would take a course in time management,\" my sister said to me.\n→ My sister _____ a course in time management.",
+   "options": [
+    "advised me to take",
+    "offered me to take",
+    "told me take",
+    "asked to me take"
+   ],
+   "answer": 0,
+   "explain": "'If I were you, I would…' là lời khuyên → advise sb to V. Các phương án còn lại sai cấu trúc.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G10",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"Stand in line and wait for your turn!\" the guard said to the visitors.\n→ The guard _____ the visitors to stand in line and wait for their turn.",
+   "options": [
+    "suggested",
+    "offered",
+    "ordered",
+    "explained"
+   ],
+   "answer": 2,
+   "explain": "Câu mệnh lệnh mạnh (có dấu !) → order sb to V. offered/suggested/explained không dùng với cấu trúc sb + to V.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar (ôn ở Looking Back)"
+  },
+  {
+   "id": "G12U10-G11",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech (ôn tập: statements and questions)",
+   "level": 1,
+   "q": "\"I am taking an English course at the moment,\" Huy said.\n→ Huy said that he _____ an English course at that moment.",
+   "options": [
+    "is taking",
+    "was taking",
+    "took",
+    "has taken"
+   ],
+   "answer": 1,
+   "explain": "Câu kể tường thuật lùi thì: hiện tại tiếp diễn → quá khứ tiếp diễn: was taking (at the moment → at that moment).",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G12",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech (ôn tập: statements and questions)",
+   "level": 2,
+   "q": "\"Where can I find information about adult education courses?\" she asked.\n→ She asked where _____ information about adult education courses.",
+   "options": [
+    "she can found",
+    "could she find",
+    "can she find",
+    "she could find"
+   ],
+   "answer": 3,
+   "explain": "Câu hỏi Wh- tường thuật: Wh- + S + V, không đảo ngữ, lùi thì can → could: where she could find.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G13",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech (ôn tập: statements and questions)",
+   "level": 3,
+   "q": "\"Do you want to join our reading club?\" Mai asked me.\n→ Mai asked me _____ to join their reading club.",
+   "options": [
+    "that I wanted",
+    "did I want",
+    "whether did I want",
+    "if I wanted"
+   ],
+   "answer": 3,
+   "explain": "Câu hỏi Yes/No tường thuật: ask sb if/whether + S + V (lùi thì) → if I wanted. Không đảo ngữ; không dùng 'that'.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G14",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "\"Remember to update your CV regularly,\" the career adviser said to the students.\n→ The career adviser reminded the students _____ their CVs regularly.",
+   "options": [
+    "updating",
+    "to update",
+    "update",
+    "that update"
+   ],
+   "answer": 1,
+   "explain": "remind sb to V = nhắc ai làm gì → reminded the students to update.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G15",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 1,
+   "q": "\"Can you speak more slowly, please?\" the old man said to the tutor.\n→ The old man asked the tutor _____ more slowly.",
+   "options": [
+    "speaking",
+    "speak",
+    "to speak",
+    "that he speaks"
+   ],
+   "answer": 2,
+   "explain": "Lời yêu cầu (Can you…, please?) → ask sb to V: asked the tutor to speak.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar (ôn ở Looking Back)"
+  },
+  {
+   "id": "G12U10-G16",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "\"You'd better not give up your studies,\" Dad said to my brother.\n→ Dad advised my brother _____ his studies.",
+   "options": [
+    "not to give up",
+    "not giving up",
+    "to give up not",
+    "don't give up"
+   ],
+   "answer": 0,
+   "explain": "'You'd better not…' là lời khuyên phủ định → advise sb not to V: not to give up.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G17",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "\"I can help you practise speaking English if you like,\" Tom said to his classmate.\n→ Tom _____.",
+   "options": [
+    "advised his classmate to help him practise speaking English",
+    "offered his classmate to help practise speaking English",
+    "offered to help his classmate practise speaking English",
+    "asked his classmate to help him practise speaking English"
+   ],
+   "answer": 2,
+   "explain": "Tom đề nghị giúp bạn → offer to V + tân ngữ sau động từ chính: offered to help his classmate. 'offered his classmate to help' sai cấu trúc; advised/asked … to help him sai nghĩa (thành bạn giúp Tom).",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G18",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "\"Please don't use your phones during the lecture,\" the lecturer said to us.\n→ The lecturer asked us _____ our phones during the lecture.",
+   "options": [
+    "don't use",
+    "not using",
+    "to not using",
+    "not to use"
+   ],
+   "answer": 3,
+   "explain": "Yêu cầu phủ định: ask sb not to V → not to use.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G19",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "The coach told us that we _____ practise every day if we wanted to improve.",
+   "options": [
+    "should",
+    "shall",
+    "must to",
+    "ought"
+   ],
+   "answer": 0,
+   "explain": "Tường thuật lời khuyên bằng 'said/told (that) sb should V'. shall không dùng ở đây; 'must to' sai; 'ought' phải là 'ought to'.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-G20",
+   "unit": 10,
+   "type": "grammar",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "\"Would you like me to carry your books?\" Nam said to the librarian.\n→ Nam _____ the librarian's books.",
+   "options": [
+    "offered carrying",
+    "offered to carry",
+    "advised to carry",
+    "told to carry"
+   ],
+   "answer": 1,
+   "explain": "'Would you like me to…?' là lời đề nghị giúp → offer to V. 'offered carrying' sai dạng; advise/tell cần tân ngữ trước to V và sai nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar (ôn ở Looking Back)"
+  },
+  {
+   "id": "G12U10-P01",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in questions (revision)",
+   "level": 1,
+   "q": "Choose the correct intonation for the following question.\n\"Have you ever taken an online course?\"",
+   "options": [
+    "Rising (↗) at the end, because it is a Yes/No question",
+    "Falling (↘) at the end, because it is a Yes/No question",
+    "Falling (↘) at the end, because it begins with an auxiliary verb",
+    "Rising (↗) and then falling (↘), because it is a choice question"
+   ],
+   "answer": 0,
+   "explain": "Câu hỏi Yes/No (bắt đầu bằng trợ động từ Have) thường lên giọng ở cuối câu.",
+   "review": "Lớp 12 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U10-P02",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in questions (revision)",
+   "level": 1,
+   "q": "Choose the correct intonation for the following question.\n\"What skills would you like to learn after you leave school?\"",
+   "options": [
+    "Rising (↗) at the end, because it is a Wh-question",
+    "Falling (↘) at the end, because it is a Wh-question",
+    "Rising (↗) at the end, because it is a Yes/No question",
+    "Rising (↗) and then falling (↘), because it is a choice question"
+   ],
+   "answer": 1,
+   "explain": "Câu hỏi Wh- (What…) thường xuống giọng ở cuối câu.",
+   "review": "Lớp 12 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U10-P03",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in questions (revision)",
+   "level": 2,
+   "q": "Choose the correct intonation for the following question.\n\"Do you prefer learning online or in a classroom?\"",
+   "options": [
+    "Falling (↘) on both 'online' and 'classroom'",
+    "Falling (↘) on 'online' and rising (↗) on 'classroom'",
+    "Rising (↗) on both 'online' and 'classroom'",
+    "Rising (↗) on 'online' and falling (↘) on 'classroom'"
+   ],
+   "answer": 3,
+   "explain": "Câu hỏi lựa chọn (A or B?): lên giọng ở lựa chọn thứ nhất, xuống giọng ở lựa chọn cuối.",
+   "review": "Lớp 12 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U10-P04",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Intonation in questions (revision)",
+   "level": 2,
+   "q": "Which question normally has a FALLING intonation at the end?",
+   "options": [
+    "Can you speak any foreign languages?",
+    "Do you enjoy learning new things?",
+    "Why did your grandfather go back to university?",
+    "Is it ever too late to learn?"
+   ],
+   "answer": 2,
+   "explain": "Câu hỏi Wh- (Why…?) thường xuống giọng; ba câu còn lại là câu hỏi Yes/No nên thường lên giọng.",
+   "review": "Lớp 12 · Unit 10 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U10-P05",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "enroll<u>ed</u>",
+    "acquir<u>ed</u>",
+    "motivat<u>ed</u>",
+    "pursu<u>ed</u>"
+   ],
+   "answer": 2,
+   "explain": "motivated /ˈməʊtɪveɪtɪd/ đuôi -ed đọc /ɪd/ (sau âm /t/); acquired /əˈkwaɪəd/, enrolled /ɪnˈrəʊld/, pursued /pəˈsjuːd/ đọc /d/.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P06",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Vowel sounds: 'ea' (/ɜː/ vs /ɑː/)",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "res<u>ea</u>rch",
+    "l<u>ea</u>rner",
+    "s<u>ea</u>rch",
+    "h<u>ea</u>rt"
+   ],
+   "answer": 3,
+   "explain": "heart /hɑːt/ có 'ea' đọc /ɑː/; learner /ˈlɜːnə(r)/, search /sɜːtʃ/, research /rɪˈsɜːtʃ/ đọc /ɜː/.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P07",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Consonant sounds: 'ch' (/k/ vs /tʃ/)",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "s<u>ch</u>ool",
+    "<u>ch</u>allenge",
+    "<u>ch</u>oose",
+    "tea<u>ch</u>er"
+   ],
+   "answer": 0,
+   "explain": "school /skuːl/ có 'ch' đọc /k/; challenge /ˈtʃæləndʒ/, choose /tʃuːz/, teacher /ˈtiːtʃə(r)/ đọc /tʃ/.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P08",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Pronunciation of -s endings",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "book<u>s</u>",
+    "skill<u>s</u>",
+    "habit<u>s</u>",
+    "workshop<u>s</u>"
+   ],
+   "answer": 1,
+   "explain": "skills /skɪlz/ đuôi -s đọc /z/ (sau âm hữu thanh /l/); books, habits, workshops đọc /s/ (sau âm vô thanh /k/, /t/, /p/).",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P09",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "curiosity",
+    "qualification",
+    "motivation",
+    "education"
+   ],
+   "answer": 1,
+   "explain": "qualification /ˌkwɒlɪfɪˈkeɪʃn/ nhấn âm tiết 4; curiosity /ˌkjʊəriˈɒsəti/, motivation /ˌməʊtɪˈveɪʃn/, education /ˌedʒuˈkeɪʃn/ nhấn âm tiết 3.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P10",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "enrol",
+    "acquire",
+    "pursue",
+    "master"
+   ],
+   "answer": 3,
+   "explain": "master /ˈmɑːstə(r)/ nhấn âm tiết 1; acquire /əˈkwaɪə(r)/, pursue /pəˈsjuː/, enrol /ɪnˈrəʊl/ nhấn âm tiết 2.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P11",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "retirement",
+    "flexible",
+    "voluntary",
+    "graduate"
+   ],
+   "answer": 0,
+   "explain": "retirement /rɪˈtaɪəmənt/ nhấn âm tiết 2; flexible /ˈfleksəbl/, voluntary /ˈvɒləntri/, graduate /ˈɡrædʒuət/ nhấn âm tiết 1.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-P12",
+   "unit": 10,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "development",
+    "commitment",
+    "opportunity",
+    "environment"
+   ],
+   "answer": 2,
+   "explain": "opportunity /ˌɒpəˈtjuːnəti/ nhấn âm tiết 3; commitment /kəˈmɪtmənt/, development /dɪˈveləpmənt/, environment /ɪnˈvaɪrənmənt/ nhấn âm tiết 2.",
+   "review": "Lớp 12 · Unit 10 – Language, Vocabulary (phát âm từ vựng Unit)"
+  },
+  {
+   "id": "G12U10-E01",
+   "unit": 10,
+   "type": "error",
+   "topic": "Lifelong learning",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nLifelong learning <u>help</u> (A) people <u>keep up with</u> (B) changes <u>in</u> (C) <u>the modern world</u> (D).",
+   "options": [
+    "A. help",
+    "B. keep up with",
+    "C. in",
+    "D. the modern world"
+   ],
+   "answer": 0,
+   "explain": "Sai ở A: chủ ngữ 'Lifelong learning' số ít → helps.",
+   "review": "Lớp 12 · Unit 10 – Reading"
+  },
+  {
+   "id": "G12U10-E02",
+   "unit": 10,
+   "type": "error",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe head teacher told <u>the students</u> (A) <u>not stop</u> (B) learning <u>after</u> (C) they <u>left</u> (D) school.",
+   "options": [
+    "A. the students",
+    "B. not stop",
+    "C. after",
+    "D. left"
+   ],
+   "answer": 1,
+   "explain": "Sai ở B: tường thuật mệnh lệnh/lời khuyên phủ định: tell sb not to V → not to stop.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-E03",
+   "unit": 10,
+   "type": "error",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy brother <u>offered</u> (A) to teach our grandmother <u>how</u> (B) <u>using</u> (C) a smartphone <u>so that</u> (D) she could video-call her friends.",
+   "options": [
+    "A. offered",
+    "B. how",
+    "C. using",
+    "D. so that"
+   ],
+   "answer": 2,
+   "explain": "Sai ở C: how + to V → how to use.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-E04",
+   "unit": 10,
+   "type": "error",
+   "topic": "Lifelong learning",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nOlder people <u>who</u> (A) keep learning new skills <u>are often</u> (B) healthier and happier <u>than</u> (C) <u>that</u> (D) who stop learning.",
+   "options": [
+    "A. who",
+    "B. are often",
+    "C. than",
+    "D. that"
+   ],
+   "answer": 3,
+   "explain": "Sai ở D: thay cho danh từ số nhiều 'older people' phải dùng those → than those who stop learning.",
+   "review": "Lớp 12 · Unit 10 – Communication and Culture"
+  },
+  {
+   "id": "G12U10-E05",
+   "unit": 10,
+   "type": "error",
+   "topic": "Reported speech (ôn tập: statements and questions)",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nShe asked me <u>whether</u> (A) I <u>had ever taken</u> (B) an online course <u>before</u> (C) <u>or no</u> (D).",
+   "options": [
+    "A. whether",
+    "B. had ever taken",
+    "C. before",
+    "D. or no"
+   ],
+   "answer": 3,
+   "explain": "Sai ở D: whether … or not (không dùng 'or no').",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-E06",
+   "unit": 10,
+   "type": "error",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nThe lecturer <u>asked</u> (A) us <u>to read</u> (B) the article <u>careful</u> (C) <u>before</u> (D) the next class.",
+   "options": [
+    "A. asked",
+    "B. to read",
+    "C. careful",
+    "D. before"
+   ],
+   "answer": 2,
+   "explain": "Sai ở C: bổ nghĩa cho động từ 'read' cần trạng từ → carefully.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-E07",
+   "unit": 10,
+   "type": "error",
+   "topic": "Self-directed learning and personal development",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nDespite <u>being</u> (A) 85 years old, Mr Lam <u>was decided</u> (B) <u>to pursue</u> (C) a degree <u>in</u> (D) history.",
+   "options": [
+    "A. being",
+    "B. was decided",
+    "C. to pursue",
+    "D. in"
+   ],
+   "answer": 1,
+   "explain": "Sai ở B: ông Lam tự quyết định → chủ động: decided (to pursue).",
+   "review": "Lớp 12 · Unit 10 – Communication and Culture"
+  },
+  {
+   "id": "G12U10-E08",
+   "unit": 10,
+   "type": "error",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy mother <u>said me</u> (A) <u>to sign up</u> (B) <u>for</u> (C) a cooking class <u>to improve</u> (D) my skills.",
+   "options": [
+    "A. said me",
+    "B. to sign up",
+    "C. for",
+    "D. to improve"
+   ],
+   "answer": 0,
+   "explain": "Sai ở A: 'say' không có tân ngữ người + to V → told me (to sign up).",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-R01",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"Please turn off the lights when you leave the classroom,\" the teacher said to us.",
+   "options": [
+    "The teacher asked us turn off the lights when we leave the classroom.",
+    "The teacher asked us to turn off the lights when we left the classroom.",
+    "The teacher offered to turn off the lights when we left the classroom.",
+    "The teacher asked us not to turn off the lights when we left the classroom."
+   ],
+   "answer": 1,
+   "explain": "Lời yêu cầu → asked sb to V, đổi you → we, lùi thì leave → left. Các câu khác sai cấu trúc (thiếu to), sai nghĩa (offered: cô tự tắt) hoặc ngược nghĩa (not to).",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-R02",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"You should join a book club to improve your reading habit,\" my friend said to me.",
+   "options": [
+    "My friend asked me why I joined a book club to improve my reading habit.",
+    "My friend advised me joining a book club to improve my reading habit.",
+    "My friend offered to join a book club to improve my reading habit.",
+    "My friend advised me to join a book club to improve my reading habit."
+   ],
+   "answer": 3,
+   "explain": "'You should' = lời khuyên → advised sb to V. 'advised me joining' sai cấu trúc; offered và asked why sai nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-R03",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"I'll lend you my notes from the workshop,\" Linh said to Hoa.",
+   "options": [
+    "Linh offered to lend Hoa her notes from the workshop.",
+    "Linh asked Hoa to lend her the notes from the workshop.",
+    "Linh offered Hoa to lend her notes from the workshop.",
+    "Linh advised Hoa to lend her notes from the workshop."
+   ],
+   "answer": 0,
+   "explain": "'I'll…' là lời đề nghị giúp → offered to lend Hoa her notes. 'offered Hoa to lend' sai cấu trúc; asked/advised Hoa to lend làm sai nghĩa (Hoa cho mượn).",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-R04",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Lifelong learning",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt is never too late to learn new things.",
+   "options": [
+    "It is too late for older people to learn new things.",
+    "Only young people can learn new things.",
+    "People can learn new things at any age.",
+    "People should stop learning when they get old."
+   ],
+   "answer": 2,
+   "explain": "'Không bao giờ quá muộn để học' = có thể học ở mọi lứa tuổi. Ba câu còn lại mang nghĩa ngược lại.",
+   "review": "Lớp 12 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G12U10-R05",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\n\"Don't give up your evening classes,\" the manager said to Tuan.",
+   "options": [
+    "The manager asked Tuan whether he gave up his evening classes.",
+    "The manager told Tuan to give up his evening classes.",
+    "The manager told Tuan not give up his evening classes.",
+    "The manager told Tuan not to give up his evening classes."
+   ],
+   "answer": 3,
+   "explain": "Mệnh lệnh phủ định → told sb not to V; your → his. Câu 'to give up' ngược nghĩa; 'not give up' sai cấu trúc; câu hỏi whether sai nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Language, Grammar"
+  },
+  {
+   "id": "G12U10-R06",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Self-directed learning and personal development",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nAlthough she works full-time, she still takes an online course every term.",
+   "options": [
+    "Despite working full-time, she still takes an online course every term.",
+    "Because she works full-time, she takes an online course every term.",
+    "Despite she works full-time, she still takes an online course every term.",
+    "In spite of work full-time, she still takes an online course every term."
+   ],
+   "answer": 0,
+   "explain": "Although + mệnh đề = Despite + V-ing/danh từ → Despite working full-time. 'Because' sai nghĩa; 'Despite she works' và 'In spite of work' sai cấu trúc.",
+   "review": "Lớp 12 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G12U10-R07",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Lifelong learning",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMr Binh retired last year. He has enrolled in a painting course.",
+   "options": [
+    "Mr Binh, who retired last year, he has enrolled in a painting course.",
+    "Mr Binh, that retired last year, has enrolled in a painting course.",
+    "Mr Binh, who retired last year, has enrolled in a painting course.",
+    "Mr Binh retired last year because he has enrolled in a painting course."
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề quan hệ không xác định (sau tên riêng) dùng who, có dấu phẩy, không dùng that; không lặp chủ ngữ 'he'; 'because' sai quan hệ nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G12U10-R08",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Self-directed learning and personal development",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nYou should practise regularly. Otherwise, you will forget what you have learnt.",
+   "options": [
+    "Unless you don't practise regularly, you will forget what you have learnt.",
+    "If you don't practise regularly, you will forget what you have learnt.",
+    "If you practise regularly, you will forget what you have learnt.",
+    "If you didn't practise regularly, you will forget what you have learnt."
+   ],
+   "answer": 1,
+   "explain": "Otherwise = nếu không → câu điều kiện loại 1: If you don't practise…, you will forget. 'Unless … don't' thừa phủ định; câu khẳng định ngược nghĩa; 'didn't … will' sai phối thì.",
+   "review": "Lớp 12 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G12U10-R09",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Self-directed learning and personal development",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe course was very difficult. She finished it with excellent results.",
+   "options": [
+    "Although the course was very difficult, she finished it with excellent results.",
+    "Because the course was very difficult, she finished it with excellent results.",
+    "Despite the course was very difficult, she finished it with excellent results.",
+    "The course was so difficult that she finished it with excellent results."
+   ],
+   "answer": 0,
+   "explain": "Hai ý tương phản → Although + mệnh đề. 'Because' và 'so … that' sai quan hệ nghĩa; 'Despite + mệnh đề' sai cấu trúc.",
+   "review": "Lớp 12 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G12U10-R10",
+   "unit": 10,
+   "type": "rewrite",
+   "topic": "Self-directed learning and personal development",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nHe did not take up learning a language earlier. He regrets it now.",
+   "options": [
+    "He regrets taking up learning a language earlier.",
+    "He wishes he took up learning a language earlier.",
+    "He wishes he has taken up learning a language earlier.",
+    "He wishes he had taken up learning a language earlier."
+   ],
+   "answer": 3,
+   "explain": "Hối tiếc về quá khứ → wish + quá khứ hoàn thành: wishes he had taken up. 'took up', 'has taken up' sai thì; 'regrets taking up' ngược nghĩa (hối tiếc vì đã học).",
+   "review": "Lớp 12 · Unit 10 – Looking Back"
+  },
+  {
+   "id": "G12U10-C01",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Learning never stops",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "which",
+    "what",
+    "why",
+    "whom"
+   ],
+   "answer": 2,
+   "explain": "That is why = đó là lý do vì sao (dẫn đến kết quả). what/which/whom không hợp ngữ pháp và nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P1",
+   "blank": 1
+  },
+  {
+   "id": "G12U10-C02",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Learning never stops",
+   "level": 1,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "take",
+    "make",
+    "have",
+    "get"
+   ],
+   "answer": 0,
+   "explain": "Collocation: take place = diễn ra. Lifelong learning không phải lúc nào cũng diễn ra trong lớp học.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P1",
+   "blank": 2
+  },
+  {
+   "id": "G12U10-C03",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Learning never stops",
+   "level": 1,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "out",
+    "on",
+    "off",
+    "up"
+   ],
+   "answer": 3,
+   "explain": "keep up with = theo kịp (công nghệ mới).",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P1",
+   "blank": 3
+  },
+  {
+   "id": "G12U10-C04",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Learning never stops",
+   "level": 2,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "which",
+    "who",
+    "whom",
+    "whose"
+   ],
+   "answer": 1,
+   "explain": "Đại từ quan hệ thay cho 'people' làm chủ ngữ của 'continue' → who. which dùng cho vật; whom làm tân ngữ; whose chỉ sở hữu.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P1",
+   "blank": 4
+  },
+  {
+   "id": "G12U10-C05",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "insist",
+    "suggest",
+    "advise",
+    "say"
+   ],
+   "answer": 2,
+   "explain": "Cấu trúc advise sb to V: Experts advise young people to develop… suggest, insist, say không dùng với sb + to V.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P1",
+   "blank": 5
+  },
+  {
+   "id": "G12U10-C06",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 3,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "told",
+    "suggested",
+    "offered",
+    "wanted"
+   ],
+   "answer": 1,
+   "explain": "suggest that sb (should) V: Her granddaughter suggested that she join… told/offered/wanted không đi với mệnh đề 'that she join'.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P2",
+   "blank": 6
+  },
+  {
+   "id": "G12U10-C07",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "not worrying",
+    "not worry",
+    "don't worry",
+    "not to worry"
+   ],
+   "answer": 3,
+   "explain": "Tường thuật lời khuyên/mệnh lệnh phủ định: tell sb not to V → told her not to worry.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P2",
+   "blank": 7
+  },
+  {
+   "id": "G12U10-C08",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Never too old to learn",
+   "level": 2,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "success",
+    "succeed",
+    "successful",
+    "successfully"
+   ],
+   "answer": 0,
+   "explain": "Sau tính từ sở hữu 'her' cần danh từ → success (thành công).",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P2",
+   "blank": 8
+  },
+  {
+   "id": "G12U10-C09",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Reported speech: orders, requests, offers and advice",
+   "level": 2,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "helping",
+    "to help",
+    "help",
+    "helped"
+   ],
+   "answer": 1,
+   "explain": "offer to V → offers to help (giúp người lớn tuổi khác dùng điện thoại).",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P2",
+   "blank": 9
+  },
+  {
+   "id": "G12U10-C10",
+   "unit": 10,
+   "type": "cloze",
+   "topic": "Never too old to learn",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "although",
+    "unless",
+    "as long as",
+    "so that"
+   ],
+   "answer": 2,
+   "explain": "as long as = miễn là: không bao giờ quá muộn để học miễn là bạn ham hiểu biết và sẵn sàng thử. unless (trừ khi), although (mặc dù), so that (để mà) sai nghĩa.",
+   "review": "Lớp 12 · Unit 10 – Reading (đoạn văn tự viết, chủ đề Unit)",
+   "pid": "G12U10-P2",
+   "blank": 10
+  }
+ ]
+}

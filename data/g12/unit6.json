@@ -1,0 +1,1785 @@
+{
+ "grade": 12,
+ "unit": 6,
+ "name": "Artificial Intelligence",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Science and technology",
+  "AI applications"
+ ],
+ "pron": "Homophones",
+ "grammar": [
+  "Active and passive causatives",
+  "Passive voice (revision)",
+  "Sentence transformation (revision)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Thể sai khiến chủ động (Active causatives)",
+   "page": 79,
+   "body": "Dùng khi ta nhờ/yêu cầu/thuê NGƯỜI KHÁC làm việc gì cho mình.\n• have + sb + V (nguyên mẫu không to): The manager had the technician install the software.\n• get + sb + to V: I'll get someone to take a picture of us. (sách – Getting Started)\n• Phân biệt: make + sb + V = bắt buộc ai làm gì (The teacher made us rewrite the essay); let + sb + V = cho phép.\n• Have/get chia theo thì của câu: I'm having / I had / I will get…\nLỗi hay gặp: *get sb do* (thiếu to), *have sb to do* (thừa to)."
+  },
+  {
+   "kind": "grammar",
+   "title": "Thể sai khiến bị động (Passive causatives)",
+   "page": 79,
+   "body": "Dùng khi muốn nhấn mạnh VIỆC được làm cho mình (không cần nêu/hoặc nêu sau by người làm).\n• have + sth + V3/ed (+ by sb): We have all visitors' identity checked to improve the centre security. (sách)\n• get + sth + V3/ed: Let me get this robot activated, so you can talk to him. (sách)\n• Let's have a photo taken together! (sách)\n• Chia thì ở have/get: She is having her laptop repaired. / We had a new AI lab built last year. / I'm going to get my phone screen replaced.\n• Chuyển đổi: A technician repaired my robot. → I had my robot repaired by a technician.\n• Cũng dùng cho việc không may xảy ra với mình: He had his phone stolen.\nLỗi hay gặp: dùng V-ing hoặc V nguyên mẫu sau tân ngữ chỉ vật (*have the robot check*); nhầm 'had it fixed' (nhờ sửa) với 'had fixed it' (quá khứ hoàn thành – tự sửa)."
+  },
+  {
+   "kind": "pron",
+   "title": "Từ đồng âm (Homophones)",
+   "page": 78,
+   "body": "Homophones là những từ phát âm giống nhau nhưng khác chính tả và nghĩa. Vd: I have two books, too. (/tuː/)\nCác cặp trong sách: to – two /tuː/; there – their /ðeə(r)/; where – wear /weə(r)/; board – bored /bɔːd/; hour – our /ˈaʊə(r)/; allowed – aloud /əˈlaʊd/; know – no /nəʊ/; right – write /raɪt/.\nThêm: see – sea, buy – by, new – knew, hear – here, weather – whether.\nLưu ý chữ câm: h trong hour, honest; k trong know; w trong write, wrong, answer.\nKhi nghe/viết phải dựa vào NGỮ CẢNH để chọn đúng từ: We want to know where AI technologies are used. / Robots can work for long hours."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 78,
+   "body": "• artificial intelligence (AI); facial recognition; voice recognition; virtual assistant; human-like robot\n• be capable of + V-ing (có khả năng làm gì); interact with sb/sth (tương tác với)\n• practical applications of AI (ứng dụng thực tế); advanced technology (công nghệ tiên tiến)\n• programme a robot to do sth; analyse data; activate a robot\n• personalised learning; give instant feedback; assess students' work\n• take over the world (thống trị/chiếm quyền kiểm soát); rely on (phụ thuộc vào); replace humans\n• do household chores; give voice commands; protect privacy; a robot malfunctions"
+  },
+  {
+   "kind": "vocab",
+   "title": "Kỹ năng – Everyday English: Getting attention and interrupting",
+   "page": 84,
+   "body": "Thu hút sự chú ý: Excuse me, … / Sorry to bother you, but … / Can I have your attention, please?\nNgắt lời lịch sự: Sorry to interrupt, but … / Can I just say something? / May I interrupt for a second? / Sorry, can I add something here?\nĐáp lại: Yes, go ahead. / Sure, what is it?"
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Gặp have/get + tân ngữ: tân ngữ là NGƯỜI làm việc → have sb V / get sb to V; tân ngữ là VẬT được làm → have/get sth V3.\n• Câu viết lại 'Someone did sth for me' → 'I had/got sth done (by someone)'; giữ đúng thì của câu gốc.\n• Câu tìm lỗi: kiểm tra từ đồng âm (there/their, where/wear, hour/our, know/no) và giới từ đi kèm (capable of, interact with, rely on).\n• Word form: sau mạo từ/tính từ sở hữu cần danh từ (applications, recognition, privacy); sau trợ động từ cần động từ (analyse, activate, operate).\n• Phát âm: nhớ chữ câm (h-our, k-now, w-rite) và đuôi -ed /ɪd/ sau t, d (activated)."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "human-like",
+   "pos": "adj",
+   "ipa": "/ˈhjuːmən laɪk/",
+   "vi": "giống người",
+   "ex": "She's a human-like robot and will be your guide today.",
+   "page": 76
+  },
+  {
+   "w": "exhibition",
+   "pos": "n",
+   "ipa": "/ˌeksɪˈbɪʃn/",
+   "vi": "cuộc triển lãm",
+   "ex": "Let's go first to the robot exhibition.",
+   "page": 76
+  },
+  {
+   "w": "interact",
+   "pos": "v",
+   "ipa": "/ˌɪntərˈækt/",
+   "vi": "tương tác (interact with)",
+   "ex": "They look so real! Can we interact with them?",
+   "page": 76
+  },
+  {
+   "w": "capable",
+   "pos": "adj",
+   "ipa": "/ˈkeɪpəbl/",
+   "vi": "có khả năng (be capable of + V-ing)",
+   "ex": "They're all capable of answering questions.",
+   "page": 76
+  },
+  {
+   "w": "translate",
+   "pos": "v",
+   "ipa": "/trænsˈleɪt/",
+   "vi": "dịch",
+   "ex": "The robots can translate from different languages.",
+   "page": 76
+  },
+  {
+   "w": "activate",
+   "pos": "v",
+   "ipa": "/ˈæktɪveɪt/",
+   "vi": "kích hoạt, làm cho hoạt động",
+   "ex": "Let me get this robot activated so you can talk to him.",
+   "page": 76
+  },
+  {
+   "w": "application",
+   "pos": "n",
+   "ipa": "/ˌæplɪˈkeɪʃn/",
+   "vi": "ứng dụng (thực tế)",
+   "ex": "AI has many practical applications.",
+   "page": 77
+  },
+  {
+   "w": "recognition",
+   "pos": "n",
+   "ipa": "/ˌrekəɡˈnɪʃn/",
+   "vi": "sự nhận dạng, nhận biết",
+   "ex": "Voice recognition lets you control the device by speaking.",
+   "page": 77
+  },
+  {
+   "w": "facial recognition",
+   "pos": "n phr",
+   "ipa": "/ˌfeɪʃl ˌrekəɡˈnɪʃn/",
+   "vi": "nhận diện khuôn mặt",
+   "ex": "I noticed a facial recognition screen at the entrance of the centre.",
+   "page": 77
+  },
+  {
+   "w": "virtual assistant",
+   "pos": "n phr",
+   "ipa": "/ˌvɜːtʃuəl əˈsɪstənt/",
+   "vi": "trợ lý ảo",
+   "ex": "Virtual assistants can set reminders and answer simple questions.",
+   "page": 77
+  },
+  {
+   "w": "identity",
+   "pos": "n",
+   "ipa": "/aɪˈdentəti/",
+   "vi": "danh tính",
+   "ex": "We have all visitors' identity checked.",
+   "page": 77
+  },
+  {
+   "w": "security",
+   "pos": "n",
+   "ipa": "/sɪˈkjʊərəti/",
+   "vi": "an ninh",
+   "ex": "We check visitors' identity to improve the centre security.",
+   "page": 77
+  },
+  {
+   "w": "advanced",
+   "pos": "adj",
+   "ipa": "/ədˈvɑːnst/",
+   "vi": "tiên tiến, hiện đại",
+   "ex": "This is one of the most advanced robots in the world.",
+   "page": 78
+  },
+  {
+   "w": "chatbot",
+   "pos": "n",
+   "ipa": "/ˈtʃætbɒt/",
+   "vi": "chương trình trò chuyện tự động",
+   "ex": "The chatbot can answer customers' questions 24 hours a day.",
+   "page": 78
+  },
+  {
+   "w": "artificial intelligence (AI)",
+   "pos": "n",
+   "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+   "vi": "trí tuệ nhân tạo",
+   "ex": "Artificial intelligence is changing the way we live and work.",
+   "page": 78
+  },
+  {
+   "w": "programme",
+   "pos": "v",
+   "ipa": "/ˈprəʊɡræm/",
+   "vi": "lập trình",
+   "ex": "Engineers programmed the robot to sort rubbish.",
+   "page": 78
+  },
+  {
+   "w": "analyse",
+   "pos": "v",
+   "ipa": "/ˈænəlaɪz/",
+   "vi": "phân tích",
+   "ex": "AI can analyse huge amounts of data in seconds.",
+   "page": 78
+  },
+  {
+   "w": "take over",
+   "pos": "phr v",
+   "ipa": "/teɪk ˈəʊvə(r)/",
+   "vi": "chiếm quyền kiểm soát, thống trị",
+   "ex": "There have been some worries about AI taking over the world.",
+   "page": 78
+  },
+  {
+   "w": "algorithm",
+   "pos": "n",
+   "ipa": "/ˈælɡərɪðəm/",
+   "vi": "thuật toán",
+   "ex": "The app uses an algorithm to suggest suitable exercises.",
+   "page": 79
+  },
+  {
+   "w": "data",
+   "pos": "n",
+   "ipa": "/ˈdeɪtə/",
+   "vi": "dữ liệu",
+   "ex": "AI systems learn from large amounts of data.",
+   "page": 79
+  },
+  {
+   "w": "personalised",
+   "pos": "adj",
+   "ipa": "/ˈpɜːsənəlaɪzd/",
+   "vi": "được cá nhân hoá",
+   "ex": "AI makes personalised learning possible.",
+   "page": 80
+  },
+  {
+   "w": "adapt",
+   "pos": "v",
+   "ipa": "/əˈdæpt/",
+   "vi": "điều chỉnh cho phù hợp (adapt to)",
+   "ex": "The programme adapts the lessons to each student's level.",
+   "page": 80
+  },
+  {
+   "w": "feedback",
+   "pos": "n",
+   "ipa": "/ˈfiːdbæk/",
+   "vi": "phản hồi, nhận xét",
+   "ex": "Students get instant feedback on their pronunciation.",
+   "page": 80
+  },
+  {
+   "w": "assess",
+   "pos": "v",
+   "ipa": "/əˈses/",
+   "vi": "đánh giá",
+   "ex": "Teachers use AI tools to assess students' work.",
+   "page": 80
+  },
+  {
+   "w": "automatically",
+   "pos": "adv",
+   "ipa": "/ˌɔːtəˈmætɪkli/",
+   "vi": "một cách tự động",
+   "ex": "The tests are marked automatically.",
+   "page": 80
+  },
+  {
+   "w": "tutor",
+   "pos": "n",
+   "ipa": "/ˈtjuːtə(r)/",
+   "vi": "gia sư",
+   "ex": "An AI tutor is available whenever students need help.",
+   "page": 80
+  },
+  {
+   "w": "plagiarism",
+   "pos": "n",
+   "ipa": "/ˈpleɪdʒərɪzəm/",
+   "vi": "sự đạo văn",
+   "ex": "Teachers use software to check essays for plagiarism.",
+   "page": 81
+  },
+  {
+   "w": "replace",
+   "pos": "v",
+   "ipa": "/rɪˈpleɪs/",
+   "vi": "thay thế",
+   "ex": "AI will never completely replace teachers.",
+   "page": 81
+  },
+  {
+   "w": "operate",
+   "pos": "v",
+   "ipa": "/ˈɒpəreɪt/",
+   "vi": "vận hành, điều khiển",
+   "ex": "The expert explains how to operate a home robot.",
+   "page": 82
+  },
+  {
+   "w": "voice command",
+   "pos": "n phr",
+   "ipa": "/ˌvɔɪs kəˈmɑːnd/",
+   "vi": "lệnh bằng giọng nói",
+   "ex": "You can control the robot with simple voice commands.",
+   "page": 82
+  },
+  {
+   "w": "sensor",
+   "pos": "n",
+   "ipa": "/ˈsensə(r)/",
+   "vi": "cảm biến",
+   "ex": "Its sensors help the robot avoid bumping into furniture.",
+   "page": 82
+  },
+  {
+   "w": "household chores",
+   "pos": "n phr",
+   "ipa": "/ˌhaʊshəʊld ˈtʃɔːz/",
+   "vi": "việc nhà",
+   "ex": "Home robots can help with household chores.",
+   "page": 83
+  },
+  {
+   "w": "privacy",
+   "pos": "n",
+   "ipa": "/ˈprɪvəsi/",
+   "vi": "sự riêng tư",
+   "ex": "Some people worry about their privacy when using smart devices.",
+   "page": 83
+  },
+  {
+   "w": "malfunction",
+   "pos": "v",
+   "ipa": "/ˌmælˈfʌŋkʃn/",
+   "vi": "gặp trục trặc, hoạt động sai",
+   "ex": "If a robot malfunctions, it may cause accidents.",
+   "page": 83
+  },
+  {
+   "w": "rely on",
+   "pos": "phr v",
+   "ipa": "/rɪˈlaɪ ɒn/",
+   "vi": "phụ thuộc vào, dựa vào",
+   "ex": "We shouldn't rely on robots for everything.",
+   "page": 83
+  },
+  {
+   "w": "interrupt",
+   "pos": "v",
+   "ipa": "/ˌɪntəˈrʌpt/",
+   "vi": "ngắt lời",
+   "ex": "Sorry to interrupt, but can I ask a question?",
+   "page": 84
+  },
+  {
+   "w": "evolution",
+   "pos": "n",
+   "ipa": "/ˌiːvəˈluːʃn/",
+   "vi": "sự phát triển, tiến hoá",
+   "ex": "The evolution of robots started with simple machines.",
+   "page": 85
+  },
+  {
+   "w": "industrial robot",
+   "pos": "n phr",
+   "ipa": "/ɪnˌdʌstriəl ˈrəʊbɒt/",
+   "vi": "rô-bốt công nghiệp",
+   "ex": "Industrial robots are used in car factories.",
+   "page": 85
+  },
+  {
+   "w": "humanoid",
+   "pos": "n",
+   "ipa": "/ˈhjuːmənɔɪd/",
+   "vi": "rô-bốt hình người",
+   "ex": "A humanoid can walk and talk like a human.",
+   "page": 85
+  },
+  {
+   "w": "perform",
+   "pos": "v",
+   "ipa": "/pəˈfɔːm/",
+   "vi": "thực hiện (perform a task)",
+   "ex": "Robots can perform dangerous tasks.",
+   "page": 85
+  },
+  {
+   "w": "innovative",
+   "pos": "adj",
+   "ipa": "/ˈɪnəveɪtɪv/",
+   "vi": "sáng tạo, đổi mới",
+   "ex": "Our group designed an innovative AI application for farmers.",
+   "page": 87
+  },
+  {
+   "w": "cutting-edge",
+   "pos": "adj",
+   "ipa": "/ˌkʌtɪŋ ˈedʒ/",
+   "vi": "tối tân, tiên tiến nhất",
+   "ex": "The centre shows cutting-edge AI technology.",
+   "page": 87
+  }
+ ],
+ "passages": [
+  {
+   "id": "G12U6-P1",
+   "title": "AI in the classroom",
+   "text": "Artificial intelligence is changing the way students learn in many parts of the world. One of the most useful (1) _____ of AI in education is personalised learning. Instead of following the same lesson as everyone else, each student can work with an AI tutor (2) _____ adapts the exercises to his or her level. If a student makes a mistake, the programme gives instant feedback and explains the correct answer. Teachers also benefit from AI. Many schools now have homework (3) _____ automatically, so teachers can spend more time preparing lessons and supporting students who need help. AI tools can also analyse test results and show which topics a class finds difficult. (4) _____, AI in education has some disadvantages. Some students rely too much on chatbots and copy their answers instead of thinking for themselves. Therefore, schools should teach students to use AI tools responsibly and (5) _____ them as helpful assistants, not as a replacement for their own effort."
+  },
+  {
+   "id": "G12U6-P2",
+   "title": "Robots at home",
+   "text": "Home robots are no longer something we only see in science-fiction films. Today, many families have robot vacuum cleaners that can clean the floor while their owners are at work. More (6) _____ models can even cook simple meals, remind elderly people to take their medicine, and call for help in an emergency. Most home robots are easy to (7) _____. You just give them voice commands or use an app on your smartphone. Their sensors help them recognise objects and avoid bumping into furniture. However, home robots also have some drawbacks. They are still quite expensive, and some people worry about their (8) _____ because the robots collect personal data. Robots may also malfunction, so owners sometimes have to get a technician (9) _____ them. In the future, home robots will probably become cheaper and more intelligent. They will not replace humans completely, but they will make our daily lives (10) _____ easier."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G12U6-V01",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Science and technology",
+   "level": 1,
+   "q": "A _____ is a computer programme that can have a conversation with a human, usually over the Internet.",
+   "options": [
+    "chatbot",
+    "sensor",
+    "algorithm",
+    "website"
+   ],
+   "answer": 0,
+   "explain": "chatbot = chương trình máy tính có thể trò chuyện với con người qua Internet. sensor: cảm biến; algorithm: thuật toán; website: trang web – không phải chương trình trò chuyện.",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-V02",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "The robots in the exhibition are all capable _____ answering questions in different languages.",
+   "options": [
+    "in",
+    "of",
+    "for",
+    "at"
+   ],
+   "answer": 1,
+   "explain": "Cấu trúc be capable of + V-ing: có khả năng làm gì. Các giới từ in, for, at không đi với capable.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V03",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "Siri and Alexa are popular examples of virtual _____ that can set reminders and answer simple questions.",
+   "options": [
+    "machines",
+    "servants",
+    "assistants",
+    "operators"
+   ],
+   "answer": 2,
+   "explain": "Collocation virtual assistant = trợ lý ảo. 'virtual machine' là máy ảo (khái niệm khác), servants/operators không kết hợp như vậy.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V04",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "Many smartphones now use facial _____ to unlock the screen.",
+   "options": [
+    "identity",
+    "knowledge",
+    "decision",
+    "recognition"
+   ],
+   "answer": 3,
+   "explain": "facial recognition = nhận diện khuôn mặt. identity: danh tính; knowledge: kiến thức; decision: quyết định – không tạo cụm đúng.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V05",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "AI has many practical _____ such as facial recognition and virtual assistants.",
+   "options": [
+    "applications",
+    "applies",
+    "applicable",
+    "apply"
+   ],
+   "answer": 0,
+   "explain": "Sau tính từ practical cần danh từ số nhiều: applications (các ứng dụng). applies/apply là động từ, applicable là tính từ.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V06",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Science and technology",
+   "level": 1,
+   "q": "Engineers _____ the robot to sort rubbish into different bins.",
+   "options": [
+    "analysed",
+    "programmed",
+    "interacted",
+    "recognised"
+   ],
+   "answer": 1,
+   "explain": "programme sb/sth to do sth = lập trình cho máy làm gì. analyse: phân tích; interact cần with; recognise: nhận ra – không hợp nghĩa với cấu trúc 'to sort'.",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-V07",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Science and technology",
+   "level": 2,
+   "q": "Doctors use AI to _____ huge amounts of medical data in a few seconds.",
+   "options": [
+    "analysis",
+    "analytical",
+    "analyse",
+    "analyst"
+   ],
+   "answer": 2,
+   "explain": "Sau to cần động từ nguyên mẫu: analyse (phân tích). analysis (n), analytical (adj), analyst (n – nhà phân tích).",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-V08",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Science and technology",
+   "level": 2,
+   "q": "Some people worry that AI will _____ over the world one day.",
+   "options": [
+    "get",
+    "look",
+    "turn",
+    "take"
+   ],
+   "answer": 3,
+   "explain": "take over = chiếm quyền kiểm soát, thống trị. get over: vượt qua; look over: xem qua; turn over: lật lại – không hợp nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-V09",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Science and technology",
+   "level": 1,
+   "q": "This is one of the most <u>advanced</u> robots in the world.\nChoose the word CLOSEST in meaning to the underlined word.",
+   "options": [
+    "modern",
+    "ancient",
+    "simple",
+    "cheap"
+   ],
+   "answer": 0,
+   "explain": "advanced = tiên tiến, hiện đại ≈ modern. ancient: cổ xưa (trái nghĩa); simple: đơn giản; cheap: rẻ.",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-V10",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "The robot looked so <u>real</u> that some visitors thought it was a person.\nChoose the word OPPOSITE in meaning to the underlined word.",
+   "options": [
+    "natural",
+    "genuine",
+    "artificial",
+    "true"
+   ],
+   "answer": 2,
+   "explain": "real (thật) trái nghĩa với artificial (nhân tạo, giả). natural, genuine, true đều gần nghĩa với real.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V11",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "Students can _____ with the chatbot in English to practise their speaking skills.",
+   "options": [
+    "interact",
+    "reply",
+    "discuss",
+    "contact"
+   ],
+   "answer": 0,
+   "explain": "interact with sb/sth = tương tác với. reply phải đi với to (reply to sb); discuss là ngoại động từ, cần tân ngữ (discuss sth with sb) nên 'discuss with the chatbot' thiếu tân ngữ; contact sb không dùng with.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V12",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "Press this button to _____ the robot, and it will start talking to you.",
+   "options": [
+    "active",
+    "activate",
+    "activity",
+    "actively"
+   ],
+   "answer": 1,
+   "explain": "Sau to cần động từ: activate (kích hoạt). active (adj), activity (n), actively (adv).",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-V13",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 3,
+   "q": "AI-powered apps can give students _____ feedback on their pronunciation.",
+   "options": [
+    "instance",
+    "instantly",
+    "instants",
+    "instant"
+   ],
+   "answer": 3,
+   "explain": "Trước danh từ feedback cần tính từ: instant (ngay lập tức). instantly là trạng từ; instance/instants là danh từ.",
+   "review": "Lớp 12 · Unit 6 – Reading"
+  },
+  {
+   "id": "G12U6-V14",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "In personalised learning, lessons are _____ to each student's needs and level.",
+   "options": [
+    "adopted",
+    "admitted",
+    "attracted",
+    "adapted"
+   ],
+   "answer": 3,
+   "explain": "be adapted to = được điều chỉnh cho phù hợp với. adopted: được áp dụng/nhận nuôi (dễ nhầm với adapted); admitted: được thừa nhận/nhận vào; attracted: bị thu hút.",
+   "review": "Lớp 12 · Unit 6 – Reading"
+  },
+  {
+   "id": "G12U6-V15",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "Teachers can use AI tools to <u>assess</u> students' work more quickly.\nChoose the word CLOSEST in meaning to the underlined word.",
+   "options": [
+    "create",
+    "evaluate",
+    "copy",
+    "ignore"
+   ],
+   "answer": 1,
+   "explain": "assess = đánh giá ≈ evaluate. create: tạo ra; copy: sao chép; ignore: phớt lờ.",
+   "review": "Lớp 12 · Unit 6 – Reading"
+  },
+  {
+   "id": "G12U6-V16",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 3,
+   "q": "Copying someone else's work and pretending that it is your own is called _____.",
+   "options": [
+    "privacy",
+    "plagiarism",
+    "recognition",
+    "evolution"
+   ],
+   "answer": 1,
+   "explain": "plagiarism = đạo văn. privacy: sự riêng tư; recognition: sự nhận dạng; evolution: sự tiến hoá.",
+   "review": "Lớp 12 · Unit 6 – Reading"
+  },
+  {
+   "id": "G12U6-V17",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "Home robots can help elderly people with household _____ like cleaning and cooking.",
+   "options": [
+    "works",
+    "homework",
+    "chores",
+    "labours"
+   ],
+   "answer": 2,
+   "explain": "Collocation household chores = việc nhà. work là danh từ không đếm được (không có 'works' với nghĩa này); homework là bài tập về nhà; labours không dùng như vậy.",
+   "review": "Lớp 12 · Unit 6 – Writing"
+  },
+  {
+   "id": "G12U6-V18",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "Many people are worried about their _____ because smart devices collect a lot of personal data.",
+   "options": [
+    "private",
+    "privately",
+    "privacy",
+    "privatise"
+   ],
+   "answer": 2,
+   "explain": "Sau tính từ sở hữu their cần danh từ: privacy (sự riêng tư). private (adj), privately (adv), privatise (v).",
+   "review": "Lớp 12 · Unit 6 – Writing"
+  },
+  {
+   "id": "G12U6-V19",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 3,
+   "q": "Some people <u>rely on</u> virtual assistants for almost everything they do.\nChoose the phrase CLOSEST in meaning to the underlined phrase.",
+   "options": [
+    "depend on",
+    "look after",
+    "give up",
+    "take off"
+   ],
+   "answer": 0,
+   "explain": "rely on = dựa vào, phụ thuộc vào ≈ depend on. look after: chăm sóc; give up: từ bỏ; take off: cất cánh/cởi ra.",
+   "review": "Lớp 12 · Unit 6 – Writing"
+  },
+  {
+   "id": "G12U6-V20",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "AI applications",
+   "level": 3,
+   "q": "If a robot _____, it may stop working or even do something dangerous.",
+   "options": [
+    "operates",
+    "functions",
+    "programmes",
+    "malfunctions"
+   ],
+   "answer": 3,
+   "explain": "malfunction = gặp trục trặc, hoạt động sai – hợp với hậu quả 'stop working'. operates/functions = hoạt động bình thường; programmes = lập trình – mâu thuẫn nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Writing"
+  },
+  {
+   "id": "G12U6-G01",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "I'll get someone _____ a picture of us.",
+   "options": [
+    "to take",
+    "take",
+    "taken",
+    "to be taken"
+   ],
+   "answer": 0,
+   "explain": "Thể sai khiến chủ động: get + sb + to V (nhờ ai làm gì). Không dùng V nguyên mẫu sau get + người; taken/to be taken là dạng bị động, không hợp vì 'someone' là người thực hiện.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G02",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "We had the robot _____ by an engineer yesterday.",
+   "options": [
+    "repair",
+    "repaired",
+    "to repair",
+    "repairing"
+   ],
+   "answer": 1,
+   "explain": "Thể sai khiến bị động: have + sth + V3 (+ by sb). Robot là vật được sửa → repaired. Dịch: Hôm qua chúng tôi đã nhờ kỹ sư sửa con rô-bốt.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G03",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "The manager had the technician _____ the new software on all computers.",
+   "options": [
+    "installed",
+    "to install",
+    "install",
+    "to be installed"
+   ],
+   "answer": 2,
+   "explain": "have + sb + V (nguyên mẫu không to): had the technician install. Sau have + người không dùng to V hay V3.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G04",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "Let's have a photo _____ together!",
+   "options": [
+    "take",
+    "to take",
+    "taking",
+    "taken"
+   ],
+   "answer": 3,
+   "explain": "have + sth + V3: a photo là vật được chụp → taken (câu trong sách: Let's have a photo taken together!).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G05",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "My parents are going to _____ a smart security system installed next month.",
+   "options": [
+    "have",
+    "make",
+    "let",
+    "ask"
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc bị động sai khiến: have + sth + V3 (nhờ lắp đặt). make/let/ask không đi với tân ngữ chỉ vật + V3.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G06",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "She got her brother _____ the virtual assistant on her new phone.",
+   "options": [
+    "set up",
+    "to set up",
+    "is setting up",
+    "sets up"
+   ],
+   "answer": 1,
+   "explain": "get + sb + to V: nhờ/thuyết phục ai làm gì → to set up. Các dạng còn lại sai cấu trúc.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G07",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "We have all visitors' identity _____ to improve the centre security.",
+   "options": [
+    "checking",
+    "check",
+    "checked",
+    "to check"
+   ],
+   "answer": 2,
+   "explain": "identity là vật được kiểm tra → have + sth + V3: checked (câu trong sách Getting Started).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G08",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "I'm going to get my laptop _____ because it keeps freezing.",
+   "options": [
+    "to repair",
+    "repair",
+    "repairing",
+    "repaired"
+   ],
+   "answer": 3,
+   "explain": "get + sth + V3: get my laptop repaired (mang máy đi sửa). laptop không thể tự sửa nên không dùng to repair/repair/repairing.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G09",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "The teacher had the students _____ their essays through a plagiarism checker.",
+   "options": [
+    "run",
+    "to run",
+    "ran",
+    "have run"
+   ],
+   "answer": 0,
+   "explain": "have + sb + V nguyên mẫu không to: had the students run. Không dùng to V, quá khứ hay hoàn thành sau have + người.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G10",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 1,
+   "q": "Let me get this robot _____, so you can talk to him.",
+   "options": [
+    "activate",
+    "activated",
+    "to activate",
+    "be activated"
+   ],
+   "answer": 1,
+   "explain": "get + sth + V3: get this robot activated (cho rô-bốt được kích hoạt) – câu trong sách.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G11",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "Our school _____ a new AI lab built last year.",
+   "options": [
+    "has",
+    "is having",
+    "had",
+    "has had"
+   ],
+   "answer": 2,
+   "explain": "'last year' → thì quá khứ đơn: had + sth + V3. has/is having/has had không dùng với mốc thời gian quá khứ xác định.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G12",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "We _____ our smart home system upgraded at the moment, so the lights don't work.",
+   "options": [
+    "have",
+    "had",
+    "have had",
+    "are having"
+   ],
+   "answer": 3,
+   "explain": "'at the moment' → hiện tại tiếp diễn: are having + sth + V3. Have (hiện tại đơn), had (quá khứ), have had (hiện tại hoàn thành) không hợp.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G13",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Where did you have your phone screen _____? It looks brand new.",
+   "options": [
+    "replaced",
+    "replace",
+    "to replace",
+    "replacing"
+   ],
+   "answer": 0,
+   "explain": "have + sth + V3: have your phone screen replaced (nhờ thay màn hình). Trợ động từ did đã mang thì quá khứ.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G14",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "A technician is going to check our computer network.\n→ We are going to _____ our computer network checked by a technician.",
+   "options": [
+    "make",
+    "have",
+    "let",
+    "get to"
+   ],
+   "answer": 1,
+   "explain": "Chuyển sang bị động sai khiến: have + sth + V3 (+ by sb). make/let không dùng với V3 theo nghĩa này; 'get to' sai (get + sth + V3 không có to).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G15",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "The company had its chatbot _____ to answer customers' questions in five languages.",
+   "options": [
+    "programme",
+    "programming",
+    "programmed",
+    "to programme"
+   ],
+   "answer": 2,
+   "explain": "chatbot là vật được lập trình → have + sth + V3: programmed.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G16",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "You should get a professional _____ your home robot instead of doing it yourself.",
+   "options": [
+    "repair",
+    "to repair",
+    "repaired",
+    "to be repaired"
+   ],
+   "answer": 1,
+   "explain": "get + sb + to V: get a professional to repair (nhờ thợ chuyên nghiệp sửa). 'a professional' là người thực hiện nên không dùng dạng bị động.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G17",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice (revision)",
+   "level": 1,
+   "q": "Facial recognition _____ in many airports nowadays.",
+   "options": [
+    "uses",
+    "used",
+    "is using",
+    "is used"
+   ],
+   "answer": 3,
+   "explain": "Chủ ngữ facial recognition chịu tác động (được sử dụng) + nowadays → bị động hiện tại đơn: is used.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G18",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Passive voice (revision)",
+   "level": 2,
+   "q": "AI tools can _____ to analyse large amounts of data.",
+   "options": [
+    "use",
+    "have used",
+    "be used",
+    "be using"
+   ],
+   "answer": 2,
+   "explain": "Bị động với động từ khuyết thiếu: can + be + V3 → can be used (có thể được dùng).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G19",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "I didn't fix the robot myself. I _____.",
+   "options": [
+    "had it fixed",
+    "had fixed it",
+    "got it fix",
+    "had it fix"
+   ],
+   "answer": 0,
+   "explain": "Nhờ người khác sửa → had it fixed (have + sth + V3). 'had fixed it' là quá khứ hoàn thành (tự sửa) – mâu thuẫn câu đầu; 'got it fix', 'had it fix' sai dạng động từ.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-G20",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Did you write the code yourself? – No, I _____ by my brother.",
+   "options": [
+    "got it to write",
+    "had written it",
+    "had it write",
+    "had it written"
+   ],
+   "answer": 3,
+   "explain": "Có 'by my brother' → bị động sai khiến: had it written by my brother. Các phương án khác sai cấu trúc hoặc sai nghĩa (had written it = tôi đã tự viết).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-P01",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Silent letters",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>h</u>our",
+    "<u>h</u>onest",
+    "<u>h</u>onour",
+    "<u>h</u>uman"
+   ],
+   "answer": 3,
+   "explain": "human /ˈhjuːmən/ – h đọc /h/; hour /ˈaʊə(r)/, honest /ˈɒnɪst/, honour /ˈɒnə(r)/ – h câm (vì vậy hour đồng âm với our).",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P02",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Vowel sounds",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "kn<u>ow</u>",
+    "all<u>ow</u>ed",
+    "fl<u>ow</u>",
+    "sh<u>ow</u>"
+   ],
+   "answer": 1,
+   "explain": "allowed /əˈlaʊd/ – ow đọc /aʊ/ (đồng âm với aloud); know /nəʊ/, flow /fləʊ/, show /ʃəʊ/ – ow đọc /əʊ/.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P03",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Vowel sounds",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "w<u>ea</u>r",
+    "b<u>ea</u>r",
+    "cl<u>ea</u>r",
+    "p<u>ea</u>r"
+   ],
+   "answer": 2,
+   "explain": "clear /klɪə(r)/ – ea đọc /ɪə/; wear /weə(r)/, bear /beə(r)/, pear /peə(r)/ – ea đọc /eə/ (wear đồng âm với where).",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P04",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Pronunciation of 'ch'",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>atbot",
+    "te<u>ch</u>nology",
+    "me<u>ch</u>anical",
+    "<u>ch</u>aracter"
+   ],
+   "answer": 0,
+   "explain": "chatbot /ˈtʃætbɒt/ – ch đọc /tʃ/; technology /tekˈnɒlədʒi/, mechanical /məˈkænɪkl/, character /ˈkærəktə(r)/ – ch đọc /k/.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P05",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "programm<u>ed</u>",
+    "analys<u>ed</u>",
+    "activat<u>ed</u>",
+    "allow<u>ed</u>"
+   ],
+   "answer": 2,
+   "explain": "activated /ˈæktɪveɪtɪd/ – -ed đọc /ɪd/ (sau /t/); programmed /ˈprəʊɡræmd/, analysed /ˈænəlaɪzd/, allowed /əˈlaʊd/ – -ed đọc /d/.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P06",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Vowel sounds",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>a</u>nalyse",
+    "<u>a</u>dvanced",
+    "<u>a</u>pplication",
+    "<u>a</u>ctivate"
+   ],
+   "answer": 1,
+   "explain": "advanced /ədˈvɑːnst/ – a đọc /ə/; analyse /ˈænəlaɪz/, application /ˌæplɪˈkeɪʃn/, activate /ˈæktɪveɪt/ – a đọc /æ/.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P07",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Silent letters",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>w</u>rite",
+    "<u>w</u>rong",
+    "ans<u>w</u>er",
+    "<u>w</u>ear"
+   ],
+   "answer": 3,
+   "explain": "wear /weə(r)/ – w đọc /w/; write /raɪt/, wrong /rɒŋ/, answer /ˈɑːnsə(r)/ – w câm (vì vậy write đồng âm với right).",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P08",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Vowel sounds",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "d<u>i</u>gital",
+    "r<u>i</u>ght",
+    "wr<u>i</u>te",
+    "dev<u>i</u>ce"
+   ],
+   "answer": 0,
+   "explain": "digital /ˈdɪdʒɪtl/ – i đọc /ɪ/; right /raɪt/, write /raɪt/, device /dɪˈvaɪs/ – i đọc /aɪ/.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P09",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "intelligence",
+    "application",
+    "recognition",
+    "information"
+   ],
+   "answer": 0,
+   "explain": "intelligence /ɪnˈtelɪdʒəns/ nhấn âm 2; application /ˌæplɪˈkeɪʃn/, recognition /ˌrekəɡˈnɪʃn/, information /ˌɪnfəˈmeɪʃn/ nhấn âm 3 (đuôi -tion nhấn âm ngay trước).",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P10",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "activate",
+    "advanced",
+    "analyse",
+    "programme"
+   ],
+   "answer": 1,
+   "explain": "advanced /ədˈvɑːnst/ nhấn âm 2; activate /ˈæktɪveɪt/, analyse /ˈænəlaɪz/, programme /ˈprəʊɡræm/ nhấn âm 1.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P11",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "technology",
+    "intelligent",
+    "artificial",
+    "assistant"
+   ],
+   "answer": 2,
+   "explain": "artificial /ˌɑːtɪˈfɪʃl/ nhấn âm 3; technology /tekˈnɒlədʒi/, intelligent /ɪnˈtelɪdʒənt/, assistant /əˈsɪstənt/ nhấn âm 2.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-P12",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "robot",
+    "chatbot",
+    "human",
+    "machine"
+   ],
+   "answer": 3,
+   "explain": "machine /məˈʃiːn/ nhấn âm 2; robot /ˈrəʊbɒt/, chatbot /ˈtʃætbɒt/, human /ˈhjuːmən/ nhấn âm 1.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-E01",
+   "unit": 6,
+   "type": "error",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nWe <u>had</u> (A) our robot <u>check</u> (B) <u>by</u> (C) a technician <u>last week</u> (D).",
+   "options": [
+    "A. had",
+    "B. check",
+    "C. by",
+    "D. last week"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: have + sth + V3 → sửa check thành checked (had our robot checked).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-E02",
+   "unit": 6,
+   "type": "error",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy father <u>got</u> (A) <u>the engineer</u> (B) <u>install</u> (C) a smart lock <u>on</u> (D) our front door.",
+   "options": [
+    "A. got",
+    "B. the engineer",
+    "C. install",
+    "D. on"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: get + sb + to V → sửa install thành to install.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-E03",
+   "unit": 6,
+   "type": "error",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nJessica <u>is capable</u> (A) <u>for</u> (B) <u>answering</u> (C) questions <u>in</u> (D) different languages.",
+   "options": [
+    "A. is capable",
+    "B. for",
+    "C. answering",
+    "D. in"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: be capable of + V-ing → sửa for thành of.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-E04",
+   "unit": 6,
+   "type": "error",
+   "topic": "Homophones",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>There</u> (A) robots can <u>work</u> (B) for long <u>hours</u> (C) <u>without</u> (D) feeling tired.",
+   "options": [
+    "A. There",
+    "B. work",
+    "C. hours",
+    "D. without"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: nhầm từ đồng âm. Trước danh từ robots cần tính từ sở hữu Their (của họ), không phải There. Sửa There → Their.",
+   "review": "Lớp 12 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G12U6-E05",
+   "unit": 6,
+   "type": "error",
+   "topic": "Science and technology",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nAI is <u>widely</u> (A) <u>used</u> (B) in <u>applications</u> (C) such as facial <u>recognise</u> (D) and virtual assistants.",
+   "options": [
+    "A. widely",
+    "B. used",
+    "C. applications",
+    "D. recognise"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: sau tính từ facial cần danh từ → sửa recognise thành recognition (facial recognition).",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-E06",
+   "unit": 6,
+   "type": "error",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nShe <u>made</u> (A) her laptop <u>repaired</u> (B) <u>at</u> (C) the shop <u>near</u> (D) her house.",
+   "options": [
+    "A. made",
+    "B. repaired",
+    "C. at",
+    "D. near"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: thể sai khiến bị động dùng have/get + sth + V3, không dùng make → sửa made thành had/got.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-E07",
+   "unit": 6,
+   "type": "error",
+   "topic": "Science and technology",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nSome people <u>worry</u> (A) <u>that</u> (B) AI will <u>take off</u> (C) the world <u>in</u> (D) the future.",
+   "options": [
+    "A. worry",
+    "B. that",
+    "C. take off",
+    "D. in"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: take off = cất cánh/cởi ra. Nghĩa 'thống trị, chiếm quyền kiểm soát' là take over → sửa take off thành take over.",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G12U6-E08",
+   "unit": 6,
+   "type": "error",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe company <u>had</u> (A) its chatbot <u>programmed</u> (B) <u>to answer</u> (C) customers' questions <u>automatical</u> (D).",
+   "options": [
+    "A. had",
+    "B. programmed",
+    "C. to answer",
+    "D. automatical"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: bổ nghĩa cho động từ answer cần trạng từ → sửa automatical thành automatically.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-R01",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nA technician repaired my home robot yesterday.",
+   "options": [
+    "I had my home robot repaired by a technician yesterday.",
+    "I repaired my home robot for a technician yesterday.",
+    "I had a technician repaired my home robot yesterday.",
+    "My home robot had a technician repair yesterday."
+   ],
+   "answer": 0,
+   "explain": "Bị động sai khiến: have + sth + V3 + by sb, giữ thì quá khứ. Các câu khác sai cấu trúc (had a technician repaired) hoặc sai nghĩa (tôi tự sửa cho thợ).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-R02",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Active and passive causatives",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nI asked my brother to set up the smart speaker.",
+   "options": [
+    "I got my brother set up the smart speaker.",
+    "I got my brother to set up the smart speaker.",
+    "I had the smart speaker set up my brother.",
+    "My brother asked me to set up the smart speaker."
+   ],
+   "answer": 1,
+   "explain": "Nhờ ai làm gì: get + sb + to V → I got my brother to set up… Câu 'got my brother set up' thiếu to; câu cuối đảo ngược người nhờ.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-R03",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nSomeone is going to install a facial recognition system at our school gate.",
+   "options": [
+    "Our school is going to install someone a facial recognition system at its gate.",
+    "Our school has a facial recognition system installing at its gate.",
+    "Our school is going to have a facial recognition system installed at its gate.",
+    "Our school had a facial recognition system installed at its gate."
+   ],
+   "answer": 2,
+   "explain": "Giữ thì tương lai gần (is going to) + have + sth + V3. 'had … installed' sai thì; 'installing' sai dạng; câu đầu sai cấu trúc.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-R04",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Present perfect (revision)",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's the first time I've talked to a robot.",
+   "options": [
+    "I talked to a robot for the first time long ago.",
+    "I have talked to robots many times before.",
+    "I didn't talk to a robot the first time.",
+    "I have never talked to a robot before."
+   ],
+   "answer": 3,
+   "explain": "It's the first time + S + have V3 = S + have never V3 + before. Các câu khác sai nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-R05",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice (revision)",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nPeople say that AI will change the way we learn.",
+   "options": [
+    "AI is said changing the way we learn.",
+    "It is said that AI will change the way we learn.",
+    "It said that AI will change the way we learn.",
+    "AI says that people will change the way we learn."
+   ],
+   "answer": 1,
+   "explain": "Bị động với say: People say that… → It is said that… (hoặc AI is said to change…). 'is said changing' sai dạng; 'It said' sai nghĩa; câu cuối đổi nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-R06",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Passive voice (revision)",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe teacher made the students check their essays with an AI tool.",
+   "options": [
+    "The students were made check their essays with an AI tool by the teacher.",
+    "The teacher had their essays checked the students with an AI tool.",
+    "The students made the teacher check their essays with an AI tool.",
+    "The students were made to check their essays with an AI tool by the teacher."
+   ],
+   "answer": 3,
+   "explain": "Bị động của make sb do sth: sb + be made + to V. 'were made check' thiếu to; các câu còn lại sai cấu trúc hoặc đảo nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G12U6-R07",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Correlative conjunctions",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe robot can answer questions. It can also translate from different languages.",
+   "options": [
+    "The robot can not only answer questions but also translate from different languages.",
+    "The robot can either answer questions or translate from different languages.",
+    "Although the robot can answer questions, it can translate from different languages.",
+    "The robot can neither answer questions nor translate from different languages."
+   ],
+   "answer": 0,
+   "explain": "Hai khả năng cùng có → not only … but also. either…or: chỉ một trong hai; although: tương phản vô lý; neither…nor: phủ định – sai nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G12U6-R08",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Linking words",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nAI tutors give instant feedback. Students can improve their work quickly.",
+   "options": [
+    "Despite AI tutors' instant feedback, students can improve their work quickly.",
+    "AI tutors give instant feedback, but students can improve their work quickly.",
+    "Thanks to AI tutors' instant feedback, students can improve their work quickly.",
+    "Unless AI tutors give instant feedback, students can improve their work quickly."
+   ],
+   "answer": 2,
+   "explain": "Quan hệ nguyên nhân – kết quả tích cực → Thanks to + N. Despite/but: tương phản; unless: điều kiện phủ định – đều sai nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Reading"
+  },
+  {
+   "id": "G12U6-R09",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Linking words",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nHome robots are very useful. Many families still can't afford them.",
+   "options": [
+    "Although home robots are very useful, many families still can't afford them.",
+    "Because home robots are very useful, many families can't afford them.",
+    "Home robots are so useful that many families can't afford them.",
+    "Home robots are useful, so many families still can't afford them."
+   ],
+   "answer": 0,
+   "explain": "Hai ý tương phản (hữu ích nhưng không đủ tiền mua) → Although. because/so…that/so diễn đạt nguyên nhân – kết quả, sai logic.",
+   "review": "Lớp 12 · Unit 6 – Writing"
+  },
+  {
+   "id": "G12U6-R10",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Conditional sentences type 3",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nI didn't charge the robot. It stopped working in the middle of the task.",
+   "options": [
+    "If I charged the robot, it wouldn't stop working in the middle of the task.",
+    "If I had charged the robot, it wouldn't have stopped working in the middle of the task.",
+    "If I hadn't charged the robot, it would have stopped working in the middle of the task.",
+    "Unless I had charged the robot, it wouldn't have stopped working in the middle of the task."
+   ],
+   "answer": 1,
+   "explain": "Giả định trái với quá khứ → câu điều kiện loại 3: If + had V3, would have V3, giữ đúng nghĩa (sạc thì đã không dừng). Loại 2 sai thì; câu 'hadn't charged' và 'Unless' đảo nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Listening"
+  },
+  {
+   "id": "G12U6-C01",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "AI applications",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "applications",
+    "applicants",
+    "appliances",
+    "applies"
+   ],
+   "answer": 0,
+   "explain": "one of the most useful + danh từ số nhiều: applications (ứng dụng) của AI. applicants: người nộp đơn; appliances: thiết bị gia dụng; applies: động từ.",
+   "review": "Lớp 12 · Unit 6 – Reading",
+   "pid": "G12U6-P1",
+   "blank": 1
+  },
+  {
+   "id": "G12U6-C02",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Relative pronouns",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "what",
+    "whom",
+    "which",
+    "whose"
+   ],
+   "answer": 2,
+   "explain": "Đại từ quan hệ thay cho vật (an AI tutor – một chương trình) làm chủ ngữ của adapts → which. whom làm tân ngữ; whose chỉ sở hữu; what không dùng sau danh từ.",
+   "review": "Lớp 12 · Unit 6 – Reading",
+   "pid": "G12U6-P1",
+   "blank": 2
+  },
+  {
+   "id": "G12U6-C03",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "mark",
+    "marking",
+    "marked",
+    "to mark"
+   ],
+   "answer": 2,
+   "explain": "have + sth + V3: have homework marked automatically (bài tập được chấm tự động).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar",
+   "pid": "G12U6-P1",
+   "blank": 3
+  },
+  {
+   "id": "G12U6-C04",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Linking words",
+   "level": 2,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "Moreover",
+    "Therefore",
+    "As a result",
+    "However"
+   ],
+   "answer": 3,
+   "explain": "Câu trước nêu lợi ích, câu sau nêu nhược điểm → từ nối tương phản However. Moreover: bổ sung; Therefore/As a result: kết quả.",
+   "review": "Lớp 12 · Unit 6 – Reading",
+   "pid": "G12U6-P1",
+   "blank": 4
+  },
+  {
+   "id": "G12U6-C05",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "AI applications",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "deal",
+    "behave",
+    "treat",
+    "think"
+   ],
+   "answer": 2,
+   "explain": "treat sb/sth as … = coi/đối xử như. deal phải có with; behave không có tân ngữ như vậy; think phải là think of … as.",
+   "review": "Lớp 12 · Unit 6 – Reading",
+   "pid": "G12U6-P1",
+   "blank": 5
+  },
+  {
+   "id": "G12U6-C06",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Science and technology",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "advanced",
+    "advance",
+    "advancing",
+    "advancement"
+   ],
+   "answer": 0,
+   "explain": "Trước danh từ models cần tính từ: more advanced models (các mẫu tiên tiến hơn). advance/advancement là danh từ/động từ; advancing không hợp nghĩa.",
+   "review": "Lớp 12 · Unit 6 – Language, Vocabulary",
+   "pid": "G12U6-P2",
+   "blank": 6
+  },
+  {
+   "id": "G12U6-C07",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "operation",
+    "operator",
+    "operational",
+    "operate"
+   ],
+   "answer": 3,
+   "explain": "be easy to + V nguyên mẫu: easy to operate (dễ vận hành).",
+   "review": "Lớp 12 · Unit 6 – Listening",
+   "pid": "G12U6-P2",
+   "blank": 7
+  },
+  {
+   "id": "G12U6-C08",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "AI applications",
+   "level": 1,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "private",
+    "privacy",
+    "privately",
+    "privatise"
+   ],
+   "answer": 1,
+   "explain": "Sau tính từ sở hữu their cần danh từ: privacy (sự riêng tư).",
+   "review": "Lớp 12 · Unit 6 – Writing",
+   "pid": "G12U6-P2",
+   "blank": 8
+  },
+  {
+   "id": "G12U6-C09",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Active and passive causatives",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "repair",
+    "to repair",
+    "repaired",
+    "to be repaired"
+   ],
+   "answer": 1,
+   "explain": "get + sb + to V: get a technician to repair them (nhờ thợ sửa).",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar",
+   "pid": "G12U6-P2",
+   "blank": 9
+  },
+  {
+   "id": "G12U6-C10",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Comparatives",
+   "level": 2,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "much",
+    "more",
+    "very",
+    "so"
+   ],
+   "answer": 0,
+   "explain": "Nhấn mạnh so sánh hơn dùng much/far/a lot: much easier. 'more easier' thừa more; very/so không đứng trước dạng so sánh hơn.",
+   "review": "Lớp 12 · Unit 6 – Language, Grammar",
+   "pid": "G12U6-P2",
+   "blank": 10
+  }
+ ]
+}

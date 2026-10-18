@@ -1,0 +1,1798 @@
+{
+ "grade": 11,
+ "unit": 2,
+ "name": "The Generation Gap",
+ "src": "book",
+ "vocabTopics": [
+  "Generational differences",
+  "Family types",
+  "Different generations",
+  "Family conflicts & permission"
+ ],
+ "pron": "Contracted forms",
+ "grammar": [
+  "Modal verbs: must, have to, should",
+  "Relative clauses (ôn tập)",
+  "Linking words (ôn tập)",
+  "Gerund after preposition (ôn tập)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Modal verbs: must, have to, should",
+   "page": 20,
+   "body": "1) <b>must / have to + V nguyên mẫu</b>: diễn tả sự cần thiết, bắt buộc ở hiện tại. Ví dụ: Oh, it's 10 p.m. I <b>must</b> go home now. / I <b>have to</b> go home now.\n2) <b>have to</b> dùng được ở mọi thì: quá khứ <b>had to</b>, tương lai <b>will have to</b> (must KHÔNG có dạng quá khứ/tương lai). Ví dụ: My grandmother <b>had to</b> do all household chores. / We <b>will have to</b> accept these generational differences.\n3) <b>must</b>: người nói tự thấy cần thiết; <b>have to</b>: bắt buộc do người khác/quy định đặt ra. Ví dụ: I <b>must</b> clean my room before my friend comes. / I <b>have to</b> clean my room every day. (My mother forces me to do it.)\n4) <b>mustn't</b> = cấm, không được phép: You <b>mustn't</b> behave rudely towards other people.\n5) <b>don't/doesn't have to</b> = không cần thiết (làm cũng được, không làm cũng được): They <b>don't have to</b> wear uniforms at the weekend.\n6) <b>should / shouldn't</b>: khuyên, đề nghị, nêu ý kiến đúng/sai: I think parents <b>should</b> limit their children's screen time.\nCấu trúc câu hỏi/phủ định của have to dùng trợ động từ do/does/did: <i>Do you have to …? – He doesn't have to …</i>\nLỗi hay gặp: viết *must to / *musts / *will must; nhầm mustn't (cấm) với don't have to (không cần); dùng must cho việc trong quá khứ (phải dùng had to)."
+  },
+  {
+   "kind": "pron",
+   "title": "Contracted forms (dạng rút gọn)",
+   "page": 19,
+   "body": "Trong văn nói và văn viết thân mật, trợ động từ/động từ to be/động từ khuyết thiếu thường được rút gọn và đọc nhẹ, nối vào từ đứng trước.\n- 'll = will: we'll /wiːl/, I'll /aɪl/, who'll /huːl/\n- 're = are: you're /jɔː(r)/\n- 's = is/has: that's, what's, it's (It's 11 o'clock = It is; He's done it = He has)\n- 've = have: I've done it; 'd = had/would: I'd like … (would), I'd finished … (had)\n- n't = not: can't /kɑːnt/, don't /dəʊnt/, mustn't /ˈmʌsnt/ (không đọc âm /t/ giữa), doesn't, didn't\n- let's = let us\nLưu ý: dạng đầy đủ (do not, I will) thường dùng khi muốn nhấn mạnh; ở câu trả lời ngắn khẳng định KHÔNG rút gọn: Yes, I will. (không nói *Yes, I'll.)"
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 20,
+   "body": "generation gap; nuclear family ↔ extended family; traditional view(s); common characteristics; generational conflict; cultural values; gender roles; argue over small things; follow in sb's footsteps; force sb to do sth; express your opinion; deal with (conflict); come into conflict with sb; digital natives; critical thinkers; experiment with sth; value teamwork; point(s) of view; be open to new ways of thinking; have fixed ideas; complain about sth; limit screen time; take away electronic devices; ask for permission; adapt to a new culture; native language."
+  },
+  {
+   "kind": "vocab",
+   "title": "Hỏi và cho phép (Everyday English)",
+   "page": 25,
+   "body": "Xin phép: (Please) Can I …? / Do you mind if I + V (hiện tại)? / Would you mind if I + V-ed (quá khứ)? / Is it OK if I …?\nCho phép: Sure. / Of course you can. / No problem. / Please feel free to …\nTừ chối: I'm afraid not. / No, please don't. / I'm afraid you can't. / I'm sorry, but that's not possible.\nLưu ý: với 'Do/Would you mind if …?' muốn đồng ý thì trả lời phủ định: No, not at all. / Of course not."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "- Thấy mốc quá khứ (yesterday, in the past, fifty years ago, when … was young) → had to; mốc tương lai (next year, tomorrow) → will have to.\n- Câu có lý do 'It's against the rules / not allowed' → mustn't; 'It isn't necessary / no need' → don't have to; 'It's a good idea / I think' → should.\n- Sau must/should/have to luôn là V nguyên mẫu; không có *must to, *should to.\n- Viết lại câu: 'It is necessary for sb to V' = sb must/has to V; 'It isn't necessary for sb to V' = sb doesn't have to V; 'sb is not allowed to V' = sb mustn't V.\n- Từ vựng: nuclear (bố mẹ + con) ≠ extended (nhiều thế hệ); 'come into conflict with', 'follow in sb's footsteps', 'experiment with' là các cụm cố định hay bị hỏi."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "generation gap",
+   "pos": "n phr",
+   "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+   "vi": "khoảng cách thế hệ",
+   "ex": "Today, we'll talk about the generation gap.",
+   "page": 18
+  },
+  {
+   "w": "generation",
+   "pos": "n",
+   "ipa": "/ˌdʒenəˈreɪʃn/",
+   "vi": "thế hệ",
+   "ex": "I have to learn to accept the differences between the generations.",
+   "page": 18
+  },
+  {
+   "w": "belief",
+   "pos": "n",
+   "ipa": "/bɪˈliːf/",
+   "vi": "niềm tin, quan niệm",
+   "ex": "It's the difference in beliefs and behaviour between young and older people.",
+   "page": 18
+  },
+  {
+   "w": "behaviour",
+   "pos": "n",
+   "ipa": "/bɪˈheɪvjə(r)/",
+   "vi": "cách cư xử, hành vi",
+   "ex": "It's the difference in beliefs and behaviour between young and older people.",
+   "page": 18
+  },
+  {
+   "w": "nuclear family",
+   "pos": "n phr",
+   "ipa": "/ˌnjuːkliə ˈfæməli/",
+   "vi": "gia đình hạt nhân (bố mẹ và con cái)",
+   "ex": "I live in a nuclear family with my parents and brother.",
+   "page": 18
+  },
+  {
+   "w": "extended family",
+   "pos": "n phr",
+   "ipa": "/ɪkˌstendɪd ˈfæməli/",
+   "vi": "gia đình nhiều thế hệ (có ông bà, cô chú…)",
+   "ex": "I live with my extended family.",
+   "page": 18
+  },
+  {
+   "w": "argue (over/about)",
+   "pos": "v",
+   "ipa": "/ˈɑːɡjuː/",
+   "vi": "cãi nhau, tranh cãi (về)",
+   "ex": "We understand each other quite well though we still argue over small things.",
+   "page": 18
+  },
+  {
+   "w": "argument",
+   "pos": "n",
+   "ipa": "/ˈɑːɡjumənt/",
+   "vi": "cuộc cãi vã, tranh luận",
+   "ex": "We can't avoid daily arguments.",
+   "page": 18
+  },
+  {
+   "w": "gender role",
+   "pos": "n phr",
+   "ipa": "/ˈdʒendə rəʊl/",
+   "vi": "vai trò giới",
+   "ex": "My grandparents hold traditional views about male jobs and gender roles.",
+   "page": 18
+  },
+  {
+   "w": "follow in sb's footsteps",
+   "pos": "idiom",
+   "ipa": "/ˈfɒləʊ ɪn ˈsʌmbədiz ˈfʊtsteps/",
+   "vi": "nối nghiệp, đi theo con đường của ai",
+   "ex": "They never force us to follow in their footsteps.",
+   "page": 18
+  },
+  {
+   "w": "force (sb to do sth)",
+   "pos": "v",
+   "ipa": "/fɔːs/",
+   "vi": "ép buộc (ai làm gì)",
+   "ex": "They give us advice, but never force us to follow in their footsteps.",
+   "page": 18
+  },
+  {
+   "w": "respect",
+   "pos": "v",
+   "ipa": "/rɪˈspekt/",
+   "vi": "tôn trọng, kính trọng",
+   "ex": "You must respect your parents and grandparents.",
+   "page": 19
+  },
+  {
+   "w": "express (one's opinion)",
+   "pos": "v",
+   "ipa": "/ɪkˈspres/",
+   "vi": "bày tỏ (ý kiến)",
+   "ex": "You should also express your opinion.",
+   "page": 19
+  },
+  {
+   "w": "traditional view",
+   "pos": "n phr",
+   "ipa": "/trəˌdɪʃənl ˈvjuː/",
+   "vi": "quan điểm truyền thống",
+   "ex": "A traditional view is that men are the breadwinners in the family.",
+   "page": 20
+  },
+  {
+   "w": "common characteristics",
+   "pos": "n phr",
+   "ipa": "/ˌkɒmən ˌkærəktəˈrɪstɪks/",
+   "vi": "những đặc điểm chung",
+   "ex": "In many countries the following three generations have common characteristics.",
+   "page": 20
+  },
+  {
+   "w": "generational conflict",
+   "pos": "n phr",
+   "ipa": "/ˌdʒenəˌreɪʃənl ˈkɒnflɪkt/",
+   "vi": "xung đột thế hệ",
+   "ex": "When you live with your extended family, you have to deal with generational conflict.",
+   "page": 20
+  },
+  {
+   "w": "cultural values",
+   "pos": "n phr",
+   "ipa": "/ˌkʌltʃərəl ˈvæljuːz/",
+   "vi": "giá trị văn hoá",
+   "ex": "Each generation has its cultural values that are influenced by social and economic conditions.",
+   "page": 20
+  },
+  {
+   "w": "breadwinner",
+   "pos": "n",
+   "ipa": "/ˈbredwɪnə(r)/",
+   "vi": "trụ cột gia đình (người kiếm tiền chính)",
+   "ex": "A traditional view is that men are the breadwinners in the family.",
+   "page": 20
+  },
+  {
+   "w": "deal with",
+   "pos": "phr v",
+   "ipa": "/ˈdiːl wɪð/",
+   "vi": "giải quyết, đối phó với",
+   "ex": "You have to deal with generational conflict.",
+   "page": 20
+  },
+  {
+   "w": "experience",
+   "pos": "v",
+   "ipa": "/ɪkˈspɪəriəns/",
+   "vi": "trải qua",
+   "ex": "When Gen Xers grew up, they experienced many social changes and developments in history.",
+   "page": 21
+  },
+  {
+   "w": "critical thinker",
+   "pos": "n phr",
+   "ipa": "/ˌkrɪtɪkl ˈθɪŋkə(r)/",
+   "vi": "người có tư duy phản biện",
+   "ex": "Gen Xers are also known as critical thinkers.",
+   "page": 21
+  },
+  {
+   "w": "Millennials",
+   "pos": "n",
+   "ipa": "/mɪˈleniəlz/",
+   "vi": "thế hệ Y (sinh đầu 1980s – cuối 1990s)",
+   "ex": "Generation Y, also known as Millennials, refers to those born between the early 1980s and late 1990s.",
+   "page": 21
+  },
+  {
+   "w": "curious",
+   "pos": "adj",
+   "ipa": "/ˈkjʊəriəs/",
+   "vi": "tò mò, ham hiểu biết",
+   "ex": "They are curious and ready to accept changes.",
+   "page": 21
+  },
+  {
+   "w": "value",
+   "pos": "v",
+   "ipa": "/ˈvæljuː/",
+   "vi": "coi trọng",
+   "ex": "They also value teamwork.",
+   "page": 21
+  },
+  {
+   "w": "teamwork",
+   "pos": "n",
+   "ipa": "/ˈtiːmwɜːk/",
+   "vi": "làm việc nhóm",
+   "ex": "They also value teamwork.",
+   "page": 21
+  },
+  {
+   "w": "point of view",
+   "pos": "n phr",
+   "ipa": "/ˌpɔɪnt əv ˈvjuː/",
+   "vi": "quan điểm",
+   "ex": "Millennials welcome different points of view and ideas from others.",
+   "page": 21
+  },
+  {
+   "w": "digital native",
+   "pos": "n phr",
+   "ipa": "/ˌdɪdʒɪtl ˈneɪtɪv/",
+   "vi": "người sinh ra trong thời đại công nghệ số",
+   "ex": "That is why Gen Zers are also called digital natives.",
+   "page": 21
+  },
+  {
+   "w": "experiment (with)",
+   "pos": "v",
+   "ipa": "/ɪkˈsperɪment/",
+   "vi": "thử nghiệm (với)",
+   "ex": "They are very creative and able to experiment with platforms to suit their needs.",
+   "page": 21
+  },
+  {
+   "w": "hire",
+   "pos": "v",
+   "ipa": "/ˈhaɪə(r)/",
+   "vi": "thuê, tuyển dụng",
+   "ex": "They think it is safer to be your own boss than relying on someone else to hire you.",
+   "page": 21
+  },
+  {
+   "w": "influence",
+   "pos": "v",
+   "ipa": "/ˈɪnfluəns/",
+   "vi": "ảnh hưởng",
+   "ex": "Each generation comes with its characteristics, which are largely influenced by the historical, economic, and social conditions.",
+   "page": 21
+  },
+  {
+   "w": "be open to new ways of thinking",
+   "pos": "phr",
+   "ipa": "/bi ˈəʊpən tə njuː weɪz əv ˈθɪŋkɪŋ/",
+   "vi": "cởi mở với cách nghĩ mới",
+   "ex": "I think my parents are quite open to new ways of thinking.",
+   "page": 23
+  },
+  {
+   "w": "have fixed ideas",
+   "pos": "phr",
+   "ipa": "/hæv ˌfɪkst aɪˈdɪəz/",
+   "vi": "có suy nghĩ cố hữu, khó thay đổi",
+   "ex": "Some older people have fixed ideas about the world.",
+   "page": 23
+  },
+  {
+   "w": "make one's own decisions",
+   "pos": "phr",
+   "ipa": "/meɪk wʌnz ˌəʊn dɪˈsɪʒnz/",
+   "vi": "tự đưa ra quyết định",
+   "ex": "Teenagers want to make their own decisions.",
+   "page": 23
+  },
+  {
+   "w": "electronic device",
+   "pos": "n phr",
+   "ipa": "/ɪˌlekˈtrɒnɪk dɪˈvaɪs/",
+   "vi": "thiết bị điện tử",
+   "ex": "My parents limit the time I spend on electronic devices.",
+   "page": 23
+  },
+  {
+   "w": "complain (about)",
+   "pos": "v",
+   "ipa": "/kəmˈpleɪn/",
+   "vi": "phàn nàn (về)",
+   "ex": "My parents complain about my clothes and hairstyle.",
+   "page": 23
+  },
+  {
+   "w": "hairstyle",
+   "pos": "n",
+   "ipa": "/ˈheəstaɪl/",
+   "vi": "kiểu tóc",
+   "ex": "My parents complain about my clothes and hairstyle.",
+   "page": 23
+  },
+  {
+   "w": "limit",
+   "pos": "v",
+   "ipa": "/ˈlɪmɪt/",
+   "vi": "giới hạn, hạn chế",
+   "ex": "Kevin's parents limit his screen time.",
+   "page": 23
+  },
+  {
+   "w": "screen time",
+   "pos": "n phr",
+   "ipa": "/ˈskriːn taɪm/",
+   "vi": "thời gian dùng thiết bị có màn hình",
+   "ex": "Too much screen time is bad for teenagers' health.",
+   "page": 24
+  },
+  {
+   "w": "permission",
+   "pos": "n",
+   "ipa": "/pəˈmɪʃn/",
+   "vi": "sự cho phép",
+   "ex": "Ask your parents for permission if you want to colour your hair.",
+   "page": 25
+  },
+  {
+   "w": "adapt (to)",
+   "pos": "v",
+   "ipa": "/əˈdæpt/",
+   "vi": "thích nghi (với)",
+   "ex": "Children of Asian American immigrants adapt to American culture much faster than their parents.",
+   "page": 25
+  },
+  {
+   "w": "immigrant",
+   "pos": "n",
+   "ipa": "/ˈɪmɪɡrənt/",
+   "vi": "người nhập cư",
+   "ex": "Children of Asian American immigrants adapt to American culture quickly.",
+   "page": 25
+  },
+  {
+   "w": "individualism",
+   "pos": "n",
+   "ipa": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+   "vi": "chủ nghĩa cá nhân",
+   "ex": "They accept American values such as individualism, freedom, honesty, and competition.",
+   "page": 25
+  },
+  {
+   "w": "native language",
+   "pos": "n phr",
+   "ipa": "/ˌneɪtɪv ˈlæŋɡwɪdʒ/",
+   "vi": "tiếng mẹ đẻ",
+   "ex": "They continue to use their native language.",
+   "page": 25
+  },
+  {
+   "w": "come into conflict with",
+   "pos": "phr",
+   "ipa": "/kʌm ˌɪntə ˈkɒnflɪkt wɪð/",
+   "vi": "xảy ra xung đột với",
+   "ex": "Teenagers often come into conflict with their parents.",
+   "page": 26
+  }
+ ],
+ "passages": [
+  {
+   "id": "G11U2-P1",
+   "title": "Three generations under one roof",
+   "text": "In many Vietnamese homes, three generations live together under one roof. Living in (1) _____ families has many advantages. Grandparents can look after young children while parents go to work, and children can learn valuable lessons from the elders. However, there are also some problems. Grandparents usually hold traditional (2) _____ about many issues, such as gender roles and careers. For example, they may think that a girl (3) _____ learn to cook and do all the housework, while a boy should become the breadwinner. Teenagers, on the other hand, want to make their own decisions and follow their dreams. As a result, they sometimes come into (4) _____ with older family members over small things like clothes or hairstyles. To reduce the generation gap, family members should listen to and respect each other's opinions. Teenagers (5) _____ be rude to their grandparents, and grandparents should try to be open to new ways of thinking."
+  },
+  {
+   "id": "G11U2-P2",
+   "title": "Kevin and his screen time",
+   "text": "Kevin is sixteen, and like many teenagers, he loves his smartphone and laptop. He mainly uses them (6) _____ chatting with friends and playing games. His parents, however, are worried that he spends too much time on screens. They believe that too much screen time is bad for teenagers' health because it can damage eyesight and reduce sleep time. That is why they (7) _____ his screen time to two hours a day and take away his devices after 9 p.m. Kevin thinks this rule is unfair. He says that teenagers today are digital natives, people (8) _____ grew up with technology. He also argues that the quality of screen time is more important than the quantity, because he can learn useful skills through educational videos. (9) _____, he understands that his parents only want the best for him. After a long discussion, they reached an agreement: Kevin (10) _____ ask for permission before playing games, but he can use his laptop freely for his studies."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G11U2-V01",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family types",
+   "level": 1,
+   "q": "A _____ family consists of a father, a mother, and their children.",
+   "options": [
+    "nuclear",
+    "extended",
+    "large",
+    "close"
+   ],
+   "answer": 0,
+   "explain": "<i>nuclear family</i> = gia đình hạt nhân, chỉ gồm bố mẹ và con cái. <i>extended family</i> gồm nhiều thế hệ; <i>large/close</i> không mang nghĩa định nghĩa này.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-V02",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family types",
+   "level": 1,
+   "q": "Mai lives with her _____ family, including her grandparents, her parents, and her uncle's family.",
+   "options": [
+    "single",
+    "nuclear",
+    "extended",
+    "only"
+   ],
+   "answer": 2,
+   "explain": "Gia đình có cả ông bà, bố mẹ, gia đình chú bác → <i>extended family</i> (gia đình nhiều thế hệ). <i>nuclear</i> chỉ có bố mẹ và con; <i>single/only</i> không phù hợp.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-V03",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 1,
+   "q": "In many traditional families, the father is the _____; he earns most of the money for the family.",
+   "options": [
+    "homemaker",
+    "housekeeper",
+    "babysitter",
+    "breadwinner"
+   ],
+   "answer": 3,
+   "explain": "<i>breadwinner</i> = trụ cột gia đình, người kiếm tiền chính. <i>homemaker</i> = người nội trợ; <i>housekeeper</i> = quản gia; <i>babysitter</i> = người trông trẻ.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-V04",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Different generations",
+   "level": 1,
+   "q": "Gen Zers are often called digital _____ because they grew up online and never knew the world before social media.",
+   "options": [
+    "natives",
+    "residents",
+    "members",
+    "owners"
+   ],
+   "answer": 0,
+   "explain": "<i>digital natives</i> = những người sinh ra trong thời đại công nghệ số (cụm cố định trong bài đọc). Các từ còn lại không tạo thành cụm với nghĩa này.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-V05",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Different generations",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nMillennials are <u>curious</u> and ready to accept changes.",
+   "options": [
+    "careful",
+    "eager to know",
+    "worried",
+    "bored"
+   ],
+   "answer": 1,
+   "explain": "<i>curious</i> = tò mò, muốn biết → gần nghĩa nhất với <i>eager to know</i>. careful = cẩn thận; worried = lo lắng; bored = chán.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-V06",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Different generations",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nMany Gen Zers want to be their own boss rather than rely on someone else to <u>hire</u> them.",
+   "options": [
+    "dismiss",
+    "train",
+    "employ",
+    "pay"
+   ],
+   "answer": 2,
+   "explain": "<i>hire</i> = thuê, tuyển dụng = <i>employ</i>. dismiss = sa thải (trái nghĩa); train = đào tạo; pay = trả lương.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-V07",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nMy grandparents hold very <u>traditional</u> views about gender roles.",
+   "options": [
+    "conservative",
+    "old-fashioned",
+    "usual",
+    "modern"
+   ],
+   "answer": 3,
+   "explain": "<i>traditional</i> (truyền thống) trái nghĩa với <i>modern</i> (hiện đại). conservative, old-fashioned gần nghĩa với traditional; usual = thông thường.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-V08",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 2,
+   "q": "My brother doesn't want to follow in our father's _____. He hopes to become a musician, not an engineer.",
+   "options": [
+    "footsteps",
+    "footprints",
+    "steps",
+    "shoes"
+   ],
+   "answer": 0,
+   "explain": "Thành ngữ <i>follow in sb's footsteps</i> = nối nghiệp, đi theo con đường của ai. Không dùng footprints/steps/shoes trong cụm này.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-V09",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 1,
+   "q": "Each generation has its own cultural _____ that are influenced by social and economic conditions.",
+   "options": [
+    "prices",
+    "values",
+    "costs",
+    "rates"
+   ],
+   "answer": 1,
+   "explain": "<i>cultural values</i> = giá trị văn hoá (niềm tin về điều quan trọng trong một xã hội). prices/costs = giá cả, chi phí; rates = mức, tỉ lệ – không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-V10",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 2,
+   "q": "There are some _____ differences between my parents and me, but we try to understand each other.",
+   "options": [
+    "generationally",
+    "generate",
+    "generational",
+    "generating"
+   ],
+   "answer": 2,
+   "explain": "Trước danh từ <i>differences</i> cần tính từ → <i>generational</i> (thuộc về thế hệ). generationally là trạng từ, generate/generating là động từ.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-V11",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family conflicts & permission",
+   "level": 1,
+   "q": "We understand each other quite well, though we sometimes have _____ over small things.",
+   "options": [
+    "argue",
+    "argumentative",
+    "argued",
+    "arguments"
+   ],
+   "answer": 3,
+   "explain": "Sau động từ <i>have</i> cần danh từ → <i>arguments</i> (những cuộc cãi vã). argue/argued là động từ, argumentative là tính từ.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-V12",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Different generations",
+   "level": 3,
+   "q": "Gen Zers are very creative and are able to _____ with platforms to suit their needs.",
+   "options": [
+    "experiment",
+    "experience",
+    "expect",
+    "explore"
+   ],
+   "answer": 0,
+   "explain": "<i>experiment with sth</i> = thử nghiệm với cái gì. experience = trải qua (không đi với with); expect = mong đợi; explore là ngoại động từ (explore platforms), không đi với with.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-V13",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family conflicts & permission",
+   "level": 1,
+   "q": "When you live with your extended family, you have to deal _____ generational conflict.",
+   "options": [
+    "about",
+    "with",
+    "on",
+    "for"
+   ],
+   "answer": 1,
+   "explain": "Cụm động từ <i>deal with</i> = giải quyết, đối phó với. Các giới từ khác không đi với deal theo nghĩa này.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-V14",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family conflicts & permission",
+   "level": 2,
+   "q": "My mother keeps _____ about my clothes and hairstyle. She thinks I should dress more neatly.",
+   "options": [
+    "blaming",
+    "criticising",
+    "complaining",
+    "objecting"
+   ],
+   "answer": 2,
+   "explain": "<i>complain about sth</i> = phàn nàn về. blame sb for sth, criticise sb/sth (không có about), object to sth → không dùng với about.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)"
+  },
+  {
+   "id": "G11U2-V15",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 3,
+   "q": "Choose the word(s) OPPOSITE in meaning to the underlined part.\nSome older people <u>have fixed ideas</u> about the world.",
+   "options": [
+    "refuse to change",
+    "are open to new ways of thinking",
+    "hold traditional views",
+    "are stubborn"
+   ],
+   "answer": 1,
+   "explain": "<i>have fixed ideas</i> = có suy nghĩ cố hữu, khó thay đổi; trái nghĩa là <i>be open to new ways of thinking</i> (cởi mở với cách nghĩ mới). Ba phương án còn lại đều gần nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Speaking (tr. 23)"
+  },
+  {
+   "id": "G11U2-V16",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family conflicts & permission",
+   "level": 1,
+   "q": "Kevin's parents _____ his screen time to two hours a day.",
+   "options": [
+    "prevent",
+    "avoid",
+    "ban",
+    "limit"
+   ],
+   "answer": 3,
+   "explain": "<i>limit sth to + số lượng</i> = giới hạn ở mức. prevent sb from doing; avoid doing; ban = cấm hẳn, không đi với 'to two hours'.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)"
+  },
+  {
+   "id": "G11U2-V17",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Different generations",
+   "level": 2,
+   "q": "Gen Xers are known as _____ thinkers because they achieved higher levels of education than previous generations.",
+   "options": [
+    "critical",
+    "criticise",
+    "criticism",
+    "critic"
+   ],
+   "answer": 0,
+   "explain": "Trước danh từ <i>thinkers</i> cần tính từ → <i>critical</i> (critical thinker = người có tư duy phản biện). criticise (v), criticism/critic (n).",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-V18",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Generational differences",
+   "level": 3,
+   "q": "Children of Asian American immigrants _____ to American culture much faster than their parents.",
+   "options": [
+    "adopt",
+    "adapt",
+    "accept",
+    "apply"
+   ],
+   "answer": 1,
+   "explain": "<i>adapt to</i> = thích nghi với. adopt = nhận nuôi/áp dụng (không đi với to); accept = chấp nhận (ngoại động từ); apply to = áp dụng cho/nộp đơn – sai nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Communication and Culture / CLIL (tr. 25)"
+  },
+  {
+   "id": "G11U2-V19",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Family conflicts & permission",
+   "level": 1,
+   "q": "\"Mum, can I have your _____ to go to Mai's birthday party this Saturday?\"",
+   "options": [
+    "permit",
+    "admission",
+    "permission",
+    "allowance"
+   ],
+   "answer": 2,
+   "explain": "<i>permission</i> = sự cho phép (have/ask for permission). permit (n) = giấy phép; admission = sự cho vào/nhập học; allowance = tiền trợ cấp.",
+   "review": "Lớp 11 · Unit 2 – Communication and Culture / CLIL (tr. 25)"
+  },
+  {
+   "id": "G11U2-V20",
+   "unit": 2,
+   "type": "vocab",
+   "topic": "Different generations",
+   "level": 1,
+   "q": "When working in a team, Millennials welcome different _____ of view and ideas from others.",
+   "options": [
+    "ways",
+    "opinions",
+    "ideas",
+    "points"
+   ],
+   "answer": 3,
+   "explain": "Cụm cố định <i>point(s) of view</i> = quan điểm. Không nói *ways/opinions/ideas of view.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-G01",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "You _____ behave rudely towards older people. It's not polite.",
+   "options": [
+    "don't have to",
+    "mustn't",
+    "have to",
+    "must"
+   ],
+   "answer": 1,
+   "explain": "Diễn tả điều không được phép làm → <i>mustn't</i>. don't have to = không cần (sai nghĩa); have to/must = phải (ngược nghĩa).",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G02",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "Tomorrow is Sunday, so I _____ get up early. I can sleep until 9 a.m.",
+   "options": [
+    "must",
+    "have to",
+    "don't have to",
+    "mustn't"
+   ],
+   "answer": 2,
+   "explain": "'I can sleep until 9 a.m.' → không cần dậy sớm → <i>don't have to</i>. mustn't = cấm (vô lý); must/have to = phải (ngược nghĩa).",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G03",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "In the past, my grandmother _____ walk five kilometres to school every day.",
+   "options": [
+    "must",
+    "had to",
+    "has to",
+    "should"
+   ],
+   "answer": 1,
+   "explain": "'In the past' → quá khứ. must không có dạng quá khứ nên dùng <i>had to</i>. has to là hiện tại; should = lời khuyên.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G04",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "I think teenagers _____ spend less time on social media and more time with their families.",
+   "options": [
+    "had to",
+    "don't have to",
+    "mustn't",
+    "should"
+   ],
+   "answer": 3,
+   "explain": "'I think…' → đưa ra ý kiến/lời khuyên → <i>should</i>. had to sai thì; mustn't/don't have to ngược nghĩa (khuyên nên dành thêm thời gian cho gia đình).",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G05",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Next year, my brother _____ wear a uniform when he starts his new job.",
+   "options": [
+    "will must",
+    "must have",
+    "had to",
+    "will have to"
+   ],
+   "answer": 3,
+   "explain": "'Next year' → tương lai. must không đứng sau will, nên dùng <i>will have to</i>. had to là quá khứ; must have + V3 là phỏng đoán quá khứ.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G06",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "Students _____ use their phones during the exam. It's against the rules.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "should",
+    "have to"
+   ],
+   "answer": 0,
+   "explain": "'It's against the rules' → bị cấm → <i>mustn't</i>. don't have to = không cần; should/have to ngược nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G07",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "You look really tired. You _____ go to bed earlier tonight.",
+   "options": [
+    "mustn't",
+    "had to",
+    "don't have to",
+    "should"
+   ],
+   "answer": 3,
+   "explain": "Đưa ra lời khuyên → <i>should</i>. mustn't/don't have to ngược ý; had to sai thì (tonight).",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G08",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "I _____ clean my room every day. My mother forces me to do it.",
+   "options": [
+    "have to",
+    "should",
+    "mustn't",
+    "don't have to"
+   ],
+   "answer": 0,
+   "explain": "Sự bắt buộc do người khác đặt ra (my mother forces me) → <i>have to</i>. should chỉ là lời khuyên; mustn't/don't have to ngược nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G09",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "_____ you _____ wear a uniform at your school?",
+   "options": [
+    "Must / to",
+    "Does / have to",
+    "Do / have to",
+    "Have / to"
+   ],
+   "answer": 2,
+   "explain": "Câu hỏi với have to dùng trợ động từ: <i>Do you have to …?</i> (chủ ngữ you → do). Không có *Must … to; Does không đi với you; 'Have you to…' không dùng trong tiếng Anh hiện đại.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G10",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "Yesterday Lan _____ stay at home because she was ill.",
+   "options": [
+    "must",
+    "has to",
+    "had to",
+    "should"
+   ],
+   "answer": 2,
+   "explain": "'Yesterday' → quá khứ → <i>had to</i>. must/has to/should không diễn tả bắt buộc trong quá khứ.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G11",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "He _____ to finish his project by Friday. His teacher said so.",
+   "options": [
+    "must",
+    "has",
+    "should",
+    "can"
+   ],
+   "answer": 1,
+   "explain": "Chỉ <i>has</i> tạo thành <i>has to + V</i> (bắt buộc do người khác đặt ra). must/should/can + V nguyên mẫu, không có 'to'.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G12",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "My parents respect my choices. I _____ follow in their footsteps.",
+   "options": [
+    "don't have to",
+    "mustn't",
+    "have to",
+    "must"
+   ],
+   "answer": 0,
+   "explain": "Bố mẹ tôn trọng lựa chọn → không bắt buộc phải nối nghiệp → <i>don't have to</i>. mustn't = bị cấm (sai nghĩa); have to/must = phải (ngược ý).",
+   "review": "Lớp 11 · Unit 2 – Looking Back, Grammar (tr. 27)"
+  },
+  {
+   "id": "G11U2-G13",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "I _____ remember to call my grandmother tonight. It's her birthday, and I really want to wish her a happy birthday.",
+   "options": [
+    "had to",
+    "mustn't",
+    "don't have to",
+    "must"
+   ],
+   "answer": 3,
+   "explain": "Người nói tự thấy cần thiết (I really want to…) → <i>must</i>. had to sai thì; mustn't/don't have to ngược nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G14",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Parents _____ compare their children to others. It can make them less confident in their abilities.",
+   "options": [
+    "should",
+    "shouldn't",
+    "have to",
+    "must"
+   ],
+   "answer": 1,
+   "explain": "Lý do 'it can make them less confident' → khuyên không nên → <i>shouldn't</i>. should/have to/must đều mang nghĩa nên/phải làm, trái với lý do.",
+   "review": "Lớp 11 · Unit 2 – Looking Back, Grammar (tr. 27)"
+  },
+  {
+   "id": "G11U2-G15",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Did your grandparents _____ live with their parents after they got married?",
+   "options": [
+    "had to",
+    "has to",
+    "have to",
+    "must"
+   ],
+   "answer": 2,
+   "explain": "Sau trợ động từ <i>Did</i> dùng động từ nguyên mẫu → <i>have to</i>. had to/has to đã chia; must không đi sau did.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G16",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "You _____ take an umbrella. The weather forecast says it won't rain today.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "have to",
+    "must"
+   ],
+   "answer": 1,
+   "explain": "Trời không mưa → mang ô là không cần thiết → <i>don't have to</i>. mustn't = cấm (vô lý); have to/must = phải.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G17",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "Children _____ respect their parents and grandparents, but they _____ also express their own opinions.",
+   "options": [
+    "must / should",
+    "mustn't / should",
+    "don't have to / mustn't",
+    "must / mustn't"
+   ],
+   "answer": 0,
+   "explain": "Vế 1: bổn phận phải kính trọng → <i>must</i>; vế 2: lời khuyên nên bày tỏ ý kiến → <i>should</i> (câu của Ms Hoa). Các cặp còn lại mâu thuẫn với nghĩa (không được kính trọng/không được bày tỏ ý kiến).",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 19)"
+  },
+  {
+   "id": "G11U2-G18",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "My sister has just won a full scholarship, so my parents _____ pay her tuition fees this year.",
+   "options": [
+    "don't have to",
+    "have to",
+    "must",
+    "should"
+   ],
+   "answer": 0,
+   "explain": "Có học bổng toàn phần → bố mẹ không cần trả học phí → <i>don't have to</i>. have to/must/should đều trái với lý do.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G19",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "It's against the law to ride a motorbike without a helmet. You _____ ride without one.",
+   "options": [
+    "don't have to",
+    "should",
+    "have to",
+    "mustn't"
+   ],
+   "answer": 3,
+   "explain": "'Against the law' → bị cấm → <i>mustn't</i>. don't have to = không cần (sai nghĩa); should/have to ngược nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-G20",
+   "unit": 2,
+   "type": "grammar",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "A: Do I have to wear my school uniform to the party?\nB: No, you _____. It's a casual party.",
+   "options": [
+    "mustn't",
+    "haven't to",
+    "don't have to",
+    "aren't to"
+   ],
+   "answer": 2,
+   "explain": "Trả lời ngắn cho 'Do I have to…?' với nghĩa không cần thiết → <i>No, you don't have to</i>. mustn't = cấm (không hợp 'It's a casual party' – tiệc thân mật, mặc gì cũng được); 'haven't to', 'aren't to' sai cấu trúc.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-P01",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Phát âm đuôi -ed (ôn tập)",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "experienc<u>ed</u>",
+    "influenc<u>ed</u>",
+    "accept<u>ed</u>",
+    "forc<u>ed</u>"
+   ],
+   "answer": 2,
+   "explain": "accepted /əkˈseptɪd/ đọc /ɪd/ (động từ tận cùng bằng /t/). experienced /ɪkˈspɪəriənst/, influenced /ˈɪnfluənst/, forced /fɔːst/ đọc /t/ (tận cùng /s/).",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-P02",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Phát âm 'ch' (ôn tập)",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>ores",
+    "<u>ch</u>aracteristic",
+    "<u>ch</u>ildren",
+    "<u>ch</u>oice"
+   ],
+   "answer": 1,
+   "explain": "characteristic /ˌkærəktəˈrɪstɪk/ đọc /k/. chores /tʃɔːz/, children /ˈtʃɪldrən/, choice /tʃɔɪs/ đọc /tʃ/.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-P03",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Phát âm 'g' (ôn tập)",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>g</u>eneration",
+    "<u>g</u>ender",
+    "di<u>g</u>ital",
+    "<u>g</u>ap"
+   ],
+   "answer": 3,
+   "explain": "gap /ɡæp/ đọc /ɡ/. generation /ˌdʒenəˈreɪʃn/, gender /ˈdʒendə(r)/, digital /ˈdɪdʒɪtl/ đọc /dʒ/.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-P04",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Phát âm 'ea' (ôn tập)",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "t<u>ea</u>mwork",
+    "h<u>ea</u>lth",
+    "br<u>ea</u>dwinner",
+    "h<u>ea</u>dache"
+   ],
+   "answer": 0,
+   "explain": "teamwork /ˈtiːmwɜːk/ đọc /iː/. health /helθ/, breadwinner /ˈbredwɪnə(r)/, headache /ˈhedeɪk/ đọc /e/.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-P05",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Phát âm đuôi -s/-es (ôn tập)",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "argument<u>s</u>",
+    "valu<u>es</u>",
+    "belief<u>s</u>",
+    "habit<u>s</u>"
+   ],
+   "answer": 1,
+   "explain": "values /ˈvæljuːz/ đọc /z/ (tận cùng nguyên âm). arguments /ˈɑːɡjumənts/, beliefs /bɪˈliːfs/, habits /ˈhæbɪts/ đọc /s/ (tận cùng /t/, /f/ vô thanh).",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)"
+  },
+  {
+   "id": "G11U2-P06",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Phát âm 'th' (ôn tập)",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>th</u>ink",
+    "heal<u>th</u>",
+    "<u>th</u>inker",
+    "<u>th</u>ough"
+   ],
+   "answer": 3,
+   "explain": "though /ðəʊ/ đọc /ð/. think /θɪŋk/, health /helθ/, thinker /ˈθɪŋkə(r)/ đọc /θ/.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-P07",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Trọng âm từ 3 âm tiết",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "curious",
+    "nuclear",
+    "extended",
+    "argument"
+   ],
+   "answer": 2,
+   "explain": "extended /ɪkˈstendɪd/ nhấn âm 2. curious /ˈkjʊəriəs/, nuclear /ˈnjuːkliə(r)/, argument /ˈɑːɡjumənt/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-P08",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Trọng âm từ 2 âm tiết",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "hairstyle",
+    "respect",
+    "accept",
+    "allow"
+   ],
+   "answer": 0,
+   "explain": "hairstyle /ˈheəstaɪl/ nhấn âm 1 (danh từ ghép). respect /rɪˈspekt/, accept /əkˈsept/, allow /əˈlaʊ/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)"
+  },
+  {
+   "id": "G11U2-P09",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Trọng âm từ 3 âm tiết",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "critical",
+    "permission",
+    "digital",
+    "family"
+   ],
+   "answer": 1,
+   "explain": "permission /pəˈmɪʃn/ nhấn âm 2. critical /ˈkrɪtɪkl/, digital /ˈdɪdʒɪtl/, family /ˈfæməli/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 2 – Communication and Culture / CLIL (tr. 25)"
+  },
+  {
+   "id": "G11U2-P10",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Trọng âm từ 4 âm tiết",
+   "level": 3,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "traditional",
+    "experiment",
+    "millennial",
+    "generation"
+   ],
+   "answer": 3,
+   "explain": "generation /ˌdʒenəˈreɪʃn/ nhấn âm 3 (đuôi -tion nhấn âm ngay trước). traditional /trəˈdɪʃənl/, experiment /ɪkˈsperɪmənt/, millennial /mɪˈleniəl/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-P11",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Contracted forms",
+   "level": 1,
+   "q": "What is the full form of the contracted form in this sentence?\n\"They <u>don't</u> force us to follow in their footsteps.\"",
+   "options": [
+    "do not",
+    "does not",
+    "did not",
+    "done not"
+   ],
+   "answer": 0,
+   "explain": "Chủ ngữ They, thì hiện tại đơn → don't = <i>do not</i>. does not đi với ngôi 3 số ít (doesn't); did not = didn't (quá khứ).",
+   "review": "Lớp 11 · Unit 2 – Language, Pronunciation (tr. 19)"
+  },
+  {
+   "id": "G11U2-P12",
+   "unit": 2,
+   "type": "pron",
+   "topic": "Contracted forms",
+   "level": 2,
+   "q": "In which sentence does <b>I'd</b> mean <b>I would</b>?",
+   "options": [
+    "I'd finished my homework before dinner.",
+    "I'd already told her about it.",
+    "I'd like to talk about the generation gap.",
+    "I'd never seen her so angry before."
+   ],
+   "answer": 2,
+   "explain": "'d có thể là had hoặc would. Trước động từ nguyên mẫu (like) → would: <i>I'd like</i> = I would like. Ba câu kia 'd đứng trước V3 (finished, told, seen) → had (quá khứ hoàn thành).",
+   "review": "Lớp 11 · Unit 2 – Language, Pronunciation (tr. 19)"
+  },
+  {
+   "id": "G11U2-E01",
+   "unit": 2,
+   "type": "error",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy grandmother <u>must</u> (A) stay at home and <u>do</u> (B) all the housework <u>when</u> (C) she <u>was</u> (D) young.",
+   "options": [
+    "A. must",
+    "B. do",
+    "C. when",
+    "D. was"
+   ],
+   "answer": 0,
+   "explain": "Đáp án A: hành động trong quá khứ (when she was young), must không có dạng quá khứ → sửa <i>must</i> thành <i>had to</i>.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-E02",
+   "unit": 2,
+   "type": "error",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Because</u> (A) it is against the rules, you <u>don't have to</u> (B) use your phone <u>during</u> (C) the <u>exam</u> (D).",
+   "options": [
+    "A. Because",
+    "B. don't have to",
+    "C. during",
+    "D. exam"
+   ],
+   "answer": 1,
+   "explain": "Đáp án B: trái quy định → bị cấm, phải dùng <i>mustn't</i> thay cho <i>don't have to</i> (không cần).",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-E03",
+   "unit": 2,
+   "type": "error",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nTomorrow <u>is</u> (A) Sunday, so I <u>don't</u> (B) have <u>get</u> (C) up <u>early</u> (D).",
+   "options": [
+    "A. is",
+    "B. don't",
+    "C. get",
+    "D. early"
+   ],
+   "answer": 2,
+   "explain": "Đáp án C: cấu trúc <i>have to + V</i> → sửa <i>get</i> thành <i>to get</i> (I don't have to get up early).",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-E04",
+   "unit": 2,
+   "type": "error",
+   "topic": "Gerund after preposition (ôn tập)",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nI think parents <u>should</u> (A) <u>listen</u> (B) to their children instead <u>of</u> (C) <u>to force</u> (D) them to follow in their footsteps.",
+   "options": [
+    "A. should",
+    "B. listen",
+    "C. of",
+    "D. to force"
+   ],
+   "answer": 3,
+   "explain": "Đáp án D: sau giới từ <i>instead of</i> dùng V-ing → sửa <i>to force</i> thành <i>forcing</i>.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-E05",
+   "unit": 2,
+   "type": "error",
+   "topic": "Family types",
+   "level": 1,
+   "q": "Find the underlined part that needs correction.\nMark <u>live</u> (A) in a nuclear family <u>with</u> (B) his parents <u>and</u> (C) his younger <u>brother</u> (D).",
+   "options": [
+    "A. live",
+    "B. with",
+    "C. and",
+    "D. brother"
+   ],
+   "answer": 0,
+   "explain": "Đáp án A: chủ ngữ ngôi 3 số ít (Mark), thì hiện tại đơn → sửa <i>live</i> thành <i>lives</i>.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-E06",
+   "unit": 2,
+   "type": "error",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\n<u>Next year</u> (A), my sister will <u>must</u> (B) wear a uniform <u>when</u> (C) she <u>starts</u> (D) her new job.",
+   "options": [
+    "A. Next year",
+    "B. must",
+    "C. when",
+    "D. starts"
+   ],
+   "answer": 1,
+   "explain": "Đáp án B: must không đứng sau will; nói về bắt buộc trong tương lai dùng <i>will have to</i> → sửa <i>must</i> thành <i>have to</i>.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-E07",
+   "unit": 2,
+   "type": "error",
+   "topic": "Different generations",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nGen Zers are <u>very</u> (A) <u>creative</u> (B) and able to experiment <u>for</u> (C) platforms to suit <u>their</u> (D) needs.",
+   "options": [
+    "A. very",
+    "B. creative",
+    "C. for",
+    "D. their"
+   ],
+   "answer": 2,
+   "explain": "Đáp án C: cụm đúng là <i>experiment with sth</i> (thử nghiệm với) → sửa <i>for</i> thành <i>with</i>.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-E08",
+   "unit": 2,
+   "type": "error",
+   "topic": "Different generations",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nGen Xers are known as critical <u>thinkers</u> (A) because they <u>achieved</u> (B) <u>higher</u> (C) levels of education than <u>previously</u> (D) generations.",
+   "options": [
+    "A. thinkers",
+    "B. achieved",
+    "C. higher",
+    "D. previously"
+   ],
+   "answer": 3,
+   "explain": "Đáp án D: trước danh từ <i>generations</i> cần tính từ → sửa trạng từ <i>previously</i> thành <i>previous</i>.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-R01",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt isn't necessary for you to wear a uniform at the weekend.",
+   "options": [
+    "You mustn't wear a uniform at the weekend.",
+    "You don't have to wear a uniform at the weekend.",
+    "You must wear a uniform at the weekend.",
+    "You should wear a uniform at the weekend."
+   ],
+   "answer": 1,
+   "explain": "'It isn't necessary for sb to V' = <i>sb doesn't/don't have to V</i> (không cần). mustn't = bị cấm; must/should = phải/nên → sai nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-R02",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's a good idea for parents to listen to their children's opinions.",
+   "options": [
+    "Parents mustn't listen to their children's opinions.",
+    "Parents had to listen to their children's opinions.",
+    "Parents should listen to their children's opinions.",
+    "Parents don't have to listen to their children's opinions."
+   ],
+   "answer": 2,
+   "explain": "'It's a good idea for sb to V' = lời khuyên → <i>sb should V</i>. mustn't/don't have to ngược nghĩa; had to sai thì và sai nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-R03",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 1,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nStudents are not allowed to use their phones in class.",
+   "options": [
+    "Students mustn't use their phones in class.",
+    "Students don't have to use their phones in class.",
+    "Students should use their phones in class.",
+    "Students have to use their phones in class."
+   ],
+   "answer": 0,
+   "explain": "'be not allowed to V' (không được phép) = <i>mustn't V</i>. don't have to = không cần; should/have to = nên/phải → sai nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-R04",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt was necessary for my grandmother to do all the housework.",
+   "options": [
+    "My grandmother must do all the housework.",
+    "My grandmother didn't have to do all the housework.",
+    "My grandmother shouldn't do all the housework.",
+    "My grandmother had to do all the housework."
+   ],
+   "answer": 3,
+   "explain": "Câu gốc ở quá khứ (was necessary) → <i>had to</i>. must là hiện tại; didn't have to và shouldn't ngược nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)"
+  },
+  {
+   "id": "G11U2-R05",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nMy parents don't force me to follow in their footsteps.",
+   "options": [
+    "I mustn't follow in my parents' footsteps.",
+    "I don't have to follow in my parents' footsteps.",
+    "I have to follow in my parents' footsteps.",
+    "My parents make me follow in their footsteps."
+   ],
+   "answer": 1,
+   "explain": "Bố mẹ không ép buộc → không bắt buộc phải nối nghiệp → <i>I don't have to…</i>. mustn't = bị cấm (sai); have to và make me… mang nghĩa bị ép (ngược nghĩa).",
+   "review": "Lớp 11 · Unit 2 – Looking Back, Grammar (tr. 27)"
+  },
+  {
+   "id": "G11U2-R06",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's not a good idea for teenagers to spend too much time on screens.",
+   "options": [
+    "Teenagers don't have to spend too much time on screens.",
+    "Teenagers must spend too much time on screens.",
+    "Teenagers shouldn't spend too much time on screens.",
+    "Teenagers had to spend too much time on screens."
+   ],
+   "answer": 2,
+   "explain": "'It's not a good idea for sb to V' = khuyên không nên → <i>shouldn't</i>. don't have to = không cần (không phải lời khuyên); must/had to sai nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Writing (tr. 24)"
+  },
+  {
+   "id": "G11U2-R07",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Relative clauses (ôn tập)",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMy grandparents live with us. They hold very traditional views.",
+   "options": [
+    "My grandparents, which live with us, hold very traditional views.",
+    "My grandparents who they live with us hold very traditional views.",
+    "My grandparents, who live with us, hold very traditional views.",
+    "My grandparents, whose live with us, hold very traditional views."
+   ],
+   "answer": 2,
+   "explain": "Thay chủ ngữ chỉ người 'They' bằng đại từ quan hệ <i>who</i>; có dấu phẩy vì 'my grandparents' đã xác định. which dùng cho vật; 'who they' thừa chủ ngữ; whose phải đi kèm danh từ.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)"
+  },
+  {
+   "id": "G11U2-R08",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Linking words (ôn tập)",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nKevin spends too much time on his laptop. His parents limit his screen time.",
+   "options": [
+    "Although Kevin spends too much time on his laptop, his parents limit his screen time.",
+    "Kevin spends too much time on his laptop because his parents limit his screen time.",
+    "Unless Kevin spends too much time on his laptop, his parents limit his screen time.",
+    "Because Kevin spends too much time on his laptop, his parents limit his screen time."
+   ],
+   "answer": 3,
+   "explain": "Câu 1 là nguyên nhân, câu 2 là kết quả → <i>Because …, …</i>. Although (tương phản) và Unless (trừ khi) sai logic; câu dùng 'because' ở vế sau đảo ngược nguyên nhân – kết quả.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)"
+  },
+  {
+   "id": "G11U2-R09",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Linking words (ôn tập)",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMai wants to colour her hair. Her mother doesn't allow her to do it.",
+   "options": [
+    "Mai wants to colour her hair, but her mother doesn't allow her to do it.",
+    "Mai wants to colour her hair because her mother doesn't allow her to do it.",
+    "Mai's mother allows her to colour her hair, but she doesn't want to.",
+    "Mai doesn't want to colour her hair, and her mother doesn't allow her to."
+   ],
+   "answer": 0,
+   "explain": "Hai ý tương phản (muốn – không được phép) → nối bằng <i>but</i>. 'because' sai quan hệ nguyên nhân; hai phương án còn lại sai nghĩa câu gốc.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)"
+  },
+  {
+   "id": "G11U2-R10",
+   "unit": 2,
+   "type": "rewrite",
+   "topic": "Linking words (ôn tập)",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMany Gen Zers saw people lose their jobs. They want to start their own businesses.",
+   "options": [
+    "Although many Gen Zers saw people lose their jobs, they want to start their own businesses.",
+    "As many Gen Zers saw people lose their jobs, they want to start their own businesses.",
+    "Many Gen Zers saw people lose their jobs, but they want to start their own businesses.",
+    "If many Gen Zers saw people lose their jobs, they wouldn't want to start their own businesses."
+   ],
+   "answer": 1,
+   "explain": "Câu 1 là lý do của câu 2 (bài đọc: thấy nhiều người mất việc nên muốn tự làm chủ) → <i>As</i> (= because). Although/but diễn tả tương phản; câu điều kiện loại 2 làm sai nghĩa.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)"
+  },
+  {
+   "id": "G11U2-C01",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Family types",
+   "level": 1,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "nuclear",
+    "extended",
+    "single",
+    "only"
+   ],
+   "answer": 1,
+   "explain": "Ba thế hệ cùng sống → <i>extended families</i> (gia đình nhiều thế hệ). nuclear chỉ gồm bố mẹ và con nên mâu thuẫn với 'three generations'; single, only không tạo nghĩa phù hợp.",
+   "review": "Lớp 11 · Unit 2 – Getting Started (tr. 18)",
+   "pid": "G11U2-P1",
+   "blank": 1
+  },
+  {
+   "id": "G11U2-C02",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Generational differences",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "sights",
+    "looks",
+    "views",
+    "scenes"
+   ],
+   "answer": 2,
+   "explain": "Collocation <i>hold traditional views</i> = giữ quan điểm truyền thống. sights/looks/scenes không mang nghĩa 'quan điểm'.",
+   "review": "Lớp 11 · Unit 2 – Language, Vocabulary (tr. 20)",
+   "pid": "G11U2-P1",
+   "blank": 2
+  },
+  {
+   "id": "G11U2-C03",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "has to",
+    "must to",
+    "have to",
+    "having to"
+   ],
+   "answer": 0,
+   "explain": "Chủ ngữ 'a girl' (ngôi 3 số ít), hiện tại → <i>has to + V</i>. *must to sai cấu trúc; have to không chia; having to sai dạng.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)",
+   "pid": "G11U2-P1",
+   "blank": 3
+  },
+  {
+   "id": "G11U2-C04",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Family conflicts & permission",
+   "level": 3,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "argument",
+    "fight",
+    "quarrel",
+    "conflict"
+   ],
+   "answer": 3,
+   "explain": "Cụm cố định <i>come into conflict with sb</i> = xảy ra xung đột với ai. Không nói *come into argument/fight/quarrel.",
+   "review": "Lớp 11 · Unit 2 – Looking Back, Vocabulary (tr. 26)",
+   "pid": "G11U2-P1",
+   "blank": 4
+  },
+  {
+   "id": "G11U2-C05",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "don't have to",
+    "mustn't",
+    "needn't to",
+    "haven't to"
+   ],
+   "answer": 1,
+   "explain": "Hỗn láo với ông bà là điều không được phép → <i>mustn't</i>. don't have to = không cần (sai nghĩa); 'needn't to', 'haven't to' sai cấu trúc.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)",
+   "pid": "G11U2-P1",
+   "blank": 5
+  },
+  {
+   "id": "G11U2-C06",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Family conflicts & permission",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "for",
+    "with",
+    "on",
+    "at"
+   ],
+   "answer": 0,
+   "explain": "<i>use sth for + V-ing/N</i> = dùng cái gì để làm gì. Các giới từ còn lại không đi với use theo nghĩa mục đích.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)",
+   "pid": "G11U2-P2",
+   "blank": 6
+  },
+  {
+   "id": "G11U2-C07",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Family conflicts & permission",
+   "level": 1,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "prevent",
+    "limit",
+    "stop",
+    "avoid"
+   ],
+   "answer": 1,
+   "explain": "<i>limit sth to + mức</i> = giới hạn ở mức (two hours a day). prevent/stop sb from doing; avoid doing – không đi với 'to two hours'.",
+   "review": "Lớp 11 · Unit 2 – Listening (tr. 23)",
+   "pid": "G11U2-P2",
+   "blank": 7
+  },
+  {
+   "id": "G11U2-C08",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Relative clauses (ôn tập)",
+   "level": 2,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "which",
+    "whose",
+    "who",
+    "whom"
+   ],
+   "answer": 2,
+   "explain": "Đại từ quan hệ thay cho 'people' và làm chủ ngữ của 'grew up' → <i>who</i>. which dùng cho vật; whose + danh từ; whom làm tân ngữ.",
+   "review": "Lớp 11 · Unit 2 – Reading (tr. 21)",
+   "pid": "G11U2-P2",
+   "blank": 8
+  },
+  {
+   "id": "G11U2-C09",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Linking words (ôn tập)",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "Therefore",
+    "Moreover",
+    "Because",
+    "However"
+   ],
+   "answer": 3,
+   "explain": "Câu trước Kevin phản đối, câu sau cậu vẫn hiểu bố mẹ → quan hệ tương phản → <i>However</i>. Therefore (vì vậy), Moreover (hơn nữa) sai logic; Because không đứng một mình kèm dấu phẩy.",
+   "review": "Lớp 11 · Unit 2 – Writing (tr. 24)",
+   "pid": "G11U2-P2",
+   "blank": 9
+  },
+  {
+   "id": "G11U2-C10",
+   "unit": 2,
+   "type": "cloze",
+   "topic": "Modal verbs: must, have to, should",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "doesn't have to",
+    "mustn't",
+    "has to",
+    "had to"
+   ],
+   "answer": 2,
+   "explain": "Thoả thuận đặt ra nghĩa vụ ở hiện tại: Kevin phải xin phép trước khi chơi game, đối lập với 'can use his laptop freely' → <i>has to</i>. doesn't have to/mustn't sai nghĩa; had to sai thì.",
+   "review": "Lớp 11 · Unit 2 – Language, Grammar (tr. 20)",
+   "pid": "G11U2-P2",
+   "blank": 10
+  }
+ ]
+}

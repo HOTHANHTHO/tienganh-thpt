@@ -1,0 +1,1771 @@
+{
+ "grade": 11,
+ "unit": 6,
+ "name": "Preserving Our Heritage",
+ "src": "bookmap",
+ "vocabTopics": [
+  "Heritage sites",
+  "Preserving heritage"
+ ],
+ "pron": "Intonation in statements, commands, and lists",
+ "grammar": [
+  "To-infinitive clauses",
+  "Relative clauses (review)",
+  "Sentence transformation (review)"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Mệnh đề to-infinitive (To-infinitive clauses)",
+   "page": 68,
+   "body": "1. Cách dùng: dùng to-infinitive (to + V) thay cho mệnh đề quan hệ, đứng ngay sau danh từ khi danh từ đó đi sau:\n• số thứ tự: the first / the second / the last / the next …\n• the only …\n• so sánh nhất: the best / the most beautiful / the youngest …\n2. Cấu trúc:\n• Chủ động: the first/only/last… + N + to V. Vd: Neil Armstrong was the first man who walked on the moon → … the first man to walk on the moon.\n• Bị động: the first/only/last… + N + to be V3. Vd: It's the only place in Southeast Asia to be recognised as a mixed heritage site by UNESCO.\n• Phủ định: not to V. Vd: He was the only student not to take part in the clean-up.\n3. To-infinitive sau danh từ còn diễn tả mục đích / việc cần làm: a place to visit, things to see, someone to show us around, the next step to take.\n4. Ví dụ: Hoi An is the best place to learn about urban lifestyles of the past. / The museum is the last building to be restored this year. / Ca tru was the first Vietnamese art form to be listed as Intangible Cultural Heritage in Need of Urgent Safeguarding.\n5. Lỗi hay gặp: dùng V-ing hoặc V3 sau the first/the only (the first man walking ✗); quên “be” ở dạng bị động (the only place to recognised ✗); nhầm chủ động – bị động (có “by …” → thường là bị động)."
+  },
+  {
+   "kind": "pron",
+   "title": "Ngữ điệu trong câu trần thuật, câu mệnh lệnh và khi liệt kê",
+   "page": 67,
+   "body": "• Câu trần thuật: giọng xuống (↘) ở cuối câu. Vd: Trang An is a mixed heritage ↘site.\n• Câu mệnh lệnh / yêu cầu: giọng xuống (↘). Vd: Don't touch the ↘statues. / Put your rubbish in the ↘bin.\n• Liệt kê: giọng lên (↗) ở mỗi mục và xuống (↘) ở mục cuối để báo hiệu kết thúc. Vd: You can visit Hoi ↗An, ↗Hue, and My ↘Son.\n• Mẹo: từ được nhấn và đổi giọng thường là từ mang thông tin chính, nằm cuối nhóm ý."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 68,
+   "body": "preserve / protect / promote heritage (bảo tồn / bảo vệ / quảng bá di sản) · restore something to its original state (trùng tu về nguyên trạng) · raise awareness of (nâng cao nhận thức về) · be recognised as … by UNESCO (được UNESCO công nhận là …) · mixed heritage site · tangible / intangible cultural heritage (di sản vật thể / phi vật thể) · pass down from generation to generation (truyền từ đời này sang đời khác) · take care of · submit ideas to a competition · go on a boat trip · virtual tour · tourist attraction · ancient capital · limestone mountains · cultural values · historic (có ý nghĩa lịch sử: historic building) ≠ historical (thuộc lịch sử: historical documents)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Everyday English: hỏi và chỉ đường",
+   "page": 73,
+   "body": "Hỏi: Excuse me, could you tell me the way to …? / How can I get to …? / Is there a … near here?\nChỉ đường: Go straight ahead. / Turn left/right at the …. / It's next to / opposite / between …. / You can't miss it."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Thấy the first / the last / the only / so sánh nhất + danh từ + chỗ trống → nghĩ ngay đến to V hoặc to be V3; có “by …” hoặc chủ ngữ chịu tác động → chọn bị động.\n• Bài word form: xác định vị trí (sau mạo từ/sở hữu → danh từ; trước danh từ, sau very → tính từ): preservation, architecture, awareness, scenic, historical.\n• Viết lại câu: “who/that + V” sau the first/only/last → “to V”; “If … not” = “Unless”.\n• Câu nối mệnh đề quan hệ: nơi chốn còn đủ tân ngữ → where; danh từ riêng → dấu phẩy + which/who, không dùng that.\n• Ngữ điệu: trần thuật, mệnh lệnh ↘; liệt kê ↗ ↗ ↘."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "heritage",
+   "pos": "n",
+   "ipa": "/ˈherɪtɪdʒ/",
+   "vi": "di sản",
+   "ex": "We should be proud of our cultural heritage.",
+   "page": 66
+  },
+  {
+   "w": "heritage site",
+   "pos": "n phr",
+   "ipa": "/ˈherɪtɪdʒ saɪt/",
+   "vi": "khu di sản",
+   "ex": "We need to plan a field trip to a heritage site in Viet Nam.",
+   "page": 66
+  },
+  {
+   "w": "mixed heritage site",
+   "pos": "n phr",
+   "ipa": "/mɪkst ˈherɪtɪdʒ saɪt/",
+   "vi": "di sản hỗn hợp (vừa thiên nhiên vừa văn hoá)",
+   "ex": "A mixed heritage site has both natural and cultural importance.",
+   "page": 66
+  },
+  {
+   "w": "scenic",
+   "pos": "adj",
+   "ipa": "/ˈsiːnɪk/",
+   "vi": "có phong cảnh đẹp",
+   "ex": "I'd recommend Trang An Scenic Landscape Complex.",
+   "page": 66
+  },
+  {
+   "w": "landscape",
+   "pos": "n",
+   "ipa": "/ˈlændskeɪp/",
+   "vi": "phong cảnh",
+   "ex": "You can go on a boat trip to enjoy the beautiful landscape.",
+   "page": 66
+  },
+  {
+   "w": "complex",
+   "pos": "n",
+   "ipa": "/ˈkɒmpleks/",
+   "vi": "quần thể",
+   "ex": "The Complex of Hue Monuments attracts many visitors every year.",
+   "page": 66
+  },
+  {
+   "w": "recognise",
+   "pos": "v",
+   "ipa": "/ˈrekəɡnaɪz/",
+   "vi": "công nhận",
+   "ex": "Trang An was recognised as a mixed heritage site by UNESCO.",
+   "page": 66
+  },
+  {
+   "w": "monument",
+   "pos": "n",
+   "ipa": "/ˈmɒnjumənt/",
+   "vi": "di tích, công trình kỷ niệm",
+   "ex": "You can visit the old temples and monuments to learn about Vietnamese history.",
+   "page": 66
+  },
+  {
+   "w": "cultural value",
+   "pos": "n phr",
+   "ipa": "/ˈkʌltʃərəl ˈvæljuː/",
+   "vi": "giá trị văn hoá",
+   "ex": "We want to learn about cultural values of the past.",
+   "page": 66
+  },
+  {
+   "w": "ancient",
+   "pos": "adj",
+   "ipa": "/ˈeɪnʃənt/",
+   "vi": "cổ, cổ xưa",
+   "ex": "Hoi An Ancient Town is a great place to explore.",
+   "page": 66
+  },
+  {
+   "w": "architecture",
+   "pos": "n",
+   "ipa": "/ˈɑːkɪtektʃə(r)/",
+   "vi": "kiến trúc",
+   "ex": "You will see examples of ancient architecture in Hoi An.",
+   "page": 66
+  },
+  {
+   "w": "original",
+   "pos": "adj",
+   "ipa": "/əˈrɪdʒənl/",
+   "vi": "nguyên bản, ban đầu",
+   "ex": "All buildings are kept in their original state.",
+   "page": 66
+  },
+  {
+   "w": "urban",
+   "pos": "adj",
+   "ipa": "/ˈɜːbən/",
+   "vi": "(thuộc) đô thị",
+   "ex": "You'll learn about urban lifestyles from the 15th to the 19th century.",
+   "page": 66
+  },
+  {
+   "w": "preserve",
+   "pos": "v",
+   "ipa": "/prɪˈzɜːv/",
+   "vi": "bảo tồn, gìn giữ",
+   "ex": "We must preserve our heritage for future generations.",
+   "page": 68
+  },
+  {
+   "w": "preservation",
+   "pos": "n",
+   "ipa": "/ˌprezəˈveɪʃn/",
+   "vi": "sự bảo tồn",
+   "ex": "The preservation of old buildings costs a lot of money.",
+   "page": 68
+  },
+  {
+   "w": "promote",
+   "pos": "v",
+   "ipa": "/prəˈməʊt/",
+   "vi": "quảng bá, thúc đẩy",
+   "ex": "Young people can use social media to promote local heritage sites.",
+   "page": 68
+  },
+  {
+   "w": "restore",
+   "pos": "v",
+   "ipa": "/rɪˈstɔː(r)/",
+   "vi": "trùng tu, phục hồi",
+   "ex": "The old pagoda was restored to its original state.",
+   "page": 68
+  },
+  {
+   "w": "restoration",
+   "pos": "n",
+   "ipa": "/ˌrestəˈreɪʃn/",
+   "vi": "sự trùng tu",
+   "ex": "The restoration of the citadel took ten years.",
+   "page": 68
+  },
+  {
+   "w": "raise awareness (of)",
+   "pos": "phr",
+   "ipa": "/reɪz əˈweənəs/",
+   "vi": "nâng cao nhận thức (về)",
+   "ex": "The campaign aims to raise awareness of heritage protection.",
+   "page": 68
+  },
+  {
+   "w": "historic",
+   "pos": "adj",
+   "ipa": "/hɪˈstɒrɪk/",
+   "vi": "có ý nghĩa lịch sử",
+   "ex": "Hoi An has many historic buildings.",
+   "page": 68
+  },
+  {
+   "w": "historical",
+   "pos": "adj",
+   "ipa": "/hɪˈstɒrɪkl/",
+   "vi": "(thuộc về) lịch sử",
+   "ex": "The museum keeps many historical documents.",
+   "page": 68
+  },
+  {
+   "w": "tangible",
+   "pos": "adj",
+   "ipa": "/ˈtændʒəbl/",
+   "vi": "hữu hình, vật thể",
+   "ex": "Temples and citadels are tangible heritage.",
+   "page": 68
+  },
+  {
+   "w": "intangible",
+   "pos": "adj",
+   "ipa": "/ɪnˈtændʒəbl/",
+   "vi": "vô hình, phi vật thể",
+   "ex": "Quan ho singing is a form of intangible cultural heritage.",
+   "page": 68
+  },
+  {
+   "w": "folk song",
+   "pos": "n",
+   "ipa": "/ˈfəʊk sɒŋ/",
+   "vi": "bài dân ca",
+   "ex": "My grandmother taught me many folk songs.",
+   "page": 68
+  },
+  {
+   "w": "craft village",
+   "pos": "n phr",
+   "ipa": "/ˈkrɑːft ˌvɪlɪdʒ/",
+   "vi": "làng nghề thủ công",
+   "ex": "Bat Trang is a famous pottery craft village.",
+   "page": 68
+  },
+  {
+   "w": "generation",
+   "pos": "n",
+   "ipa": "/ˌdʒenəˈreɪʃn/",
+   "vi": "thế hệ",
+   "ex": "Heritage should be kept for future generations.",
+   "page": 68
+  },
+  {
+   "w": "pass down",
+   "pos": "phr v",
+   "ipa": "/ˌpɑːs ˈdaʊn/",
+   "vi": "truyền lại (cho thế hệ sau)",
+   "ex": "These skills have been passed down from father to son.",
+   "page": 68
+  },
+  {
+   "w": "ideas competition",
+   "pos": "n phr",
+   "ipa": "/aɪˈdɪəz ˌkɒmpəˈtɪʃn/",
+   "vi": "cuộc thi ý tưởng",
+   "ex": "Our school joined an ideas competition about preserving heritage.",
+   "page": 69
+  },
+  {
+   "w": "submit",
+   "pos": "v",
+   "ipa": "/səbˈmɪt/",
+   "vi": "nộp, gửi (bài dự thi)",
+   "ex": "Students must submit their ideas before the end of May.",
+   "page": 69
+  },
+  {
+   "w": "virtual tour",
+   "pos": "n phr",
+   "ipa": "/ˌvɜːtʃuəl ˈtʊə(r)/",
+   "vi": "chuyến tham quan ảo (trực tuyến)",
+   "ex": "The winning team created a virtual tour of the old town.",
+   "page": 69
+  },
+  {
+   "w": "damage",
+   "pos": "v, n",
+   "ipa": "/ˈdæmɪdʒ/",
+   "vi": "làm hư hại; sự hư hại",
+   "ex": "Some tourists damage the walls by writing on them.",
+   "page": 69
+  },
+  {
+   "w": "protect",
+   "pos": "v",
+   "ipa": "/prəˈtekt/",
+   "vi": "bảo vệ",
+   "ex": "Everyone should help protect historic sites.",
+   "page": 69
+  },
+  {
+   "w": "limestone",
+   "pos": "n",
+   "ipa": "/ˈlaɪmstəʊn/",
+   "vi": "đá vôi",
+   "ex": "Trang An is famous for its limestone mountains.",
+   "page": 71
+  },
+  {
+   "w": "cave",
+   "pos": "n",
+   "ipa": "/keɪv/",
+   "vi": "hang động",
+   "ex": "Tourists can explore the caves by boat.",
+   "page": 71
+  },
+  {
+   "w": "ancient capital",
+   "pos": "n phr",
+   "ipa": "/ˌeɪnʃənt ˈkæpɪtl/",
+   "vi": "cố đô",
+   "ex": "Hoa Lu was the ancient capital of Dai Co Viet.",
+   "page": 71
+  },
+  {
+   "w": "tourist attraction",
+   "pos": "n phr",
+   "ipa": "/ˈtʊərɪst əˌtrækʃn/",
+   "vi": "điểm thu hút khách du lịch",
+   "ex": "Trang An has become a popular tourist attraction.",
+   "page": 71
+  },
+  {
+   "w": "leaflet",
+   "pos": "n",
+   "ipa": "/ˈliːflət/",
+   "vi": "tờ rơi",
+   "ex": "We wrote a leaflet to inform people about ways to preserve Trang An.",
+   "page": 72
+  },
+  {
+   "w": "litter",
+   "pos": "v, n",
+   "ipa": "/ˈlɪtə(r)/",
+   "vi": "xả rác; rác",
+   "ex": "Please do not litter in the caves.",
+   "page": 72
+  },
+  {
+   "w": "souvenir",
+   "pos": "n",
+   "ipa": "/ˌsuːvəˈnɪə(r)/",
+   "vi": "quà lưu niệm",
+   "ex": "Buy souvenirs from local craftspeople to support them.",
+   "page": 72
+  },
+  {
+   "w": "initiative",
+   "pos": "n",
+   "ipa": "/ɪˈnɪʃətɪv/",
+   "vi": "sáng kiến",
+   "ex": "There are many initiatives to preserve heritage around the world.",
+   "page": 74
+  },
+  {
+   "w": "fund-raising",
+   "pos": "n",
+   "ipa": "/ˈfʌndreɪzɪŋ/",
+   "vi": "việc gây quỹ",
+   "ex": "The club organised a fund-raising event to repair the old temple.",
+   "page": 74
+  }
+ ],
+ "passages": [
+  {
+   "id": "G11U6-P1",
+   "title": "Protecting Trang An",
+   "text": "Trang An Scenic Landscape Complex in Ninh Binh Province was (1) _____ by UNESCO as a mixed heritage site in 2014. The area is famous (2) _____ its limestone mountains, caves and green rice fields, and it also contains temples and pagodas from the ancient capital of Hoa Lu. Every year, millions of tourists come here (3) _____ boat trips along the rivers and visit the caves. However, mass tourism can cause serious problems. Some visitors leave rubbish in the caves, and others touch or write on ancient walls. To protect the site, the local authority has introduced strict rules, (4) _____ ban visitors from littering and using plastic bags on the boats. Local people also work as tour guides and teach tourists about the history of the area. In addition, schools in Ninh Binh organise activities to (5) _____ students' awareness of the value of their local heritage. Everyone has a role to play in keeping Trang An beautiful for future generations."
+  },
+  {
+   "id": "G11U6-P2",
+   "title": "Keeping quan ho alive",
+   "text": "Quan ho, a type of folk singing from Bac Ninh Province, is one of Viet Nam's most valuable forms of intangible cultural heritage. For centuries, these songs have been (6) _____ down from one generation to the next. The singers, (7) _____ performances are often held during spring festivals, wear traditional costumes and sing in pairs. In 2009, quan ho became one of the first Vietnamese art forms (8) _____ on UNESCO's list of the Intangible Cultural Heritage of Humanity. (9) _____, the number of young people who can sing quan ho well is decreasing, as many of them prefer modern music. To solve this problem, local clubs now offer free classes for children, and some young singers post videos online to (10) _____ the songs to a wider audience. If young people take an interest in quan ho, this beautiful tradition will continue to live on."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G11U6-V01",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Heritage sites",
+   "level": 1,
+   "q": "Trang An is the only place in Southeast Asia to be recognised as a _____ heritage site by UNESCO.",
+   "options": [
+    "mixing",
+    "mix",
+    "mixed",
+    "mixture"
+   ],
+   "answer": 2,
+   "explain": "Trước cụm danh từ “heritage site” cần một tính từ: “mixed heritage site” = di sản hỗn hợp (vừa thiên nhiên vừa văn hoá). “mixing” (V-ing), “mix” (động từ/danh từ), “mixture” (danh từ) không tạo thành cụm đúng.",
+   "review": "Lớp 11 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G11U6-V02",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "We should do more to _____ our cultural heritage for future generations.",
+   "options": [
+    "destroy",
+    "preserve",
+    "damage",
+    "pollute"
+   ],
+   "answer": 1,
+   "explain": "“preserve” = bảo tồn, phù hợp với “for future generations” (cho các thế hệ sau). “destroy/damage/pollute” mang nghĩa phá hoại, làm ô nhiễm – trái với ý câu.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V03",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "After the storm, the old pagoda was carefully _____ to its original state.",
+   "options": [
+    "raised",
+    "promoted",
+    "restored",
+    "recognised"
+   ],
+   "answer": 2,
+   "explain": "“restore something to its original state” = trùng tu, phục hồi về trạng thái ban đầu. “raised” (nâng lên), “promoted” (quảng bá), “recognised” (công nhận) không đi với “to its original state”.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V04",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "The campaign aims to _____ awareness of the importance of heritage protection.",
+   "options": [
+    "rise",
+    "raise",
+    "arise",
+    "make"
+   ],
+   "answer": 1,
+   "explain": "Collocation “raise awareness of” = nâng cao nhận thức về. “rise” và “arise” là nội động từ, không có tân ngữ; “make awareness” không phải cụm từ đúng.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V05",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Heritage sites",
+   "level": 2,
+   "q": "Hoi An is famous for its ancient _____, with old houses, temples and assembly halls.",
+   "options": [
+    "architect",
+    "architectural",
+    "architecturally",
+    "architecture"
+   ],
+   "answer": 3,
+   "explain": "Sau tính từ “ancient” cần danh từ chỉ sự vật: “architecture” (kiến trúc). “architect” là kiến trúc sư (người), không hợp nghĩa; “architectural” là tính từ, “architecturally” là trạng từ.",
+   "review": "Lớp 11 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G11U6-V06",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "Folk songs such as quan ho and ca tru are examples of _____ cultural heritage.",
+   "options": [
+    "tangible",
+    "natural",
+    "scenic",
+    "intangible"
+   ],
+   "answer": 3,
+   "explain": "Dân ca là di sản không thể cầm nắm được → “intangible” (phi vật thể). “tangible” (vật thể) dùng cho đền, chùa, thành cổ; “natural” (thiên nhiên), “scenic” (có cảnh đẹp) không phù hợp.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V07",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "Choose the word CLOSEST in meaning to the underlined word.\nThe government has spent a lot of money to <u>restore</u> the old citadel.",
+   "options": [
+    "demolish",
+    "repair",
+    "discover",
+    "visit"
+   ],
+   "answer": 1,
+   "explain": "“restore” = trùng tu, sửa chữa lại ≈ “repair”. “demolish” (phá bỏ) trái nghĩa; “discover” (phát hiện), “visit” (tham quan) không liên quan.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V08",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nTourists should not <u>damage</u> the ancient walls of the temple.",
+   "options": [
+    "protect",
+    "destroy",
+    "harm",
+    "ruin"
+   ],
+   "answer": 0,
+   "explain": "“damage” = làm hư hại; trái nghĩa là “protect” (bảo vệ). “destroy, harm, ruin” đều gần nghĩa với “damage”.",
+   "review": "Lớp 11 · Unit 6 – Reading"
+  },
+  {
+   "id": "G11U6-V09",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Heritage sites",
+   "level": 2,
+   "q": "Choose the word(s) CLOSEST in meaning to the underlined phrase.\nTrang An has become a popular <u>tourist attraction</u> in northern Viet Nam.",
+   "options": [
+    "accommodation",
+    "souvenir",
+    "attention",
+    "place of interest"
+   ],
+   "answer": 3,
+   "explain": "“tourist attraction” = điểm thu hút khách du lịch ≈ “place of interest” (danh lam, điểm tham quan). “accommodation” (chỗ ở), “souvenir” (quà lưu niệm), “attention” (sự chú ý) sai nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Listening"
+  },
+  {
+   "id": "G11U6-V10",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "Many traditional crafts have been _____ down from one generation to the next.",
+   "options": [
+    "passed",
+    "taken",
+    "turned",
+    "put"
+   ],
+   "answer": 0,
+   "explain": "“pass down” = truyền lại cho thế hệ sau. “take down” (tháo xuống, ghi chép), “turn down” (từ chối), “put down” (đặt xuống) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V11",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "Students can _____ their ideas to the competition before 30 June.",
+   "options": [
+    "admit",
+    "submit",
+    "commit",
+    "permit"
+   ],
+   "answer": 1,
+   "explain": "“submit something to” = nộp, gửi bài dự thi. “admit” (thừa nhận), “commit” (phạm, cam kết), “permit” (cho phép) chỉ giống về hình thức.",
+   "review": "Lớp 11 · Unit 6 – Reading"
+  },
+  {
+   "id": "G11U6-V12",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "The museum has created a _____ tour so that people can explore it online from home.",
+   "options": [
+    "actual",
+    "visual",
+    "virtual",
+    "physical"
+   ],
+   "answer": 2,
+   "explain": "“virtual tour” = tham quan ảo, trực tuyến – khớp với “explore it online”. “actual/physical” (thực tế) trái nghĩa với “online”; “visual tour” không phải cụm từ chuẩn.",
+   "review": "Lớp 11 · Unit 6 – Reading"
+  },
+  {
+   "id": "G11U6-V13",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "Young people can _____ heritage sites by sharing photos and stories about them on social media.",
+   "options": [
+    "promote",
+    "prevent",
+    "prohibit",
+    "pollute"
+   ],
+   "answer": 0,
+   "explain": "Chia sẻ ảnh, câu chuyện trên mạng xã hội là cách “promote” (quảng bá) di sản. “prevent” (ngăn chặn), “prohibit” (cấm), “pollute” (làm ô nhiễm) sai nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V14",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "Please don't _____ in the cave. Put your rubbish in the bins near the entrance.",
+   "options": [
+    "litter",
+    "clean",
+    "collect",
+    "recycle"
+   ],
+   "answer": 0,
+   "explain": "Câu sau khuyên bỏ rác vào thùng, nên câu trước là lời cấm “don't litter” (đừng xả rác). “clean, collect, recycle” là hành động tốt, không thể cấm.",
+   "review": "Lớp 11 · Unit 6 – Writing"
+  },
+  {
+   "id": "G11U6-V15",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "The _____ of historic buildings requires a lot of money and skilled workers.",
+   "options": [
+    "preserve",
+    "preservative",
+    "preservation",
+    "preserved"
+   ],
+   "answer": 2,
+   "explain": "Sau “The” và trước “of” cần danh từ: “preservation” (sự bảo tồn). “preserve” (động từ), “preserved” (phân từ); “preservative” là danh từ nhưng nghĩa là chất bảo quản – sai nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V16",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Heritage sites",
+   "level": 1,
+   "q": "The Complex of Hue Monuments is of great _____ importance to Viet Nam.",
+   "options": [
+    "history",
+    "historian",
+    "historical",
+    "historically"
+   ],
+   "answer": 2,
+   "explain": "Trước danh từ “importance” cần tính từ: “historical importance” (tầm quan trọng về mặt lịch sử). “history” (danh từ), “historian” (nhà sử học), “historically” (trạng từ) sai từ loại.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-V17",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 1,
+   "q": "It is our responsibility to take _____ of the heritage our ancestors left us.",
+   "options": [
+    "part",
+    "place",
+    "turns",
+    "care"
+   ],
+   "answer": 3,
+   "explain": "“take care of” = chăm sóc, gìn giữ. “take part in” (tham gia) đi với “in”; “take place” (diễn ra) không có tân ngữ; “take turns” (thay phiên) sai nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-V18",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Heritage sites",
+   "level": 1,
+   "q": "The area around Trang An is very _____, with limestone mountains, caves and green rice fields.",
+   "options": [
+    "scenery",
+    "scene",
+    "scenically",
+    "scenic"
+   ],
+   "answer": 3,
+   "explain": "Sau “very” cần tính từ: “scenic” (có cảnh đẹp). “scenery, scene” là danh từ; “scenically” là trạng từ.",
+   "review": "Lớp 11 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G11U6-V19",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Preserving heritage",
+   "level": 3,
+   "q": "Our class has come up with an _____ to clean the old pagoda in our neighbourhood every month.",
+   "options": [
+    "initiative",
+    "initial",
+    "initiate",
+    "initially"
+   ],
+   "answer": 0,
+   "explain": "Sau mạo từ “an” cần danh từ: “initiative” (sáng kiến). “initial” (tính từ: ban đầu), “initiate” (động từ: khởi xướng), “initially” (trạng từ) sai từ loại.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture"
+  },
+  {
+   "id": "G11U6-V20",
+   "unit": 6,
+   "type": "vocab",
+   "topic": "Heritage sites",
+   "level": 3,
+   "q": "Choose the word OPPOSITE in meaning to the underlined word.\nAll the buildings in the old town are kept in their <u>original</u> state.",
+   "options": [
+    "first",
+    "changed",
+    "authentic",
+    "early"
+   ],
+   "answer": 1,
+   "explain": "“original” = nguyên bản, ban đầu; trái nghĩa là “changed” (đã bị thay đổi). “first, authentic, early” gần nghĩa với “original”.",
+   "review": "Lớp 11 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G11U6-G01",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "Trang An is the only place in Southeast Asia _____ as a mixed heritage site by UNESCO.",
+   "options": [
+    "to be recognised",
+    "to recognise",
+    "recognising",
+    "is recognised"
+   ],
+   "answer": 0,
+   "explain": "Sau “the only + danh từ” dùng mệnh đề to-infinitive thay cho mệnh đề quan hệ. Nghĩa bị động (được UNESCO công nhận, có “by UNESCO”) → “to be recognised” (to be + V3). “to recognise” mang nghĩa chủ động; “recognising” và “is recognised” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G11U6-G02",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "Ha Long Bay was the first site in Viet Nam _____ World Natural Heritage status.",
+   "options": [
+    "received",
+    "to receive",
+    "receive",
+    "to be received"
+   ],
+   "answer": 1,
+   "explain": "Sau “the first + danh từ” dùng to-infinitive: “the first site to receive” = địa điểm đầu tiên nhận được. Vịnh tự nhận danh hiệu → chủ động, nên “to be received” sai; “received/receive” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G03",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "The Complex of Hue Monuments was the first site in Viet Nam _____ on the World Heritage List.",
+   "options": [
+    "to inscribe",
+    "inscribing",
+    "to be inscribed",
+    "inscribed it"
+   ],
+   "answer": 2,
+   "explain": "“the first site + to-infinitive”. Quần thể di tích được ghi danh (bị động) → “to be inscribed”. “to inscribe” mang nghĩa chủ động; “inscribing”, “inscribed it” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G04",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "My grandmother was the last person in the village _____ how to make this traditional cake.",
+   "options": [
+    "known",
+    "knows",
+    "to be known",
+    "to know"
+   ],
+   "answer": 3,
+   "explain": "“the last person + to V” = người cuối cùng biết… (chủ động). “known/to be known” mang nghĩa bị động; “knows” là động từ chia, không đứng sau danh từ như vậy.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G05",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "He was the youngest player who won the award. → He was the youngest player _____ the award.",
+   "options": [
+    "to be won",
+    "to win",
+    "won",
+    "wins"
+   ],
+   "answer": 1,
+   "explain": "Sau so sánh nhất “the youngest + danh từ”, mệnh đề quan hệ chủ động “who won” rút gọn thành “to win”. “to be won” là bị động (sai nghĩa); “won/wins” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G06",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "The next step _____ is to raise money for the restoration project.",
+   "options": [
+    "taking",
+    "takes",
+    "to take",
+    "to taking"
+   ],
+   "answer": 2,
+   "explain": "Sau “the next + danh từ” dùng to-infinitive: “the next step to take” = bước tiếp theo cần làm. “taking, takes, to taking” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G07",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "My Son Sanctuary is one of the most interesting places _____ in Quang Nam Province.",
+   "options": [
+    "to visit",
+    "visit",
+    "visits",
+    "to visiting"
+   ],
+   "answer": 0,
+   "explain": "Sau so sánh nhất “the most interesting places” dùng to-infinitive: “places to visit” (những nơi nên đến). Các phương án còn lại sai dạng động từ.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G08",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "The first thing _____ when you arrive at the museum is to buy a ticket.",
+   "options": [
+    "doing",
+    "to do",
+    "does",
+    "did"
+   ],
+   "answer": 1,
+   "explain": "“The first thing to do” = việc đầu tiên cần làm. Sau “the first + danh từ” dùng to-infinitive; “doing/does/did” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G09",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 3,
+   "q": "Peter was the only student who didn't take part in the clean-up. → Peter was the only student _____ part in the clean-up.",
+   "options": [
+    "to take not",
+    "not take",
+    "not to take",
+    "to not taking"
+   ],
+   "answer": 2,
+   "explain": "Dạng phủ định của to-infinitive là “not to V”: “the only student not to take part” = học sinh duy nhất không tham gia. “to take not, not take, to not taking” sai vị trí “not” hoặc sai dạng động từ.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G10",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "Hoi An Ancient Town is the best place _____ about urban lifestyles from the 15th to the 19th century.",
+   "options": [
+    "learning",
+    "learnt",
+    "to learn",
+    "learns"
+   ],
+   "answer": 2,
+   "explain": "Sau so sánh nhất “the best place” dùng to-infinitive: “the best place to learn” = nơi tốt nhất để tìm hiểu. Các phương án còn lại sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Getting Started"
+  },
+  {
+   "id": "G11U6-G11",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "UNESCO was the first organisation _____ the importance of this site.",
+   "options": [
+    "recognised",
+    "to recognise",
+    "recognises",
+    "to be recognised"
+   ],
+   "answer": 1,
+   "explain": "UNESCO là chủ thể thực hiện hành động công nhận → to-infinitive chủ động “to recognise”. “to be recognised” là bị động (sai nghĩa vì có tân ngữ “the importance”); “recognised/recognises” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G12",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Ca tru was the first Vietnamese art form _____ as Intangible Cultural Heritage in Need of Urgent Safeguarding.",
+   "options": [
+    "to list",
+    "listing",
+    "lists",
+    "to be listed"
+   ],
+   "answer": 3,
+   "explain": "“the first art form + to-infinitive”; ca trù ĐƯỢC đưa vào danh sách → bị động “to be listed”. “to list” chủ động; “listing, lists” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G13",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Relative clauses (review)",
+   "level": 1,
+   "q": "Hoi An, _____ was recognised as a World Heritage Site in 1999, attracts millions of tourists every year.",
+   "options": [
+    "that",
+    "who",
+    "which",
+    "where"
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề quan hệ không xác định (có dấu phẩy) chỉ vật làm chủ ngữ → “which”. “that” không dùng sau dấu phẩy; “who” chỉ người; “where” không làm chủ ngữ.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G14",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "Relative clauses (review)",
+   "level": 2,
+   "q": "Ha Long Bay is the place _____ many foreign tourists want to visit.",
+   "options": [
+    "where",
+    "who",
+    "whose",
+    "which"
+   ],
+   "answer": 3,
+   "explain": "“visit” cần tân ngữ, nên đại từ quan hệ phải làm tân ngữ chỉ vật → “which”. “where” = in/at which, chỉ dùng khi mệnh đề đã đủ thành phần; “who” chỉ người; “whose” chỉ sở hữu.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G15",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "We need someone _____ the tourists around the ancient capital of Hoa Lu.",
+   "options": [
+    "showing",
+    "to show",
+    "shows",
+    "shown"
+   ],
+   "answer": 1,
+   "explain": "To-infinitive sau danh từ/đại từ chỉ mục đích: “someone to show the tourists around” = ai đó để dẫn khách tham quan. Các phương án còn lại sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G16",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 3,
+   "q": "Mr Tuan was the second person _____ by the police after the temple had been damaged.",
+   "options": [
+    "to question",
+    "questioning",
+    "questioned him",
+    "to be questioned"
+   ],
+   "answer": 3,
+   "explain": "Ông Tuấn bị cảnh sát thẩm vấn (có “by the police”) → bị động “to be questioned” sau “the second + danh từ”. “to question, questioning” mang nghĩa chủ động; “questioned him” thừa tân ngữ.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G17",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 1,
+   "q": "She was the first woman in her village _____ to university.",
+   "options": [
+    "to go",
+    "going",
+    "went",
+    "gone"
+   ],
+   "answer": 0,
+   "explain": "Sau “the first + danh từ” dùng to-infinitive: “the first woman to go to university”. Các phương án còn lại sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G18",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Which sentence is correct?",
+   "options": [
+    "He was the last visitor to leaving the museum.",
+    "He was the last visitor leave the museum.",
+    "He was the last visitor to left the museum.",
+    "He was the last visitor to leave the museum."
+   ],
+   "answer": 3,
+   "explain": "Mệnh đề to-infinitive có dạng “to + V nguyên mẫu”: “the last visitor to leave”. “to leaving, leave, to left” đều sai dạng động từ.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-G19",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "There are a lot of interesting things _____ in Trang An, such as boat trips and cave exploring.",
+   "options": [
+    "to see",
+    "sees",
+    "saw",
+    "to seeing"
+   ],
+   "answer": 0,
+   "explain": "To-infinitive sau danh từ diễn tả việc có thể/nên làm: “things to see” = những thứ để xem. Các phương án còn lại sai dạng động từ.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-G20",
+   "unit": 6,
+   "type": "grammar",
+   "topic": "To-infinitive clauses",
+   "level": 3,
+   "q": "Our project on preserving the old market was the only one _____ a prize by the judges.",
+   "options": [
+    "to be given",
+    "to give",
+    "giving",
+    "gives"
+   ],
+   "answer": 0,
+   "explain": "“the only one + to-infinitive”; dự án ĐƯỢC giám khảo trao giải (có “by the judges”) → bị động “to be given”. “to give, giving” là chủ động; “gives” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-P01",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Intonation in statements, commands, and lists",
+   "level": 1,
+   "q": "Choose the correct answer about intonation.\n“Visit Hoi An, Hue, and My Son.” How is the intonation on the items in this list?",
+   "options": [
+    "Falling on all three items",
+    "Rising on all three items",
+    "Rising on “Hoi An” and “Hue”, falling on “My Son”",
+    "Falling on “Hoi An” and “Hue”, rising on “My Son”"
+   ],
+   "answer": 2,
+   "explain": "Khi liệt kê, giọng lên ở từng mục và xuống ở mục cuối cùng để báo hiệu danh sách kết thúc: Hoi An ↗, Hue ↗, My Son ↘.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P02",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Intonation in statements, commands, and lists",
+   "level": 1,
+   "q": "Choose the correct answer about intonation.\nWhat intonation is normally used at the end of the statement “Trang An is a mixed heritage site.”?",
+   "options": [
+    "Rising intonation",
+    "Fall-rise intonation",
+    "Level (flat) intonation",
+    "Falling intonation"
+   ],
+   "answer": 3,
+   "explain": "Câu trần thuật thông thường dùng ngữ điệu xuống ở cuối câu: …heritage ↘site.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P03",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Intonation in statements, commands, and lists",
+   "level": 1,
+   "q": "Choose the correct answer about intonation.\nWhat intonation is normally used in the command “Don't touch the statues.”?",
+   "options": [
+    "Falling intonation",
+    "Rising intonation",
+    "Rise-fall-rise intonation",
+    "Level (flat) intonation"
+   ],
+   "answer": 0,
+   "explain": "Câu mệnh lệnh thể hiện yêu cầu dứt khoát nên dùng ngữ điệu xuống ở cuối: Don't touch the ↘statues.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P04",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Intonation in statements, commands, and lists",
+   "level": 2,
+   "q": "Choose the correct answer about intonation.\n“You can go on a boat trip, visit the temples, or explore the caves.” Which word has falling intonation?",
+   "options": [
+    "trip",
+    "caves",
+    "temples",
+    "go"
+   ],
+   "answer": 1,
+   "explain": "Trong danh sách, giọng lên ở các mục trước (trip ↗, temples ↗) và xuống ở mục cuối (caves ↘). “go” không phải mục liệt kê.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P05",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Pronunciation: e /e/ vs /iː/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "h<u>e</u>ritage",
+    "sc<u>e</u>nic",
+    "t<u>e</u>mple",
+    "c<u>e</u>ntury"
+   ],
+   "answer": 1,
+   "explain": "“scenic” /ˈsiːnɪk/ có “e” đọc /iː/; heritage /ˈherɪtɪdʒ/, temple /ˈtempl/, century /ˈsentʃəri/ đọc /e/.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P06",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Pronunciation: a /æ/ vs /eɪ/",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "l<u>a</u>ndscape",
+    "c<u>a</u>pital",
+    "f<u>a</u>mily",
+    "<u>a</u>ncient"
+   ],
+   "answer": 3,
+   "explain": "“ancient” /ˈeɪnʃənt/ có “a” đọc /eɪ/; landscape /ˈlændskeɪp/, capital /ˈkæpɪtl/, family /ˈfæməli/ đọc /æ/.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P07",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Pronunciation: ch /k/ vs /tʃ/",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "<u>ch</u>allenge",
+    "ar<u>ch</u>itecture",
+    "<u>ch</u>aracter",
+    "<u>ch</u>emist"
+   ],
+   "answer": 0,
+   "explain": "“challenge” /ˈtʃælɪndʒ/ có “ch” đọc /tʃ/; architecture /ˈɑːkɪtektʃə(r)/, character /ˈkærəktə(r)/, chemist /ˈkemɪst/ đọc /k/.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P08",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "recognis<u>ed</u>",
+    "promot<u>ed</u>",
+    "restor<u>ed</u>",
+    "preserv<u>ed</u>"
+   ],
+   "answer": 1,
+   "explain": "“promoted” tận cùng bằng /t/ nên “-ed” đọc /ɪd/; recognised /ˈrekəɡnaɪzd/, restored /rɪˈstɔːd/, preserved /prɪˈzɜːvd/ đọc /d/.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P09",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "heritage",
+    "landscape",
+    "monument",
+    "historic"
+   ],
+   "answer": 3,
+   "explain": "historic /hɪˈstɒrɪk/ nhấn âm 2; heritage /ˈherɪtɪdʒ/, landscape /ˈlændskeɪp/, monument /ˈmɒnjumənt/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P10",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "preserve",
+    "restore",
+    "damage",
+    "promote"
+   ],
+   "answer": 2,
+   "explain": "damage /ˈdæmɪdʒ/ nhấn âm 1; preserve /prɪˈzɜːv/, restore /rɪˈstɔː(r)/, promote /prəˈməʊt/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P11",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "architecture",
+    "intangible",
+    "original",
+    "initiative"
+   ],
+   "answer": 0,
+   "explain": "architecture /ˈɑːkɪtektʃə(r)/ nhấn âm 1; intangible /ɪnˈtændʒəbl/, original /əˈrɪdʒənl/, initiative /ɪˈnɪʃətɪv/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-P12",
+   "unit": 6,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "preservation",
+    "generation",
+    "community",
+    "competition"
+   ],
+   "answer": 2,
+   "explain": "community /kəˈmjuːnəti/ nhấn âm 2; preservation /ˌprezəˈveɪʃn/, generation /ˌdʒenəˈreɪʃn/, competition /ˌkɒmpəˈtɪʃn/ nhấn âm 3 (âm trước “-tion”).",
+   "review": "Lớp 11 · Unit 6 – Language, Pronunciation"
+  },
+  {
+   "id": "G11U6-E01",
+   "unit": 6,
+   "type": "error",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nTrang An <u>are</u> (A) the only place <u>in</u> (B) Southeast Asia <u>to be recognised</u> (C) as a <u>mixed</u> (D) heritage site.",
+   "options": [
+    "A. are",
+    "B. in",
+    "C. to be recognised",
+    "D. mixed"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: chủ ngữ “Trang An” là số ít → sửa “are” thành “is”.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-E02",
+   "unit": 6,
+   "type": "error",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nShe was <u>the last</u> (A) student <u>to leaving</u> (B) the museum, so she <u>had to</u> (C) close <u>the door</u> (D).",
+   "options": [
+    "A. the last",
+    "B. to leaving",
+    "C. had to",
+    "D. the door"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: mệnh đề to-infinitive sau “the last + danh từ” dùng “to + V nguyên mẫu” → sửa “to leaving” thành “to leave”.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-E03",
+   "unit": 6,
+   "type": "error",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMany young people <u>are</u> (A) interested <u>in</u> (B) <u>preserve</u> (C) traditional <u>craft villages</u> (D).",
+   "options": [
+    "A. are",
+    "B. in",
+    "C. preserve",
+    "D. craft villages"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: sau giới từ “in” động từ phải ở dạng V-ing → sửa “preserve” thành “preserving”.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-E04",
+   "unit": 6,
+   "type": "error",
+   "topic": "Preserving heritage",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nThe local authority has decided <u>to restore</u> (A) the old temple, <u>which</u> (B) was <u>badly</u> (C) <u>damage</u> (D) in the storm last year.",
+   "options": [
+    "A. to restore",
+    "B. which",
+    "C. badly",
+    "D. damage"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: câu bị động “was + V3” → sửa “damage” thành “damaged”.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-E05",
+   "unit": 6,
+   "type": "error",
+   "topic": "Preserving heritage",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\n<u>Preserve</u> (A) heritage sites is the responsibility <u>of</u> (B) <u>every</u> (C) citizen <u>in</u> (D) the country.",
+   "options": [
+    "A. Preserve",
+    "B. of",
+    "C. every",
+    "D. in"
+   ],
+   "answer": 0,
+   "explain": "Lỗi ở A: chủ ngữ là một hành động phải dùng danh động từ → sửa “Preserve” thành “Preserving”.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-E06",
+   "unit": 6,
+   "type": "error",
+   "topic": "Preserving heritage",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nWe should <u>raise</u> (A) people's <u>aware</u> (B) of the need <u>to protect</u> (C) historic <u>buildings</u> (D).",
+   "options": [
+    "A. raise",
+    "B. aware",
+    "C. to protect",
+    "D. buildings"
+   ],
+   "answer": 1,
+   "explain": "Lỗi ở B: sau sở hữu cách “people's” cần danh từ, collocation “raise awareness of” → sửa “aware” thành “awareness”.",
+   "review": "Lớp 11 · Unit 6 – Language, Vocabulary"
+  },
+  {
+   "id": "G11U6-E07",
+   "unit": 6,
+   "type": "error",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy Son Sanctuary is <u>one of</u> (A) <u>the most</u> (B) interesting <u>place</u> (C) <u>to visit</u> (D) in Quang Nam.",
+   "options": [
+    "A. one of",
+    "B. the most",
+    "C. place",
+    "D. to visit"
+   ],
+   "answer": 2,
+   "explain": "Lỗi ở C: sau “one of the + so sánh nhất” danh từ phải số nhiều → sửa “place” thành “places”.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-E08",
+   "unit": 6,
+   "type": "error",
+   "topic": "To-infinitive clauses",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nCa tru was the first Vietnamese art form <u>to be</u> (A) <u>listed</u> (B) as intangible heritage <u>in need of</u> (C) urgent <u>safeguard</u> (D).",
+   "options": [
+    "A. to be",
+    "B. listed",
+    "C. in need of",
+    "D. safeguard"
+   ],
+   "answer": 3,
+   "explain": "Lỗi ở D: cụm cố định “in need of urgent safeguarding” (cần bảo vệ khẩn cấp); sau tính từ “urgent” và giới từ “of” dùng danh động từ → sửa “safeguard” thành “safeguarding”.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture"
+  },
+  {
+   "id": "G11U6-R01",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nMr Lam was the first craftsman in the village who received the national award.",
+   "options": [
+    "Mr Lam was the first craftsman in the village to be received the national award.",
+    "Mr Lam was the first craftsman in the village received the national award.",
+    "Mr Lam was the first craftsman in the village to receive the national award.",
+    "Mr Lam was the first craftsman in the village to receiving the national award."
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề quan hệ chủ động sau “the first + danh từ” rút gọn thành “to + V”: “the first craftsman to receive”. Các phương án khác dùng bị động sai, thiếu “to” hoặc sai dạng động từ.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R02",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "To-infinitive clauses",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nLan was the only student in the class who submitted an idea to the competition.",
+   "options": [
+    "Lan was the only student in the class to be submitted an idea to the competition.",
+    "Lan wasn't the only student in the class to submit an idea to the competition.",
+    "Lan was the only student in the class to submit an idea to the competition.",
+    "Lan was the only student in the class to submitted an idea to the competition."
+   ],
+   "answer": 2,
+   "explain": "“the only student who submitted” → “the only student to submit” (chủ động). Phương án dùng “to be submitted” sai nghĩa bị động; “wasn't” đổi nghĩa; “to submitted” sai dạng.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R03",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Sentence transformation (review)",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt is necessary to preserve folk songs for future generations.",
+   "options": [
+    "Folk songs need to be preserved for future generations.",
+    "Folk songs needn't be preserved for future generations.",
+    "Folk songs need to preserve for future generations.",
+    "Future generations needed to preserve folk songs in the past."
+   ],
+   "answer": 0,
+   "explain": "“It is necessary to preserve…” = “Folk songs need to be preserved…” (bị động vì dân ca được bảo tồn). “needn't” trái nghĩa; “need to preserve” sai vì thiếu bị động; câu cuối đổi chủ thể và thời gian.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R04",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Sentence transformation (review)",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nPeople say that Trang An is one of the most beautiful places in Viet Nam.",
+   "options": [
+    "Trang An is said being one of the most beautiful places in Viet Nam.",
+    "Trang An is said to be one of the most beautiful places in Viet Nam.",
+    "Trang An said to be one of the most beautiful places in Viet Nam.",
+    "People are said that Trang An is one of the most beautiful places in Viet Nam."
+   ],
+   "answer": 1,
+   "explain": "Bị động kép với động từ tường thuật: S + is said + to V. Các phương án khác sai “being”, thiếu “is”, hoặc dùng sai chủ ngữ “People are said”.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R05",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Sentence transformation (review)",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThis is the most interesting museum I have ever visited.",
+   "options": [
+    "I have never visited a more interesting museum than this one.",
+    "I have visited a more interesting museum than this one before.",
+    "This museum is less interesting than the ones I have visited.",
+    "I have never visited such interesting museum before."
+   ],
+   "answer": 0,
+   "explain": "So sánh nhất + “ever” tương đương “never + so sánh hơn”. Hai phương án đầu sai nghĩa (có bảo tàng thú vị hơn); phương án cuối thiếu mạo từ “an” (such an interesting museum).",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R06",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Sentence transformation (review)",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIf we don't protect the old houses, they will disappear.",
+   "options": [
+    "Unless we don't protect the old houses, they will disappear.",
+    "Unless we protect the old houses, they will disappear.",
+    "If we protect the old houses, they will disappear.",
+    "Unless we protect the old houses, they won't disappear."
+   ],
+   "answer": 1,
+   "explain": "“If … not” = “Unless”. “Unless we don't” thừa phủ định; hai phương án còn lại làm sai nghĩa câu gốc.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R07",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "To-infinitive clauses",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe museum is the last building. It will be restored this year.",
+   "options": [
+    "The museum is the last building to restore this year.",
+    "The museum is the last building restoring this year.",
+    "The museum is the last building which restored this year.",
+    "The museum is the last building to be restored this year."
+   ],
+   "answer": 3,
+   "explain": "Toà nhà được trùng tu → bị động; sau “the last + danh từ” dùng “to be + V3”: “the last building to be restored”. Các phương án khác đều mang nghĩa chủ động sai.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-R08",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Relative clauses (review)",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nTrang An is a beautiful place. You can explore caves by boat there.",
+   "options": [
+    "Trang An is a beautiful place where you can explore caves by boat.",
+    "Trang An is a beautiful place which you can explore caves by boat.",
+    "Trang An is a beautiful place when you can explore caves by boat.",
+    "Trang An is a beautiful place, that you can explore caves by boat."
+   ],
+   "answer": 0,
+   "explain": "“there” chỉ nơi chốn → dùng “where”. “which” cần làm tân ngữ nhưng “explore” đã có “caves”; “when” chỉ thời gian; “that” không đứng sau dấu phẩy.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-R09",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Relative clauses (review)",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nWe visited Hue. It used to be the capital of Viet Nam.",
+   "options": [
+    "We visited Hue, that used to be the capital of Viet Nam.",
+    "We visited Hue, where used to be the capital of Viet Nam.",
+    "We visited Hue, which it used to be the capital of Viet Nam.",
+    "We visited Hue, which used to be the capital of Viet Nam."
+   ],
+   "answer": 3,
+   "explain": "Hue là danh từ riêng → mệnh đề không xác định, có dấu phẩy, dùng “which” làm chủ ngữ. “that” không dùng sau dấu phẩy; “where” không làm chủ ngữ; “which it” thừa chủ ngữ.",
+   "review": "Lớp 11 · Unit 6 – Language, Grammar"
+  },
+  {
+   "id": "G11U6-R10",
+   "unit": 6,
+   "type": "rewrite",
+   "topic": "Sentence transformation (review)",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nThe tourists didn't follow the rules. The cave was damaged.",
+   "options": [
+    "Although the tourists didn't follow the rules, the cave was damaged.",
+    "Because the tourists didn't follow the rules, the cave was damaged.",
+    "If the tourists hadn't followed the rules, the cave would have been damaged.",
+    "The tourists didn't follow the rules because the cave was damaged."
+   ],
+   "answer": 1,
+   "explain": "Quan hệ nguyên nhân – kết quả: vì du khách không tuân thủ quy định nên hang bị hư hại → “Because…”. “Although” sai quan hệ; câu điều kiện loại 3 làm đảo nghĩa; câu cuối đảo nguyên nhân và kết quả.",
+   "review": "Lớp 11 · Unit 6 – Looking Back"
+  },
+  {
+   "id": "G11U6-C01",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Protecting Trang An",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "recognised",
+    "known",
+    "noticed",
+    "realised"
+   ],
+   "answer": 0,
+   "explain": "“be recognised by UNESCO as…” = được UNESCO công nhận là… “known as” không đi với “by UNESCO”; “noticed” (để ý), “realised” (nhận ra) sai nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P1",
+   "blank": 1
+  },
+  {
+   "id": "G11U6-C02",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Protecting Trang An",
+   "level": 1,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "with",
+    "about",
+    "for",
+    "of"
+   ],
+   "answer": 2,
+   "explain": "Cụm cố định “be famous for something” = nổi tiếng về. Các giới từ khác không đi với “famous” theo nghĩa này.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P1",
+   "blank": 2
+  },
+  {
+   "id": "G11U6-C03",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "To-infinitive of purpose",
+   "level": 2,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "enjoyed",
+    "to enjoy",
+    "for enjoy",
+    "enjoys"
+   ],
+   "answer": 1,
+   "explain": "Chỉ mục đích dùng “to + V”: du khách đến đây để tận hưởng các chuyến đi thuyền. “for enjoy” sai (for + V-ing/danh từ); “enjoyed/enjoys” sai cấu trúc.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P1",
+   "blank": 3
+  },
+  {
+   "id": "G11U6-C04",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Relative clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "who",
+    "where",
+    "what",
+    "which"
+   ],
+   "answer": 3,
+   "explain": "Thay cho danh từ chỉ vật “strict rules”, sau dấu phẩy, làm chủ ngữ của “ban” → “which”. “who” chỉ người; “where” chỉ nơi chốn; “what” không dùng làm đại từ quan hệ sau danh từ.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P1",
+   "blank": 4
+  },
+  {
+   "id": "G11U6-C05",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Protecting Trang An",
+   "level": 2,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "rise",
+    "raise",
+    "arise",
+    "make"
+   ],
+   "answer": 1,
+   "explain": "Collocation “raise awareness of” = nâng cao nhận thức về. “rise” và “arise” là nội động từ, không có tân ngữ; “make awareness” không phải cụm từ đúng.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P1",
+   "blank": 5
+  },
+  {
+   "id": "G11U6-C06",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Keeping quan ho alive",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "taken",
+    "turned",
+    "put",
+    "passed"
+   ],
+   "answer": 3,
+   "explain": "“pass down from one generation to the next” = truyền từ thế hệ này sang thế hệ khác. “take/turn/put down” sai nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P2",
+   "blank": 6
+  },
+  {
+   "id": "G11U6-C07",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Relative clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "that"
+   ],
+   "answer": 2,
+   "explain": "Sau danh từ “The singers” là danh từ “performances” không có mạo từ → cần đại từ quan hệ sở hữu “whose” (những buổi biểu diễn của họ). “who, which, that” không chỉ sở hữu.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P2",
+   "blank": 7
+  },
+  {
+   "id": "G11U6-C08",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "To-infinitive clauses",
+   "level": 3,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "to list",
+    "to be listed",
+    "listing",
+    "be listed"
+   ],
+   "answer": 1,
+   "explain": "Sau “the first + danh từ” dùng to-infinitive; quan họ ĐƯỢC đưa vào danh sách → bị động “to be listed”. “to list, listing” chủ động; “be listed” thiếu “to”.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P2",
+   "blank": 8
+  },
+  {
+   "id": "G11U6-C09",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Linking words",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "However",
+    "Therefore",
+    "Moreover",
+    "As a result"
+   ],
+   "answer": 0,
+   "explain": "Câu trước nói quan họ được UNESCO ghi danh (tích cực), câu sau nói số người trẻ hát giỏi giảm (tiêu cực) → quan hệ tương phản “However”. “Therefore/As a result” chỉ kết quả; “Moreover” bổ sung ý.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P2",
+   "blank": 9
+  },
+  {
+   "id": "G11U6-C10",
+   "unit": 6,
+   "type": "cloze",
+   "topic": "Keeping quan ho alive",
+   "level": 3,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "introduce",
+    "include",
+    "involve",
+    "invite"
+   ],
+   "answer": 0,
+   "explain": "“introduce something to somebody” = giới thiệu cái gì tới ai: giới thiệu các bài hát tới nhiều khán giả hơn. “include” (bao gồm), “involve” (liên quan), “invite” (mời) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 6 – Communication & Culture",
+   "pid": "G11U6-P2",
+   "blank": 10
+  }
+ ]
+}

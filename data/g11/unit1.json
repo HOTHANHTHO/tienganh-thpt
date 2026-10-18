@@ -1,0 +1,1794 @@
+{
+ "grade": 11,
+ "unit": 1,
+ "name": "A Long and Healthy Life",
+ "src": "book",
+ "vocabTopics": [
+  "Health and fitness",
+  "A healthy lifestyle",
+  "Bacteria and viruses"
+ ],
+ "pron": "Strong and weak forms of auxiliary verbs",
+ "grammar": [
+  "Past simple vs. Present perfect"
+ ],
+ "notes": [
+  {
+   "kind": "grammar",
+   "title": "Past simple vs. Present perfect (Quá khứ đơn và Hiện tại hoàn thành)",
+   "page": 10,
+   "body": "1) QUÁ KHỨ ĐƠN (S + V2/V-ed; phủ định/nghi vấn dùng did): hành động đã bắt đầu và KẾT THÚC trong quá khứ, thường có thời gian xác định.\n• Dấu hiệu: yesterday, last week/month/year, ... ago, in 2020, when I was little.\n• Ví dụ (SGK): You did a great job yesterday. / We lived in Ha Noi when I was little. Now we live in Hai Phong.\n\n2) HIỆN TẠI HOÀN THÀNH (S + have/has + V3/V-ed): (a) việc bắt đầu trong quá khứ và VẪN CÒN tiếp diễn/ảnh hưởng đến hiện tại (thường với since, for, so far); (b) việc VỪA mới hoàn thành (just, recently); (c) trải nghiệm không nêu thời điểm (ever, never, before).\n• Dấu hiệu: since + mốc thời gian, for + khoảng thời gian, so far, just, recently, already, yet, ever, never, over the past few years, This is the first time ...\n• Ví dụ (SGK): You have done a great job so far. / We have just moved to Hai Phong. / I have exercised regularly for a year. I went swimming last weekend.\n\n3) Cấu trúc hay gặp: S + have/has + V3 + since + S + V2 (He has changed his lifestyle since he visited his grandfather). It's + khoảng thời gian + since + S + last + V2 = S + haven't/hasn't + V3 + for + khoảng thời gian.\n\nLỗi hay gặp: dùng hiện tại hoàn thành với thời gian xác định (*I have seen the doctor yesterday → I saw); dùng since + khoảng thời gian (*since three months → for three months); quên đổi V3 (*has suffer → has suffered)."
+  },
+  {
+   "kind": "pron",
+   "title": "Dạng mạnh và dạng yếu của trợ động từ",
+   "page": 9,
+   "body": "• Trợ động từ ĐẦU câu hỏi Yes/No KHÔNG nhận trọng âm → đọc dạng YẾU (nguyên âm thành /ə/): Do you ...? /də/ · Does she ...? /dəz/ · Can I ...? /kən/ · Could we ...? /kəd/ · Were they ...? /wə/ · Has he ...? /həz/ · Have you ...? /həv/ · Was it ...? /wəz/.\n• Trợ động từ CUỐI câu trả lời ngắn nhận trọng âm → đọc dạng MẠNH: I do /duː/ · She does /dʌz/ · You can /kæn/ · We could /kʊd/ · They were /wɜː(r)/ · He has /hæz/ · I have /hæv/ · It was /wɒz/.\n• Ví dụ (SGK): Have /həv/ you started working out again? – Yes, I have /hæv/. / Was /wəz/ it your grandfather who taught you? – Yes, it was /wɒz/.\n• Lưu ý: dạng phủ định rút gọn (can't, doesn't...) luôn đọc mạnh."
+  },
+  {
+   "kind": "vocab",
+   "title": "Collocation / cụm từ cần nhớ",
+   "page": 8,
+   "body": "• work out (tập thể dục) · give up bad habits (bỏ thói quen xấu) · stay up late (thức khuya) · be full of energy (tràn đầy năng lượng) · take regular exercise (tập đều đặn) · eat a balanced diet (ăn uống cân bằng) – tr. 8\n• receive treatment for ... (được điều trị) · build/improve your strength, muscle strength · suffer from + bệnh (headache, stress, heart disease) · examine a patient – tr. 10\n• life expectancy (tuổi thọ) · food labels, ingredients, nutrients, vitamins and minerals · fall asleep · give off blue light · electronic devices – tr. 11\n• do star jumps/press-ups/squats · run on the spot · burn fat · cut down on sugar – tr. 12–13\n• cause infectious diseases · treat infections with antibiotics · prevent the spread of diseases with vaccines · get rid of – tr. 16\n• Word family: fit (adj) – fitness (n); strong (adj) – strength (n); energy (n) – energetic (adj); infect (v) – infection (n) – infectious (adj); expect (v) – expectancy (n); repeat (v) – repetition (n) – repetitive (adj)."
+  },
+  {
+   "kind": "vocab",
+   "title": "Everyday English: Offering help and responding",
+   "page": 15,
+   "body": "• Đề nghị giúp: Can I give you a hand? · Can I help you with ...? · Let me help you with ... · Is there anything (else) I can do for you?\n• Nhận lời: That's very kind/nice of you. · Thanks for your help. · Thank you very much.\n• Từ chối lịch sự: Thanks, but I think I'm fine.\n• Trong đề thi giao tiếp, chọn câu đáp phù hợp chức năng: lời mời giúp → cảm ơn/nhận lời hoặc từ chối lịch sự, KHÔNG đáp bằng 'You're welcome' (câu đó dùng để đáp lại lời cảm ơn)."
+  },
+  {
+   "kind": "exam",
+   "title": "Mẹo làm bài",
+   "body": "• Chia thì: gạch chân dấu hiệu thời gian trước. Có mốc thời gian xác định trong quá khứ (yesterday, last..., ago, in + năm, when I was...) → quá khứ đơn; có since/for/so far/just/yet/ever/never/the first time → hiện tại hoàn thành.\n• Câu có 'since': mệnh đề chính dùng hiện tại hoàn thành, mệnh đề sau since dùng quá khứ đơn.\n• Viết lại câu: 'S + started/began + V-ing + ... ago' = 'S + have/has + V3 + for ...'; 'The last time S + V2 was ...' = 'S + haven't + V3 + since/for ...'; 'This is the first time S have/has V3' = 'S have/has never V3 before'.\n• Tìm lỗi sai: kiểm tra (1) thì so với trạng từ thời gian, (2) since/for, (3) dạng V3, (4) từ loại (strong/strength, energetic/energy, live/living).\n• Đọc điền từ: xem từ đi kèm trước/sau chỗ trống để nhận collocation (cut down on, give up, stay up late, the spread of diseases)."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "fit",
+   "pos": "adj",
+   "ipa": "/fɪt/",
+   "vi": "khỏe mạnh, cân đối (nhờ tập luyện)",
+   "ex": "You look so fit and healthy!",
+   "page": 8
+  },
+  {
+   "w": "work out",
+   "pos": "phr v",
+   "ipa": "/wɜːk ˈaʊt/",
+   "vi": "tập thể dục, rèn luyện thể lực",
+   "ex": "Have you started working out again?",
+   "page": 8
+  },
+  {
+   "w": "give up",
+   "pos": "phr v",
+   "ipa": "/ɡɪv ˈʌp/",
+   "vi": "từ bỏ",
+   "ex": "I've also stopped eating fast food and given up bad habits.",
+   "page": 8
+  },
+  {
+   "w": "bad habit",
+   "pos": "n phr",
+   "ipa": "/ˌbæd ˈhæbɪt/",
+   "vi": "thói quen xấu (có hại cho sức khỏe)",
+   "ex": "Staying up late is a bad habit.",
+   "page": 8
+  },
+  {
+   "w": "stay up late",
+   "pos": "phr",
+   "ipa": "/steɪ ʌp ˈleɪt/",
+   "vi": "thức khuya",
+   "ex": "In the past, Nam often stayed up late.",
+   "page": 8
+  },
+  {
+   "w": "full of energy",
+   "pos": "phr",
+   "ipa": "/fʊl əv ˈenədʒi/",
+   "vi": "tràn đầy năng lượng",
+   "ex": "He has just had his 90th birthday, but he's still full of energy!",
+   "page": 8
+  },
+  {
+   "w": "active",
+   "pos": "adj",
+   "ipa": "/ˈæktɪv/",
+   "vi": "năng động, hoạt động nhiều",
+   "ex": "How does he stay so active?",
+   "page": 8
+  },
+  {
+   "w": "regular exercise",
+   "pos": "n phr",
+   "ipa": "/ˌreɡjələr ˈeksəsaɪz/",
+   "vi": "việc tập thể dục đều đặn",
+   "ex": "Taking regular exercise is the key to a long and healthy life.",
+   "page": 8
+  },
+  {
+   "w": "balanced diet",
+   "pos": "n phr",
+   "ipa": "/ˌbælənst ˈdaɪət/",
+   "vi": "chế độ ăn cân bằng",
+   "ex": "Eating a balanced diet helps you stay healthy.",
+   "page": 8
+  },
+  {
+   "w": "treatment",
+   "pos": "n",
+   "ipa": "/ˈtriːtmənt/",
+   "vi": "sự điều trị, cách chữa trị",
+   "ex": "He is receiving treatment for his health problem.",
+   "page": 10
+  },
+  {
+   "w": "strength",
+   "pos": "n",
+   "ipa": "/streŋθ/",
+   "vi": "sức mạnh, thể lực",
+   "ex": "To build your strength, you can try lifting weights.",
+   "page": 10
+  },
+  {
+   "w": "muscle",
+   "pos": "n",
+   "ipa": "/ˈmʌsl/",
+   "vi": "cơ bắp",
+   "ex": "Regular exercise can help you improve your muscle strength.",
+   "page": 10
+  },
+  {
+   "w": "suffer (from)",
+   "pos": "v",
+   "ipa": "/ˈsʌfə(r)/",
+   "vi": "bị, chịu đựng (bệnh tật, đau đớn)",
+   "ex": "She suffered from a serious headache.",
+   "page": 10
+  },
+  {
+   "w": "examine",
+   "pos": "v",
+   "ipa": "/ɪɡˈzæmɪn/",
+   "vi": "khám (bệnh), kiểm tra kỹ",
+   "ex": "The doctor examined her carefully.",
+   "page": 10
+  },
+  {
+   "w": "life expectancy",
+   "pos": "n phr",
+   "ipa": "/ˈlaɪf ɪkspektənsi/",
+   "vi": "tuổi thọ trung bình",
+   "ex": "Life expectancy has generally increased over the past few decades.",
+   "page": 11
+  },
+  {
+   "w": "lifestyle",
+   "pos": "n",
+   "ipa": "/ˈlaɪfstaɪl/",
+   "vi": "lối sống",
+   "ex": "He has changed his lifestyle since he visited his grandfather.",
+   "page": 11
+  },
+  {
+   "w": "ingredient",
+   "pos": "n",
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "vi": "thành phần (của món ăn, sản phẩm)",
+   "ex": "Pay attention to the ingredients on food labels.",
+   "page": 11
+  },
+  {
+   "w": "nutrient",
+   "pos": "n",
+   "ipa": "/ˈnjuːtriənt/",
+   "vi": "chất dinh dưỡng",
+   "ex": "Plants and animals need nutrients to grow.",
+   "page": 11
+  },
+  {
+   "w": "vitamin",
+   "pos": "n",
+   "ipa": "/ˈvɪtəmɪn/",
+   "vi": "vi-ta-min",
+   "ex": "Fresh fruit is rich in vitamins.",
+   "page": 11
+  },
+  {
+   "w": "mineral",
+   "pos": "n",
+   "ipa": "/ˈmɪnərəl/",
+   "vi": "khoáng chất",
+   "ex": "Our bodies need vitamins and minerals.",
+   "page": 11
+  },
+  {
+   "w": "food label",
+   "pos": "n phr",
+   "ipa": "/ˈfuːd leɪbl/",
+   "vi": "nhãn thực phẩm",
+   "ex": "Start by looking at food labels.",
+   "page": 11
+  },
+  {
+   "w": "electronic device",
+   "pos": "n phr",
+   "ipa": "/ɪˌlekˈtrɒnɪk dɪˈvaɪs/",
+   "vi": "thiết bị điện tử",
+   "ex": "Turn off all your electronic devices at least 30 minutes before bed.",
+   "page": 11
+  },
+  {
+   "w": "fall asleep",
+   "pos": "phr",
+   "ipa": "/ˌfɔːl əˈsliːp/",
+   "vi": "ngủ thiếp đi, chìm vào giấc ngủ",
+   "ex": "If you still can't fall asleep, listen to some soft music.",
+   "page": 11
+  },
+  {
+   "w": "repetitive",
+   "pos": "adj",
+   "ipa": "/rɪˈpetətɪv/",
+   "vi": "lặp đi lặp lại",
+   "ex": "Do something repetitive to relax before trying to sleep again.",
+   "page": 11
+  },
+  {
+   "w": "routine",
+   "pos": "n",
+   "ipa": "/ruːˈtiːn/",
+   "vi": "thói quen hằng ngày; bài tập theo trình tự",
+   "ex": "Give instructions for an exercise routine.",
+   "page": 12
+  },
+  {
+   "w": "press-up",
+   "pos": "n",
+   "ipa": "/ˈpres ʌp/",
+   "vi": "động tác chống đẩy",
+   "ex": "You can develop your arm muscles by doing some press-ups.",
+   "page": 12
+  },
+  {
+   "w": "star jump",
+   "pos": "n",
+   "ipa": "/ˈstɑː dʒʌmp/",
+   "vi": "động tác bật nhảy dang tay chân (hình ngôi sao)",
+   "ex": "To do star jumps properly, you should follow four steps.",
+   "page": 12
+  },
+  {
+   "w": "squat",
+   "pos": "n",
+   "ipa": "/skwɒt/",
+   "vi": "động tác ngồi xổm (squat)",
+   "ex": "Do squats for 30 seconds.",
+   "page": 13
+  },
+  {
+   "w": "burn fat",
+   "pos": "phr",
+   "ipa": "/ˌbɜːn ˈfæt/",
+   "vi": "đốt mỡ",
+   "ex": "You can burn fat by doing this simple exercise routine.",
+   "page": 13
+  },
+  {
+   "w": "fitness",
+   "pos": "n",
+   "ipa": "/ˈfɪtnəs/",
+   "vi": "sự khỏe mạnh, thể lực tốt",
+   "ex": "Regular exercise can increase your fitness.",
+   "page": 13
+  },
+  {
+   "w": "cut down on",
+   "pos": "phr v",
+   "ipa": "/ˌkʌt ˈdaʊn ɒn/",
+   "vi": "cắt giảm",
+   "ex": "To stay healthy, you should cut down on sugar and fast food.",
+   "page": 13
+  },
+  {
+   "w": "treadmill",
+   "pos": "n",
+   "ipa": "/ˈtredmɪl/",
+   "vi": "máy chạy bộ",
+   "ex": "I want to change the speed on this treadmill.",
+   "page": 15
+  },
+  {
+   "w": "give sb a hand",
+   "pos": "idiom",
+   "ipa": "/ɡɪv ə ˈhænd/",
+   "vi": "giúp ai một tay",
+   "ex": "Can I give you a hand?",
+   "page": 15
+  },
+  {
+   "w": "bacteria",
+   "pos": "n (pl)",
+   "ipa": "/bækˈtɪəriə/",
+   "vi": "vi khuẩn",
+   "ex": "Bacteria can live in soil, water, and the human body.",
+   "page": 16
+  },
+  {
+   "w": "virus",
+   "pos": "n",
+   "ipa": "/ˈvaɪrəs/",
+   "vi": "vi-rút",
+   "ex": "Viruses are tiny germs that can make people sick.",
+   "page": 16
+  },
+  {
+   "w": "germ",
+   "pos": "n",
+   "ipa": "/dʒɜːm/",
+   "vi": "mầm bệnh, vi trùng",
+   "ex": "Wash your hands to kill germs.",
+   "page": 16
+  },
+  {
+   "w": "organism",
+   "pos": "n",
+   "ipa": "/ˈɔːɡənɪzəm/",
+   "vi": "sinh vật",
+   "ex": "Bacteria are living organisms.",
+   "page": 16
+  },
+  {
+   "w": "disease",
+   "pos": "n",
+   "ipa": "/dɪˈziːz/",
+   "vi": "bệnh, căn bệnh",
+   "ex": "Both bacteria and viruses can cause diseases.",
+   "page": 16
+  },
+  {
+   "w": "infectious",
+   "pos": "adj",
+   "ipa": "/ɪnˈfekʃəs/",
+   "vi": "(bệnh) truyền nhiễm, lây nhiễm",
+   "ex": "Some bacteria can cause infectious diseases such as tuberculosis.",
+   "page": 16
+  },
+  {
+   "w": "infection",
+   "pos": "n",
+   "ipa": "/ɪnˈfekʃn/",
+   "vi": "sự nhiễm trùng, sự lây nhiễm",
+   "ex": "Antibiotics are often used to treat infections caused by bacteria.",
+   "page": 16
+  },
+  {
+   "w": "antibiotic",
+   "pos": "n",
+   "ipa": "/ˌæntibaɪˈɒtɪk/",
+   "vi": "thuốc kháng sinh",
+   "ex": "Antibiotics cannot treat diseases caused by viruses.",
+   "page": 16
+  },
+  {
+   "w": "vaccine",
+   "pos": "n",
+   "ipa": "/ˈvæksiːn/",
+   "vi": "vắc-xin",
+   "ex": "Vaccines are often used to prevent the spread of diseases caused by viruses.",
+   "page": 16
+  },
+  {
+   "w": "food poisoning",
+   "pos": "n",
+   "ipa": "/ˈfuːd pɔɪzənɪŋ/",
+   "vi": "ngộ độc thực phẩm",
+   "ex": "Some bacteria can cause food poisoning.",
+   "page": 16
+  },
+  {
+   "w": "get rid of",
+   "pos": "phr",
+   "ipa": "/ɡet ˈrɪd əv/",
+   "vi": "loại bỏ, tống khứ",
+   "ex": "Scientists should find a way to get rid of them all!",
+   "page": 16
+  }
+ ],
+ "passages": [
+  {
+   "id": "G11U1-P1",
+   "title": "My grandmother's secret",
+   "text": "My grandmother turned 85 last month, and she is still full of (1) _____. People often ask her how she stays so active. Her answer is simple. When she was young, she (2) _____ in a rice field and walked everywhere. Today she no longer works, but she has kept many good habits. She gets up early, does some gentle exercise in the park and never stays (3) _____ late. She also eats a balanced diet with plenty of fresh fruit and vegetables, and she has cut down (4) _____ salt and sugar for years. Last year, the doctor examined her carefully and said that her heart and muscles were in excellent condition. Since then, she (5) _____ a short walk after dinner every evening with my grandfather. I think her lifestyle is the best lesson for my whole family, and I have decided to follow her example."
+  },
+  {
+   "id": "G11U1-P2",
+   "title": "Bacteria and viruses",
+   "text": "Many people think that bacteria and viruses are the same, but they are quite different. Bacteria are tiny living (6) _____ that can be found almost everywhere: in soil, in water and even inside our bodies. In fact, many of them are helpful because they help us digest food. However, some bacteria cause dangerous diseases, (7) _____ tuberculosis and food poisoning. Doctors usually treat these infections with antibiotics. Viruses are much smaller than bacteria, and they are not living things. They only become active (8) _____ they enter the cells of a living body. Antibiotics cannot kill viruses, so taking them for a cold or the flu is useless. Instead, scientists (9) _____ many vaccines to protect people against viral diseases over the past century. To stay safe, you should wash your hands often, eat healthy food and get vaccinated. These simple habits can help prevent the (10) _____ of infectious diseases in your community."
+  }
+ ],
+ "questions": [
+  {
+   "id": "G11U1-V01",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Health and fitness",
+   "level": 1,
+   "q": "Before giving any treatment, the doctor _____ the patient carefully.",
+   "options": [
+    "examined",
+    "suffered",
+    "recovered",
+    "infected"
+   ],
+   "answer": 0,
+   "explain": "examine (v): khám bệnh, kiểm tra kỹ. 'Trước khi điều trị, bác sĩ đã khám kỹ cho bệnh nhân.' suffer (phải đi với from + bệnh), recover (hồi phục – không có tân ngữ là bệnh nhân), infect (lây nhiễm) đều không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-V02",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Health and fitness",
+   "level": 1,
+   "q": "Lifting weights regularly will help you build your _____.",
+   "options": [
+    "treatment",
+    "strength",
+    "nutrient",
+    "disease"
+   ],
+   "answer": 1,
+   "explain": "build your strength: tăng cường sức mạnh/thể lực. treatment (sự điều trị), nutrient (chất dinh dưỡng), disease (bệnh) không đi với 'build' trong ngữ cảnh nâng tạ.",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-V03",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Health and fitness",
+   "level": 1,
+   "q": "Many elderly people _____ from heart disease and high blood pressure.",
+   "options": [
+    "examine",
+    "prevent",
+    "suffer",
+    "treat"
+   ],
+   "answer": 2,
+   "explain": "suffer from + bệnh: mắc, bị bệnh. examine, prevent, treat là ngoại động từ, không đi với giới từ 'from' theo nghĩa này.",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-V04",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 1,
+   "q": "To stay healthy, you should cut _____ on sugar and fast food.",
+   "options": [
+    "up",
+    "off",
+    "out",
+    "down"
+   ],
+   "answer": 3,
+   "explain": "cut down on sth: cắt giảm cái gì. 'cut up' (cắt nhỏ), 'cut off' (cắt đứt), 'cut out' (loại bỏ hẳn – không đi với 'on').",
+   "review": "Lớp 11 · Unit 1 – Listening (tr. 13)"
+  },
+  {
+   "id": "G11U1-V05",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 1,
+   "q": "My brother has started _____ out at the gym three times a week.",
+   "options": [
+    "working",
+    "taking",
+    "making",
+    "giving"
+   ],
+   "answer": 0,
+   "explain": "work out: tập thể dục, tập luyện thể lực. 'take out', 'make out', 'give out' mang nghĩa khác, không hợp với 'at the gym'.",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)"
+  },
+  {
+   "id": "G11U1-V06",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 1,
+   "q": "I've finally given _____ my bad habit of staying up late.",
+   "options": [
+    "in",
+    "up",
+    "out",
+    "away"
+   ],
+   "answer": 1,
+   "explain": "give up (a habit): từ bỏ thói quen. give in (chịu thua), give out (phân phát/cạn kiệt), give away (cho đi/tiết lộ).",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)"
+  },
+  {
+   "id": "G11U1-V07",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 2,
+   "q": "Eating a _____ diet and taking regular exercise are the key to a long and healthy life.",
+   "options": [
+    "balancing",
+    "balance",
+    "balanced",
+    "balancer"
+   ],
+   "answer": 2,
+   "explain": "Trước danh từ 'diet' cần tính từ: balanced diet (chế độ ăn cân bằng) – collocation cố định. balancing (V-ing), balance (n/v), balancer (n) đều không dùng.",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)"
+  },
+  {
+   "id": "G11U1-V08",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Health and fitness",
+   "level": 2,
+   "q": "Swimming is a great way to improve your physical _____.",
+   "options": [
+    "fit",
+    "fitted",
+    "fitly",
+    "fitness"
+   ],
+   "answer": 3,
+   "explain": "Sau tính từ 'physical' và tính từ sở hữu 'your' cần danh từ: fitness (sự khỏe mạnh, thể lực). fit là tính từ/động từ, fitted là quá khứ phân từ, fitly là trạng từ.",
+   "review": "Lớp 11 · Unit 1 – Listening (tr. 13)"
+  },
+  {
+   "id": "G11U1-V09",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 1,
+   "q": "Life _____ in Viet Nam has risen to about 74 years.",
+   "options": [
+    "expectancy",
+    "expectation",
+    "expected",
+    "expecting"
+   ],
+   "answer": 0,
+   "explain": "life expectancy: tuổi thọ trung bình (cụm danh từ cố định). expectation (sự mong đợi) không kết hợp với 'life' theo nghĩa này.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-V10",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 1,
+   "q": "Check the food label to see which _____ the product contains.",
+   "options": [
+    "muscles",
+    "ingredients",
+    "germs",
+    "treatments"
+   ],
+   "answer": 1,
+   "explain": "ingredients: các thành phần của thực phẩm, được ghi trên nhãn (food label). muscles (cơ bắp), germs (mầm bệnh), treatments (cách điều trị) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-V11",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Bacteria and viruses",
+   "level": 1,
+   "q": "Vaccines are used to prevent the _____ of diseases caused by viruses.",
+   "options": [
+    "strength",
+    "examination",
+    "spread",
+    "ingredient"
+   ],
+   "answer": 2,
+   "explain": "prevent the spread of diseases: ngăn chặn sự lây lan của bệnh. Các từ còn lại (sức mạnh, sự khám bệnh, thành phần) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-V12",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Bacteria and viruses",
+   "level": 2,
+   "q": "Some bacteria can cause _____ diseases such as tuberculosis.",
+   "options": [
+    "infect",
+    "infection",
+    "infected",
+    "infectious"
+   ],
+   "answer": 3,
+   "explain": "Trước danh từ 'diseases' cần tính từ mang nghĩa 'truyền nhiễm': infectious diseases. infect (v), infection (n); infected (bị nhiễm) dùng cho người/vết thương, không dùng cho 'diseases'.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-V13",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Bacteria and viruses",
+   "level": 1,
+   "q": "_____ are often used to treat infections caused by bacteria, but they do not work against viruses.",
+   "options": [
+    "Antibiotics",
+    "Vaccines",
+    "Vitamins",
+    "Minerals"
+   ],
+   "answer": 0,
+   "explain": "Antibiotics (thuốc kháng sinh) dùng để ĐIỀU TRỊ nhiễm khuẩn và không có tác dụng với vi-rút. Vaccines dùng để PHÒNG bệnh; vitamins, minerals là chất dinh dưỡng.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-V14",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 2,
+   "q": "Doctors advise us to <u>cut down on</u> salt to protect our hearts.\n(Choose the word CLOSEST in meaning to the underlined phrase.)",
+   "options": [
+    "increase",
+    "reduce",
+    "avoid completely",
+    "add"
+   ],
+   "answer": 1,
+   "explain": "cut down on = reduce (giảm bớt). increase và add mang nghĩa ngược lại; avoid completely (tránh hoàn toàn) mạnh hơn nghĩa 'cắt giảm'.",
+   "review": "Lớp 11 · Unit 1 – Listening (tr. 13)"
+  },
+  {
+   "id": "G11U1-V15",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 2,
+   "q": "Nam's grandfather is 90, but he is still very <u>active</u>.\n(Choose the word OPPOSITE in meaning to the underlined word.)",
+   "options": [
+    "energetic",
+    "lively",
+    "inactive",
+    "healthy"
+   ],
+   "answer": 2,
+   "explain": "active (năng động) trái nghĩa với inactive (ít vận động). energetic, lively gần nghĩa với active; healthy (khỏe mạnh) không phải từ trái nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)"
+  },
+  {
+   "id": "G11U1-V16",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 2,
+   "q": "If you still can't <u>fall asleep</u>, listen to some soft music to relax.\n(Choose the phrase CLOSEST in meaning to the underlined phrase.)",
+   "options": [
+    "wake up",
+    "stay awake",
+    "get up",
+    "start sleeping"
+   ],
+   "answer": 3,
+   "explain": "fall asleep = start sleeping (bắt đầu ngủ, ngủ thiếp đi). wake up (thức dậy), stay awake (thức), get up (ra khỏi giường) đều trái/khác nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-V17",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Bacteria and viruses",
+   "level": 1,
+   "q": "Bacteria are living _____, but viruses are not living things.",
+   "options": [
+    "organisms",
+    "devices",
+    "ingredients",
+    "labels"
+   ],
+   "answer": 0,
+   "explain": "living organisms: sinh vật sống. Vi khuẩn là sinh vật sống; devices (thiết bị), ingredients (thành phần), labels (nhãn) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-V18",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "Health and fitness",
+   "level": 1,
+   "q": "– Can I give you a _____ with those heavy bags?\n– That's very kind of you.",
+   "options": [
+    "arm",
+    "hand",
+    "finger",
+    "leg"
+   ],
+   "answer": 1,
+   "explain": "give sb a hand: giúp ai một tay (thành ngữ cố định). Các từ chỉ bộ phận cơ thể khác không tạo thành thành ngữ này.",
+   "review": "Lớp 11 · Unit 1 – Communication and Culture, Everyday English (tr. 15)"
+  },
+  {
+   "id": "G11U1-V19",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 2,
+   "q": "The screens of electronic devices give _____ blue light that can prevent you from sleeping well.",
+   "options": [
+    "up",
+    "in",
+    "off",
+    "away"
+   ],
+   "answer": 2,
+   "explain": "give off: tỏa ra, phát ra (ánh sáng, mùi, nhiệt). give up (từ bỏ), give in (chịu thua), give away (cho đi).",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-V20",
+   "unit": 1,
+   "type": "vocab",
+   "topic": "A healthy lifestyle",
+   "level": 3,
+   "q": "Doing a _____ activity, such as counting slowly, can help you relax and fall asleep.",
+   "options": [
+    "repetition",
+    "repeat",
+    "repeatedly",
+    "repetitive"
+   ],
+   "answer": 3,
+   "explain": "Giữa mạo từ 'a' và danh từ 'activity' cần tính từ: repetitive (lặp đi lặp lại). repetition, repeat là danh từ/động từ; repeatedly là trạng từ.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-G01",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "I _____ to the dentist last Monday.",
+   "options": [
+    "have gone",
+    "went",
+    "go",
+    "have been"
+   ],
+   "answer": 1,
+   "explain": "'last Monday' là thời điểm xác định trong quá khứ → quá khứ đơn: went. Hiện tại hoàn thành không dùng với thời gian xác định.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G02",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "We _____ healthy food since we read that article about heart disease.",
+   "options": [
+    "ate",
+    "eat",
+    "have eaten",
+    "were eating"
+   ],
+   "answer": 2,
+   "explain": "Mệnh đề chính có 'since + S + V2' → dùng hiện tại hoàn thành: have eaten (đã ăn từ đó đến nay).",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G03",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "My grandfather _____ his 90th birthday last week.",
+   "options": [
+    "has celebrated",
+    "celebrates",
+    "has been celebrating",
+    "celebrated"
+   ],
+   "answer": 3,
+   "explain": "'last week' → hành động đã xong ở thời điểm xác định trong quá khứ → quá khứ đơn: celebrated.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G04",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "She has just _____ a check-up at the hospital.",
+   "options": [
+    "had",
+    "has",
+    "have",
+    "having"
+   ],
+   "answer": 0,
+   "explain": "Hiện tại hoàn thành: has + V3. 'just' chỉ việc vừa mới xảy ra. V3 của have là had.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G05",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "– How long _____ a member of this gym?\n– For two years. I still go there every day.",
+   "options": [
+    "were you",
+    "have you been",
+    "are you",
+    "did you be"
+   ],
+   "answer": 1,
+   "explain": "Việc bắt đầu trong quá khứ và vẫn còn tiếp diễn (I still go there) + 'How long ... ? – For two years' → hiện tại hoàn thành: have you been. 'did you be' sai ngữ pháp.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G06",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "– When _____ you start working out?\n– Two months ago.",
+   "options": [
+    "have",
+    "do",
+    "did",
+    "are"
+   ],
+   "answer": 2,
+   "explain": "Câu hỏi 'When' hỏi thời điểm xác định, câu trả lời có 'ago' → quá khứ đơn: When did you start...? Không dùng hiện tại hoàn thành với 'When'.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G07",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Life expectancy _____ a lot over the past few decades.",
+   "options": [
+    "increased",
+    "increases",
+    "was increasing",
+    "has increased"
+   ],
+   "answer": 3,
+   "explain": "'over the past few decades' (trong vài thập kỷ qua – tính đến nay) là dấu hiệu của hiện tại hoàn thành: has increased.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-G08",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "I _____ a lot of fast food when I was a child, but now I prefer fresh vegetables.",
+   "options": [
+    "ate",
+    "have eaten",
+    "eat",
+    "have been eating"
+   ],
+   "answer": 0,
+   "explain": "'when I was a child' là khoảng thời gian đã kết thúc trong quá khứ → quá khứ đơn: ate.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G09",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "_____ you ever _____ from a serious illness?",
+   "options": [
+    "Did / suffered",
+    "Have / suffered",
+    "Have / suffer",
+    "Do / suffered"
+   ],
+   "answer": 1,
+   "explain": "Hỏi về trải nghiệm với 'ever' → hiện tại hoàn thành: Have you ever suffered...? Sau did/do phải là động từ nguyên mẫu; sau have phải là V3.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G10",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "This is the first time I _____ a vegetarian meal.",
+   "options": [
+    "tried",
+    "try",
+    "have tried",
+    "am trying"
+   ],
+   "answer": 2,
+   "explain": "Cấu trúc: This is the first time + S + have/has + V3 → have tried.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G11",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "She _____ any fast food so far this month.",
+   "options": [
+    "didn't eat",
+    "doesn't eat",
+    "wasn't eating",
+    "hasn't eaten"
+   ],
+   "answer": 3,
+   "explain": "'so far this month' (từ đầu tháng đến giờ) → hiện tại hoàn thành: hasn't eaten.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G12",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "My parents _____ in Ha Noi for ten years, but now they live in Hai Phong.",
+   "options": [
+    "lived",
+    "have lived",
+    "live",
+    "are living"
+   ],
+   "answer": 0,
+   "explain": "Việc sống ở Hà Nội đã KẾT THÚC (now they live in Hai Phong) → quá khứ đơn: lived, dù có 'for ten years'.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G13",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "– Is your sister better now?\n– Yes, the doctor _____ her treatment, and it is working well.",
+   "options": [
+    "changes",
+    "has changed",
+    "was changing",
+    "change"
+   ],
+   "answer": 1,
+   "explain": "Hành động trong quá khứ (đổi phương pháp điều trị) có kết quả ở hiện tại (it is working well) → hiện tại hoàn thành: has changed. 'change' sai hòa hợp chủ ngữ; 'changes', 'was changing' không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G14",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "We _____ each other since we joined the school football team in Grade 10.",
+   "options": [
+    "knew",
+    "know",
+    "have known",
+    "were knowing"
+   ],
+   "answer": 2,
+   "explain": "'since + S + V2' → mệnh đề chính dùng hiện tại hoàn thành: have known. 'know' là động từ trạng thái, không chia tiếp diễn.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G15",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Nam _____ up late every night last year, but he _____ that habit since the summer.",
+   "options": [
+    "has stayed / gave up",
+    "stayed / gave up",
+    "has stayed / has given up",
+    "stayed / has given up"
+   ],
+   "answer": 3,
+   "explain": "Vế 1 có 'last year' → quá khứ đơn (stayed); vế 2 có 'since the summer' → hiện tại hoàn thành (has given up).",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G16",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "It's two years since I last _____ a cold.",
+   "options": [
+    "had",
+    "have had",
+    "have",
+    "was having"
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc: It's + khoảng thời gian + since + S + last + V2 (quá khứ đơn) → had. ('Đã hai năm kể từ lần cuối tôi bị cảm.')",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G17",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "I haven't been to the gym _____ last month.",
+   "options": [
+    "for",
+    "since",
+    "ago",
+    "in"
+   ],
+   "answer": 1,
+   "explain": "'last month' là MỐC thời gian → dùng since. for + khoảng thời gian; ago dùng với quá khứ đơn và đứng sau khoảng thời gian.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G18",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 1,
+   "q": "She has worked as a nurse _____ five years.",
+   "options": [
+    "since",
+    "ago",
+    "for",
+    "at"
+   ],
+   "answer": 2,
+   "explain": "'five years' là KHOẢNG thời gian → dùng for với hiện tại hoàn thành.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-G19",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "– _____ the article about healthy habits yet?\n– Yes, I _____ it last night.",
+   "options": [
+    "Did you finish / have finished",
+    "Have you finished / have finished",
+    "Do you finish / finished",
+    "Have you finished / finished"
+   ],
+   "answer": 3,
+   "explain": "Câu hỏi với 'yet' → hiện tại hoàn thành (Have you finished...?); câu trả lời có 'last night' → quá khứ đơn (finished).",
+   "review": "Lớp 11 · Unit 1 – Looking Back, Grammar (tr. 17)"
+  },
+  {
+   "id": "G11U1-G20",
+   "unit": 1,
+   "type": "grammar",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "My grandmother is 95. She _____ seriously ill since she retired.",
+   "options": [
+    "has rarely been",
+    "was rarely",
+    "is rarely",
+    "rarely was"
+   ],
+   "answer": 0,
+   "explain": "'since she retired' → mệnh đề chính dùng hiện tại hoàn thành: has rarely been (hiếm khi bị ốm nặng kể từ khi nghỉ hưu).",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-P01",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Strong and weak forms of auxiliary verbs",
+   "level": 1,
+   "q": "Choose the correct pronunciation of the underlined auxiliary verb.\nMark: <u>Have</u> you started working out again?",
+   "options": [
+    "/hæv/",
+    "/hæz/",
+    "/həv/",
+    "/həz/"
+   ],
+   "answer": 2,
+   "explain": "'Have' đứng đầu câu hỏi Yes/No, không nhận trọng âm → đọc dạng yếu /həv/. /hæv/ là dạng mạnh; /hæz/, /həz/ là của 'has'.",
+   "review": "Lớp 11 · Unit 1 – Language, Pronunciation (tr. 9)"
+  },
+  {
+   "id": "G11U1-P02",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Strong and weak forms of auxiliary verbs",
+   "level": 1,
+   "q": "Choose the correct pronunciation of the underlined auxiliary verb.\nNam: Yes, I <u>have</u>.",
+   "options": [
+    "/həv/",
+    "/hæz/",
+    "/əv/",
+    "/hæv/"
+   ],
+   "answer": 3,
+   "explain": "'have' đứng cuối câu trả lời ngắn → nhận trọng âm, đọc dạng mạnh /hæv/.",
+   "review": "Lớp 11 · Unit 1 – Language, Pronunciation (tr. 9)"
+  },
+  {
+   "id": "G11U1-P03",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Strong and weak forms of auxiliary verbs",
+   "level": 2,
+   "q": "In which sentence is the underlined auxiliary verb pronounced in its STRONG form?",
+   "options": [
+    "Yes, she <u>does</u>.",
+    "<u>Does</u> she exercise every day?",
+    "<u>Can</u> you do this exercise routine?",
+    "<u>Were</u> they eating healthily?"
+   ],
+   "answer": 0,
+   "explain": "Trợ động từ ở cuối câu trả lời ngắn (Yes, she does.) đọc dạng mạnh /dʌz/. Ở đầu câu hỏi Yes/No, does/can/were đọc dạng yếu /dəz/, /kən/, /wə/.",
+   "review": "Lớp 11 · Unit 1 – Language, Pronunciation (tr. 9)"
+  },
+  {
+   "id": "G11U1-P04",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Strong and weak forms of auxiliary verbs",
+   "level": 2,
+   "q": "In which sentence is the underlined auxiliary verb pronounced in its WEAK form?",
+   "options": [
+    "Yes, it <u>was</u>.",
+    "<u>Was</u> it your grandfather who taught you?",
+    "Yes, he <u>can</u>.",
+    "Yes, they <u>were</u>."
+   ],
+   "answer": 1,
+   "explain": "'Was' ở đầu câu hỏi Yes/No đọc dạng yếu /wəz/. Ở cuối câu trả lời ngắn, was/can/were đọc dạng mạnh /wɒz/, /kæn/, /wɜː/.",
+   "review": "Lớp 11 · Unit 1 – Language, Pronunciation (tr. 9)"
+  },
+  {
+   "id": "G11U1-P05",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Vowel sounds: /e/ vs. /iː/ ('ea')",
+   "level": 1,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "h<u>ea</u>lthy",
+    "br<u>ea</u>kfast",
+    "tr<u>ea</u>tment",
+    "h<u>ea</u>dache"
+   ],
+   "answer": 2,
+   "explain": "treatment /ˈtriːtmənt/ – 'ea' đọc /iː/; healthy /ˈhelθi/, breakfast /ˈbrekfəst/, headache /ˈhedeɪk/ – 'ea' đọc /e/.",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-P06",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Pronunciation of -ed endings",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "examin<u>ed</u>",
+    "improv<u>ed</u>",
+    "suffer<u>ed</u>",
+    "work<u>ed</u>"
+   ],
+   "answer": 3,
+   "explain": "worked /wɜːkt/ – đuôi -ed đọc /t/ (sau âm vô thanh /k/); examined /ɪɡˈzæmɪnd/, improved /ɪmˈpruːvd/, suffered /ˈsʌfəd/ – đuôi -ed đọc /d/.",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-P07",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Vowel sounds: /ʌ/ vs. /juː/ ('u')",
+   "level": 2,
+   "q": "Choose the word whose underlined part is pronounced differently from the others.",
+   "options": [
+    "n<u>u</u>trient",
+    "m<u>u</u>scle",
+    "c<u>u</u>t",
+    "s<u>u</u>ffer"
+   ],
+   "answer": 0,
+   "explain": "nutrient /ˈnjuːtriənt/ – 'u' đọc /juː/; muscle /ˈmʌsl/, cut /kʌt/, suffer /ˈsʌfə(r)/ – 'u' đọc /ʌ/.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-P08",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "treatment",
+    "examine",
+    "muscle",
+    "vitamin"
+   ],
+   "answer": 1,
+   "explain": "examine /ɪɡˈzæmɪn/ nhấn âm 2; treatment /ˈtriːtmənt/, muscle /ˈmʌsl/, vitamin /ˈvɪtəmɪn/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-P09",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "nutrient",
+    "mineral",
+    "bacteria",
+    "lifestyle"
+   ],
+   "answer": 2,
+   "explain": "bacteria /bækˈtɪəriə/ nhấn âm 2; nutrient /ˈnjuːtriənt/, mineral /ˈmɪnərəl/, lifestyle /ˈlaɪfstaɪl/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-P10",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "infection",
+    "ingredient",
+    "repetitive",
+    "organism"
+   ],
+   "answer": 3,
+   "explain": "organism /ˈɔːɡənɪzəm/ nhấn âm 1; infection /ɪnˈfekʃn/, ingredient /ɪnˈɡriːdiənt/, repetitive /rɪˈpetətɪv/ nhấn âm 2.",
+   "review": "Lớp 11 · Unit 1 – Reading (tr. 11)"
+  },
+  {
+   "id": "G11U1-P11",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 1,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "routine",
+    "fitness",
+    "habit",
+    "diet"
+   ],
+   "answer": 0,
+   "explain": "routine /ruːˈtiːn/ nhấn âm 2; fitness /ˈfɪtnəs/, habit /ˈhæbɪt/, diet /ˈdaɪət/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 1 – Speaking (tr. 12)"
+  },
+  {
+   "id": "G11U1-P12",
+   "unit": 1,
+   "type": "pron",
+   "topic": "Word stress",
+   "level": 2,
+   "q": "Choose the word that differs from the others in the position of primary stress.",
+   "options": [
+    "energy",
+    "infectious",
+    "exercise",
+    "poisoning"
+   ],
+   "answer": 1,
+   "explain": "infectious /ɪnˈfekʃəs/ nhấn âm 2; energy /ˈenədʒi/, exercise /ˈeksəsaɪz/, poisoning /ˈpɔɪzənɪŋ/ nhấn âm 1.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-E01",
+   "unit": 1,
+   "type": "error",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy grandfather <u>has visited</u> (A) the doctor <u>last</u> (B) Monday <u>because</u> (C) he <u>had</u> (D) a bad headache.",
+   "options": [
+    "A. has visited",
+    "B. last",
+    "C. because",
+    "D. had"
+   ],
+   "answer": 0,
+   "explain": "'last Monday' là thời điểm xác định trong quá khứ → dùng quá khứ đơn. Sửa: has visited → visited.",
+   "review": "Lớp 11 · Unit 1 – Looking Back, Grammar (tr. 17)"
+  },
+  {
+   "id": "G11U1-E02",
+   "unit": 1,
+   "type": "error",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nShe <u>has worked</u> (A) out regularly <u>since</u> (B) three months, and she <u>looks</u> (C) much <u>fitter</u> (D) now.",
+   "options": [
+    "A. has worked",
+    "B. since",
+    "C. looks",
+    "D. fitter"
+   ],
+   "answer": 1,
+   "explain": "'three months' là khoảng thời gian → dùng for, không dùng since. Sửa: since → for.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-E03",
+   "unit": 1,
+   "type": "error",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nWhen I <u>was</u> (A) a child, I <u>often</u> (B) <u>have stayed</u> (C) up late <u>playing</u> (D) computer games.",
+   "options": [
+    "A. was",
+    "B. often",
+    "C. have stayed",
+    "D. playing"
+   ],
+   "answer": 2,
+   "explain": "'When I was a child' là quá khứ đã kết thúc → quá khứ đơn. Sửa: have stayed → stayed.",
+   "review": "Lớp 11 · Unit 1 – Looking Back, Grammar (tr. 17)"
+  },
+  {
+   "id": "G11U1-E04",
+   "unit": 1,
+   "type": "error",
+   "topic": "Health and fitness",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nRegular exercise <u>can</u> (A) help you <u>build</u> (B) your <u>muscles</u> (C) and improve your <u>strong</u> (D).",
+   "options": [
+    "A. can",
+    "B. build",
+    "C. muscles",
+    "D. strong"
+   ],
+   "answer": 3,
+   "explain": "Sau tính từ sở hữu 'your' cần danh từ. Sửa: strong (adj) → strength (n).",
+   "review": "Lớp 11 · Unit 1 – Language, Vocabulary (tr. 10)"
+  },
+  {
+   "id": "G11U1-E05",
+   "unit": 1,
+   "type": "error",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nHe <u>has had</u> (A) a check-up two weeks <u>ago</u> (B), and the doctor <u>said</u> (C) he was <u>healthy</u> (D).",
+   "options": [
+    "A. has had",
+    "B. ago",
+    "C. said",
+    "D. healthy"
+   ],
+   "answer": 0,
+   "explain": "'two weeks ago' → quá khứ đơn, không dùng hiện tại hoàn thành. Sửa: has had → had.",
+   "review": "Lớp 11 · Unit 1 – Looking Back, Grammar (tr. 17)"
+  },
+  {
+   "id": "G11U1-E06",
+   "unit": 1,
+   "type": "error",
+   "topic": "Bacteria and viruses",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nViruses <u>are</u> (A) not <u>life</u> (B) things, so they <u>need</u> (C) to enter our bodies to <u>become</u> (D) active.",
+   "options": [
+    "A. are",
+    "B. life",
+    "C. need",
+    "D. become"
+   ],
+   "answer": 1,
+   "explain": "Trước danh từ 'things' cần tính từ: living things (sinh vật sống). 'life' là danh từ, không bổ nghĩa cho 'things' theo nghĩa này. Sửa: life → living.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)"
+  },
+  {
+   "id": "G11U1-E07",
+   "unit": 1,
+   "type": "error",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Find the underlined part that needs correction.\nMy grandmother <u>is</u> (A) 80, but she <u>has</u> (B) never <u>suffer</u> (C) from any <u>serious</u> (D) illness.",
+   "options": [
+    "A. is",
+    "B. has",
+    "C. suffer",
+    "D. serious"
+   ],
+   "answer": 2,
+   "explain": "Hiện tại hoàn thành: has + V3. Sửa: suffer → suffered.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-E08",
+   "unit": 1,
+   "type": "error",
+   "topic": "A healthy lifestyle",
+   "level": 3,
+   "q": "Find the underlined part that needs correction.\nSince he <u>started</u> (A) eating healthy food, he <u>has lost</u> (B) five kilos and <u>feels</u> (C) full of <u>energetic</u> (D).",
+   "options": [
+    "A. started",
+    "B. has lost",
+    "C. feels",
+    "D. energetic"
+   ],
+   "answer": 3,
+   "explain": "Cụm cố định 'full of + danh từ': full of energy. Sửa: energetic (adj) → energy (n).",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)"
+  },
+  {
+   "id": "G11U1-R01",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nI started doing yoga two years ago.",
+   "options": [
+    "I did yoga for two years.",
+    "I haven't done yoga for two years.",
+    "I have started doing yoga since two years.",
+    "I have done yoga for two years."
+   ],
+   "answer": 3,
+   "explain": "S + started + V-ing + khoảng thời gian + ago = S + have/has + V3 + for + khoảng thời gian (việc vẫn tiếp diễn). 'I did yoga for two years' nghĩa là đã thôi tập; câu phủ định sai nghĩa; 'since two years' sai giới từ.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R02",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThe last time I ate fast food was three months ago.",
+   "options": [
+    "I haven't eaten fast food for three months.",
+    "I have eaten fast food for three months.",
+    "I didn't eat fast food three months ago.",
+    "I haven't eaten fast food since three months."
+   ],
+   "answer": 0,
+   "explain": "The last time + S + V2 + was + khoảng thời gian + ago = S + haven't/hasn't + V3 + for + khoảng thời gian. 'since three months' sai (since + mốc thời gian); hai câu còn lại ngược nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R03",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nThis is the first time she has visited a fitness centre.",
+   "options": [
+    "She has visited a fitness centre many times before.",
+    "She has never visited a fitness centre before.",
+    "She visited a fitness centre for the first time before.",
+    "She didn't visit a fitness centre the first time."
+   ],
+   "answer": 1,
+   "explain": "This is the first time + S + have/has + V3 = S + have/has + never + V3 + before ('Trước đây cô ấy chưa từng đến trung tâm thể hình'). Các câu còn lại sai nghĩa hoặc vô nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R04",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nMy father hasn't smoked since 2020.",
+   "options": [
+    "My father started smoking in 2020.",
+    "My father has smoked since 2020.",
+    "My father gave up smoking in 2020.",
+    "My father gave up to smoke in 2020."
+   ],
+   "answer": 2,
+   "explain": "'Bố tôi không hút thuốc từ năm 2020' = 'Bố tôi bỏ thuốc vào năm 2020'. give up + V-ing (không dùng to V); hai câu còn lại ngược nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R05",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nIt's ages since we last went jogging together.",
+   "options": [
+    "We have gone jogging together for ages.",
+    "We last went jogging together since ages.",
+    "We didn't go jogging together ages ago.",
+    "We haven't gone jogging together for ages."
+   ],
+   "answer": 3,
+   "explain": "It's + khoảng thời gian + since + S + last + V2 = S + haven't/hasn't + V3 + for + khoảng thời gian ('Đã lâu lắm rồi chúng tôi không chạy bộ cùng nhau').",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R06",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that is closest in meaning to the given sentence.\nHow long has Nam been a member of the football club?",
+   "options": [
+    "When did Nam become a member of the football club?",
+    "When has Nam become a member of the football club?",
+    "How long ago did Nam leave the football club?",
+    "When was Nam a member of the football club?"
+   ],
+   "answer": 0,
+   "explain": "How long + have/has + S + V3 ...? (Nam là thành viên được bao lâu rồi) = When did + S + V ...? (Nam trở thành thành viên khi nào). Không dùng hiện tại hoàn thành với 'When'; hai câu còn lại sai nghĩa (rời câu lạc bộ / từng là thành viên trong quá khứ).",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R07",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nMy grandfather started exercising every morning ten years ago. He still does it.",
+   "options": [
+    "My grandfather exercised every morning for ten years.",
+    "My grandfather has exercised every morning for ten years.",
+    "My grandfather has exercised every morning since ten years.",
+    "My grandfather has stopped exercising every morning for ten years."
+   ],
+   "answer": 1,
+   "explain": "Bắt đầu trong quá khứ và vẫn còn tiếp diễn → hiện tại hoàn thành + for + khoảng thời gian. Quá khứ đơn hàm ý đã thôi; 'since ten years' sai; 'has stopped' ngược nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R08",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Choose the sentence that best combines each pair of sentences.\nShe suffered from a bad cold last week. She is fine now.",
+   "options": [
+    "She has suffered from a bad cold since last week, so she is fine now.",
+    "Because she suffered from a bad cold last week, she is fine now.",
+    "Although she suffered from a bad cold last week, she is fine now.",
+    "She suffered from a bad cold last week, so she is still ill now."
+   ],
+   "answer": 2,
+   "explain": "Hai câu có quan hệ tương phản (bị cảm tuần trước – giờ đã khỏe) → dùng Although. 'Because', 'so' sai quan hệ logic; 'has suffered since last week' nghĩa là vẫn đang ốm, mâu thuẫn với 'fine now'.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R09",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nNam gave up fast food. Since then, he has become much fitter.",
+   "options": [
+    "Nam became much fitter before he gave up fast food.",
+    "Nam gave up fast food because he has become much fitter.",
+    "Nam had become much fitter until he gave up fast food.",
+    "Nam has become much fitter since he gave up fast food."
+   ],
+   "answer": 3,
+   "explain": "Cấu trúc: S + have/has + V3 + since + S + V2 ('Nam khỏe hơn nhiều kể từ khi bỏ đồ ăn nhanh'). Các câu còn lại sai trình tự thời gian hoặc sai quan hệ nguyên nhân – kết quả.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-R10",
+   "unit": 1,
+   "type": "rewrite",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the sentence that best combines each pair of sentences.\nI have never tried yoga before. I am trying it now.",
+   "options": [
+    "This is the first time I have tried yoga.",
+    "This is the first time I tried yoga.",
+    "I have tried yoga many times before.",
+    "It was the first time I have tried yoga."
+   ],
+   "answer": 0,
+   "explain": "Cấu trúc: This is the first time + S + have/has + V3. 'This is the first time I tried' sai thì; 'It was the first time' không hợp với hiện tại hoàn thành; 'many times before' ngược nghĩa.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)"
+  },
+  {
+   "id": "G11U1-C01",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "A healthy lifestyle",
+   "level": 2,
+   "q": "Choose the best option for blank (1).",
+   "options": [
+    "energetic",
+    "energy",
+    "energize",
+    "energetically"
+   ],
+   "answer": 1,
+   "explain": "Cụm cố định 'full of + danh từ': full of energy (tràn đầy năng lượng). energetic (adj), energize (v), energetically (adv) không đứng sau 'of'.",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)",
+   "pid": "G11U1-P1",
+   "blank": 1
+  },
+  {
+   "id": "G11U1-C02",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Past simple vs. Present perfect",
+   "level": 2,
+   "q": "Choose the best option for blank (2).",
+   "options": [
+    "worked",
+    "has worked",
+    "works",
+    "is working"
+   ],
+   "answer": 0,
+   "explain": "'When she was young' là quá khứ đã kết thúc → quá khứ đơn: worked.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)",
+   "pid": "G11U1-P1",
+   "blank": 2
+  },
+  {
+   "id": "G11U1-C03",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "A healthy lifestyle",
+   "level": 1,
+   "q": "Choose the best option for blank (3).",
+   "options": [
+    "down",
+    "off",
+    "on",
+    "up"
+   ],
+   "answer": 3,
+   "explain": "stay up late: thức khuya (cụm cố định). 'stay down', 'stay off', 'stay on' không kết hợp với 'late' theo nghĩa này.",
+   "review": "Lớp 11 · Unit 1 – Getting Started (tr. 8)",
+   "pid": "G11U1-P1",
+   "blank": 3
+  },
+  {
+   "id": "G11U1-C04",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "A healthy lifestyle",
+   "level": 3,
+   "q": "Choose the best option for blank (4).",
+   "options": [
+    "off",
+    "with",
+    "on",
+    "from"
+   ],
+   "answer": 2,
+   "explain": "cut down on sth: cắt giảm cái gì (phrasal verb 3 thành phần).",
+   "review": "Lớp 11 · Unit 1 – Listening (tr. 13)",
+   "pid": "G11U1-P1",
+   "blank": 4
+  },
+  {
+   "id": "G11U1-C05",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the best option for blank (5).",
+   "options": [
+    "took",
+    "has taken",
+    "takes",
+    "was taking"
+   ],
+   "answer": 1,
+   "explain": "'Since then' (kể từ đó đến nay) → hiện tại hoàn thành: has taken.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)",
+   "pid": "G11U1-P1",
+   "blank": 5
+  },
+  {
+   "id": "G11U1-C06",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Bacteria and viruses",
+   "level": 2,
+   "q": "Choose the best option for blank (6).",
+   "options": [
+    "organisms",
+    "devices",
+    "nutrients",
+    "labels"
+   ],
+   "answer": 0,
+   "explain": "living organisms: sinh vật sống. Vi khuẩn là sinh vật sống; các từ còn lại (thiết bị, chất dinh dưỡng, nhãn) không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)",
+   "pid": "G11U1-P2",
+   "blank": 6
+  },
+  {
+   "id": "G11U1-C07",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Bacteria and viruses",
+   "level": 2,
+   "q": "Choose the best option for blank (7).",
+   "options": [
+    "as such",
+    "so that",
+    "such that",
+    "such as"
+   ],
+   "answer": 3,
+   "explain": "such as + danh từ: chẳng hạn như (dùng để nêu ví dụ). as such (như vậy), so that (để mà), such that (đến mức mà) không đi trước danh từ để liệt kê ví dụ.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)",
+   "pid": "G11U1-P2",
+   "blank": 7
+  },
+  {
+   "id": "G11U1-C08",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Bacteria and viruses",
+   "level": 3,
+   "q": "Choose the best option for blank (8).",
+   "options": [
+    "although",
+    "unless",
+    "when",
+    "so"
+   ],
+   "answer": 2,
+   "explain": "'Chúng chỉ trở nên hoạt động KHI xâm nhập vào tế bào của cơ thể sống' → when. although (mặc dù), unless (trừ khi), so (vì vậy) không hợp logic.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)",
+   "pid": "G11U1-P2",
+   "blank": 8
+  },
+  {
+   "id": "G11U1-C09",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Past simple vs. Present perfect",
+   "level": 3,
+   "q": "Choose the best option for blank (9).",
+   "options": [
+    "develop",
+    "have developed",
+    "are developing",
+    "had developed"
+   ],
+   "answer": 1,
+   "explain": "'over the past century' (trong thế kỷ qua – tính đến nay) → hiện tại hoàn thành: have developed.",
+   "review": "Lớp 11 · Unit 1 – Language, Grammar (tr. 10)",
+   "pid": "G11U1-P2",
+   "blank": 9
+  },
+  {
+   "id": "G11U1-C10",
+   "unit": 1,
+   "type": "cloze",
+   "topic": "Bacteria and viruses",
+   "level": 2,
+   "q": "Choose the best option for blank (10).",
+   "options": [
+    "spread",
+    "treatment",
+    "strength",
+    "examination"
+   ],
+   "answer": 0,
+   "explain": "prevent the spread of diseases: ngăn chặn sự lây lan của bệnh. Các từ còn lại không hợp nghĩa.",
+   "review": "Lớp 11 · Unit 1 – CLIL (tr. 16)",
+   "pid": "G11U1-P2",
+   "blank": 10
+  }
+ ]
+}
