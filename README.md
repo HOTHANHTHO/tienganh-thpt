@@ -36,6 +36,8 @@ Nút 🔊 dùng giọng đọc tiếng Anh có sẵn của Windows/trình duyệ
 - **Flashcard từ vựng** — chọn Unit, chiều thẻ, chỉ từ chưa thuộc. Phím: Space lật, ← → chuyển thẻ, K đã thuộc, P nghe.
 - **Luyện tập** — chọn Unit, dạng bài, mức độ, ưu tiên câu chưa làm / đã sai. Biết đúng sai ngay.
 - **Kiểm tra có giờ** — cả năm / HK I (Unit 1–5) / HK II (Unit 6–10) / cụm Review / từng Unit; đề ~25% từ vựng, 25% ngữ pháp, 15% phát âm, 10% tìm lỗi sai, 12,5% câu đồng nghĩa, phần điền đoạn văn đặt cuối đề.
+- **Thi thử tổng hợp lớp 10 – 11 – 12** (trang chủ) — chọn lớp tham gia; đề 40 câu – 50 phút (thời lượng như thi tốt nghiệp), đề rút gọn 20 câu, đề dài 60 câu hoặc tự chọn dạng bài/số câu/thời gian. Câu rải đều các Unit của các lớp, phần điền đoạn văn đặt cuối đề, chấm thang 10.
+- **Tiến độ & thống kê tổng hợp** — tiến độ từng lớp theo dạng bài và Unit, Unit cần ôn nhất, lịch sử mọi lần thi, câu hay sai nhất, luyện lại câu đang sai, xoá tiến độ cả 3 lớp.
 - **Tiến độ & thống kê** — theo từng lớp: tỉ lệ đúng Unit × dạng bài, câu hay sai, lịch sử kiểm tra, xoá tiến độ của lớp.
 
 Tiến độ lưu trong `localStorage` (khoá `tathpt_v1`), chỉ trên máy/trình duyệt đang dùng.

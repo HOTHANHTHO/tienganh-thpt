@@ -124,7 +124,7 @@
 
   /* =================== TRANG CHỦ =================== */
   function home() {
-    stopTimer(); setKeys(null);
+    stopTimer(); setKeys(null); setGrade(G);
     const answered = QS.filter(q => S.ans[q.id]).length;
     let html = '<div class="gradetabs">' + GRADES.map(g => '<button class="gt' + (g === G ? ' on' : '') + '" data-g="' + g + '"><b>Lớp ' + g + '</b><small>' +
       ALLQ.filter(q => q.g === g).length + ' câu</small></button>').join('') + '</div>' +
@@ -136,6 +136,9 @@
       mode('exam', '⏱️', 'Kiểm tra có giờ', 'Đề trộn theo HK I, HK II, cụm Review hoặc từng Unit; nộp bài mới xem đáp án.') +
       mode('stats', '📊', 'Tiến độ & thống kê', 'Tỉ lệ đúng theo Unit và dạng bài, câu hay sai, lịch sử kiểm tra.') +
       '</div>';
+    html += '<h2>Tổng hợp lớp 10 – 11 – 12</h2><div class="grid">' +
+      mode('cexam', '🎯', 'Thi thử tổng hợp', 'Đề rút từ kiến thức cả 3 lớp (chọn lớp tham gia): đề 40 câu – 50 phút như thời lượng thi tốt nghiệp, đề rút gọn hoặc tự chọn; chấm thang 10.') +
+      mode('cstats', '📈', 'Tiến độ & thống kê tổng hợp', 'Tiến độ từng lớp, tỉ lệ đúng theo dạng bài và Unit, lịch sử mọi lần thi, câu hay sai nhất.') + '</div>';
     GT.groups.forEach(t => {
       html += '<div class="theme-h">' + esc(t.name) + '</div><div class="unitgrid">';
       t.units.forEach(n => {
@@ -152,7 +155,7 @@
     });
     h(html);
     app.querySelectorAll('.gt').forEach(b => b.onclick = () => { setGrade(+b.dataset.g); home(); });
-    app.querySelectorAll('.mode').forEach(b => b.onclick = () => ({ flash: flashSetup, practice: practiceSetup, exam: examSetup, stats: stats })[b.dataset.m]());
+    app.querySelectorAll('.mode').forEach(b => b.onclick = () => ({ flash: flashSetup, practice: practiceSetup, exam: examSetup, stats: stats, cexam: comboExamSetup, cstats: comboStats })[b.dataset.m]());
     app.querySelectorAll('[data-a]').forEach(b => b.onclick = () => {
       const n = +b.dataset.u;
       if (b.dataset.a === 'vlist') vocabList(n);
@@ -396,31 +399,44 @@
   }
 
   /* =================== KIỂM TRA CÓ GIỜ =================== */
-  function buildPaper(units, nq) {
-    const pool = QS.filter(q => units.includes(q.unit));
+  // Rút đề từ pool: chia số câu theo tỉ lệ dạng bài, rải đều các Unit (khoá k = lớp*100 + unit),
+  // điền đoạn văn lấy nguyên đoạn (bội số 5) và đặt cuối đề.
+  function pickPaper(pool, nq, types) {
+    types = types || TYPES;
+    const keys = [...new Set(pool.map(q => q.k))].sort((a, b) => a - b);
+    const ratio = {}; let tot = 0; types.forEach(t => tot += EXAM_RATIO[t]); types.forEach(t => ratio[t] = EXAM_RATIO[t] / tot);
     const want = {}; let sum = 0;
-    TYPES.forEach(t => { want[t] = Math.round(nq * EXAM_RATIO[t]); sum += want[t]; });
-    // điền đoạn văn đi theo cả đoạn (5 chỗ trống) nên làm tròn bội số 5
-    const cz = Math.max(5, 5 * Math.round(nq * EXAM_RATIO.cloze / 5)); sum += cz - want.cloze; want.cloze = cz;
-    want.vocab += nq - sum;
+    types.forEach(t => { want[t] = Math.round(nq * ratio[t]); sum += want[t]; });
+    if (types.includes('cloze')) { const cz = Math.max(5, 5 * Math.round(nq * ratio.cloze / 5)); sum += cz - want.cloze; want.cloze = cz; }
+    // bù/trừ phần chênh vào các dạng lớn nhất, luân phiên
+    const big = types.filter(t => t !== 'cloze').sort((a, b) => want[b] - want[a]);
+    if (!big.length) want.cloze = Math.max(5, 5 * Math.round(nq / 5));
+    for (let i = 0; big.length && sum !== nq; i++) { const t = big[i % big.length], d = sum > nq ? -1 : 1; if (d < 0 && want[t] <= 1) continue; want[t] += d; sum += d; if (i > 1000) break; }
     let paper = [];
-    TYPES.filter(t => t !== 'cloze').forEach(t => {
-      const byU = units.map(n => shuffle(pool.filter(q => q.unit === n && q.type === t)));
-      let k = 0; const got = [];
-      while (got.length < want[t] && byU.some(a => a.length)) { const a = byU[k % byU.length]; if (a.length) got.push(a.pop()); k++; }
+    // thứ tự Unit xen kẽ giữa các lớp để đề trải đều các lớp; các dạng bài nối tiếp vòng quay
+    const byG = {}; shuffle(keys).forEach(k => (byG[Math.floor(k / 100)] = byG[Math.floor(k / 100)] || []).push(k));
+    const gl = shuffle(Object.keys(byG)), order = [];
+    for (let r = 0; order.length < keys.length; r++) gl.forEach(g => { if (byG[g][r] !== undefined) order.push(byG[g][r]); });
+    let i = 0;
+    types.filter(t => t !== 'cloze').forEach(t => {
+      const byU = order.map(k => shuffle(pool.filter(q => q.k === k && q.type === t)));
+      const got = []; let guard = 0;
+      while (got.length < want[t] && byU.some(a => a.length) && guard++ < 100000) { const a = byU[i % byU.length]; if (a.length) got.push(a.pop()); i++; }
       paper = paper.concat(got);
     });
     paper = shuffle(paper);
-    // điền đoạn văn: lấy nguyên đoạn, đặt cuối đề như đề thi thật
-    const pids = shuffle([...new Set(pool.filter(q => q.type === 'cloze').map(q => q.pid))]);
-    let c = 0;
-    for (const pid of pids) {
-      if (c >= want.cloze) break;
-      const qs = pool.filter(q => q.pid === pid).sort((a, b) => a.blank - b.blank);
-      paper = paper.concat(qs); c += qs.length;
+    if (types.includes('cloze')) {
+      const pids = shuffle([...new Set(pool.filter(q => q.type === 'cloze').map(q => q.pid))]);
+      let c = 0;
+      for (const pid of pids) {
+        if (c >= want.cloze) break;
+        const qs = pool.filter(q => q.pid === pid).sort((a, b) => a.blank - b.blank);
+        paper = paper.concat(qs); c += qs.length;
+      }
     }
     return paper;
   }
+  function buildPaper(units, nq) { return pickPaper(QS.filter(q => units.includes(q.unit)), nq, TYPES); }
   function examSetup() {
     stopTimer(); setKeys(null);
     const opts = '<option value="all">Cả năm (Unit ' + rng(allUnits()) + ')</option><option value="hk1">Học kì I (Unit ' + rng(GT.hk1) + ')</option><option value="hk2">Học kì II (Unit ' + rng(GT.hk2) + ')</option>' +
@@ -443,7 +459,8 @@
     };
   }
 
-  function runExam(list, minutes, label) {
+  function runExam(list, minutes, label, opt) {
+    opt = opt || {};
     const ans = new Array(list.length).fill(-1);
     let i = 0, left = minutes * 60, submitted = false;
     stopTimer();
@@ -487,12 +504,12 @@
       list.forEach((q, k) => {
         const ok = ans[k] === q.answer; if (ok) right++;
         if (ans[k] >= 0) record(q, ok);
-        const key = 'Unit ' + q.unit + ' – ' + TYPE_VI[q.type];
+        const key = (opt.combo ? 'Lớp ' + q.g + ' · ' : '') + 'Unit ' + q.unit + ' – ' + TYPE_VI[q.type];
         byUnit[key] = byUnit[key] || { n: 0, c: 0, topics: new Set() };
         byUnit[key].n++; if (ok) byUnit[key].c++; else byUnit[key].topics.add(q.topic);
       });
       const score = Math.round(100 * right / list.length) / 10;
-      S.exams.unshift({ t: Date.now(), g: G, label, n: list.length, c: right, used: minutes * 60 - left });
+      S.exams.unshift({ t: Date.now(), g: opt.combo ? 0 : G, gs: opt.combo || undefined, label, n: list.length, c: right, used: minutes * 60 - left });
       S.exams = S.exams.slice(0, 60); save();
       const weak = Object.entries(byUnit).filter(([, v]) => v.c < v.n).sort((a, b) => (a[1].c / a[1].n) - (b[1].c / b[1].n));
       h('<div class="card"><h1>Kết quả kiểm tra' + (timeout ? ' (hết giờ)' : '') + '</h1><div class="score"><span class="big' + (score < 5 ? ' low' : '') + '">' + score.toFixed(1) + '</span>' +
@@ -504,14 +521,14 @@
           const ok = ans[k] === q.answer;
           const showP = q.pid && (k === 0 || list[k - 1].pid !== q.pid);
           return '<div class="card"><div class="qhead"><b>Câu ' + (k + 1) + '</b><span class="' + (ok ? 'ok-c' : 'bad-c') + '"><b>' + (ok ? '✓ Đúng' : ans[k] < 0 ? '— Bỏ trống' : '✗ Sai') + '</b></span>' +
-            '<span class="tag ' + q.type + '">' + TYPE_VI[q.type] + '</span><span>Unit ' + q.unit + ' · ' + esc(q.topic) + '</span></div>' +
+            '<span class="tag ' + q.type + '">' + TYPE_VI[q.type] + '</span><span>Lớp ' + q.g + ' · Unit ' + q.unit + ' · ' + esc(q.topic) + '</span></div>' +
             (showP ? passageHtml(q) : '') + '<div class="qtext">' + rich(q.q) + '</div>' +
             optsHtml(q, j => j === q.answer ? 'correct' : j === ans[k] ? 'wrong' : '') +
             '<div class="feedback ' + (ok ? 'ok' : 'bad') + '"><div class="explain">' + rich(q.explain) + '</div>' + (ok ? '' : '<div class="review"><b>📖 Xem lại:</b> ' + esc(q.review) + '</div>') + '</div></div>';
         }).join('') +
         '<div class="row"><button class="btn primary" id="again">Làm đề khác</button><button class="btn" id="home">← Trang chủ</button></div>');
       app.querySelectorAll('.opt').forEach(b => b.disabled = true);
-      document.getElementById('again').onclick = examSetup;
+      document.getElementById('again').onclick = opt.combo ? comboExamSetup : examSetup;
       document.getElementById('home').onclick = home;
     }
     setKeys(e => {
@@ -521,6 +538,100 @@
       else if (e.key === 'ArrowLeft' && i) { i--; draw(); }
     });
     draw();
+  }
+
+  /* =================== TỔNG HỢP LỚP 10 – 11 – 12 =================== */
+  const COMBO_FMT = {
+    full: { name: 'Đề 40 câu – 50 phút (thời lượng như thi tốt nghiệp THPT)', n: 40, t: 50 },
+    half: { name: 'Đề rút gọn 20 câu – 25 phút', n: 20, t: 25 },
+    long: { name: 'Đề dài 60 câu – 75 phút', n: 60, t: 75 },
+    custom: { name: 'Tự chọn số câu, thời gian, dạng bài' }
+  };
+  function comboHead(t) { document.getElementById('brandTitle').textContent = 'Tiếng Anh 10 – 11 – 12 · ' + t; document.querySelectorAll('#gradeSw button').forEach(b => b.classList.remove('on')); }
+  function comboExamSetup() {
+    stopTimer(); setKeys(null); comboHead('Thi thử tổng hợp');
+    const recent = S.exams.filter(x => x.g === 0).slice(0, 5);
+    h('<h1>🎯 Thi thử tổng hợp lớp 10 – 11 – 12</h1><p class="lead">Đề rút ngẫu nhiên từ các lớp được chọn, rải đều các Unit của mọi lớp: ~25% từ vựng, 25% ngữ pháp, 15% phát âm, 10% tìm lỗi sai, 12,5% câu đồng nghĩa, 12,5% điền đoạn văn (đặt cuối đề). Nộp bài xong mới xem đáp án và giải thích; điểm thang 10.</p>' +
+      '<div class="card"><h3 style="margin-top:0">Lớp tham gia</h3><div class="chips" id="cg">' +
+      GRADES.map(g => '<button class="chip on" data-v="' + g + '">Lớp ' + g + ' <small>(' + ALLQ.filter(q => q.g === g).length + ' câu)</small></button>').join('') + '</div>' +
+      '<div class="row" style="margin-top:14px;align-items:flex-end"><label class="f" style="flex:1;min-width:0">Dạng đề<select id="fmt">' +
+      Object.entries(COMBO_FMT).map(([k, v]) => '<option value="' + k + '">' + esc(v.name) + '</option>').join('') + '</select></label></div>' +
+      '<div id="cust" hidden><h3>Dạng bài</h3>' + typeChips('ct') +
+      '<div class="row" style="margin-top:14px;align-items:flex-end"><label class="f">Số câu<select id="cn"><option>20</option><option selected>40</option><option>50</option><option>60</option><option>80</option></select></label>' +
+      '<label class="f">Thời gian (phút)<select id="cm"><option>15</option><option>30</option><option>45</option><option selected>50</option><option>60</option><option>90</option></select></label></div></div>' +
+      '<div class="row" style="margin-top:16px"><button class="btn primary" id="go">Bắt đầu làm bài</button><span class="hint" id="msg"></span></div></div>' +
+      (recent.length ? '<h2>Các lần thi tổng hợp gần đây</h2>' + examTable(recent, false) : '') +
+      '<div class="row"><button class="btn" id="back">← Trang chủ</button><button class="btn" id="st">📈 Thống kê tổng hợp</button></div>');
+    const getG = toggleChips('cg'), getT = toggleChips('ct'), fmt = document.getElementById('fmt');
+    fmt.onchange = () => { document.getElementById('cust').hidden = fmt.value !== 'custom'; };
+    document.getElementById('back').onclick = home;
+    document.getElementById('st').onclick = comboStats;
+    document.getElementById('go').onclick = () => {
+      const gs = getG().map(Number), F = COMBO_FMT[fmt.value], msg = document.getElementById('msg');
+      if (!gs.length) { msg.textContent = 'Hãy chọn ít nhất một lớp.'; return; }
+      let types = TYPES, n = F.n, t = F.t;
+      if (fmt.value === 'custom') {
+        types = getT(); n = +document.getElementById('cn').value; t = +document.getElementById('cm').value;
+        if (!types.length) { msg.textContent = 'Hãy chọn ít nhất một dạng bài.'; return; }
+      }
+      const paper = pickPaper(ALLQ.filter(q => gs.includes(q.g)), n, types);
+      if (!paper.length) { msg.textContent = 'Không có câu phù hợp.'; return; }
+      runExam(paper, t, 'Tổng hợp lớp ' + gs.join(' – ') + ' · ' + (fmt.value === 'custom' ? n + ' câu tự chọn' : F.name.split(' (')[0]), { combo: gs });
+    };
+  }
+  function examTable(list, withGrade) {
+    return '<div class="card" style="overflow-x:auto;padding:6px 8px"><table><tr><th>Thời gian</th>' + (withGrade ? '<th>Lớp</th>' : '') + '<th>Phạm vi</th><th class="r">Điểm</th><th class="r">Đúng</th><th class="r">Làm trong</th></tr>' +
+      list.map(x => '<tr><td>' + new Date(x.t).toLocaleString('vi-VN') + '</td>' + (withGrade ? '<td>' + (x.g ? 'Lớp ' + x.g : 'Tổng hợp') + '</td>' : '') + '<td>' + esc(x.label) + '</td><td class="r"><b>' +
+        (Math.round(100 * x.c / x.n) / 10).toFixed(1) + '</b></td><td class="r">' + x.c + '/' + x.n + '</td><td class="r">' + (x.used != null ? Math.floor(x.used / 60) + ':' + String(x.used % 60).padStart(2, '0') : '') + '</td></tr>').join('') + '</table></div>';
+  }
+  function comboStats() {
+    stopTimer(); setKeys(null); comboHead('Tiến độ tổng hợp');
+    const rate = qs => { let done = 0, last = 0, ok = 0, tot = 0; qs.forEach(q => { const a = S.ans[q.id]; if (a) { done++; if (a.last) last++; ok += a.c; tot += a.n; } }); return { n: qs.length, done, last, ok, tot }; };
+    const pc = x => x.tot ? pct(x.ok, x.tot) + '%' : '<span class="muted">–</span>';
+    const avg = l => l.length ? (l.reduce((s, x) => s + 10 * x.c / x.n, 0) / l.length).toFixed(1) : '–';
+    const all = rate(ALLQ), combo = S.exams.filter(x => x.g === 0);
+    const knownG = g => ALLV.filter(v => v.g === g && S.known[vkey(v)]).length;
+    const rows = GRADES.map(g => {
+      const Q = ALLQ.filter(q => q.g === g), x = rate(Q), ex = S.exams.filter(e => e.g === g);
+      return '<tr><td class="nw"><b>Lớp ' + g + '</b></td><td class="r">' + x.done + '/' + x.n + '</td><td class="r">' + pc(x) + '</td>' +
+        TYPES.map(t => '<td class="r">' + pc(rate(Q.filter(q => q.type === t))) + '</td>').join('') +
+        '<td class="r">' + knownG(g) + '/' + ALLV.filter(v => v.g === g).length + '</td><td class="r">' + ex.length + '</td><td class="r">' + avg(ex) + '</td></tr>';
+    }).join('');
+    const units = GRADES.map(g => '<details class="chapter"><summary><span class="num">Lớp ' + g + '</span>Theo Unit<span class="tap">' + rate(ALLQ.filter(q => q.g === g)).last + ' câu đang đúng</span></summary><div style="padding:8px 12px;overflow-x:auto"><table><tr><th>Unit</th><th class="r">Đang đúng</th><th class="r">Tỉ lệ đúng</th><th style="width:120px"></th></tr>' +
+      ALLU.filter(u => u.g === g).sort((a, b) => a.unit - b.unit).map(u => { const x = rate(ALLQ.filter(q => q.k === u.k)); return '<tr><td>Unit ' + u.unit + ': ' + esc(u.name) + '</td><td class="r">' + x.last + '/' + x.n + '</td><td class="r">' + pc(x) + '</td><td><div class="bar"><i style="width:' + pct(x.last, x.n) + '%"></i></div></td></tr>'; }).join('') +
+      '</table></div></details>').join('');
+    // Unit cần ôn: tỉ lệ đúng thấp nhất trong các Unit đã làm ít nhất 10 lượt
+    const weak = ALLU.map(u => ({ u, x: rate(ALLQ.filter(q => q.k === u.k)) })).filter(w => w.x.tot >= 10).sort((a, b) => a.x.ok / a.x.tot - b.x.ok / b.x.tot).slice(0, 5);
+    const hard = ALLQ.filter(q => S.ans[q.id] && S.ans[q.id].w).sort((a, b) => (S.ans[b.id].w - S.ans[b.id].c) - (S.ans[a.id].w - S.ans[a.id].c)).slice(0, 15);
+    const wrongNow = ALLQ.filter(q => S.ans[q.id] && S.ans[q.id].last === 0);
+    h('<h1>📈 Tiến độ & thống kê tổng hợp</h1><div class="stat">' +
+      '<div><b>' + all.done + '/' + all.n + '</b><span>câu đã làm (3 lớp)</span></div>' +
+      '<div><b>' + pc(all) + '</b><span>tỉ lệ đúng (mọi lượt)</span></div>' +
+      '<div><b>' + wrongNow.length + '</b><span>câu đang sai</span></div>' +
+      '<div><b>' + S.exams.length + '</b><span>lần kiểm tra / thi thử</span></div>' +
+      '<div><b>' + avg(combo) + '</b><span>điểm TB thi tổng hợp</span></div></div>' +
+      '<h2>Theo lớp</h2><div class="card" style="overflow-x:auto;padding:6px 8px"><table><tr><th>Lớp</th><th class="r">Đã làm</th><th class="r">Tỉ lệ đúng</th>' +
+      TYPES.map(t => '<th class="r">' + TYPE_VI[t] + '</th>').join('') + '<th class="r">Từ đã thuộc</th><th class="r">Lần thi</th><th class="r">Điểm TB</th></tr>' + rows + '</table></div>' +
+      units +
+      '<h2>Unit cần ôn nhất</h2>' + (weak.length ? '<div class="card" style="overflow-x:auto;padding:6px 8px"><table><tr><th>Unit</th><th class="r">Tỉ lệ đúng</th><th></th></tr>' +
+        weak.map(w => '<tr><td>Lớp ' + w.u.g + ' · Unit ' + w.u.unit + ': ' + esc(w.u.name) + '</td><td class="r">' + pc(w.x) + '</td><td class="r nw"><button class="btn sm" data-wk="' + w.u.k + '">✏️ Luyện lại</button></td></tr>').join('') + '</table></div>'
+        : '<p class="hint">Chưa đủ dữ liệu (cần làm ít nhất 10 lượt trong một Unit).</p>') +
+      '<h2>Lịch sử kiểm tra & thi thử (mọi lớp)</h2>' + (S.exams.length ? examTable(S.exams.slice(0, 30), true) : '<p class="hint">Chưa có lần thi nào.</p>') +
+      (hard.length ? '<h2>Câu hay sai nhất</h2><div class="card" style="overflow-x:auto;padding:6px 8px"><table><tr><th>Câu</th><th class="r">Sai</th><th class="r">Đúng</th></tr>' +
+        hard.map(q => '<tr><td><span class="tag ' + q.type + '">' + TYPE_VI[q.type] + '</span> <small class="muted">Lớp ' + q.g + ' · Unit ' + q.unit + '</small><br>' + rich(q.q).slice(0, 300) + '</td><td class="r">' + S.ans[q.id].w + '</td><td class="r">' + S.ans[q.id].c + '</td></tr>').join('') + '</table></div>' : '') +
+      '<div class="row" style="margin-top:18px"><button class="btn" id="back">← Trang chủ</button>' + (wrongNow.length ? '<button class="btn" id="redoW">Luyện lại ' + wrongNow.length + ' câu đang sai</button>' : '') +
+      '<button class="btn primary" id="toEx">🎯 Thi thử tổng hợp</button><span class="spacer"></span><button class="btn danger" id="reset">Xoá tiến độ cả 3 lớp</button></div>');
+    document.getElementById('back').onclick = home;
+    document.getElementById('toEx').onclick = comboExamSetup;
+    if (wrongNow.length) document.getElementById('redoW').onclick = () => runPractice(groupCloze(shuffle(wrongNow)), { units: allUnits(), types: TYPES });
+    app.querySelectorAll('[data-wk]').forEach(b => b.onclick = () => { const k = +b.dataset.wk; setGrade(Math.floor(k / 100)); startPractice({ units: [k % 100], types: TYPES, level: 0, prio: 'wrong', count: 30 }) && startPractice({ units: [k % 100], types: TYPES, level: 0, prio: 'rand', count: 30 }); });
+    document.getElementById('reset').onclick = () => {
+      if (document.getElementById('cf')) return;
+      app.insertAdjacentHTML('beforeend', '<div class="card" id="cf" style="border-color:var(--red)"><b>Xoá toàn bộ kết quả làm bài, từ đã thuộc và lịch sử thi của cả 3 lớp trên máy này?</b> ' +
+        '<button class="btn sm danger" id="yes">Xoá tất cả</button> <button class="btn sm" id="no">Huỷ</button></div>');
+      document.getElementById('yes').onclick = () => { S.ans = {}; S.known = {}; S.exams = []; save(); comboStats(); };
+      document.getElementById('no').onclick = () => document.getElementById('cf').remove();
+    };
   }
 
   /* =================== THỐNG KÊ =================== */
@@ -535,7 +646,7 @@
     }).join('');
     const hard = QS.filter(q => S.ans[q.id] && S.ans[q.id].w).sort((a, b) => S.ans[b.id].w - S.ans[a.id].w).slice(0, 10);
     const wrongNow = QS.filter(q => S.ans[q.id] && S.ans[q.id].last === 0);
-    const exams = S.exams.filter(x => !x.g || x.g === G);
+    const exams = S.exams.filter(x => x.g === G);
     h('<h1>📊 Tiến độ & thống kê – Lớp ' + G + '</h1><div class="stat">' +
       '<div><b>' + mine.length + '/' + QS.length + '</b><span>câu đã làm ít nhất 1 lần</span></div>' +
       '<div><b>' + pct(cor, tot) + '%</b><span>tỉ lệ đúng (tất cả lượt)</span></div>' +
@@ -570,6 +681,6 @@
   document.getElementById('gradeSw').onclick = e => { const b = e.target.closest('[data-g]'); if (b) { setGrade(+b.dataset.g); home(); } };
   document.getElementById('btnHome').onclick = home;
   setGrade(S.grade);
-  window.__app = { home, flashSetup, practiceSetup, examSetup, stats, vocabList, notes, runExam, startPractice, buildPaper, setGrade };
+  window.__app = { comboExamSetup, comboStats, pickPaper, home, flashSetup, practiceSetup, examSetup, stats, vocabList, notes, runExam, startPractice, buildPaper, setGrade };
   home();
 })();
